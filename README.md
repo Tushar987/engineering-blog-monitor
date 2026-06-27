@@ -115,3 +115,7 @@ open docs/index.html
 
 - **LinkedIn Engineering** and **Discord Engineering** may not expose stable RSS. If those feeds fail to parse, they show up in the run summary as "Failed feeds". Fix: replace the `feed_url` with a working one or add a small scraper.
 - RSS feeds typically expose only the latest ~10–25 posts, so the dashboard reflects recent history per blog, not full archives.
+
+---
+
+Built & maintained by **[Tushar Gupta](https://github.com/Tushar987)** — designed, scaffolded, and iterated on with [Claude Code](https://claude.com/claude-code). PRs and feed suggestions welcome.

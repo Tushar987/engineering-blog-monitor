@@ -128,3 +128,11 @@ footer {
 }
 footer a { color: var(--muted); }
 footer a:hover { color: var(--accent); }
+.credit {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--border);
+  text-align: center;
+  font-size: 0.85rem;
+}
+.credit a { font-weight: 600; }

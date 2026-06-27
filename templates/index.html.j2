@@ -59,7 +59,7 @@
   <script id="posts-data" type="application/json">{{ posts_json|safe }}</script>
   <script>
     (function () {
-      const PER_PAGE = 10;
+      const PER_PAGE = 15;
       const posts = JSON.parse(document.getElementById('posts-data').textContent);
       const postsEl = document.getElementById('posts');
       const emptyEl = document.getElementById('empty-state');

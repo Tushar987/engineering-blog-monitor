@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Engineering Blogs · Aggregated</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Engineering Blogs</h1>
+    <p class="subtitle">
+      Aggregated from {{ blog_count }} engineering blogs ·
+      {{ post_count }} posts tracked ·
+      Updated {{ last_updated }}
+    </p>
+  </header>
+
+  <section class="filters" id="filters">
+    <button class="chip active" data-blog="__all__">All</button>
+    {% for blog in blogs %}
+    <button class="chip" data-blog="{{ blog }}">{{ blog }}</button>
+    {% endfor %}
+  </section>
+
+  <main id="posts">
+    {% for post in posts %}
+    <article class="card" data-blog="{{ post.blog_name }}">
+      <div class="card-header">
+        <span class="badge">{{ post.blog_name }}</span>
+        <time>{{ post.published_display }}</time>
+      </div>
+      <h2><a href="{{ post.link }}" target="_blank" rel="noopener">{{ post.title }}</a></h2>
+      {% if post.summary %}
+      <p class="summary">{{ post.summary }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </main>
+
+  <footer>
+    <p>
+      Source feeds:
+      {% for blog in blogs %}<a href="{{ blog_sites[blog] }}" target="_blank" rel="noopener">{{ blog }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+    </p>
+  </footer>
+
+  <script>
+    const chips = document.querySelectorAll('.chip');
+    const cards = document.querySelectorAll('.card');
+    chips.forEach(chip => chip.addEventListener('click', () => {
+      chips.forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      const target = chip.dataset.blog;
+      cards.forEach(card => {
+        card.style.display = (target === '__all__' || card.dataset.blog === target) ? '' : 'none';
+      });
+    }));
+  </script>
+</body>
+</html>

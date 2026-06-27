@@ -1,0 +1,114 @@
+:root {
+  --bg: #0e1116;
+  --panel: #161b22;
+  --border: #2d333b;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --accent: #58a6ff;
+  --badge-bg: #1f6feb33;
+  --badge-text: #79c0ff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  padding: 2rem 1.5rem 1rem;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+h1 { margin: 0 0 0.25rem; font-size: 1.75rem; }
+.subtitle { margin: 0; color: var(--muted); font-size: 0.9rem; }
+
+.filters {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.chip {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.chip:hover { border-color: var(--accent); }
+.chip.active { background: var(--accent); border-color: var(--accent); color: #0d1117; font-weight: 600; }
+
+main {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.badge {
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  padding: 0.15rem 0.55rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.card-header time { color: var(--muted); }
+
+.card h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.card h2 a {
+  color: var(--text);
+  text-decoration: none;
+}
+.card h2 a:hover { color: var(--accent); text-decoration: underline; }
+
+.summary {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+footer {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  border-top: 1px solid var(--border);
+  margin-top: 2rem;
+}
+footer a { color: var(--muted); }
+footer a:hover { color: var(--accent); }

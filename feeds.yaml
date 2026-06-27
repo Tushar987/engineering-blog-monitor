@@ -1,0 +1,76 @@
+# Engineering blogs curated from the LinkedIn post by Aashish Gupta.
+# `feed_url` is the candidate RSS/Atom URL; monitor.py will log feeds it cannot parse.
+- name: Netflix Tech Blog
+  site_url: https://netflixtechblog.com
+  feed_url: https://netflixtechblog.com/feed
+  tagline: How to build systems that serve 300M+ users without breaking. Chaos engineering, microservices, and video streaming architecture.
+
+- name: Uber Engineering
+  site_url: https://www.uber.com/blog/engineering/
+  feed_url: https://www.uber.com/en-US/blog/engineering/rss/
+  tagline: Real-time geolocation, and how to handle millions of concurrent rides.
+
+- name: Cloudflare Blog
+  site_url: https://blog.cloudflare.com
+  feed_url: https://blog.cloudflare.com/rss/
+  tagline: How the internet actually works — DNS, DDoS mitigation, and networking internals.
+
+- name: Stripe Engineering
+  site_url: https://stripe.com/blog/engineering
+  feed_url: https://stripe.com/blog/feed.rss
+  tagline: API design, financial system reliability, and how to handle payments at scale.
+
+- name: Meta Engineering
+  site_url: https://engineering.fb.com
+  feed_url: https://engineering.fb.com/feed/
+  tagline: Social graph design, and how Facebook built tools the whole industry now uses — PyTorch, GraphQL, RocksDB.
+
+- name: Airbnb Engineering
+  site_url: https://medium.com/airbnb-engineering
+  feed_url: https://medium.com/feed/airbnb-engineering
+  tagline: Search ranking, trust & safety, data infrastructure, and how to build a two-sided marketplace product.
+
+- name: AWS Architecture Blog
+  site_url: https://aws.amazon.com/blogs/architecture/
+  feed_url: https://aws.amazon.com/blogs/architecture/feed/
+  tagline: Real-world cloud architecture patterns, and how top companies structure their AWS infrastructure.
+
+- name: Google Developers Blog
+  site_url: https://developers.googleblog.com
+  feed_url: https://developers.googleblog.com/feeds/posts/default?alt=rss
+  tagline: Web platform advancements, and how Google ships developer products used by millions.
+
+- name: ByteByteGo
+  site_url: https://blog.bytebytego.com
+  feed_url: https://blog.bytebytego.com/feed
+  tagline: System design concepts broken down visually. Great for interview prep.
+
+- name: High Scalability
+  site_url: https://highscalability.com
+  feed_url: https://highscalability.com/rss/
+  tagline: Behind-the-scenes architecture breakdowns of YouTube, Twitter, WhatsApp. A living archive of how scale is actually achieved.
+
+- name: Martin Fowler
+  site_url: https://martinfowler.com
+  feed_url: https://martinfowler.com/feed.atom
+  tagline: Software architecture, microservices, domain-driven design, and patterns that outlast any framework trend.
+
+- name: LinkedIn Engineering
+  site_url: https://www.linkedin.com/blog/engineering
+  feed_url: https://www.linkedin.com/blog/engineering/rss.xml
+  tagline: Data streaming, feed ranking, graph databases, and how to build professional networks at scale.
+
+- name: Discord Engineering
+  site_url: https://discord.com/category/engineering
+  feed_url: https://discord.com/blog/rss.xml
+  tagline: Real-time messaging, WebSockets at scale, and handling millions of concurrent voice calls.
+
+- name: Shopify Engineering
+  site_url: https://shopify.engineering
+  feed_url: https://shopify.engineering/blog.atom
+  tagline: Ruby on Rails at scale, handling Black Friday traffic spikes, and how merchant infrastructure handles billions.
+
+- name: Slack Engineering
+  site_url: https://slack.engineering
+  feed_url: https://slack.engineering/feed/
+  tagline: WebSocket architecture, search at scale, and how to build a product used by Fortune 500s.

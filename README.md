@@ -2,6 +2,14 @@
 
 Daily poller for 15 top engineering blogs (Netflix, Uber, Cloudflare, Stripe, Meta, Airbnb, AWS, Google, ByteByteGo, High Scalability, Martin Fowler, LinkedIn, Discord, Shopify, Slack) — sends one Discord message per new post and publishes an aggregated dashboard to GitHub Pages.
 
+## 📰 Live dashboard
+
+The aggregated blog feed is hosted on GitHub Pages from this repository:
+
+**👉 https://tushar987.github.io/engineering-blog-monitor/**
+
+It updates daily from the `/docs` folder on `main` whenever the workflow finds new posts.
+
 ## How it works
 
 ```

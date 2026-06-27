@@ -26,9 +26,14 @@ def render(posts_path: Path, feeds_path: Path, output_path: Path = OUTPUT) -> No
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=select_autoescape(["html"]),
     )
+    # Embed posts as a JSON string the client JS parses.
+    # `</script>` inside JSON would break the surrounding <script> tag, so escape it.
+    posts_json = json.dumps(posts, ensure_ascii=False).replace("</", "<\\/")
+
     template = env.get_template("index.html.j2")
     html = template.render(
         posts=posts,
+        posts_json=posts_json,
         blogs=blogs,
         blog_sites=blog_sites,
         blog_count=len(blogs),

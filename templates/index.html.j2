@@ -11,13 +11,19 @@
     <h1>Engineering Blogs</h1>
     <p class="subtitle">
       Aggregated from {{ blog_count }} engineering blogs ·
-      {{ post_count }} posts tracked ·
+      <span id="visible-count">{{ post_count }}</span> posts ·
       Updated {{ last_updated }}
     </p>
-    <p class="discord-cta">
-      💬 Get a Discord ping for every new post —
-      <a href="https://discord.gg/xNW33RRhrq" target="_blank" rel="noopener">join the public channel</a>.
-    </p>
+    <a class="discord-cta" href="https://discord.gg/xNW33RRhrq" target="_blank" rel="noopener" aria-label="Join the Discord channel">
+      <svg class="discord-cta__icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M20.317 4.369A19.79 19.79 0 0 0 16.558 3.2a.075.075 0 0 0-.079.037c-.34.61-.719 1.405-.984 2.029a18.27 18.27 0 0 0-5.487 0 12.638 12.638 0 0 0-.998-2.029.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 5.171 4.37a.07.07 0 0 0-.032.027C2.36 8.566 1.596 12.66 1.972 16.703a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.077.077 0 0 0 .084-.028 14.2 14.2 0 0 0 1.226-1.994.076.076 0 0 0-.041-.105 13.1 13.1 0 0 1-1.872-.892.077.077 0 0 1-.008-.128c.126-.094.252-.192.372-.291a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.009c.12.099.246.198.373.292a.077.077 0 0 1-.006.128 12.3 12.3 0 0 1-1.873.891.077.077 0 0 0-.04.106c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.84 19.84 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-4.687-.838-8.747-3.549-12.354a.061.061 0 0 0-.031-.03zM8.02 14.331c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.094 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.974 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.094 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
+      </svg>
+      <div class="discord-cta__text">
+        <span class="discord-cta__title">Get notified the moment a new post drops</span>
+        <span class="discord-cta__subtitle">Public Discord channel · one ping per blog · no spam</span>
+      </div>
+      <span class="discord-cta__button">Join channel →</span>
+    </a>
   </header>
 
   <section class="filters" id="filters">
@@ -27,20 +33,13 @@
     {% endfor %}
   </section>
 
-  <main id="posts">
-    {% for post in posts %}
-    <article class="card" data-blog="{{ post.blog_name }}">
-      <div class="card-header">
-        <span class="badge">{{ post.blog_name }}</span>
-        <time>{{ post.published_display }}</time>
-      </div>
-      <h2><a href="{{ post.link }}" target="_blank" rel="noopener">{{ post.title }}</a></h2>
-      {% if post.summary %}
-      <p class="summary">{{ post.summary }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
-  </main>
+  <nav class="pagination" id="pagination-top" aria-label="Pagination (top)"></nav>
+
+  <main id="posts" aria-live="polite"></main>
+
+  <p id="empty-state" class="empty" hidden>No posts to show for this filter.</p>
+
+  <nav class="pagination" id="pagination-bottom" aria-label="Pagination (bottom)"></nav>
 
   <footer>
     <p>
@@ -57,17 +56,111 @@
     </p>
   </footer>
 
+  <script id="posts-data" type="application/json">{{ posts_json|safe }}</script>
   <script>
-    const chips = document.querySelectorAll('.chip');
-    const cards = document.querySelectorAll('.card');
-    chips.forEach(chip => chip.addEventListener('click', () => {
-      chips.forEach(c => c.classList.remove('active'));
-      chip.classList.add('active');
-      const target = chip.dataset.blog;
-      cards.forEach(card => {
-        card.style.display = (target === '__all__' || card.dataset.blog === target) ? '' : 'none';
-      });
-    }));
+    (function () {
+      const PER_PAGE = 10;
+      const posts = JSON.parse(document.getElementById('posts-data').textContent);
+      const postsEl = document.getElementById('posts');
+      const emptyEl = document.getElementById('empty-state');
+      const visibleCountEl = document.getElementById('visible-count');
+      const pagTop = document.getElementById('pagination-top');
+      const pagBot = document.getElementById('pagination-bottom');
+      const chips = document.querySelectorAll('.chip');
+
+      let activeBlog = '__all__';
+      let currentPage = 1;
+
+      // assign a stable color slot per blog so cards get a consistent accent stripe
+      const blogs = Array.from(new Set(posts.map(p => p.blog_name)));
+      const blogColors = {};
+      const palette = ['#7aa2f7','#bb9af7','#9ece6a','#e0af68','#f7768e','#7dcfff','#c0caf5','#73daca','#ff9e64','#b4a0e5','#a3b8d8','#9ab8e6','#cba6dc','#a8d4a0','#e6b896'];
+      blogs.forEach((b, i) => { blogColors[b] = palette[i % palette.length]; });
+
+      function escapeHtml(s) {
+        return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      }
+
+      function filtered() {
+        return activeBlog === '__all__' ? posts : posts.filter(p => p.blog_name === activeBlog);
+      }
+
+      function cardHTML(p) {
+        const color = blogColors[p.blog_name] || '#58a6ff';
+        const summary = p.summary ? `<p class="summary">${escapeHtml(p.summary)}</p>` : '';
+        return `
+          <article class="card" style="--accent-color:${color}">
+            <div class="card-header">
+              <span class="badge" style="background:${color}1a;color:${color};border:1px solid ${color}33">${escapeHtml(p.blog_name)}</span>
+              <time>${escapeHtml(p.published_display)}</time>
+            </div>
+            <h2><a href="${escapeHtml(p.link)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a></h2>
+            ${summary}
+          </article>
+        `;
+      }
+
+      function paginationHTML(totalPages) {
+        if (totalPages <= 1) return '';
+        const buttons = [];
+        const window = 1; // page numbers around current
+        const range = new Set([1, totalPages, currentPage - window, currentPage, currentPage + window]);
+        for (let i = currentPage - window; i <= currentPage + window; i++) {
+          if (i >= 1 && i <= totalPages) range.add(i);
+        }
+        const sorted = Array.from(range).filter(n => n >= 1 && n <= totalPages).sort((a, b) => a - b);
+
+        buttons.push(`<button class="pag-btn pag-nav" data-page="${currentPage - 1}" ${currentPage === 1 ? 'disabled' : ''} aria-label="Previous page">← Prev</button>`);
+        let prev = 0;
+        for (const n of sorted) {
+          if (n - prev > 1) buttons.push(`<span class="pag-ellipsis">…</span>`);
+          buttons.push(`<button class="pag-btn pag-num ${n === currentPage ? 'active' : ''}" data-page="${n}" aria-label="Page ${n}" ${n === currentPage ? 'aria-current="page"' : ''}>${n}</button>`);
+          prev = n;
+        }
+        buttons.push(`<button class="pag-btn pag-nav" data-page="${currentPage + 1}" ${currentPage === totalPages ? 'disabled' : ''} aria-label="Next page">Next →</button>`);
+        return buttons.join('');
+      }
+
+      function render() {
+        const items = filtered();
+        const totalPages = Math.max(1, Math.ceil(items.length / PER_PAGE));
+        if (currentPage > totalPages) currentPage = totalPages;
+        const start = (currentPage - 1) * PER_PAGE;
+        const slice = items.slice(start, start + PER_PAGE);
+
+        postsEl.innerHTML = slice.map(cardHTML).join('');
+        emptyEl.hidden = items.length !== 0;
+        visibleCountEl.textContent = items.length;
+
+        const pagHTML = paginationHTML(totalPages);
+        pagTop.innerHTML = pagHTML;
+        pagBot.innerHTML = pagHTML;
+        bindPagination();
+      }
+
+      function bindPagination() {
+        document.querySelectorAll('.pag-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const target = parseInt(btn.dataset.page, 10);
+            if (!Number.isFinite(target) || btn.disabled) return;
+            currentPage = target;
+            render();
+            // scroll posts into view when paginating (smooth)
+            document.getElementById('posts').scrollIntoView({behavior: 'smooth', block: 'start'});
+          });
+        });
+      }
+
+      chips.forEach(chip => chip.addEventListener('click', () => {
+        chips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        activeBlog = chip.dataset.blog;
+        currentPage = 1;
+        render();
+      }));
+
+      render();
+    })();
   </script>
 </body>
 </html>

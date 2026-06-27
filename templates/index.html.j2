@@ -11,7 +11,7 @@
     <h1>Engineering Blogs</h1>
     <p class="subtitle">
       Aggregated from {{ blog_count }} engineering blogs ·
-      <span id="visible-count">{{ post_count }}</span> posts ·
+      <span id="post-count">{{ post_count }} posts</span> ·
       Updated {{ last_updated }}
     </p>
     <a class="discord-cta" href="https://discord.gg/xNW33RRhrq" target="_blank" rel="noopener" aria-label="Join the Discord channel">
@@ -63,7 +63,8 @@
       const posts = JSON.parse(document.getElementById('posts-data').textContent);
       const postsEl = document.getElementById('posts');
       const emptyEl = document.getElementById('empty-state');
-      const visibleCountEl = document.getElementById('visible-count');
+      const postCountEl = document.getElementById('post-count');
+      const totalPosts = posts.length;
       const pagTop = document.getElementById('pagination-top');
       const pagBot = document.getElementById('pagination-bottom');
       const chips = document.querySelectorAll('.chip');
@@ -130,7 +131,9 @@
 
         postsEl.innerHTML = slice.map(cardHTML).join('');
         emptyEl.hidden = items.length !== 0;
-        visibleCountEl.textContent = items.length;
+        postCountEl.textContent = activeBlog === '__all__'
+          ? `${totalPosts} posts`
+          : `${items.length} of ${totalPosts} posts`;
 
         const pagHTML = paginationHTML(totalPages);
         pagTop.innerHTML = pagHTML;

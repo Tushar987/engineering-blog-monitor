@@ -11,8 +11,8 @@
     <h1>Engineering Blogs</h1>
     <p class="subtitle">
       Aggregated from 15 engineering blogs ·
-      <span id="visible-count">272</span> posts ·
-      Updated 2026-06-27 20:19 UTC
+      <span id="post-count">272 posts</span> ·
+      Updated 2026-06-27 20:37 UTC
     </p>
     <a class="discord-cta" href="https://discord.gg/xNW33RRhrq" target="_blank" rel="noopener" aria-label="Join the Discord channel">
       <svg class="discord-cta__icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
@@ -91,7 +91,8 @@
       const posts = JSON.parse(document.getElementById('posts-data').textContent);
       const postsEl = document.getElementById('posts');
       const emptyEl = document.getElementById('empty-state');
-      const visibleCountEl = document.getElementById('visible-count');
+      const postCountEl = document.getElementById('post-count');
+      const totalPosts = posts.length;
       const pagTop = document.getElementById('pagination-top');
       const pagBot = document.getElementById('pagination-bottom');
       const chips = document.querySelectorAll('.chip');
@@ -158,7 +159,9 @@
 
         postsEl.innerHTML = slice.map(cardHTML).join('');
         emptyEl.hidden = items.length !== 0;
-        visibleCountEl.textContent = items.length;
+        postCountEl.textContent = activeBlog === '__all__'
+          ? `${totalPosts} posts`
+          : `${items.length} of ${totalPosts} posts`;
 
         const pagHTML = paginationHTML(totalPages);
         pagTop.innerHTML = pagHTML;

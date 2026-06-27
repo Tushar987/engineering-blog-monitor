@@ -10,6 +10,14 @@ The aggregated blog feed is hosted on GitHub Pages from this repository:
 
 It updates daily from the `/docs` folder on `main` whenever the workflow finds new posts.
 
+## 💬 Get the Discord notifications
+
+Every new post triggers a Discord embed in a public channel — join to get pinged whenever one of the 15 engineering blogs publishes:
+
+**👉 https://discord.gg/xNW33RRhrq**
+
+(Make sure server notifications are set to **All Messages** if you want every post.)
+
 ## How it works
 
 ```

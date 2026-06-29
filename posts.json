@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "blog_name": "ByteByteGo",
+    "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
+    "link": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "summary": "In this article, we will try to understand how that architecture gets built, from the constraint that forces it to exist all the way to the tradeoffs that follow.",
+    "published_iso": "2026-06-29T15:31:24+00:00",
+    "published_display": "2026-06-29",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/77146fba8a08",
+    "blog_name": "Netflix Tech Blog",
+    "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+    "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+    "summary": "Authors: Lequn Wang , J iangwei Pan , and Linas Baltrunas Figure 1. Autoregressive homepage generation. GenPage builds a Netflix homepage one row or entity at a time, each one conditioned on what’s already on the page and the user’s context. Introduction The Netflix homepage is the first thing users see when they open the app and the primary way they discover content to enjoy. Almost every part of it is personalized, including which rows appear, which entities show up within those rows, and how ",
+    "published_iso": "2026-06-29T13:01:02+00:00",
+    "published_display": "2026-06-29",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
     "blog_name": "ByteByteGo",
     "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
@@ -266,16 +286,6 @@
     "link": "https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4",
     "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva &amp; Nathan Fisher How we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world. The Puzzle with a Thousand Pieces Picture this: It’s 3am, and an engineer gets paged. One of our critical services is showing elevated error rates. Members trying to watch their favorite films and series are seeing degrad",
     "published_iso": "2026-06-19T23:52:02+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/60d7e4244ea8",
-    "blog_name": "Netflix Tech Blog",
-    "title": "VMAF v1: Good Is Not Good Enough",
-    "link": "https://netflixtechblog.com/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss----2615bd06b42e---4",
-    "summary": "By Christos G. Bampis , Zhi Li , Kyle Swanson, Nil Fons Miret and Pavan Madhusudanarao Will this encode look good to Netflix members? Does switching to a new codec improve quality at the same bitrate and by how much? What is the best way to encode a movie title given a target bitrate budget? For years, VMAF has reliably helped us answer those questions and deliver an optimized quality of experience to our members. But good is not good enough . If VMAF misjudges quality, that may lead to loss of ",
-    "published_iso": "2026-06-19T23:50:05+00:00",
     "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
   },
@@ -848,16 +858,6 @@
     "published_iso": "2026-06-01T16:16:45+00:00",
     "published_display": "2026-06-01",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system",
-    "blog_name": "ByteByteGo",
-    "title": "How DoorDash Built a Testing System to Evaluate LLMs",
-    "link": "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system",
-    "summary": "In this article, we will learn how they built this flywheel and the key takeaways.",
-    "published_iso": "2026-05-30T15:30:52+00:00",
-    "published_display": "2026-05-30",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://slack.engineering/?p=17812",

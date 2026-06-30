@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "blog_name": "ByteByteGo",
+    "title": "Inside Thinking Machines’ Interaction Models",
+    "link": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "summary": "In this article, we will look at what the research preview covers and the concept of an interaction model proposed by Thinking Machines.",
+    "published_iso": "2026-06-30T15:31:34+00:00",
+    "published_display": "2026-06-30",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Lessons learned from scaling to 1 million Lambda functions",
+    "link": "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/",
+    "summary": "In this post, we share our journey and the lessons learned from building and running a fully serverless, multi-account software as a service (SaaS) platform at scale. We’ll explore why true scale-to-zero is critical, how we handle quota management, why engaging AWS service teams early saved us from outages, and which unexpected practices emerged once we scaled from thousands to over a million functions.",
+    "published_iso": "2026-06-29T17:21:05+00:00",
+    "published_display": "2026-06-29",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "911455f3ceec06dfe1daa980d11ff3d1dd9dad0f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Preventing data exfiltration in machine learning environments with Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/",
+    "summary": "In this post, we demonstrate how iBusiness implemented a three-layered security architecture using Amazon SageMaker AI, virtual private cloud (VPC) endpoints, and Amazon WorkSpaces Secure Browser to prevent data exfiltration while maintaining data scientist productivity. You can adapt this approach to build secure machine learning environments that balance strict data protection with team scalability.",
+    "published_iso": "2026-06-29T17:16:48+00:00",
+    "published_display": "2026-06-29",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "724ed00b59475c0e4625e6635fc2bac52720a8cc",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Dual-token authentication for Nakama game servers with Amazon Cognito on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/",
+    "summary": "In this post, you learn how to configure an Amazon Cognito User Pool for SRP-based game client authentication with no client secret. You will implement a Go runtime hook that validates Cognito JWTs and bridges player identity to Nakama sessions.",
+    "published_iso": "2026-06-29T17:09:54+00:00",
+    "published_display": "2026-06-29",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
     "blog_name": "ByteByteGo",
     "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
@@ -800,16 +840,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "https://blog.bytebytego.com/p/a-practical-guide-to-becoming-an",
-    "blog_name": "ByteByteGo",
-    "title": "A Practical Guide to Becoming an AI-Native Engineer",
-    "link": "https://blog.bytebytego.com/p/a-practical-guide-to-becoming-an",
-    "summary": "This piece is a working guide for engineers who want to land on the productive side of that split.",
-    "published_iso": "2026-06-02T14:31:47+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "2dbd4af1c59c375d61cdd55125ed6cda4c0097be",
     "blog_name": "AWS Architecture Blog",
     "title": "Automating contract intelligence with Doczy.ai™ on AWS",
@@ -1130,16 +1160,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "251a03f62c01f626399d3ecca574a3289e0a90e6",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Choosing between single or multiple organizations in AWS Organizations",
-    "link": "https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations/",
-    "summary": "Organizations face critical architectural decisions that can impact their operations for years to come such as: Is it better to maintain a single organization or implement multiple organizations? In this post, I explain the key advantages and disadvantages of both approaches and the scenarios where each model fits best.",
-    "published_iso": "2026-05-11T18:56:38+00:00",
-    "published_display": "2026-05-11",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=23959",
     "blog_name": "Meta Engineering",
     "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
@@ -1300,16 +1320,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "b97fe896152b27bfe94f013a8620852e0ec1e644",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster",
-    "link": "https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/",
-    "summary": "In this post, we explore how Deloitte used Amazon EKS and vCluster to transform their testing infrastructure.",
-    "published_iso": "2026-04-27T17:47:34+00:00",
-    "published_display": "2026-04-27",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
     "blog_name": "Discord Engineering",
     "title": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
@@ -1318,16 +1328,6 @@
     "published_iso": "2026-04-24T00:00:00+00:00",
     "published_display": "2026-04-24",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "d4d29b07b87e5cdd51a7c5bca643edfbbf406283",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
-    "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/",
-    "summary": "This post extends IBM's approach to real-time KYC validation using generative AI, as previously discussed in the post IBM Digital KYC on AWS uses Generative AI to transform Client Onboarding and KYC Operations. It transforms compliance operations through autonomous decision-making and intelligent automation using agentic AI, event-driven architecture, and AWS serverless services. The solution addresses the fundamental limitations of traditional rule-based systems. It provides autonomous decision",
-    "published_iso": "2026-04-23T13:20:43+00:00",
-    "published_display": "2026-04-23",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/26a01a6e7017",

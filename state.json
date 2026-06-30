@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
+    "911455f3ceec06dfe1daa980d11ff3d1dd9dad0f",
+    "724ed00b59475c0e4625e6635fc2bac52720a8cc",
     "f826346cb1296d1306eca3a35547d4c1936b93cf",
     "7b74f2ea3ba81a144eb3a6b7539e7cecb9b1b513",
     "98ef5bb1305a4795ddca9c7137daee688de7bc69",
@@ -22,6 +25,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
     "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
     "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
     "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",

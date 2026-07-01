@@ -25,6 +25,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
     "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
     "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
     "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
@@ -49,6 +50,11 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "6dNg0U03j4cnbacP8txDok",
+    "3qEwyKxigFNDK4JTlPfl8A",
+    "YqZRSH26JlDBUNvwASOr2",
+    "FWKHybUFEZFSsFCrbEwAd",
+    "3wrqj94tEFsKCZ8OBUE52R",
     "6BmERiKIIt4pIJoFmNy7Jn",
     "77AgsHNNnpUDvP0Z6gqgp6",
     "6ecffq4Al52D0ka1U4p2OR",
@@ -71,8 +77,10 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+    "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+    "https://developers.googleblog.com/measuring-what-matters-with-jules/",
     "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
     "https://developers.googleblog.com/a2ui-and-mcp-apps/",
     "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
@@ -93,6 +101,8 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
+    "https://discord.com/blog/cost-attribution-in-discords-api",
     "https://discord.com/blog/discord-update-june-25-2026-changelog",
     "https://discord.com/blog/how-to-manage-your-discord-desktop-notifications",
     "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers",
@@ -195,6 +205,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24128",
     "https://engineering.fb.com/?p=24095",
     "https://engineering.fb.com/?p=24113",
     "https://engineering.fb.com/?p=24054",

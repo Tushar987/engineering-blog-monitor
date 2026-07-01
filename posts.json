@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "blog_name": "ByteByteGo",
+    "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users",
+    "link": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "summary": "In this article, we will look at the entire journey in detail and challenges the OpenAI engineering team faced.",
+    "published_iso": "2026-07-01T15:31:13+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "6dNg0U03j4cnbacP8txDok",
+    "blog_name": "Cloudflare Blog",
+    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+    "link": "https://blog.cloudflare.com/monetization-gateway/",
+    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stack of your own to build.",
+    "published_iso": "2026-07-01T13:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "3qEwyKxigFNDK4JTlPfl8A",
+    "blog_name": "Cloudflare Blog",
+    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
+    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new infrastructure required to support a sustainable web economy.",
+    "published_iso": "2026-07-01T13:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "YqZRSH26JlDBUNvwASOr2",
+    "blog_name": "Cloudflare Blog",
+    "title": "Making AI search smarter",
+    "link": "https://blog.cloudflare.com/making-ai-search-smarter/",
+    "summary": "Search is how we find nearly everything on the web — creators, merchants, answers. AI is rewriting the rules, leaving creators caught between staying discoverable in an agentic era and getting paid for their work. Today we're launching two initiatives to help.",
+    "published_iso": "2026-07-01T13:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "FWKHybUFEZFSsFCrbEwAd",
+    "blog_name": "Cloudflare Blog",
+    "title": "Your site, your rules: new AI traffic options for all customers",
+    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.",
+    "published_iso": "2026-07-01T13:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "3wrqj94tEFsKCZ8OBUE52R",
+    "blog_name": "Cloudflare Blog",
+    "title": "Unmasking the crawls with Attribution Business Insights",
+    "link": "https://blog.cloudflare.com/attribution-business-insights/",
+    "summary": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
+    "published_iso": "2026-07-01T06:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24128",
+    "blog_name": "Meta Engineering",
+    "title": "10 Years of Meta’s Commitment to Python",
+    "link": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
+    "summary": "This year marks Meta&#8217;s 10th consecutive year as a sponsor of the Python Software Foundation (PSF), the charitable organization dedicated to advancing, supporting, and protecting the open-source Python programming language and the community that sustains it. Python is one of the world&#8217;s most influential programming languages, and we use it across our engineering stack, from [...] Read More... The post 10 Years of Meta’s Commitment to Python appeared first on Engineering at Meta .",
+    "published_iso": "2026-06-30T16:00:46+00:00",
+    "published_display": "2026-06-30",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
     "blog_name": "ByteByteGo",
     "title": "Inside Thinking Machines’ Interaction Models",
@@ -8,6 +78,26 @@
     "published_iso": "2026-06-30T15:31:34+00:00",
     "published_display": "2026-06-30",
     "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
+    "blog_name": "Discord Engineering",
+    "title": "Discord is Now on Meta Quest: Reach Out to Your Servers While in VR",
+    "link": "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
+    "summary": "Starting today, Discord is now available to download directly from Meta’s Horizon App Store. No more sideloading. No more using the web app. Grab it using the link in this blog, or at discord.com/download.",
+    "published_iso": "2026-06-30T00:00:00+00:00",
+    "published_display": "2026-06-30",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://discord.com/blog/cost-attribution-in-discords-api",
+    "blog_name": "Discord Engineering",
+    "title": "Cost Attribution in Discord’s API",
+    "link": "https://discord.com/blog/cost-attribution-in-discords-api",
+    "summary": "Discord's API spans 1700+ endpoints across hundreds of Kubernetes deployments. The challenge: tracking per-feature hosting costs without restructuring. Jim Benton helps explain how Discord tackled the situation.",
+    "published_iso": "2026-06-30T00:00:00+00:00",
+    "published_display": "2026-06-30",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
@@ -74,7 +164,7 @@
     "blog_name": "Meta Engineering",
     "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
     "link": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
-    "summary": "Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named &#8220;age&#8220;: In one context, it might [...] Read More... The post Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study appeared fir",
+    "summary": "&#160; Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named &#8220;age&#8220;: In one context, it [...] Read More... The post Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study appeared fi",
     "published_iso": "2026-06-25T22:30:51+00:00",
     "published_display": "2026-06-25",
     "feed_url": "https://engineering.fb.com/feed/"
@@ -690,16 +780,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "7oyaTqoAEONU38GUoFIdOa",
-    "blog_name": "Cloudflare Blog",
-    "title": "Your AI bill is out of control. Cloudflare can fix it now.",
-    "link": "https://blog.cloudflare.com/ai-gateway-spend-limits/",
-    "summary": "AI Gateway now features real-time spend limits to prevent runaway token bills across multiple AI providers. By integrating with Cloudflare Access, companies can use identity-driven budgets and policies.",
-    "published_iso": "2026-06-05T13:00:00+00:00",
-    "published_display": "2026-06-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://medium.com/p/b7e00c152068",
     "blog_name": "Airbnb Engineering",
     "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
@@ -718,16 +798,6 @@
     "published_iso": "2026-06-04T15:31:29+00:00",
     "published_display": "2026-06-04",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "1laDOhrU8AchkELZi1AHGz",
-    "blog_name": "Cloudflare Blog",
-    "title": "VoidZero is joining Cloudflare",
-    "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "summary": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.",
-    "published_iso": "2026-06-04T12:59:00+00:00",
-    "published_display": "2026-06-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue",
@@ -790,16 +860,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "3DirDATXQ2gKSrJoeWtdTd",
-    "blog_name": "Cloudflare Blog",
-    "title": "Enforcing the First AS in BGP AS_PATHs",
-    "link": "https://blog.cloudflare.com/enforce-first-as-bgp/",
-    "summary": "BGP is vulnerable to routing hijacks and path leaks that negatively impact traffic on the Internet. RPKI helps solve some of these problems, but for some forged paths, we need to rely on a simpler mechanism: First AS enforcement in BGP.",
-    "published_iso": "2026-06-03T17:00:00+00:00",
-    "published_display": "2026-06-03",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "be02f2ab90e06f3b8d3fbf798600258a5d768cbc",
     "blog_name": "AWS Architecture Blog",
     "title": "Building highly available Oracle databases with Amazon FSx for NetApp ONTAP",
@@ -808,16 +868,6 @@
     "published_iso": "2026-06-03T15:51:22+00:00",
     "published_display": "2026-06-03",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-openai-built-its-data-agent",
-    "blog_name": "ByteByteGo",
-    "title": "How OpenAI Built Its Data Agent",
-    "link": "https://blog.bytebytego.com/p/how-openai-built-its-data-agent",
-    "summary": "The hardest part of data analysis isn&#8217;t writing SQL. It&#8217;s finding the right tables to use in the first place and understanding semantically how to use data.",
-    "published_iso": "2026-06-03T14:50:27+00:00",
-    "published_display": "2026-06-03",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program",
@@ -870,16 +920,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "14SzggagKjSpBr8SZxHcYL",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we reduced core unit boot time from hours to minutes",
-    "link": "https://blog.cloudflare.com/optimizing-core-unit-boot-time/",
-    "summary": "We investigated why firmware updates were causing our core servers to take four hours to reboot. By diving into UEFI data structures and iPXE automation, we eliminated unnecessary timeouts and cut boot times back down to minutes.",
-    "published_iso": "2026-06-01T16:53:39+00:00",
-    "published_display": "2026-06-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "4e2b6934017db79172113b78906285244b227b31",
     "blog_name": "AWS Architecture Blog",
     "title": "Building a scalable user search layer on top of Amazon Cognito",
@@ -898,16 +938,6 @@
     "published_iso": "2026-05-28T14:15:20+00:00",
     "published_display": "2026-05-28",
     "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "5kM0Nfgzw6beOD5mSzIqw4",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we built Cloudflare's data platform and an AI agent on top of it",
-    "link": "https://blog.cloudflare.com/our-unified-data-platform/",
-    "summary": "Here’s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
-    "published_iso": "2026-05-28T13:00:00+00:00",
-    "published_display": "2026-05-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://stripe.com/blog/top-solo-founder-traits",
@@ -1268,16 +1298,6 @@
     "published_iso": "2026-05-04T00:00:00+00:00",
     "published_display": "2026-05-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=23929",
-    "blog_name": "Meta Engineering",
-    "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
-    "link": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
-    "summary": "The HSM-based Backup Key Vault Meta&#8217;s HSM-based Backup Key Vault provides the foundation for end-to-end encrypted backups for WhatsApp and Messenger. The system allows people to protect their backed-up message history with a recovery code, ensuring that the recovery code is stored in tamper-resistant hardware security modules (HSMs) and is inaccessible to Meta, cloud storage [...] Read More... The post How Meta Is Strengthening End-to-End Encrypted Backups appeared first on Engineering at ",
-    "published_iso": "2026-05-01T16:00:58+00:00",
-    "published_display": "2026-05-01",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-04-29.html",
@@ -2350,26 +2370,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://discord.com/blog/the-game-developer-playbook-three-incredible-game-focused-communities",
-    "blog_name": "Discord Engineering",
-    "title": "The Game Developer Playbook: Three Incredible Game-Focused Communities",
-    "link": "https://discord.com/blog/the-game-developer-playbook-three-incredible-game-focused-communities",
-    "summary": "In this segment of our GameDev Playbook, we'll look at three communities that represent what we consider best-in-class server setups.",
-    "published_iso": "2025-03-15T00:00:00+00:00",
-    "published_display": "2025-03-15",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif",
-    "blog_name": "Discord Engineering",
-    "title": "Modern Image Formats at Discord: Supporting WebP and AVIF",
-    "link": "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif",
-    "summary": "Recently Discord's Media Infrastructure team has modernized the app's image pipeline by adding support for animated WebP and AVIF formats! Join Scott Kidder as he explains how the team implemented support for these newer image formats.",
-    "published_iso": "2025-03-12T00:00:00+00:00",
-    "published_display": "2025-03-12",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
     "id": "663c0f44a2fcdf0001bab86c",
     "blog_name": "High Scalability",
     "title": "Kafka 101",
@@ -2520,11 +2520,21 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
-    "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+    "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "blog_name": "Google Developers Blog",
-    "title": "Measuring What Matters with Jules",
-    "link": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
-    "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+    "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenar",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/announcing-adk-go-20/",
+    "blog_name": "Google Developers Blog",
+    "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
+    "link": "https://developers.googleblog.com/announcing-adk-go-20/",
+    "summary": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemet",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2535,6 +2545,16 @@
     "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
     "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
     "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+    "blog_name": "Google Developers Blog",
+    "title": "Measuring What Matters with Jules",
+    "link": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+    "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
     "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
     "summary": "Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into Antigravity CLI, a new agent-first platform built for complex, multi-agent workflows. This new Go-based tool offers faster execution, asynchronous processing, and a unified architecture that syncs with the Antigravity 2.0 desktop application. While enterprise customers will maintain existing access, individual and free users must transition to the new platform before Gemini CLI stops serving requests ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
-    "blog_name": "Google Developers Blog",
-    "title": "One Year of Innovation: Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
-    "link": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
-    "summary": "The Google Cloud and NVIDIA developer community is celebrating its first anniversary with 100,000 members and a renewed focus on providing builders with advanced AI infrastructure and resources. To accelerate development, the community offers curated learning pathways for mastering LLM optimization, GPU-accelerated data analytics, and monthly expert-led webinars. Moving into its second year, the initiative will expand to include hands-on labs, engineering events, and specialized content focused ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-    "blog_name": "Google Developers Blog",
-    "title": "All the news from the Google I/O 2026 Developer keynote",
-    "link": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-    "summary": "Google announced the transition from assistive AI to independent agents, highlighting the launch of the Gemini 3.5 series and major updates to its Antigravity agent-first development platform. For mobile developers, the post introduces new Android CLI tools, the Android Bench evaluation leaderboard, and an automated Migration agent designed to rapidly convert various frameworks into native Kotlin code. Web development is also being transformed through Chrome DevTools for agents, the HTML-in-Canv",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

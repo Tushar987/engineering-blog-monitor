@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://engineering.fb.com/?p=24150",
+    "blog_name": "Meta Engineering",
+    "title": "Meta’s AI Storage Blueprint at Scale",
+    "link": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...] Read More... The post Meta&#8217;s AI Storage Blueprint at Scale appeared first on Engineering at Meta .",
+    "published_iso": "2026-07-01T16:00:36+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
     "blog_name": "ByteByteGo",
     "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users",
@@ -1188,16 +1198,6 @@
     "published_iso": "2026-05-12T13:26:49+00:00",
     "published_display": "2026-05-12",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=23959",
-    "blog_name": "Meta Engineering",
-    "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
-    "link": "https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable/",
-    "summary": "We’re rolling out version 1.1 of Labyrinth, the encrypted storage system and protocol that secures messages and history on Messenger. Labyrinth 1.1 enhances the reliability of end-to-end encrypted backups with a new sub-protocol that helps messages survive the loss of a device, a switched device, and long gaps between sign-ins. Read our updated white paper, [...] Read More... The post Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable appeared first on Engineering at Meta .",
-    "published_iso": "2026-05-11T16:00:55+00:00",
-    "published_display": "2026-05-11",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://stripe.com/blog/vertical-saas-insights-sessions-2026",
@@ -2520,6 +2520,36 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "blog_name": "Google Developers Blog",
+    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+    "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "blog_name": "Google Developers Blog",
+    "title": "Why we built ADK 2.0",
+    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "blog_name": "Google Developers Blog",
+    "title": "Build agentic full-stack apps with Genkit",
+    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "blog_name": "Google Developers Blog",
     "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
@@ -2570,16 +2600,6 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "blog_name": "Google Developers Blog",
-    "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
-    "link": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "summary": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid framewo",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
     "blog_name": "Google Developers Blog",
     "title": "Announcing the Agentic Resource Discovery specification",
@@ -2590,11 +2610,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+    "id": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
     "blog_name": "Google Developers Blog",
-    "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
-    "link": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
-    "summary": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-l",
+    "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
+    "link": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
+    "summary": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid framewo",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2605,6 +2625,16 @@
     "title": "Enhance Security and Trust: New Session Metadata in Sign in with Google",
     "link": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
     "summary": "Google is enhancing Sign in with Google by introducing new OIDC standard claims—specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover an",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+    "blog_name": "Google Developers Blog",
+    "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
+    "link": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+    "summary": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-l",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2685,36 +2715,6 @@
     "title": "Enhancing Android Checkout with Dynamic Callbacks in Google Pay",
     "link": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
     "summary": "We are excited to bring Express checkout with Google Pay for Android native apps enabling developers...",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-    "blog_name": "Google Developers Blog",
-    "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
-    "link": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-    "summary": "Google has announced the launch of version 0.1.0 of the Agent Development Kit (ADK) for Kotlin, alongside a specialized ADK library for Android. This open-source framework simplifies the creation of AI agents by managing complex orchestration, session sharing, and error handling across cloud and edge environments. The release supports hybrid orchestration, enabling developers to build multi-agent systems where a cloud-based model can seamlessly offload specific tasks to local, on-device models l",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
-    "blog_name": "Google Developers Blog",
-    "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
-    "link": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
-    "summary": "Google is expanding its smart home ecosystem by launching a full-stack Gemini AI offering that integrates advanced camera intelligence, natural language queries, and daily activity summaries. This initiative provides service providers and hardware manufacturers with turnkey reference designs and APIs to build proactive, branded services without extensive research and development. Ultimately, the program aims to move beyond basic device control toward an AI-native home that can understand context",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-    "blog_name": "Google Developers Blog",
-    "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
-    "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-    "summary": "Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into Antigravity CLI, a new agent-first platform built for complex, multi-agent workflows. This new Go-based tool offers faster execution, asynchronous processing, and a unified architecture that syncs with the Antigravity 2.0 desktop application. While enterprise customers will maintain existing access, individual and free users must transition to the new platform before Gemini CLI stops serving requests ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

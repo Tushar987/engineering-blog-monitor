@@ -77,15 +77,18 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "https://developers.googleblog.com/why-we-built-adk-20/",
+    "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
     "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
     "https://developers.googleblog.com/measuring-what-matters-with-jules/",
     "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "https://developers.googleblog.com/a2ui-and-mcp-apps/",
     "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-    "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+    "https://developers.googleblog.com/a2ui-and-mcp-apps/",
     "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+    "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
     "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
     "https://developers.googleblog.com/introducing-the-google-colab-cli/",
     "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
@@ -205,6 +208,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24150",
     "https://engineering.fb.com/?p=24128",
     "https://engineering.fb.com/?p=24095",
     "https://engineering.fb.com/?p=24113",

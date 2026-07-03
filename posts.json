@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
+    "blog_name": "ByteByteGo",
+    "title": "Multi-Region Architecture: Going Global Without Going Broke",
+    "link": "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
+    "summary": "When an application grows geographically, it is logical to start serving it from a second region to improve latency and availability.",
+    "published_iso": "2026-07-02T15:30:30+00:00",
+    "published_display": "2026-07-02",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://engineering.fb.com/?p=24150",
     "blog_name": "Meta Engineering",
     "title": "Meta’s AI Storage Blueprint at Scale",
@@ -550,22 +560,22 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
+    "id": "https://martinfowler.com/fragments/2026-06-16.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: June 16",
+    "link": "https://martinfowler.com/fragments/2026-06-16.html",
+    "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration sudde",
+    "published_iso": "2026-06-16T12:44:00+00:00",
+    "published_display": "2026-06-16",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "tag:martinfowler.com,2026-06-16:Building-Reliable-Agentic-AI-Systems",
     "blog_name": "Martin Fowler",
     "title": "Building Reliable Agentic AI Systems",
     "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
     "summary": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang Sanjay Kulkarni describes its evolution from keyword-based search to an intelligent research assistant capable of answering complex questions and drafting regulatory documents. more…",
     "published_iso": "2026-06-16T12:11:00+00:00",
-    "published_display": "2026-06-16",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-06-16.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: June 16",
-    "link": "https://martinfowler.com/fragments/2026-06-16.html",
-    "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration sudde",
-    "published_iso": "2026-06-16T06:44:00+00:00",
     "published_display": "2026-06-16",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
@@ -800,16 +810,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "https://blog.bytebytego.com/p/the-path-of-a-request-a-tour-of-modern",
-    "blog_name": "ByteByteGo",
-    "title": "The Path of a Request: A Tour of Modern Web Architecture",
-    "link": "https://blog.bytebytego.com/p/the-path-of-a-request-a-tour-of-modern",
-    "summary": "In this article, we follow the journey of a web request one hop at a time.",
-    "published_iso": "2026-06-04T15:31:29+00:00",
-    "published_display": "2026-06-04",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue",
     "blog_name": "Stripe Engineering",
     "title": "New ways to turn global demand into revenue",
@@ -900,6 +900,16 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
+    "id": "https://martinfowler.com/fragments/2026-06-02.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: June  2",
+    "link": "https://martinfowler.com/fragments/2026-06-02.html",
+    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
+    "published_iso": "2026-06-02T15:21:00+00:00",
+    "published_display": "2026-06-02",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "2dbd4af1c59c375d61cdd55125ed6cda4c0097be",
     "blog_name": "AWS Architecture Blog",
     "title": "Automating contract intelligence with Doczy.ai™ on AWS",
@@ -908,16 +918,6 @@
     "published_iso": "2026-06-02T14:06:32+00:00",
     "published_display": "2026-06-02",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-06-02.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: June  2",
-    "link": "https://martinfowler.com/fragments/2026-06-02.html",
-    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
-    "published_iso": "2026-06-02T09:21:00+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "367ff763b8aeb77bf59878e6d464058e6aef5b37",
@@ -1350,6 +1350,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://martinfowler.com/fragments/2026-04-21.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: April 21",
+    "link": "https://martinfowler.com/fragments/2026-04-21.html",
+    "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar . This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements. As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes: An interesting ",
+    "published_iso": "2026-04-21T20:34:00+00:00",
+    "published_display": "2026-04-21",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://medium.com/p/26a01a6e7017",
     "blog_name": "Airbnb Engineering",
     "title": "Building a fault-tolerant metrics storage system at Airbnb",
@@ -1358,16 +1368,6 @@
     "published_iso": "2026-04-21T17:01:06+00:00",
     "published_display": "2026-04-21",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-04-21.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: April 21",
-    "link": "https://martinfowler.com/fragments/2026-04-21.html",
-    "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar . This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements. As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes: An interesting ",
-    "published_iso": "2026-04-21T14:34:00+00:00",
-    "published_display": "2026-04-21",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes",

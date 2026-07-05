@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
+    "blog_name": "ByteByteGo",
+    "title": "Proof of Human: How to Verify a Person Is Real and Unique",
+    "link": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
+    "summary": "For this article we spoke with the team behind World, including Tiago Sada and Lily Gordon at Tools for Humanity, on how they try to solve this problem.",
+    "published_iso": "2026-07-04T15:30:16+00:00",
+    "published_display": "2026-07-04",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
     "blog_name": "ByteByteGo",
     "title": "Multi-Region Architecture: Going Global Without Going Broke",
@@ -788,16 +798,6 @@
     "published_iso": "2026-06-08T00:00:00+00:00",
     "published_display": "2026-06-08",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth",
-    "blog_name": "ByteByteGo",
-    "title": "EP217: Latency vs Throughput vs Bandwidth",
-    "link": "https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth",
-    "summary": "Latency, throughput, and bandwidth often get used interchangeably, but each one tells a different story about performance.",
-    "published_iso": "2026-06-06T15:30:33+00:00",
-    "published_display": "2026-06-06",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://medium.com/p/b7e00c152068",

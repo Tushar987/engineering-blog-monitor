@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
+    "blog_name": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
+    "summary": "Our 7th cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.",
+    "published_iso": "2026-07-06T15:31:49+00:00",
+    "published_display": "2026-07-06",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "1WYEYtVwQSo4H3jKHTcKmO",
+    "blog_name": "Cloudflare Blog",
+    "title": "Your Worker can now have its own cache in front of it",
+    "link": "https://blog.cloudflare.com/workers-cache/",
+    "summary": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
+    "published_iso": "2026-07-06T13:00:00+00:00",
+    "published_display": "2026-07-06",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-07-06.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: July  6",
+    "link": "https://martinfowler.com/fragments/2026-07-06.html",
+    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat , this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I could, at best, only attend ⅕ of sessions. This isn’t an event that forms conclusions, rather one that allows those exploring to share what they’ve found, and their visions for the future. The bliki post lists all the writing I’ve run into on this, by myself and others. I’ll be upda",
+    "published_iso": "2026-07-06T12:53:00+00:00",
+    "published_display": "2026-07-06",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
     "blog_name": "ByteByteGo",
     "title": "Proof of Human: How to Verify a Person Is Real and Unique",
@@ -770,26 +800,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://blog.bytebytego.com/p/token-spend-out-of-control-the-case",
-    "blog_name": "ByteByteGo",
-    "title": "Token Spend Out of Control? The Case for Smarter Routing",
-    "link": "https://blog.bytebytego.com/p/token-spend-out-of-control-the-case",
-    "summary": "To understand how teams keep this under control in production, we sat down with Scott Breitenother and Sid Sijbrandij, co-founders of Kilo, an open-source coding agent that runs through a lot of these loops every day.",
-    "published_iso": "2026-06-08T15:01:25+00:00",
-    "published_display": "2026-06-08",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "2rMCnbhtTEow346RobyHOh",
-    "blog_name": "Cloudflare Blog",
-    "title": "Turning Cloudflare’s threat indicators into real-time WAF rules",
-    "link": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
-    "summary": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted industries in real time.",
-    "published_iso": "2026-06-08T13:00:00+00:00",
-    "published_display": "2026-06-08",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/you-bar",
     "blog_name": "Discord Engineering",
     "title": "Introducing: You Bar",
@@ -1468,16 +1478,6 @@
     "published_iso": "2026-04-06T00:00:00+00:00",
     "published_display": "2026-04-06",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-04-02.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: April  2",
-    "link": "https://martinfowler.com/fragments/2026-04-02.html",
-    "summary": "As we see LLMs churn out scads of code, folks have increasingly turned to Cognitive Debt as a metaphor for capturing how a team can lose understanding of what a system does. Margaret-Anne Storey thinks a good way of thinking about these problems is to consider three layers of system health : Technical debt lives in code. It accumulates when implementation decisions compromise future changeability. It limits how systems can change. Cognitive debt lives in people. It accumulates when shared unders",
-    "published_iso": "2026-04-02T16:42:00+00:00",
-    "published_display": "2026-04-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "tag:martinfowler.com,2026-04-02:Harness-engineering-for-coding-agent-users",
@@ -2520,21 +2520,21 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
-    "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "id": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "blog_name": "Google Developers Blog",
-    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
-    "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
+    "title": "We terminated a TPU mid-training and it recovered in seconds:  Introduction to elastic training with MaxText",
+    "link": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+    "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX ecosystem utilizes elastic training via Pathways, which converts a hardware failure into a catchable Python exception so the running process can survive. When an unplanned failure occurs, the system automatically replaces only the broken worker, restores the last viable checkpoint ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "blog_name": "Google Developers Blog",
-    "title": "Why we built ADK 2.0",
-    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
-    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
+    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+    "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2550,11 +2550,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
     "blog_name": "Google Developers Blog",
-    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
-    "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
-    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenar",
+    "title": "Why we built ADK 2.0",
+    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2570,11 +2570,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+    "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "blog_name": "Google Developers Blog",
-    "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
-    "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
-    "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+    "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenar",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2590,21 +2590,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+    "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
     "blog_name": "Google Developers Blog",
-    "title": "How A2A is Building a World of Collaborative Agents",
-    "link": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sci",
+    "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
+    "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+    "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+    "id": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
     "blog_name": "Google Developers Blog",
-    "title": "Announcing the Agentic Resource Discovery specification",
-    "link": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-    "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+    "title": "How A2A is Building a World of Collaborative Agents",
+    "link": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+    "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sci",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2620,11 +2620,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+    "id": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
     "blog_name": "Google Developers Blog",
-    "title": "Enhance Security and Trust: New Session Metadata in Sign in with Google",
-    "link": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
-    "summary": "Google is enhancing Sign in with Google by introducing new OIDC standard claims—specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover an",
+    "title": "Announcing the Agentic Resource Discovery specification",
+    "link": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+    "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2635,6 +2635,16 @@
     "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
     "link": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
     "summary": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-l",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+    "blog_name": "Google Developers Blog",
+    "title": "Enhance Security and Trust: New Session Metadata in Sign in with Google",
+    "link": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+    "summary": "Google is enhancing Sign in with Google by introducing new OIDC standard claims—specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover an",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2705,16 +2715,6 @@
     "title": "The latest updates to Google Pay",
     "link": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
     "summary": "Google Pay is evolving for \"agentic commerce\" by introducing the Universal Commerce Protocol and a new MCP server that allows AI agents to manage integrations and analyze trends. New Android updates introduce dynamic callbacks for seamless express checkouts and extend payment support into social media apps via WebViews. Additionally, the platform is launching cross-device biometric authentication and new transaction signals to help merchants reduce friction and optimize processing costs.",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
-    "blog_name": "Google Developers Blog",
-    "title": "Enhancing Android Checkout with Dynamic Callbacks in Google Pay",
-    "link": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
-    "summary": "We are excited to bring Express checkout with Google Pay for Android native apps enabling developers...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

@@ -25,6 +25,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
     "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
     "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
     "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
@@ -52,6 +53,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "1WYEYtVwQSo4H3jKHTcKmO",
     "6dNg0U03j4cnbacP8txDok",
     "3qEwyKxigFNDK4JTlPfl8A",
     "YqZRSH26JlDBUNvwASOr2",
@@ -79,18 +81,19 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "https://developers.googleblog.com/why-we-built-adk-20/",
     "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "https://developers.googleblog.com/why-we-built-adk-20/",
     "https://developers.googleblog.com/announcing-adk-go-20/",
-    "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+    "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+    "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
     "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
     "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+    "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
     "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+    "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
     "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
     "https://developers.googleblog.com/introducing-the-google-colab-cli/",
     "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
@@ -240,6 +243,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-07-06.html",
     "tag:martinfowler.com,2026-06-16:Building-Reliable-Agentic-AI-Systems",
     "https://martinfowler.com/fragments/2026-06-16.html",
     "https://martinfowler.com/fragments/2026-06-02.html",
@@ -262,14 +266,14 @@
     "https://martinfowler.com/fragments/2026-04-09.html",
     "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
     "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",
-    "https://martinfowler.com/fragments/2026-04-02.html",
     "tag:martinfowler.com,2026-04-02:Harness-engineering-for-coding-agent-users",
     "tag:martinfowler.com,2026-03-31:Encoding-Team-Standards",
     "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
     "tag:martinfowler.com,2026-03-17:Context-Anchoring",
     "tag:martinfowler.com,2026-03-05:Ideological-Resistance-to-Patents--Followed-by-Reluctant----------------Pragmatism",
     "tag:martinfowler.com,2026-03-04:Humans-and-Agents-in-Software-Engineering-Loops",
-    "tag:martinfowler.com,2026-03-03:Design-First-Collaboration"
+    "tag:martinfowler.com,2026-03-03:Design-First-Collaboration",
+    "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
     "https://medium.com/p/6125645d470c",

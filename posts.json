@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
+    "blog_name": "ByteByteGo",
+    "title": "ChatGPT vs Gemini vs Claude: How They Differ",
+    "link": "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
+    "summary": "In this article, we will look at the various architectural forks the teams building these models encountered and the decisions they took.",
+    "published_iso": "2026-07-07T15:31:10+00:00",
+    "published_display": "2026-07-07",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
+    "blog_name": "Martin Fowler",
+    "title": "Viability of local models for coding",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+    "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
+    "published_iso": "2026-07-07T12:34:00+00:00",
+    "published_display": "2026-07-07",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
     "blog_name": "ByteByteGo",
     "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
@@ -768,16 +788,6 @@
     "published_iso": "2026-06-09T16:51:55+00:00",
     "published_display": "2026-06-09",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/what-salesforce-learned-from-20000",
-    "blog_name": "ByteByteGo",
-    "title": "What Salesforce Learned from 20,000 Enterprise Agent Deployments",
-    "link": "https://blog.bytebytego.com/p/what-salesforce-learned-from-20000",
-    "summary": "We sat down with John Kucera, Salesforce&#8217;s CPO of Agentforce, to learn what separates agents that deliver real business value from those that stall after a good demo.",
-    "published_iso": "2026-06-09T15:07:59+00:00",
-    "published_display": "2026-06-09",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "5Jw5AkmauDqCVgDeCs0mBa",
@@ -1638,16 +1648,6 @@
     "published_iso": "2026-03-04T00:00:00+00:00",
     "published_display": "2026-03-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-03-03:Design-First-Collaboration",
-    "blog_name": "Martin Fowler",
-    "title": "Design-First Collaboration",
-    "link": "https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html",
-    "summary": "Rahul Garg continues his series of Patterns for Reducing Friction in AI-Assisted Development . This pattern describes a structured conversation that mirrors whiteboarding with a human pair: progressive levels of design alignment before any code, reducing cognitive load, and catching misunderstandings at the cheapest possible moment. more…",
-    "published_iso": "2026-03-03T04:04:00+00:00",
-    "published_display": "2026-03-03",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing",

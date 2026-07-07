@@ -25,6 +25,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
     "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
     "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
@@ -243,6 +244,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
     "https://martinfowler.com/fragments/2026-07-06.html",
     "tag:martinfowler.com,2026-06-16:Building-Reliable-Agentic-AI-Systems",
     "https://martinfowler.com/fragments/2026-06-16.html",

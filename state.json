@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "23f64103d7883c302cd093107cc54367ad330819",
     "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
     "911455f3ceec06dfe1daa980d11ff3d1dd9dad0f",
     "724ed00b59475c0e4625e6635fc2bac52720a8cc",
@@ -54,6 +55,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "7zbgYCOZDfvIIsVrPpZ8xJ",
+    "3xHevpKOOM76zUSrlPcQno",
     "1WYEYtVwQSo4H3jKHTcKmO",
     "6dNg0U03j4cnbacP8txDok",
     "3qEwyKxigFNDK4JTlPfl8A",
@@ -110,6 +113,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-patch-notes-july-7-2026",
     "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
     "https://discord.com/blog/cost-attribution-in-discords-api",
     "https://discord.com/blog/discord-update-june-25-2026-changelog",
@@ -244,6 +248,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
     "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
     "https://martinfowler.com/fragments/2026-07-06.html",
     "tag:martinfowler.com,2026-06-16:Building-Reliable-Agentic-AI-Systems",

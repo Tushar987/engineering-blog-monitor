@@ -1,5 +1,35 @@
 [
   {
+    "id": "7zbgYCOZDfvIIsVrPpZ8xJ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Meerkat: an experiment in global consensus",
+    "link": "https://blog.cloudflare.com/meerkat-introduction/",
+    "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
+    "published_iso": "2026-07-08T13:00:00+00:00",
+    "published_display": "2026-07-08",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
+    "blog_name": "Martin Fowler",
+    "title": "Experiences with local models for coding",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+    "summary": "Birgitta B&#xf6;ckeler now reports on her recent experiences trying local LLMs for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
+    "published_iso": "2026-07-08T11:57:00+00:00",
+    "published_display": "2026-07-08",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "23f64103d7883c302cd093107cc54367ad330819",
+    "blog_name": "AWS Architecture Blog",
+    "title": "S&P Global’s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots",
+    "link": "https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/",
+    "summary": "In this post, we explain how S&amp;P Global Market Intelligence implemented an innovative disaster recovery solution for their Capital IQ platform using Amazon FSx for NetApp ONTAP. This solution enables immediate failover to read-only mode in a secondary region within 15 minutes, followed by full read-write recovery when needed. This approach achieves reduction in failover time while maintaining data consistency for global financial operations.",
+    "published_iso": "2026-07-07T16:32:21+00:00",
+    "published_display": "2026-07-07",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
     "blog_name": "ByteByteGo",
     "title": "ChatGPT vs Gemini vs Claude: How They Differ",
@@ -10,6 +40,16 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
+    "id": "3xHevpKOOM76zUSrlPcQno",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+    "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
+    "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framework: democratizing security, leadership accountability, and radical transparency.",
+    "published_iso": "2026-07-07T13:00:00+00:00",
+    "published_display": "2026-07-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
     "blog_name": "Martin Fowler",
     "title": "Viability of local models for coding",
@@ -18,6 +58,16 @@
     "published_iso": "2026-07-07T12:34:00+00:00",
     "published_display": "2026-07-07",
     "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://discord.com/blog/discord-patch-notes-july-7-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Patch Notes: July 7, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-july-7-2026",
+    "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "published_iso": "2026-07-07T00:00:00+00:00",
+    "published_display": "2026-07-07",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
@@ -740,16 +790,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "7it4N1iImLVhf4Mt9YilGH",
-    "blog_name": "Cloudflare Blog",
-    "title": "Route public traffic to private applications with Cloudflare",
-    "link": "https://blog.cloudflare.com/private-origins-dns-routing/",
-    "summary": "Application Services for Private Origins is available now in closed beta. Route public hostnames to private IP origins over your existing IPsec, GRE, CNI, or Cloudflare Mesh paths. No public IPs or extra connector software required.",
-    "published_iso": "2026-06-10T13:00:00+00:00",
-    "published_display": "2026-06-10",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers",
     "blog_name": "Discord Engineering",
     "title": "Updated Requirements to How Apps Access Data in Servers",
@@ -788,16 +828,6 @@
     "published_iso": "2026-06-09T16:51:55+00:00",
     "published_display": "2026-06-09",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "5Jw5AkmauDqCVgDeCs0mBa",
-    "blog_name": "Cloudflare Blog",
-    "title": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
-    "link": "https://blog.cloudflare.com/frontier-model-defense/",
-    "summary": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and how we run it ourselves as Cloudflare's customer zero.",
-    "published_iso": "2026-06-09T06:00:00+00:00",
-    "published_display": "2026-06-09",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge",
@@ -1210,16 +1240,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "b8af23bf12671b92088539b407610a346547f776",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/",
-    "summary": "In this post, we show you how to build a hybrid multi-tenant architecture that provides strong tenant isolation without requiring per-tenant AWS accounts. You learn how to configure Route 53 weighted routing to distribute traffic across multiple accounts, deploy Application Load Balancer listener rules for tenant-specific routing, create dedicated ECS clusters per tenant, and establish AWS PrivateLink connectivity to shared dependencies.",
-    "published_iso": "2026-05-12T13:26:49+00:00",
-    "published_display": "2026-05-12",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://stripe.com/blog/vertical-saas-insights-sessions-2026",
     "blog_name": "Stripe Engineering",
     "title": "Five vertical SaaS insights from Sessions 2026",
@@ -1627,16 +1647,6 @@
     "summary": "Naresh Jain has long been uncomfortable with software patents. But a direct experience of patent aggression, together with the practical constraints faced by startups, led him to resort to defensive patenting as as a shield in this asymmetric legal environment. more…",
     "published_iso": "2026-03-05T13:54:00+00:00",
     "published_display": "2026-03-05",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-03-04:Humans-and-Agents-in-Software-Engineering-Loops",
-    "blog_name": "Martin Fowler",
-    "title": "Humans and Agents in Software Engineering Loops",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
-    "summary": "There's been much talk recently about how AI agents affect the workflow loops of software development. Kief Morris believes the answer is to focus on the goal of turning ideas into outcomes. The right place for us humans is to build and manage the working loop rather than either leaving the agents to it or micromanaging what they produce. more…",
-    "published_iso": "2026-03-04T05:42:00+00:00",
-    "published_display": "2026-03-04",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
@@ -2357,16 +2367,6 @@
     "summary": "We'll create a home where you can monitor playtests, gather feedback, and talk with those who want to be part of your game's success.",
     "published_iso": "2025-03-17T00:00:00+00:00",
     "published_display": "2025-03-17",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/the-game-developer-playbook-part-two-early-access-and-pre-launch",
-    "blog_name": "Discord Engineering",
-    "title": "The Game Developer Playbook, Part Two: Early Access and Pre-Launch",
-    "link": "https://discord.com/blog/the-game-developer-playbook-part-two-early-access-and-pre-launch",
-    "summary": "In Part Two, we'll help inspire the creation of real-time conversations around your game and foster engagement within your community.",
-    "published_iso": "2025-03-16T00:00:00+00:00",
-    "published_display": "2025-03-16",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

@@ -26,6 +26,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
+    "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
     "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
     "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
@@ -55,6 +57,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "5wMIF1Oa7DES2YNRpqiVB0",
     "7zbgYCOZDfvIIsVrPpZ8xJ",
     "3xHevpKOOM76zUSrlPcQno",
     "1WYEYtVwQSo4H3jKHTcKmO",
@@ -85,12 +88,13 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+    "https://developers.googleblog.com/why-we-built-adk-20/",
     "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "https://developers.googleblog.com/why-we-built-adk-20/",
-    "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/measuring-what-matters-with-jules/",
     "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
     "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",

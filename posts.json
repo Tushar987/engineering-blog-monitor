@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
+    "blog_name": "ByteByteGo",
+    "title": "Streaming vs Batch: Two Philosophies of Data Processing",
+    "link": "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
+    "summary": "When is the data complete enough to be moved to the compute stage?",
+    "published_iso": "2026-07-09T15:31:10+00:00",
+    "published_display": "2026-07-09",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "5wMIF1Oa7DES2YNRpqiVB0",
+    "blog_name": "Cloudflare Blog",
+    "title": "Why we cannot wait for better post-quantum signature algorithms",
+    "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
+    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
+    "published_iso": "2026-07-09T14:00:00+00:00",
+    "published_display": "2026-07-09",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
+    "blog_name": "ByteByteGo",
+    "title": "The Agent Loop: How AI Goes From Answering Questions to Doing Things",
+    "link": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
+    "summary": "In this article, we will walk through that progression. We will also look at how an agent is structured, what choices the model makes on every turn, what scaffolding holds it together, and when an agent is actually the right pattern to reach for.",
+    "published_iso": "2026-07-08T15:30:07+00:00",
+    "published_display": "2026-07-08",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "7zbgYCOZDfvIIsVrPpZ8xJ",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing Meerkat: an experiment in global consensus",
@@ -730,26 +760,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "2K9aPHKPuXNJBQtPo0ylUi",
-    "blog_name": "Cloudflare Blog",
-    "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
-    "link": "https://blog.cloudflare.com/scaling-security-scans/",
-    "summary": "Cloudflare Security Insights system now processes over 120 scans per second, providing frequent insights for all customers. By optimizing Kafka consumers, Postgres queries, and our API, we scaled our throughput 10x without adding hardware.",
-    "published_iso": "2026-06-12T13:00:00+00:00",
-    "published_display": "2026-06-12",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/must-know-deployment-strategies-from",
-    "blog_name": "ByteByteGo",
-    "title": "Must- Know Deployment Strategies: From Big-Bang to Progressive Delivery",
-    "link": "https://blog.bytebytego.com/p/must-know-deployment-strategies-from",
-    "summary": "In this article, we&#8217;ll go through the main deployment strategies used in production today, looking at how each one works, what it costs, and when it makes sense to use.",
-    "published_iso": "2026-06-11T15:31:29+00:00",
-    "published_display": "2026-06-11",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://slack.engineering/?p=17854",
     "blog_name": "Slack Engineering",
     "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
@@ -778,16 +788,6 @@
     "published_iso": "2026-06-10T15:06:00+00:00",
     "published_display": "2026-06-10",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/love-teaching-bytebytego-is-hiring",
-    "blog_name": "ByteByteGo",
-    "title": "Love Teaching? ByteByteGo Is Hiring Part-Time AI & Engineering Instructors",
-    "link": "https://blog.bytebytego.com/p/love-teaching-bytebytego-is-hiring",
-    "summary": "We&#8217;re looking for multiple part-time instructors to teach AI and engineering cohort-based live courses.",
-    "published_iso": "2026-06-10T15:02:05+00:00",
-    "published_display": "2026-06-10",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers",
@@ -2520,11 +2520,31 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+    "blog_name": "Google Developers Blog",
+    "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+    "link": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+    "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "blog_name": "Google Developers Blog",
     "title": "We terminated a TPU mid-training and it recovered in seconds:  Introduction to elastic training with MaxText",
     "link": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX ecosystem utilizes elastic training via Pathways, which converts a hardware failure into a catchable Python exception so the running process can survive. When an unplanned failure occurs, the system automatically replaces only the broken worker, restores the last viable checkpoint ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "blog_name": "Google Developers Blog",
+    "title": "Why we built ADK 2.0",
+    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2550,11 +2570,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "blog_name": "Google Developers Blog",
-    "title": "Why we built ADK 2.0",
-    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
-    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
+    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+    "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenar",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2565,16 +2585,6 @@
     "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
     "link": "https://developers.googleblog.com/announcing-adk-go-20/",
     "summary": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemet",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
-    "blog_name": "Google Developers Blog",
-    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
-    "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
-    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenar",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2705,16 +2715,6 @@
     "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
     "link": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
     "summary": "Google has announced the new Google Pay & Wallet Developer MCP server, an open-standard tool designed to securely connect AI development assistants and IDEs with real-time API and account context. The server allows developers to remain within their development environment to search official documentation, validate Wallet pass definitions, check integration status, and manage merchant accounts. Ultimately, this integration aims to reduce friction and accelerate development workflows by minimizing",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
-    "blog_name": "Google Developers Blog",
-    "title": "The latest updates to Google Pay",
-    "link": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
-    "summary": "Google Pay is evolving for \"agentic commerce\" by introducing the Universal Commerce Protocol and a new MCP server that allows AI agents to manage integrations and analyze trends. New Android updates introduce dynamic callbacks for seamless express checkouts and extend payment support into social media apps via WebViews. Additionally, the platform is launching cross-device biometric authentication and new transaction signals to help merchants reduce friction and optimize processing costs.",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

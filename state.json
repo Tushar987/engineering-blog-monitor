@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "23f64103d7883c302cd093107cc54367ad330819",
     "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
     "911455f3ceec06dfe1daa980d11ff3d1dd9dad0f",
@@ -26,6 +27,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
     "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
     "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
     "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
@@ -57,6 +59,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "2smERhDvpGH6FbC035djwD",
     "5wMIF1Oa7DES2YNRpqiVB0",
     "7zbgYCOZDfvIIsVrPpZ8xJ",
     "3xHevpKOOM76zUSrlPcQno",
@@ -88,6 +91,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "https://developers.googleblog.com/why-we-built-adk-20/",

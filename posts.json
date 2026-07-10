@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
+    "blog_name": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
+    "summary": "Our 7th cohort of Becoming an AI Engineer starts tomorrow, Saturday, July 11. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.",
+    "published_iso": "2026-07-10T15:32:04+00:00",
+    "published_display": "2026-07-10",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "2smERhDvpGH6FbC035djwD",
+    "blog_name": "Cloudflare Blog",
+    "title": "Improving Smart Tiered Cache for Public Cloud Regions",
+    "link": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
+    "summary": "Smart Tiered Cache allows for precise upper tier selection for origins hosted on AWS, GCP, Azure, and Oracle Cloud with customer-provided cloud region hints.",
+    "published_iso": "2026-07-10T13:00:00+00:00",
+    "published_display": "2026-07-10",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Specification-driven composition for flexible data workflows",
+    "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/",
+    "summary": "Specification-driven composition addresses a common scalability bottleneck in data pipelines. Data pipelines often start as simple scripts, but as they grow, you duplicate transformation logic and small changes cascade across multiple workflows. Copying and modifying data transformation logic across scripts leads to workflows that become difficult to manage at scale. Tracking what each pipeline does […]",
+    "published_iso": "2026-07-09T22:27:31+00:00",
+    "published_display": "2026-07-09",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
     "blog_name": "ByteByteGo",
     "title": "Streaming vs Batch: Two Philosophies of Data Processing",
@@ -740,26 +770,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "5MWTPJGehyLgdL2HT49JHB",
-    "blog_name": "Cloudflare Blog",
-    "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
-    "link": "https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/",
-    "summary": "Cloudflare is deepening our investment in AI with the addition of team members from Ensemble AI, focusing on machine learning infrastructure and efficiency.",
-    "published_iso": "2026-06-15T13:00:00+00:00",
-    "published_display": "2026-06-15",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack",
-    "blog_name": "ByteByteGo",
-    "title": "EP218: The Typical AI Agent Stack, Explained",
-    "link": "https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack",
-    "summary": "Over to you: Which layer of the stack do you think is the hardest to get right in production?",
-    "published_iso": "2026-06-13T15:31:02+00:00",
-    "published_display": "2026-06-13",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://slack.engineering/?p=17854",
     "blog_name": "Slack Engineering",
     "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
@@ -1188,16 +1198,6 @@
     "published_iso": "2026-05-13T17:01:01+00:00",
     "published_display": "2026-05-13",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "8c82c5dba52511fb828310d476ccb5779e8fe852",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Streaming CloudWatch metrics to VPC-based OpenTelemetry collectors using Lambda",
-    "link": "https://aws.amazon.com/blogs/architecture/streaming-cloudwatch-metrics-to-vpc-based-opentelemetry-collectors-using-lambda/",
-    "summary": "In this post, we demonstrate an approach we used to address this challenge for a customer by implementing an AWS Lambda transformation function that streams Amazon CloudWatch metrics directly to internal OpenTelemetry collectors running within a VPC.",
-    "published_iso": "2026-05-13T15:45:50+00:00",
-    "published_display": "2026-05-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://engineering.fb.com/?p=23982",
@@ -2520,6 +2520,16 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+    "blog_name": "Google Developers Blog",
+    "title": "LiteRT.js, Google's high performance Web AI Inference",
+    "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+    "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "blog_name": "Google Developers Blog",
     "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
@@ -2705,16 +2715,6 @@
     "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
     "link": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
     "summary": "The Google Tunix Hackathon on Kaggle challenged developers to transform small, non-reasoning base models into general reasoning engines using Kaggle TPUs and a limited compute budget. The winning teams achieved this by implementing multi-stage post-training pipelines that combined Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. Ultimately, the competition democratized AI development by proving that highly capable, structured reasoning models can be successful",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
-    "blog_name": "Google Developers Blog",
-    "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
-    "link": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
-    "summary": "Google has announced the new Google Pay & Wallet Developer MCP server, an open-standard tool designed to securely connect AI development assistants and IDEs with real-time API and account context. The server allows developers to remain within their development environment to search official documentation, validate Wallet pass definitions, check integration status, and manage merchant accounts. Ultimately, this integration aims to reduce friction and accelerate development workflows by minimizing",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

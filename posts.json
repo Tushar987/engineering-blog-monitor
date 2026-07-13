@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
+    "blog_name": "ByteByteGo",
+    "title": "How Microsoft Ships AI Agents at Enterprise Scale",
+    "link": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
+    "summary": "To understand what it actually takes to ship agents at that scale, we spoke with Marco Casalaina, VP of Products for Microsoft Core AI.",
+    "published_iso": "2026-07-13T15:02:11+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "6ePF6Vl7bAXNNpdFDoFbqs",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+    "link": "https://blog.cloudflare.com/introducing-precursor/",
+    "summary": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it identifies advanced automation with higher precision — while reducing friction for legitimate users.",
+    "published_iso": "2026-07-13T13:00:00+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "0c883221196256a615425f07a9067bccbd3cf13f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Unlocking the future of video data: March Networks cloud storage on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/",
+    "summary": "Enterprise video surveillance is operating at an unprecedented scale as organizations across retail, banking, quick-service restaurants (QSR), convenience stores, and transportation networks generate petabytes of video data across thousands of distributed locations. As retention requirements grow and organizations seek to extract more operational insights from video, traditional on-premise storage models are becoming increasingly difficult and […]",
+    "published_iso": "2026-07-13T10:06:18+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "f5f1ab73260fbc2595f20647aecef5a8ec6766a5",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How MAPFRE USA modernized fraud claims with Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/",
+    "summary": "Insurance fraud remains a significant challenge for the insurance industry. Fraudulent claims can increase loss costs, reduce trust, and consume investigation capacity that could otherwise be focused on serving customers. Traditional fraud detection approaches typically rely on rules-based controls, manual investigation triggers, historical claim patterns, and structured-data-only analysis. These approaches are useful for known fraud […]",
+    "published_iso": "2026-07-13T09:26:59+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
     "blog_name": "ByteByteGo",
     "title": "EP221: How Docker Works Under the Hood",
@@ -720,26 +760,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-open-weight-models-changed-the",
-    "blog_name": "ByteByteGo",
-    "title": "How Open-Weight Models Changed the AI Landscape",
-    "link": "https://blog.bytebytego.com/p/how-open-weight-models-changed-the",
-    "summary": "In this article, we will look at how open-weight models have transformed the AI landscape.",
-    "published_iso": "2026-06-16T15:31:09+00:00",
-    "published_display": "2026-06-16",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "1Ng3fFBbnnbu6qxP1HMqpB",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare DMARC Management is now generally available",
-    "link": "https://blog.cloudflare.com/dmarc-management-ga/",
-    "summary": "Get unified visibility into your email authentication posture and reach full DMARC enforcement with deeper reporting, record analysis, and SPF audits free for every Cloudflare customer.",
-    "published_iso": "2026-06-16T13:00:00+00:00",
-    "published_display": "2026-06-16",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-06-16.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: June 16",
@@ -1138,26 +1158,6 @@
     "published_iso": "2026-05-19T16:38:00+00:00",
     "published_display": "2026-05-19",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "416018ee29563e5d7e86fb8abc90161afba0f6bc",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS",
-    "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/",
-    "summary": "This post explores how ALS GeoAnalytics successfully deployed LITHOLENS ™ with Amazon Elastic Kubernetes Service (Amazon EKS) to scale model training and inference while minimizing cost.",
-    "published_iso": "2026-05-19T15:09:36+00:00",
-    "published_display": "2026-05-19",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "40aafa238b03f3aa8889767846de4e203917a8f3",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances",
-    "link": "https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances/",
-    "summary": "This post introduces a video decoding optimization technique that we have ideated in collaboration with Synthesia Research Engineering team, which we call Asynchronous Frame Generation Pipeline. Adopting this technique allows you to overlap GPU compute, device-to-host (D2H) data transfer, and host-side post-processing. In this post, we apply this technique to the VAE decoder of a Wan video generation model as an example, where our benchmarks on G7e show increased GPU kernel utilization from 82% ",
-    "published_iso": "2026-05-19T15:06:40+00:00",
-    "published_display": "2026-05-19",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",

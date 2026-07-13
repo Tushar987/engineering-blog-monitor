@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "0c883221196256a615425f07a9067bccbd3cf13f",
+    "f5f1ab73260fbc2595f20647aecef5a8ec6766a5",
     "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "23f64103d7883c302cd093107cc54367ad330819",
     "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
@@ -27,6 +29,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
     "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
     "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
@@ -60,6 +63,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "6ePF6Vl7bAXNNpdFDoFbqs",
     "2smERhDvpGH6FbC035djwD",
     "5wMIF1Oa7DES2YNRpqiVB0",
     "7zbgYCOZDfvIIsVrPpZ8xJ",

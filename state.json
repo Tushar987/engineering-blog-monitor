@@ -1,7 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
     "0c883221196256a615425f07a9067bccbd3cf13f",
-    "f5f1ab73260fbc2595f20647aecef5a8ec6766a5",
     "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "23f64103d7883c302cd093107cc54367ad330819",
     "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
@@ -21,6 +20,7 @@
     "4e2b6934017db79172113b78906285244b227b31",
     "b93294903fe7dcafbc5bb89d2806972b3c5e7269",
     "416018ee29563e5d7e86fb8abc90161afba0f6bc",
+    "f5f1ab73260fbc2595f20647aecef5a8ec6766a5",
     "40aafa238b03f3aa8889767846de4e203917a8f3",
     "8c82c5dba52511fb828310d476ccb5779e8fe852",
     "b8af23bf12671b92088539b407610a346547f776",
@@ -231,6 +231,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24221",
     "https://engineering.fb.com/?p=24150",
     "https://engineering.fb.com/?p=24128",
     "https://engineering.fb.com/?p=24095",
@@ -261,6 +262,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
+    "https://martinfowler.com/fragments/2026-07-13.html",
     "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
     "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
     "https://martinfowler.com/fragments/2026-07-06.html",
@@ -283,13 +286,13 @@
     "https://martinfowler.com/fragments/2026-04-21.html",
     "https://martinfowler.com/fragments/2026-04-14.html",
     "https://martinfowler.com/articles/202604-turing.html",
-    "https://martinfowler.com/fragments/2026-04-09.html",
     "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
     "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",
     "tag:martinfowler.com,2026-04-02:Harness-engineering-for-coding-agent-users",
     "tag:martinfowler.com,2026-03-31:Encoding-Team-Standards",
     "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
     "tag:martinfowler.com,2026-03-17:Context-Anchoring",
+    "https://martinfowler.com/fragments/2026-04-09.html",
     "tag:martinfowler.com,2026-03-05:Ideological-Resistance-to-Patents--Followed-by-Reluctant----------------Pragmatism",
     "tag:martinfowler.com,2026-03-04:Humans-and-Agents-in-Software-Engineering-Loops",
     "tag:martinfowler.com,2026-03-03:Design-First-Collaboration",
@@ -308,6 +311,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/f4b792f3f0d8",
     "https://medium.com/p/77146fba8a08",
     "https://medium.com/p/eb8160ed60a2",
     "https://medium.com/p/87860682629c",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
+    "blog_name": "Martin Fowler",
+    "title": "DSLs Enable Reliable Use of LLMs",
+    "link": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "summary": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from the start. Unmesh Joshi describes how the example of Tickloom - a domain model and DSL for illustrating distributed system behavior - shows how we can use an LLM as a partner to iteratively build a DSL and as a natural language interface to use it. Such a DSL can act as the key ",
+    "published_iso": "2026-07-14T12:51:00+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://medium.com/p/f4b792f3f0d8",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+    "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+    "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva &amp; Nathan Fisher A deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that made it work. Introduction In our first post , we introduced the problem: engineers at Netflix needed a unified, real-time view of service dependencies to troubleshoot faster, understand bl",
+    "published_iso": "2026-07-13T22:44:11+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-07-13.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: July 13",
+    "link": "https://martinfowler.com/fragments/2026-07-13.html",
+    "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat . When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering . This time we had a whole session on it. When comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o",
+    "published_iso": "2026-07-13T16:06:00+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24221",
+    "blog_name": "Meta Engineering",
+    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+    "link": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+    "summary": "TL; DR At Meta&#8217;s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance. When a Linux kernel upgrade risked regressing latency across Meta&#8217;s ad serving fleet, we turned to sched_ext — the upstream, BPF-based extensible scheduling framework — to build a scheduling policy customized to the Ads delivery [...] Read More... The post Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler appeared first on Engineering at Met",
+    "published_iso": "2026-07-13T16:00:50+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
     "blog_name": "ByteByteGo",
     "title": "How Microsoft Ships AI Agents at Enterprise Scale",
@@ -26,16 +66,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/",
     "summary": "Enterprise video surveillance is operating at an unprecedented scale as organizations across retail, banking, quick-service restaurants (QSR), convenience stores, and transportation networks generate petabytes of video data across thousands of distributed locations. As retention requirements grow and organizations seek to extract more operational insights from video, traditional on-premise storage models are becoming increasingly difficult and […]",
     "published_iso": "2026-07-13T10:06:18+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "f5f1ab73260fbc2595f20647aecef5a8ec6766a5",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How MAPFRE USA modernized fraud claims with Amazon EMR Serverless",
-    "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/",
-    "summary": "Insurance fraud remains a significant challenge for the insurance industry. Fraudulent claims can increase loss costs, reduce trust, and consume investigation capacity that could otherwise be focused on serving customers. Traditional fraud detection approaches typically rely on rules-based controls, manual investigation triggers, historical claim patterns, and structured-data-only analysis. These approaches are useful for known fraud […]",
-    "published_iso": "2026-07-13T09:26:59+00:00",
     "published_display": "2026-07-13",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
@@ -650,16 +680,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://medium.com/p/0165ba13a7bc",
-    "blog_name": "Netflix Tech Blog",
-    "title": "From Silos to Service Topology: Why Netflix Built a Real-Time Service Map",
-    "link": "https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4",
-    "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva &amp; Nathan Fisher How we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world. The Puzzle with a Thousand Pieces Picture this: It’s 3am, and an engineer gets paged. One of our critical services is showing elevated error rates. Members trying to watch their favorite films and series are seeing degrad",
-    "published_iso": "2026-06-19T23:52:02+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "2EKaG8rvH4FLnpEQVgvJ4I",
     "blog_name": "Cloudflare Blog",
     "title": "Temporary Cloudflare Accounts for AI agents",
@@ -1160,6 +1180,16 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
+    "id": "416018ee29563e5d7e86fb8abc90161afba0f6bc",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/",
+    "summary": "This post explores how ALS GeoAnalytics successfully deployed LITHOLENS ™ with Amazon Elastic Kubernetes Service (Amazon EKS) to scale model training and inference while minimizing cost.",
+    "published_iso": "2026-05-19T15:09:36+00:00",
+    "published_display": "2026-05-19",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",
     "blog_name": "Discord Engineering",
     "title": "Every Voice and Video Call on Discord Is Now End-to-End Encrypted",
@@ -1218,16 +1248,6 @@
     "published_iso": "2026-05-13T00:00:00+00:00",
     "published_display": "2026-05-13",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=23963",
-    "blog_name": "Meta Engineering",
-    "title": "Migrating Data Ingestion Systems at Meta Scale",
-    "link": "https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/",
-    "summary": "Meta’s data ingestion system, which our engineering teams leverage for up-to-date snapshots of the social graph, has recently undergone a significant revamp to enhance its reliability at scale. Moving from our legacy system to our new architecture required a large-scale migration of our entire data ingestion system. We’re sharing the solutions and strategies that enabled [...] Read More... The post Migrating Data Ingestion Systems at Meta Scale appeared first on Engineering at Meta .",
-    "published_iso": "2026-05-12T16:00:57+00:00",
-    "published_display": "2026-05-12",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-05-12:What-is-Code",
@@ -1460,16 +1480,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://martinfowler.com/fragments/2026-04-09.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: April  9",
-    "link": "https://martinfowler.com/fragments/2026-04-09.html",
-    "summary": "I mostly link to written material here, but I’ve recently listened to two excellent podcasts that I can recommend. Anyone who regularly reads these fragments knows that I’m a big fan of Simon Willison, his (also very fragmentary) posts have earned a regular spot in my RSS reader. But the problem with fragments, however valuable, is that they don’t provide a cohesive overview of the situation. So his podcast with Lenny Rachitsky is a welcome survey of that state of world as seen through a discern",
-    "published_iso": "2026-04-09T13:23:00+00:00",
-    "published_display": "2026-04-09",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
     "blog_name": "Martin Fowler",
     "title": "Feedback Flywheel",
@@ -1638,16 +1648,6 @@
     "published_iso": "2026-03-06T00:00:00+00:00",
     "published_display": "2026-03-06",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-03-05:Ideological-Resistance-to-Patents--Followed-by-Reluctant----------------Pragmatism",
-    "blog_name": "Martin Fowler",
-    "title": "Ideological Resistance to Patents, Followed by Reluctant                Pragmatism",
-    "link": "https://martinfowler.com/articles/patents-reluctant-pragmatism.html",
-    "summary": "Naresh Jain has long been uncomfortable with software patents. But a direct experience of patent aggression, together with the practical constraints faced by startups, led him to resort to defensive patenting as as a shield in this asymmetric legal environment. more…",
-    "published_iso": "2026-03-05T13:54:00+00:00",
-    "published_display": "2026-03-05",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything",

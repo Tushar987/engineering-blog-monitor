@@ -1,5 +1,55 @@
 [
   {
+    "id": "b3d4159ab8714d76bae7e58c80873101fa677b12",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/",
+    "summary": "Insurance fraud remains a significant challenge for the insurance industry because fraudulent claims can increase loss costs, reduce trust, and consume investigation capacity that could otherwise be focused on serving customers. Traditional fraud detection approaches typically rely on rules-based controls, manual investigation triggers, historical claim patterns, and structured-data-only analysis. These approaches are useful for known […]",
+    "published_iso": "2026-07-14T21:47:35+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://medium.com/p/14e2d35198b4",
+    "blog_name": "Airbnb Engineering",
+    "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
+    "link": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
+    "summary": "Training an LLM is the easy part. The hard part is designing experiments and evaluations that you can trust enough to know whether the new model is actually an improvement. By : Baharak Saberidokht Introduction Shipping a production LLM system means iterating fast on improvements to something that is, by construction, non-deterministic. Models drift, judges disagree with themselves, references regenerate as different strings, and bugs may persist until the next release, because retraining takes ",
+    "published_iso": "2026-07-14T17:01:03+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://slack.engineering/?p=17832",
+    "blog_name": "Slack Engineering",
+    "title": "Shipyard: How We Built Slack’s Next-Generation EC2 Platform",
+    "link": "https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform/",
+    "summary": "Over the past few years, we’ve been on a journey to modernise how we run Amazon Elastic Compute Cloud (EC2) instances at Slack. In our first post, Advancing Our Chef Infrastructure, we shared how we moved from a single Chef stack to a resilient, multi-stack setup with versioned cookbook deployments and safer promotion workflows. This&#8230;",
+    "published_iso": "2026-07-14T16:10:08+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://slack.engineering/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
+    "blog_name": "ByteByteGo",
+    "title": "How LLMs Learn to Be Helpful (RLHF vs DPO)",
+    "link": "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
+    "summary": "In this article, we will look at how that learning actually happens, starting with why instruction-following alone falls short, then walking through the two main methods for teaching preferences (RLHF and DPO).",
+    "published_iso": "2026-07-14T15:30:53+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "4k8LbDKkNXwcJVEFYF1ije",
+    "blog_name": "Cloudflare Blog",
+    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+    "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
+    "summary": "When a failed DNSSEC key rollover took down the .AL TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals directly in the response that DNSSEC validation was bypassed.",
+    "published_iso": "2026-07-14T13:00:00+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
     "blog_name": "Martin Fowler",
     "title": "DSLs Enable Reliable Use of LLMs",
@@ -750,16 +800,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with",
-    "blog_name": "ByteByteGo",
-    "title": "LAST CALL FOR ENROLLMENT: Build with Claude Code - Cohort 2",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with",
-    "summary": "We&#8217;re launching Cohort 2 of our 2-day intensive, cohort-based course, Build with Claude Code, taught by John Kim, who has trained hundreds of engineers at Meta to use Claude Code in real production workflows.",
-    "published_iso": "2026-06-17T15:31:10+00:00",
-    "published_display": "2026-06-17",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "896d74573d5a673ecb2d100c9b9230a603cc58a0",
     "blog_name": "AWS Architecture Blog",
     "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
@@ -768,16 +808,6 @@
     "published_iso": "2026-06-17T13:50:16+00:00",
     "published_display": "2026-06-17",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "1LDBKUul6cfW72f1DQaLyE",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing the Cloudflare One stack: agent-powered deployment",
-    "link": "https://blog.cloudflare.com/cloudflare-one-stack/",
-    "summary": "The Cloudflare One stack is a library of agent skills that gives any AI agent the knowledge it needs to plan, deploy, and manage a Zero Trust environment — no migration calls required.",
-    "published_iso": "2026-06-17T13:00:00+00:00",
-    "published_display": "2026-06-17",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-06-16.html",
@@ -1180,16 +1210,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "416018ee29563e5d7e86fb8abc90161afba0f6bc",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS",
-    "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/",
-    "summary": "This post explores how ALS GeoAnalytics successfully deployed LITHOLENS ™ with Amazon Elastic Kubernetes Service (Amazon EKS) to scale model training and inference while minimizing cost.",
-    "published_iso": "2026-05-19T15:09:36+00:00",
-    "published_display": "2026-05-19",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",
     "blog_name": "Discord Engineering",
     "title": "Every Voice and Video Call on Discord Is Now End-to-End Encrypted",
@@ -1490,16 +1510,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://medium.com/p/c714d6910b45",
-    "blog_name": "Airbnb Engineering",
-    "title": "Building a high-volume metrics pipeline with OpenTelemetry and vmagent",
-    "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4",
-    "summary": "A production-tested approach for moving a large-scale metrics pipeline from StatsD to OpenTelemetry and Prometheus. By: Eugene Ma , Natasha Aleksandrova When migrating to a new monitoring system, you’ll want to frontload the work to collect all your metrics. This exposes bottlenecks at full write scale and unblocks the migration of assets which require real data for validation, such as dashboards and alerts. Collecting all your metrics first means you can focus on major technical challenges — sc",
-    "published_iso": "2026-04-07T17:01:01+00:00",
-    "published_display": "2026-04-07",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
     "id": "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",
     "blog_name": "Martin Fowler",
     "title": "Principles of Mechanical Sympathy",
@@ -1777,16 +1787,6 @@
     "summary": "Slack’s Security Engineering team is responsible for protecting Slack’s core infrastructure and services. Our security event ingestion pipeline handles billions of events per day from a diverse array of data sources. Reviewing alerts produced by our security detection system is our primary responsibility during on-call shifts. We’re going to show you how we’re using AI&#8230;",
     "published_iso": "2025-12-01T16:00:42+00:00",
     "published_display": "2025-12-01",
-    "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "https://slack.engineering/?p=17474",
-    "blog_name": "Slack Engineering",
-    "title": "Android VPAT journey",
-    "link": "https://slack.engineering/android-vpat-journey/",
-    "summary": "Background A Voluntary Product Accessibility Template (VPAT) is a document that outlines how well a product aligns with accessibility (a11y) standards. Its primary purpose is to inform customers about a product&#8217;s a11y features, enabling them to make informed decisions before purchasing software. At Slack, we conducted a VPAT by a third party a11y vendor in&#8230;",
-    "published_iso": "2025-11-19T18:00:39+00:00",
-    "published_display": "2025-11-19",
     "feed_url": "https://slack.engineering/feed/"
   },
   {
@@ -2520,6 +2520,26 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
+    "blog_name": "Google Developers Blog",
+    "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
+    "link": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
+    "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executi",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
+    "blog_name": "Google Developers Blog",
+    "title": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel",
+    "link": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
+    "summary": "At Google I/O Connect India, Google showcased the future of 100% private, on-device AI powered by the custom Tensor SoC and TPU for the new Pixel 10 family. The event debuted the lightweight Gemma 4 E2B model, which runs natively on the device to enable completely offline multimodal features like AI chat, real-time image recognition, and personal agent tasks. Developers can start building these secure, edge-based applications today by accessing the newly announced Tensor SDK beta and its accompa",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "blog_name": "Google Developers Blog",
     "title": "LiteRT.js, Google's high performance Web AI Inference",
@@ -2550,11 +2570,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
     "blog_name": "Google Developers Blog",
-    "title": "Why we built ADK 2.0",
-    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
-    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
+    "title": "Build agentic full-stack apps with Genkit",
+    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2570,11 +2590,11 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
     "blog_name": "Google Developers Blog",
-    "title": "Build agentic full-stack apps with Genkit",
-    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
+    "title": "Why we built ADK 2.0",
+    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
     "link": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
     "summary": "Google DeepMind’s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which cre",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
-    "blog_name": "Google Developers Blog",
-    "title": "Gemma 4 12B: The Developer Guide",
-    "link": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
-    "summary": "The newly released Gemma 4 12B is a dense, multimodal model designed for high-performance local AI execution on consumer devices. By introducing a novel, encoder-free architecture, it bypasses traditional visual and audio encoders to feed multimodal data directly into the LLM backbone.",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
-    "blog_name": "Google Developers Blog",
-    "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
-    "link": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
-    "summary": "The Google Tunix Hackathon on Kaggle challenged developers to transform small, non-reasoning base models into general reasoning engines using Kaggle TPUs and a limited compute budget. The winning teams achieved this by implementing multi-stage post-training pipelines that combined Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. Ultimately, the competition democratized AI development by proving that highly capable, structured reasoning models can be successful",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

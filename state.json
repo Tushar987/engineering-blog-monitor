@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "b3d4159ab8714d76bae7e58c80873101fa677b12",
     "0c883221196256a615425f07a9067bccbd3cf13f",
     "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "23f64103d7883c302cd093107cc54367ad330819",
@@ -29,6 +30,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
     "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
     "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
@@ -63,6 +65,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "4k8LbDKkNXwcJVEFYF1ije",
     "6ePF6Vl7bAXNNpdFDoFbqs",
     "2smERhDvpGH6FbC035djwD",
     "5wMIF1Oa7DES2YNRpqiVB0",
@@ -96,12 +99,14 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
+    "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
     "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
-    "https://developers.googleblog.com/why-we-built-adk-20/",
-    "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "https://developers.googleblog.com/why-we-built-adk-20/",
     "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/measuring-what-matters-with-jules/",
@@ -299,6 +304,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/14e2d35198b4",
     "https://medium.com/p/6125645d470c",
     "https://medium.com/p/b7e00c152068",
     "https://medium.com/p/915a72b91b5c",
@@ -325,6 +331,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://slack.engineering/feed/": [
+    "https://slack.engineering/?p=17832",
     "https://slack.engineering/?p=17854",
     "https://slack.engineering/?p=17812",
     "https://slack.engineering/?p=17774",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "abf6f9161a9d2e1227daae436ad0c85282f26fc9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Prioritize your AWS Health alerts using AWS User Notifications",
+    "link": "https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications/",
+    "summary": "If you run critical workloads on AWS, such as a contact center on Amazon Connect Customer, database workloads on Amazon Relational Database Service (Amazon RDS), or hybrid connectivity through AWS Direct Connect, service health events demand your attention. But not all events are equal. An operational issue, a scheduled maintenance window, and a deprecation notice […]",
+    "published_iso": "2026-07-16T14:56:22+00:00",
+    "published_display": "2026-07-16",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
+    "blog_name": "Martin Fowler",
+    "title": "The Archaeologist’s Copilot",
+    "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "summary": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. His early use of LLMs gave plausible answers that did not hold up in the codebase. Progress came when he grounded the process in evidence, using AI to support analysis, validation in a stable Docker environment, and gradual refactoring protected by tests. The main takeaway is pra",
+    "published_iso": "2026-07-16T13:25:00+00:00",
+    "published_display": "2026-07-16",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24251",
+    "blog_name": "Meta Engineering",
+    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+    "link": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified embeddings that connect users&#8217; inferred interests with the breadth of what advertisers offer in their deep funnel ads. The innovations in Hierarchical Interest Representation are [...] Read More... The post Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Op",
+    "published_iso": "2026-07-15T17:00:52+00:00",
+    "published_display": "2026-07-15",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
+    "blog_name": "ByteByteGo",
+    "title": "AI Customer Support at Scale: The Travel Industry’s $Billion Bet",
+    "link": "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
+    "summary": "In this article, we will look more closely at the different solutions by following the support pipeline from first principles, show why a tail of cases resists automation regardless of model quality, and use these three approaches to understand how these can be handled.",
+    "published_iso": "2026-07-15T15:30:53+00:00",
+    "published_display": "2026-07-15",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "e93a67cd681588de3d1728e022a51ce4dda6f4fc",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
+    "link": "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/",
+    "summary": "When 121 million mobile devices establish persistent gRPC connections to your origin infrastructure within seconds of a live broadcast, the routing policy behind your DNS records matters far more than it does at normal traffic levels. The wrong policy can concentrate all your connections onto a single origin endpoint, turning a scaling success into an […]",
+    "published_iso": "2026-07-15T15:27:47+00:00",
+    "published_display": "2026-07-15",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "b3d4159ab8714d76bae7e58c80873101fa677b12",
     "blog_name": "AWS Architecture Blog",
     "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
@@ -42,9 +92,9 @@
   {
     "id": "4k8LbDKkNXwcJVEFYF1ije",
     "blog_name": "Cloudflare Blog",
-    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+    "title": "A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed",
     "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
-    "summary": "When a failed DNSSEC key rollover took down the .AL TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals directly in the response that DNSSEC validation was bypassed.",
+    "summary": "When a failed DNSSEC key rollover took down the .al TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals directly in the response that DNSSEC validation was bypassed.",
     "published_iso": "2026-07-14T13:00:00+00:00",
     "published_display": "2026-07-14",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -68,16 +118,6 @@
     "published_iso": "2026-07-13T22:44:11+00:00",
     "published_display": "2026-07-13",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-07-13.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: July 13",
-    "link": "https://martinfowler.com/fragments/2026-07-13.html",
-    "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat . When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering . This time we had a whole session on it. When comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o",
-    "published_iso": "2026-07-13T16:06:00+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://engineering.fb.com/?p=24221",
@@ -108,6 +148,16 @@
     "published_iso": "2026-07-13T13:00:00+00:00",
     "published_display": "2026-07-13",
     "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-07-13.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: July 13",
+    "link": "https://martinfowler.com/fragments/2026-07-13.html",
+    "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat . When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering . This time we had a whole session on it. When comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o",
+    "published_iso": "2026-07-13T12:51:00+00:00",
+    "published_display": "2026-07-13",
+    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "0c883221196256a615425f07a9067bccbd3cf13f",
@@ -145,7 +195,7 @@
     "title": "Improving Smart Tiered Cache for Public Cloud Regions",
     "link": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
     "summary": "Smart Tiered Cache allows for precise upper tier selection for origins hosted on AWS, GCP, Azure, and Oracle Cloud with customer-provided cloud region hints.",
-    "published_iso": "2026-07-10T13:00:00+00:00",
+    "published_iso": "2026-07-10T12:00:00+00:00",
     "published_display": "2026-07-10",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -175,7 +225,7 @@
     "title": "Why we cannot wait for better post-quantum signature algorithms",
     "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
     "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
-    "published_iso": "2026-07-09T14:00:00+00:00",
+    "published_iso": "2026-07-09T13:40:47+00:00",
     "published_display": "2026-07-09",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -195,7 +245,7 @@
     "title": "Introducing Meerkat: an experiment in global consensus",
     "link": "https://blog.cloudflare.com/meerkat-introduction/",
     "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
-    "published_iso": "2026-07-08T13:00:00+00:00",
+    "published_iso": "2026-07-08T12:00:00+00:00",
     "published_display": "2026-07-08",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -230,16 +280,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "3xHevpKOOM76zUSrlPcQno",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
-    "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
-    "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framework: democratizing security, leadership accountability, and radical transparency.",
-    "published_iso": "2026-07-07T13:00:00+00:00",
-    "published_display": "2026-07-07",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
     "blog_name": "Martin Fowler",
     "title": "Viability of local models for coding",
@@ -248,6 +288,16 @@
     "published_iso": "2026-07-07T12:34:00+00:00",
     "published_display": "2026-07-07",
     "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "3xHevpKOOM76zUSrlPcQno",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+    "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
+    "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framework: democratizing security, leadership accountability, and radical transparency.",
+    "published_iso": "2026-07-07T12:00:00+00:00",
+    "published_display": "2026-07-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-july-7-2026",
@@ -330,26 +380,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "6dNg0U03j4cnbacP8txDok",
-    "blog_name": "Cloudflare Blog",
-    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-    "link": "https://blog.cloudflare.com/monetization-gateway/",
-    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stack of your own to build.",
-    "published_iso": "2026-07-01T13:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "3qEwyKxigFNDK4JTlPfl8A",
-    "blog_name": "Cloudflare Blog",
-    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
-    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
-    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new infrastructure required to support a sustainable web economy.",
-    "published_iso": "2026-07-01T13:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "YqZRSH26JlDBUNvwASOr2",
     "blog_name": "Cloudflare Blog",
     "title": "Making AI search smarter",
@@ -365,6 +395,26 @@
     "title": "Your site, your rules: new AI traffic options for all customers",
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.",
+    "published_iso": "2026-07-01T13:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "6dNg0U03j4cnbacP8txDok",
+    "blog_name": "Cloudflare Blog",
+    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+    "link": "https://blog.cloudflare.com/monetization-gateway/",
+    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stack of your own to build.",
+    "published_iso": "2026-07-01T13:00:00+00:00",
+    "published_display": "2026-07-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "3qEwyKxigFNDK4JTlPfl8A",
+    "blog_name": "Cloudflare Blog",
+    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
+    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new infrastructure required to support a sustainable web economy.",
     "published_iso": "2026-07-01T13:00:00+00:00",
     "published_display": "2026-07-01",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -750,16 +800,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/observability-for-beginners-logs",
-    "blog_name": "ByteByteGo",
-    "title": "Observability for Beginners: Logs, Metrics, Traces, and Everything Around Them",
-    "link": "https://blog.bytebytego.com/p/observability-for-beginners-logs",
-    "summary": "In this article, we will look at the basics of observability in detail with concepts like logs, metrics, and traces explained in detail.",
-    "published_iso": "2026-06-18T15:31:17+00:00",
-    "published_display": "2026-06-18",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "1kBoofDb8dfLiYnekjlUaX",
     "blog_name": "Cloudflare Blog",
     "title": "Celebrating 12 years of Project Galileo",
@@ -794,7 +834,7 @@
     "blog_name": "Cloudflare Blog",
     "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
     "link": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
-    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard.",
+    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard",
     "published_iso": "2026-06-17T19:35:00+00:00",
     "published_display": "2026-06-17",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -1060,16 +1100,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "4e2b6934017db79172113b78906285244b227b31",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building a scalable user search layer on top of Amazon Cognito",
-    "link": "https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/",
-    "summary": "In this post, we show how to build a comprehensive scalable user search layer on top of Amazon Cognito using AWS Lambda, Amazon DynamoDB, and Amazon OpenSearch Service.",
-    "published_iso": "2026-06-01T16:16:45+00:00",
-    "published_display": "2026-06-01",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://slack.engineering/?p=17812",
     "blog_name": "Slack Engineering",
     "title": "Slack AI: The Path to Multi-Cloud",
@@ -1170,16 +1200,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "b93294903fe7dcafbc5bb89d2806972b3c5e7269",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events",
-    "link": "https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/",
-    "summary": "Cyber resilience is the ability to recover workloads to a known-good state after an adversary has affected the environment. Prevention works to keep threat actors out and detection works to find them quickly. Cyber resilience focuses on recovery: restoring a trustworthy environment when backups, credentials, or parts of the infrastructure can no longer be assumed […]",
-    "published_iso": "2026-05-20T17:32:57+00:00",
-    "published_display": "2026-05-20",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-05-20:Three-more-static-code-analysis-sensors",
     "blog_name": "Martin Fowler",
     "title": "Three more static code analysis sensors",
@@ -1248,16 +1268,6 @@
     "published_iso": "2026-05-13T17:01:01+00:00",
     "published_display": "2026-05-13",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=23982",
-    "blog_name": "Meta Engineering",
-    "title": "Reel Friends: Building Social Discovery that Scales to Billions",
-    "link": "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/",
-    "summary": "On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...] Read More... The post Reel Friends: Building Social Discovery that Scales to Billions appeared first on Engineering at Meta .",
-    "published_iso": "2026-05-13T13:00:44+00:00",
-    "published_display": "2026-05-13",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://discord.com/blog/celebrate-discords-11th-birthday-with-an-exclusive-set-of-emoji-and-wallpapers",
@@ -1608,16 +1618,6 @@
     "published_iso": "2026-03-19T19:00:54+00:00",
     "published_display": "2026-03-19",
     "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-03-17:Context-Anchoring",
-    "blog_name": "Martin Fowler",
-    "title": "Context Anchoring",
-    "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
-    "summary": "Conversations with AI are ephemeral, decisions made early lose attention as the conversation continues, and disappear entirely with a new session. Rahul Garg explains how Context Anchoring externalizes the decision context into a living document. more…",
-    "published_iso": "2026-03-17T13:37:00+00:00",
-    "published_display": "2026-03-17",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/how-roost-is-advancing-online-safety",
@@ -2520,6 +2520,26 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "blog_name": "Google Developers Blog",
+    "title": "Building scalable AI agents with modular prompt transpilation",
+    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+    "blog_name": "Google Developers Blog",
+    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
+    "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+    "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "blog_name": "Google Developers Blog",
     "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
@@ -2580,21 +2600,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "blog_name": "Google Developers Blog",
-    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
-    "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/why-we-built-adk-20/",
     "blog_name": "Google Developers Blog",
     "title": "Why we built ADK 2.0",
     "link": "https://developers.googleblog.com/why-we-built-adk-20/",
     "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "blog_name": "Google Developers Blog",
+    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+    "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "DiffusionGemma: The Developer Guide",
     "link": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
     "summary": "DiffusionGemma is an experimental text-generation model built on the Gemma 4 architecture that uses diffusion-based parallel generation instead of token-by-token autoregression, enabling much faster inference, bidirectional context awareness, and real-time self-correction while remaining deployable on consumer GPUs. Its architecture generates and refines 256-token blocks in parallel through iterative denoising, allowing it to handle complex constraint-based tasks such as Sudoku more effectively ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
-    "blog_name": "Google Developers Blog",
-    "title": "Introducing the Google Colab CLI",
-    "link": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
-    "summary": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
-    "blog_name": "Google Developers Blog",
-    "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
-    "link": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
-    "summary": "Google DeepMind’s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which cre",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

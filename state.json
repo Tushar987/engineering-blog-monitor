@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "abf6f9161a9d2e1227daae436ad0c85282f26fc9",
+    "e93a67cd681588de3d1728e022a51ce4dda6f4fc",
     "b3d4159ab8714d76bae7e58c80873101fa677b12",
     "0c883221196256a615425f07a9067bccbd3cf13f",
     "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
@@ -30,6 +32,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
     "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
     "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
     "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
@@ -72,11 +75,11 @@
     "7zbgYCOZDfvIIsVrPpZ8xJ",
     "3xHevpKOOM76zUSrlPcQno",
     "1WYEYtVwQSo4H3jKHTcKmO",
-    "6dNg0U03j4cnbacP8txDok",
-    "3qEwyKxigFNDK4JTlPfl8A",
+    "3wrqj94tEFsKCZ8OBUE52R",
     "YqZRSH26JlDBUNvwASOr2",
     "FWKHybUFEZFSsFCrbEwAd",
-    "3wrqj94tEFsKCZ8OBUE52R",
+    "6dNg0U03j4cnbacP8txDok",
+    "3qEwyKxigFNDK4JTlPfl8A",
     "6BmERiKIIt4pIJoFmNy7Jn",
     "77AgsHNNnpUDvP0Z6gqgp6",
     "6ecffq4Al52D0ka1U4p2OR",
@@ -99,14 +102,16 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
     "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "https://developers.googleblog.com/why-we-built-adk-20/",
+    "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/measuring-what-matters-with-jules/",
@@ -236,6 +241,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24251",
     "https://engineering.fb.com/?p=24221",
     "https://engineering.fb.com/?p=24150",
     "https://engineering.fb.com/?p=24128",
@@ -267,6 +273,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
     "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
     "https://martinfowler.com/fragments/2026-07-13.html",
     "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",

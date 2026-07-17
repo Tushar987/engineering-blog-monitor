@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
+    "blog_name": "ByteByteGo",
+    "title": "A Guide to Multi-Tenancy: Benefits and Challenges",
+    "link": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
+    "summary": "In this article, we will understand multi-tenant architecture from the basics, along with its various benefits and challenges.",
+    "published_iso": "2026-07-16T16:37:08+00:00",
+    "published_display": "2026-07-16",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "abf6f9161a9d2e1227daae436ad0c85282f26fc9",
     "blog_name": "AWS Architecture Blog",
     "title": "Prioritize your AWS Health alerts using AWS User Notifications",
@@ -707,16 +717,6 @@
     "summary": "Individual gains do not become organizational gains on their own. This is the playbook for making that leap. Let&#8217;s dive in.",
     "published_iso": "2026-06-22T15:30:47+00:00",
     "published_display": "2026-06-22",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ep219-12-open-source-llms",
-    "blog_name": "ByteByteGo",
-    "title": "EP219: 12 Open-source LLMs",
-    "link": "https://blog.bytebytego.com/p/ep219-12-open-source-llms",
-    "summary": "Twelve models worth knowing in 2026, each with one standout strength.",
-    "published_iso": "2026-06-20T15:30:36+00:00",
-    "published_display": "2026-06-20",
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
@@ -2520,6 +2520,16 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "blog_name": "Google Developers Blog",
+    "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
+    "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single sour",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "blog_name": "Google Developers Blog",
     "title": "Building scalable AI agents with modular prompt transpilation",
@@ -2545,16 +2555,6 @@
     "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
     "link": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executi",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
-    "blog_name": "Google Developers Blog",
-    "title": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel",
-    "link": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
-    "summary": "At Google I/O Connect India, Google showcased the future of 100% private, on-device AI powered by the custom Tensor SoC and TPU for the new Pixel 10 family. The event debuted the lightweight Gemma 4 E2B model, which runs natively on the device to enable completely offline multimodal features like AI chat, real-time image recognition, and personal agent tasks. Developers can start building these secure, edge-based applications today by accessing the newly announced Tensor SDK beta and its accompa",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

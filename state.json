@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "f41c185d4345c3ee9fab04ee26074c87138bd0cd",
+    "79c1ac7425c27097c35a7bcd9fca2e4f4daf585b",
+    "219d2d32b5ffa4168e43dc558a94ea5de261d873",
     "abf6f9161a9d2e1227daae436ad0c85282f26fc9",
     "e93a67cd681588de3d1728e022a51ce4dda6f4fc",
     "b3d4159ab8714d76bae7e58c80873101fa677b12",
@@ -69,6 +72,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KXQS1XDD7HKB324JEWG6BZDA",
     "4k8LbDKkNXwcJVEFYF1ije",
     "6ePF6Vl7bAXNNpdFDoFbqs",
     "2smERhDvpGH6FbC035djwD",
@@ -104,8 +108,8 @@
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
     "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+    "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
@@ -326,6 +330,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/a5a8e799ea2c",
     "https://medium.com/p/f4b792f3f0d8",
     "https://medium.com/p/77146fba8a08",
     "https://medium.com/p/eb8160ed60a2",

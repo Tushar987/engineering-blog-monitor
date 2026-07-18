@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://medium.com/p/a5a8e799ea2c",
+    "blog_name": "Netflix Tech Blog",
+    "title": "In-House LLM Serving at Netflix",
+    "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+    "summary": "By AI Platform’s Model Runtime team and Inference team Introduction Most organizations consume LLMs through hosted APIs. Netflix went further — we run the full stack ourselves, from model deployment through inference, inside our existing production environment rather than a separate ML silo. Some of those decisions weren’t obvious, and a few revealed their trade-offs only under production load. This post focuses on the choices where alternatives were seriously considered: engine selection, model",
+    "published_iso": "2026-07-17T21:32:39+00:00",
+    "published_display": "2026-07-17",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "01KXQS1XDD7HKB324JEWG6BZDA",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+    "link": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+    "summary": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but customers should still update immediately to a patched release",
+    "published_iso": "2026-07-17T21:30:43+00:00",
+    "published_display": "2026-07-17",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "f41c185d4345c3ee9fab04ee26074c87138bd0cd",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
+    "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/",
+    "summary": "When you deploy Eclipse Dataspace Components (EDC) connectors on AWS, one of the first challenges you face is predicting and controlling the cost of the required infrastructure. Without clear benchmarks, it is difficult to make informed decisions about workload sizing, environment configuration, and long-term investment. Part 1 of this 3-part blog series covered the fundamentals […]",
+    "published_iso": "2026-07-17T16:03:47+00:00",
+    "published_display": "2026-07-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "79c1ac7425c27097c35a7bcd9fca2e4f4daf585b",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Eclipse Dataspace Components on AWS: Architecture patterns in production",
+    "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production/",
+    "summary": "Running Eclipse Dataspace Components (EDC) connectors in production on AWS requires deliberate architecture decisions around isolation, managed services, and security layering. In Part 1 of this series, we covered the fundamentals of data space architectures and EDC per the International Data Space Association’s (IDSA) standards. If you are new to EDC, we recommend starting there. […]",
+    "published_iso": "2026-07-17T16:03:44+00:00",
+    "published_display": "2026-07-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "219d2d32b5ffa4168e43dc558a94ea5de261d873",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Eclipse Dataspace Components on AWS: Data sharing fundamentals",
+    "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals/",
+    "summary": "This three-part blog series guides you through implementing Eclipse Dataspace Components (EDC) on AWS, from foundational concept to production deployment. Part 1 establishes the theoretical foundation with IDSA standards, the Dataspace Protocol (DSP), and core EDC architecture. Part 2 provides production-ready AWS deployment patterns using services like Amazon Elastic Container Service (Amazon ECS), Amazon Aurora, […]",
+    "published_iso": "2026-07-17T16:03:40+00:00",
+    "published_display": "2026-07-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
     "blog_name": "ByteByteGo",
     "title": "A Guide to Multi-Tenancy: Benefits and Challenges",
@@ -770,16 +820,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://medium.com/p/4623f0a9c5af",
-    "blog_name": "Netflix Tech Blog",
-    "title": "A Human-Augmenting Agentic Workflow for Causal Inference",
-    "link": "https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss----2615bd06b42e---4",
-    "summary": "By Winston Chou, Adrien Alexandre, Lars Olds, Yi Zhang, Garrett Hagemann, and Nathan Kallus Introduction Imagine asking a data agent to analyze the causal relationship between two variables, such as the effect of watching a popular Netflix show on long-term member retention. It queries your data, runs a regression, and confidently returns an answer. How much should you trust it? Can you be confident that the agent accounted for subtle biases — or does it treat passionate fans as if they were the",
-    "published_iso": "2026-06-19T23:53:06+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "2EKaG8rvH4FLnpEQVgvJ4I",
     "blog_name": "Cloudflare Blog",
     "title": "Temporary Cloudflare Accounts for AI agents",
@@ -828,16 +868,6 @@
     "published_iso": "2026-06-18T00:00:00+00:00",
     "published_display": "2026-06-18",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "48yPgdpb7RGTBdh4DPPCUF",
-    "blog_name": "Cloudflare Blog",
-    "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
-    "link": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
-    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard",
-    "published_iso": "2026-06-17T19:35:00+00:00",
-    "published_display": "2026-06-17",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "896d74573d5a673ecb2d100c9b9230a603cc58a0",
@@ -1040,16 +1070,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "be02f2ab90e06f3b8d3fbf798600258a5d768cbc",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building highly available Oracle databases with Amazon FSx for NetApp ONTAP",
-    "link": "https://aws.amazon.com/blogs/architecture/building-highly-available-oracle-databases-with-amazon-fsx-for-netapp-ontap/",
-    "summary": "This post shows how to build a highly available Oracle database architecture using FSxN shared storage, Auto Scaling groups with dynamic AMI updates, and serverless orchestration to help reduce recovery times with current configurations.",
-    "published_iso": "2026-06-03T15:51:22+00:00",
-    "published_display": "2026-06-03",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program",
     "blog_name": "Stripe Engineering",
     "title": "Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)",
@@ -1078,26 +1098,6 @@
     "published_iso": "2026-06-02T15:21:00+00:00",
     "published_display": "2026-06-02",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "2dbd4af1c59c375d61cdd55125ed6cda4c0097be",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Automating contract intelligence with Doczy.ai™ on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws/",
-    "summary": "In this post, we show you how Doczy.ai™ uses generative AI on AWS to automate contract intelligence at scale, transforming unstructured documents into structured, actionable insights, so organizations can automate critical business processes and unlock the full value of their data.",
-    "published_iso": "2026-06-02T14:06:32+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "367ff763b8aeb77bf59878e6d464058e6aef5b37",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent",
-    "link": "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/",
-    "summary": "This post details how NYCBS partnered with Amazon Web Services (AWS) and AWS partner Pronetx (now part of Caylent) to migrate to Amazon Connect Customer, the AWS cloud contact center service. The migration delivered a 54 percent improvement in patient enrollment and transformed the way NYCBS connects with the patients who need them most.",
-    "published_iso": "2026-06-01T21:45:52+00:00",
-    "published_display": "2026-06-01",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://slack.engineering/?p=17812",
@@ -2530,21 +2530,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "blog_name": "Google Developers Blog",
-    "title": "Building scalable AI agents with modular prompt transpilation",
-    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "blog_name": "Google Developers Blog",
     "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
     "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "blog_name": "Google Developers Blog",
+    "title": "Building scalable AI agents with modular prompt transpilation",
+    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
+    "blog_name": "ByteByteGo",
+    "title": "MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other",
+    "link": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
+    "summary": "Agents are capable on their own. Combined with tools and other agents, their capabilities compound.",
+    "published_iso": "2026-07-18T16:46:13+00:00",
+    "published_display": "2026-07-18",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://medium.com/p/a5a8e799ea2c",
     "blog_name": "Netflix Tech Blog",
     "title": "In-House LLM Serving at Netflix",
@@ -758,16 +768,6 @@
     "published_iso": "2026-06-22T16:00:08+00:00",
     "published_display": "2026-06-22",
     "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ai-native-leaders-the-organizational",
-    "blog_name": "ByteByteGo",
-    "title": "AI-Native Leaders: The Organizational Playbook for Engineering Transformation at Scale",
-    "link": "https://blog.bytebytego.com/p/ai-native-leaders-the-organizational",
-    "summary": "Individual gains do not become organizational gains on their own. This is the playbook for making that leap. Let&#8217;s dive in.",
-    "published_iso": "2026-06-22T15:30:47+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://medium.com/p/18b699d58e36",

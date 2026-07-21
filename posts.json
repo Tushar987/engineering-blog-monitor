@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
+    "blog_name": "ByteByteGo",
+    "title": "Inside Roblox’s Bet on World Models",
+    "link": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
+    "summary": "We sat down with Anupam Singh, senior vice president of engineering at Roblox, to hear from him about the world model that Roblox is using to make its multiplayer games look photorealistic, the key insights that have come from taking that approach, and the next big thing that the Roblox team is focusing on.",
+    "published_iso": "2026-07-21T14:30:48+00:00",
+    "published_display": "2026-07-21",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-07-21.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: July 21",
+    "link": "https://martinfowler.com/fragments/2026-07-21.html",
+    "summary": "With this post, I’ll wrap up my notes from the second Future of Software Development Retreat . But before I do, I should note that the full Thoughtworks report on the retreat is now available . They have five headline findings: Code generation is no longer the bottleneck — verification is. ‘Harness engineering’ is emerging as a distinct, ownable discipline. Organizations are colliding with a real apprenticeship crisis. The executive/engineer expectation gap is a bigger risk than any technical li",
+    "published_iso": "2026-07-21T13:13:00+00:00",
+    "published_display": "2026-07-21",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01KY2432VQPD5FTF2RARXXYQGH",
+    "blog_name": "Cloudflare Blog",
+    "title": "How the 2026 World Cup affected Internet traffic",
+    "link": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/",
+    "summary": "We analyzed global HTTP traffic to explore how kickoff times, streaming habits, and hydration breaks reshaped online activity worldwide. From late-night traffic surges to halftime browsing spikes, here is how the world connected during the global tournament.",
+    "published_iso": "2026-07-21T12:59:40+00:00",
+    "published_display": "2026-07-21",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KXNA2XDCKTZTZQ1NC6HM40AZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare Internal DNS is now generally available",
+    "link": "https://blog.cloudflare.com/internal-dns/",
+    "summary": "Cloudflare Internal DNS brings authoritative and recursive DNS for private networks to the same global network and control plane that runs Cloudflare's Zero Trust, networking, and public DNS.",
+    "published_iso": "2026-07-20T20:59:31+00:00",
+    "published_display": "2026-07-20",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
     "blog_name": "ByteByteGo",
     "title": "MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other",
@@ -122,7 +162,7 @@
   {
     "id": "b3d4159ab8714d76bae7e58c80873101fa677b12",
     "blog_name": "AWS Architecture Blog",
-    "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
+    "title": "How Mapfre Insurance modernized fraud claims with Amazon EMR Serverless",
     "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/",
     "summary": "Insurance fraud remains a significant challenge for the insurance industry because fraudulent claims can increase loss costs, reduce trust, and consume investigation capacity that could otherwise be focused on serving customers. Traditional fraud detection approaches typically rely on rules-based controls, manual investigation triggers, historical claim patterns, and structured-data-only analysis. These approaches are useful for known […]",
     "published_iso": "2026-07-14T21:47:35+00:00",
@@ -294,7 +334,7 @@
     "blog_name": "Cloudflare Blog",
     "title": "Why we cannot wait for better post-quantum signature algorithms",
     "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
-    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
+    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
     "published_iso": "2026-07-09T13:40:47+00:00",
     "published_display": "2026-07-09",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -680,16 +720,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
-    "blog_name": "ByteByteGo",
-    "title": "An Ex-Meta L8’s Agentic Engineering Setup",
-    "link": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
-    "summary": "If you&#8217;re on the same journey of making your work with agents more productive and enjoyable, I hope this gives you a head start and shortcuts some of your own exploration.",
-    "published_iso": "2026-06-23T15:31:20+00:00",
-    "published_display": "2026-06-23",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/eb8160ed60a2",
     "blog_name": "Netflix Tech Blog",
     "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
@@ -830,26 +860,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "5Ad3Svz0xFxJQNx6eQZjJP",
-    "blog_name": "Cloudflare Blog",
-    "title": "Build your own vulnerability harness",
-    "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-    "summary": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM context limits.",
-    "published_iso": "2026-06-18T17:59:40+00:00",
-    "published_display": "2026-06-18",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "1kBoofDb8dfLiYnekjlUaX",
-    "blog_name": "Cloudflare Blog",
-    "title": "Celebrating 12 years of Project Galileo",
-    "link": "https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/",
-    "summary": "To mark the 12th anniversary of Project Galileo, Cloudflare has released its first comprehensive report analyzing cyberattacks against civil society.",
-    "published_iso": "2026-06-18T13:00:00+00:00",
-    "published_display": "2026-06-18",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
     "blog_name": "Stripe Engineering",
     "title": "What Link data tells us about AI spending",
@@ -885,7 +895,7 @@
     "title": "Fragments: June 16",
     "link": "https://martinfowler.com/fragments/2026-06-16.html",
     "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration sudde",
-    "published_iso": "2026-06-16T12:44:00+00:00",
+    "published_iso": "2026-06-16T15:44:00+00:00",
     "published_display": "2026-06-16",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
@@ -1080,6 +1090,16 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
+    "id": "https://martinfowler.com/fragments/2026-06-02.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: June  2",
+    "link": "https://martinfowler.com/fragments/2026-06-02.html",
+    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
+    "published_iso": "2026-06-02T18:21:00+00:00",
+    "published_display": "2026-06-02",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://medium.com/p/915a72b91b5c",
     "blog_name": "Airbnb Engineering",
     "title": "When history fails you, borrow from geography",
@@ -1088,16 +1108,6 @@
     "published_iso": "2026-06-02T17:01:04+00:00",
     "published_display": "2026-06-02",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-06-02.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: June  2",
-    "link": "https://martinfowler.com/fragments/2026-06-02.html",
-    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
-    "published_iso": "2026-06-02T15:21:00+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://slack.engineering/?p=17812",
@@ -1445,7 +1455,7 @@
     "title": "Fragments: April 21",
     "link": "https://martinfowler.com/fragments/2026-04-21.html",
     "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar . This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements. As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes: An interesting ",
-    "published_iso": "2026-04-21T20:34:00+00:00",
+    "published_iso": "2026-04-21T23:34:00+00:00",
     "published_display": "2026-04-21",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
@@ -1478,16 +1488,6 @@
     "published_iso": "2026-04-14T17:01:01+00:00",
     "published_display": "2026-04-14",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-04-14.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: April 14",
-    "link": "https://martinfowler.com/fragments/2026-04-14.html",
-    "summary": "I attended the first Pragmatic Summit early this year, and while there host Gergely Orosz interviewed Kent Beck and myself on stage . The video runs for about half-an-hour. I always enjoy nattering with Kent like this, and Gergely pushed into some worthwhile topics. Given the timing, AI dominated the conversation - we compared it to earlier technology shifts, the experience of agile methods, the role of TDD, the danger of unhealthy performance metrics, and how to thrive in an AI-native industry.",
-    "published_iso": "2026-04-14T13:16:00+00:00",
-    "published_display": "2026-04-14",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://slack.engineering/?p=17752",
@@ -2520,6 +2520,26 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+    "blog_name": "Google Developers Blog",
+    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+    "link": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing develop",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+    "blog_name": "Google Developers Blog",
+    "title": "Run Ray on TPU, Part 1: The foundations",
+    "link": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "blog_name": "Google Developers Blog",
     "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
@@ -2590,16 +2610,6 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "blog_name": "Google Developers Blog",
-    "title": "Build agentic full-stack apps with Genkit",
-    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/why-we-built-adk-20/",
     "blog_name": "Google Developers Blog",
     "title": "Why we built ADK 2.0",
@@ -2615,6 +2625,16 @@
     "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
     "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "blog_name": "Google Developers Blog",
+    "title": "Build agentic full-stack apps with Genkit",
+    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
     "link": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
     "summary": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-l",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
-    "blog_name": "Google Developers Blog",
-    "title": "Enhance Security and Trust: New Session Metadata in Sign in with Google",
-    "link": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
-    "summary": "Google is enhancing Sign in with Google by introducing new OIDC standard claims—specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover an",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
-    "blog_name": "Google Developers Blog",
-    "title": "DiffusionGemma: The Developer Guide",
-    "link": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
-    "summary": "DiffusionGemma is an experimental text-generation model built on the Gemma 4 architecture that uses diffusion-based parallel generation instead of token-by-token autoregression, enabling much faster inference, bidirectional context awareness, and real-time self-correction while remaining deployable on consumer GPUs. Its architecture generates and refines 256-token blocks in parallel through iterative denoising, allowing it to handle complex constraint-based tasks such as Sudoku more effectively ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

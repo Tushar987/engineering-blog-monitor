@@ -35,6 +35,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
     "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
     "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
     "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
@@ -73,6 +74,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KY2432VQPD5FTF2RARXXYQGH",
+    "01KXNA2XDCKTZTZQ1NC6HM40AZ",
     "01KXQS1XDD7HKB324JEWG6BZDA",
     "4k8LbDKkNXwcJVEFYF1ije",
     "6ePF6Vl7bAXNNpdFDoFbqs",
@@ -108,6 +111,8 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+    "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
     "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
@@ -115,9 +120,9 @@
     "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
-    "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
     "https://developers.googleblog.com/why-we-built-adk-20/",
     "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
     "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
     "https://developers.googleblog.com/announcing-adk-go-20/",
     "https://developers.googleblog.com/measuring-what-matters-with-jules/",
@@ -280,6 +285,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-07-21.html",
     "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
     "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
     "https://martinfowler.com/fragments/2026-07-13.html",
@@ -303,13 +309,13 @@
     "https://martinfowler.com/fragments/2026-04-29.html",
     "tag:martinfowler.com,2026-04-28:Structured-Prompt-Driven-Development--SPDD-",
     "https://martinfowler.com/fragments/2026-04-21.html",
-    "https://martinfowler.com/fragments/2026-04-14.html",
     "https://martinfowler.com/articles/202604-turing.html",
     "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
     "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",
     "tag:martinfowler.com,2026-04-02:Harness-engineering-for-coding-agent-users",
     "tag:martinfowler.com,2026-03-31:Encoding-Team-Standards",
     "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
+    "https://martinfowler.com/fragments/2026-04-14.html",
     "tag:martinfowler.com,2026-03-17:Context-Anchoring",
     "https://martinfowler.com/fragments/2026-04-09.html",
     "tag:martinfowler.com,2026-03-05:Ideological-Resistance-to-Patents--Followed-by-Reluctant----------------Pragmatism",

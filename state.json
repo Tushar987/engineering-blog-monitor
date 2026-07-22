@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
+    "36baf26c54fe304725040010bfa7f4187708c5c9",
+    "22e273b92b518fee449b6a6114b657618e5e1864",
     "f41c185d4345c3ee9fab04ee26074c87138bd0cd",
     "79c1ac7425c27097c35a7bcd9fca2e4f4daf585b",
     "219d2d32b5ffa4168e43dc558a94ea5de261d873",
@@ -324,6 +327,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/bcefd1915624",
     "https://medium.com/p/14e2d35198b4",
     "https://medium.com/p/6125645d470c",
     "https://medium.com/p/b7e00c152068",
@@ -363,6 +367,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
     "https://stripe.com/blog/trends-from-hitec",
     "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
     "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",

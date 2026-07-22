@@ -1,5 +1,45 @@
 [
   {
+    "id": "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Building multi-Region resiliency for AWS CloudFormation custom resource deployment",
+    "link": "https://aws.amazon.com/blogs/architecture/building-multi-region-resiliency-for-aws-cloudformation-custom-resource-deployment/",
+    "summary": "AWS CloudFormation is the foundational tool of infrastructure-as-code for thousands of organizations running workloads on AWS. But as teams push the boundaries of what CloudFormation can do natively, custom resources have emerged as a powerful extension mechanism that unlocks a broad range of possibilities. Yet, when it comes to building resilient, multi-Region deployments with custom […]",
+    "published_iso": "2026-07-22T14:25:09+00:00",
+    "published_display": "2026-07-22",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "36baf26c54fe304725040010bfa7f4187708c5c9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Architecting offline-first generative AI applications for edge deployments using AWS services",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services/",
+    "summary": "According to Siemens’ 2024 report The True Cost of Downtime, Fortune 500 companies lose an estimated $1.4 trillion annually because of unplanned downtime. This downtime is often worsened by a lack of skills to detect and resolve issues quickly. Generative AI offers a promising path to address this, but deploying these capabilities in industrial environments […]",
+    "published_iso": "2026-07-22T13:32:57+00:00",
+    "published_display": "2026-07-22",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "22e273b92b518fee449b6a6114b657618e5e1864",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Automate custom PII detection at scale with Amazon Macie and Step Functions",
+    "link": "https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions/",
+    "summary": "Organizations in regulated industries like financial services, insurance, healthcare, and government ingest large volumes of data containing personally identifiable information (PII). Your applications, claims processing systems, partner data feeds, and internal workflows produce files that may include names, addresses, Social Security numbers, and domain-specific identifiers such as policy numbers, member IDs, and medical record numbers. […]",
+    "published_iso": "2026-07-22T13:30:26+00:00",
+    "published_display": "2026-07-22",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://medium.com/p/bcefd1915624",
+    "blog_name": "Airbnb Engineering",
+    "title": "Personalizing Airbnb search by learning from the guest journey",
+    "link": "https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4",
+    "summary": "How we built a Transformer-based sequence model that encodes years of guest behavior to surface the right listings at the right time. By: Daochen Zha , Chun How Tan , Xin Liu , Bin Xu , Han Zhao , Xiaowei Liu , Jun Shi , Tracy Yu , Hui Gao , Huiji Gao , Liwei He , Michael Kinoti , Stephanie Moyerman , and Sanjeev Katariya Introduction Planning a trip on Airbnb rarely happens in a single session. A guest searching for a place to stay in San Francisco might browse dozens of listings over several d",
+    "published_iso": "2026-07-21T17:01:04+00:00",
+    "published_display": "2026-07-21",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
     "blog_name": "ByteByteGo",
     "title": "Inside Roblox’s Bet on World Models",
@@ -28,6 +68,16 @@
     "published_iso": "2026-07-21T12:59:40+00:00",
     "published_display": "2026-07-21",
     "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
+    "blog_name": "Stripe Engineering",
+    "title": "Analyzing the evidence that helps businesses win “product not received” disputes",
+    "link": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
+    "summary": "To understand what can influence win rates, we analyzed evidence packets from one million disputes over a 16-week period. Here’s what the data shows and what it means for how you mitigate disputes.",
+    "published_iso": "2026-07-21T00:00:00+00:00",
+    "published_display": "2026-07-21",
+    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "01KXNA2XDCKTZTZQ1NC6HM40AZ",
@@ -334,8 +384,8 @@
     "blog_name": "Cloudflare Blog",
     "title": "Why we cannot wait for better post-quantum signature algorithms",
     "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
-    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
-    "published_iso": "2026-07-09T13:40:47+00:00",
+    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
+    "published_iso": "2026-07-09T14:00:00+00:00",
     "published_display": "2026-07-09",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -940,16 +990,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "5a3eba0dc8fd694a76af2d1aa9a682ee75f1a9a6",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework",
-    "link": "https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework/",
-    "summary": "The Snowflake and AWS Custom Well-Architected Framework Lens brings together AWS Well-Architected best practices and Snowflake guidance into a single review experience, with integrated recommendations that reflect how the two services compose in production. In this post, we walk through each pillar, the three access points (AWS Management Console, Kiro, and Snowflake Cortex Code), and how to run your first review.",
-    "published_iso": "2026-06-10T15:06:00+00:00",
-    "published_display": "2026-06-10",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers",
     "blog_name": "Discord Engineering",
     "title": "Updated Requirements to How Apps Access Data in Servers",
@@ -978,16 +1018,6 @@
     "published_iso": "2026-06-09T17:01:02+00:00",
     "published_display": "2026-06-09",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "f15f99d2690737bc5139e910b6863cb9079d8ae1",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake",
-    "link": "https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/",
-    "summary": "In this post, you learn how to build an automated, serverless pipeline that converts scanned PDF medical records into FHIR R4-compliant data using Amazon Bedrock Data Automation and AWS HealthLake. We walk through the architecture, explain how each AWS service connects to the next, show you what the pipeline looks like when it runs, and get you deployed in under 20 minutes.",
-    "published_iso": "2026-06-09T16:51:55+00:00",
-    "published_display": "2026-06-09",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge",
@@ -1058,16 +1088,6 @@
     "published_iso": "2026-06-04T00:00:00+00:00",
     "published_display": "2026-06-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "529871daa0f4955d16d4a524be778e3d899a0977",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Align your architecture backlog with Tech Roadmap Prioritization (TRP)",
-    "link": "https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp/",
-    "summary": "In this post, we show you how to run a one-hour prioritization session with your stakeholders, plot competing initiatives on a shared matrix by cost and impact and turn the result into an actionable architecture backlog - using a framework called Tech Roadmap Prioritization (TRP).",
-    "published_iso": "2026-06-03T18:08:51+00:00",
-    "published_display": "2026-06-03",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://engineering.fb.com/?p=24022",
@@ -1300,16 +1320,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://stripe.com/blog/vertical-saas-insights-sessions-2026",
-    "blog_name": "Stripe Engineering",
-    "title": "Five vertical SaaS insights from Sessions 2026",
-    "link": "https://stripe.com/blog/vertical-saas-insights-sessions-2026",
-    "summary": "AI is forcing platforms to expand beyond pure software. See how vertical SaaS platforms are using payments, financial services, and agentic commerce to build more durable businesses.",
-    "published_iso": "2026-05-11T00:00:00+00:00",
-    "published_display": "2026-05-11",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://discord.com/blog/nitro-rewards",
     "blog_name": "Discord Engineering",
     "title": "Nitro Now Comes with Xbox Game Pass and New Benefits. Welcome to Nitro Rewards.",
@@ -1478,16 +1488,6 @@
     "published_iso": "2026-04-16T00:00:00+00:00",
     "published_display": "2026-04-16",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/d7dec59ef960",
-    "blog_name": "Airbnb Engineering",
-    "title": "Privacy-first connections: Empowering social experiences at Airbnb",
-    "link": "https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4",
-    "summary": "Discover how Airbnb prioritizes user privacy while building a more connected community, empowering guests to engage socially, connect confidently, and maintain control of their personal data. By: Joy Jing ✨ Building a more connected community At Airbnb, our hosts and guests form the heart of our community. As shared by CEO Brian Chesky , we’re evolving into a more social ecosystem. Airbnb Experiences now highlight the people involved as much as the activity. Guests can see Who’s going on an Expe",
-    "published_iso": "2026-04-14T17:01:01+00:00",
-    "published_display": "2026-04-14",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://slack.engineering/?p=17752",

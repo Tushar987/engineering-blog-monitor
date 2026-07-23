@@ -1,5 +1,25 @@
 [
   {
+    "id": "79195fa586925a9b62c134acc83bb06b7b67a778",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
+    "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/",
+    "summary": "Healthcare organizations face a critical scaling challenge – how to maintain deeply personalized patient interactions as member bases grow, without overwhelming care teams or compromising quality. At Pelago, a digital health company specializing in substance use disorder support, the engineering team found a way to build an AI-powered solution to address this challenge using AWS […]",
+    "published_iso": "2026-07-22T17:12:27+00:00",
+    "published_display": "2026-07-22",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents",
+    "blog_name": "ByteByteGo",
+    "title": "Best Practices for Building AI Agents That Work in Production",
+    "link": "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents",
+    "summary": "In this article, we try to explore the collective thinking into a smaller set of practices and explain the reasoning behind each one, rather than asking anyone to memorize a numbered list.",
+    "published_iso": "2026-07-22T15:30:44+00:00",
+    "published_display": "2026-07-22",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
     "blog_name": "AWS Architecture Blog",
     "title": "Building multi-Region resiliency for AWS CloudFormation custom resource deployment",
@@ -730,16 +750,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
-    "blog_name": "ByteByteGo",
-    "title": "Large Language Models vs Small Language Models",
-    "link": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
-    "summary": "In this article, we will explore those constraints through three layers of model design, look at the tradeoffs that come with each approach, and investigate the production systems that combine both small and large models.",
-    "published_iso": "2026-06-24T15:31:30+00:00",
-    "published_display": "2026-06-24",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "77AgsHNNnpUDvP0Z6gqgp6",
     "blog_name": "Cloudflare Blog",
     "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
@@ -958,16 +968,6 @@
     "published_iso": "2026-06-16T12:11:00+00:00",
     "published_display": "2026-06-16",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "3655df61c7a9886394cb9332a121e2b3a05e763f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Samsung achieved real-time pricing with AWS Lambda Response Streaming",
-    "link": "https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming/",
-    "summary": "In this post, we walk through the legacy architecture challenges, the stateless streaming solution, key implementation patterns, and performance results—a pattern you can apply if you’re building high-traffic APIs that aggregate data from multiple backend sources.",
-    "published_iso": "2026-06-15T14:13:36+00:00",
-    "published_display": "2026-06-15",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://slack.engineering/?p=17854",
@@ -1224,7 +1224,7 @@
     "blog_name": "Discord Engineering",
     "title": "Making It Easier Than Ever to Connect with Friends in League & VAL!",
     "link": "https://discord.com/blog/making-it-easier-than-ever-to-connect-with-friends-in-league-val",
-    "summary": "Starting soon, you’ll be able to link your Discord and Riot accounts to sync your friends lists, show your in-game activity as your Discord status, and invite your Discord friends directly to your League or VAL lobby.",
+    "summary": "Link your Discord and Riot accounts to sync your friends lists, show your in-game activity as your Discord status, and invite your Discord friends directly to your League or VAL lobby.",
     "published_iso": "2026-05-21T00:00:00+00:00",
     "published_display": "2026-05-21",
     "feed_url": "https://discord.com/blog/rss.xml"

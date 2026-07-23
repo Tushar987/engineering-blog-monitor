@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "79195fa586925a9b62c134acc83bb06b7b67a778",
     "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
     "36baf26c54fe304725040010bfa7f4187708c5c9",
     "22e273b92b518fee449b6a6114b657618e5e1864",
@@ -38,6 +39,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents",
     "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
     "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
     "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",

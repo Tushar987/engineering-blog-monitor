@@ -1,5 +1,25 @@
 [
   {
+    "id": "01KY05J6W4B4TF7X9348W51RWP",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Cache Response Rules",
+    "link": "https://blog.cloudflare.com/introducing-cache-response-rules/",
+    "summary": "Perhaps you’ve seen something that should sail out of cache get dragged back to the origin by a stray Set-Cookie or Cache-Control, headers that can be difficult to change on the origin itself. Cache Response Rules is the fix, applied at the right time.",
+    "published_iso": "2026-07-23T18:40:38+00:00",
+    "published_display": "2026-07-23",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
+    "blog_name": "ByteByteGo",
+    "title": "A Beginner’s Guide to Clocks, Causality, and Ordering in Distributed Systems",
+    "link": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
+    "summary": "Why does something as simple as reading the time become a hard problem for distributed systems?",
+    "published_iso": "2026-07-23T15:30:41+00:00",
+    "published_display": "2026-07-23",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "79195fa586925a9b62c134acc83bb06b7b67a778",
     "blog_name": "AWS Architecture Blog",
     "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
@@ -720,16 +740,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
-    "blog_name": "ByteByteGo",
-    "title": "Top Anti-Patterns to Avoid in Service Architecture",
-    "link": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
-    "summary": "In this article, we will look at some of the most important anti-patterns in service architecture, how they happen, and how they can be avoided.",
-    "published_iso": "2026-06-25T15:31:19+00:00",
-    "published_display": "2026-06-25",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "6BmERiKIIt4pIJoFmNy7Jn",
     "blog_name": "Cloudflare Blog",
     "title": "How we built saga rollbacks for Cloudflare Workflows",
@@ -908,16 +918,6 @@
     "published_iso": "2026-06-19T23:53:16+00:00",
     "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "2EKaG8rvH4FLnpEQVgvJ4I",
-    "blog_name": "Cloudflare Blog",
-    "title": "Temporary Cloudflare Accounts for AI agents",
-    "link": "https://blog.cloudflare.com/temporary-accounts/",
-    "summary": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.",
-    "published_iso": "2026-06-19T13:00:00+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",

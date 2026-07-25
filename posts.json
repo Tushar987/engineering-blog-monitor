@@ -1,5 +1,15 @@
 [
   {
+    "id": "01KYAFZ0EEBE4R099P8HT79D5X",
+    "blog_name": "Cloudflare Blog",
+    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+    "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
+    "summary": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection.",
+    "published_iso": "2026-07-24T17:25:28+00:00",
+    "published_display": "2026-07-24",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "01KY05J6W4B4TF7X9348W51RWP",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing Cache Response Rules",
@@ -424,7 +434,7 @@
     "blog_name": "Cloudflare Blog",
     "title": "Why we cannot wait for better post-quantum signature algorithms",
     "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
-    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best one currently available.",
+    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best currently available.",
     "published_iso": "2026-07-09T14:00:00+00:00",
     "published_display": "2026-07-09",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -818,16 +828,6 @@
     "published_iso": "2026-06-22T21:35:01+00:00",
     "published_display": "2026-06-22",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "5X4Vz9KDcjIBXgHIFSuJFZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we found a bug in the hyper HTTP library",
-    "link": "https://blog.cloudflare.com/hyper-bug/",
-    "summary": "By rearchitecting the Images binding, we accidentally uncovered a bug that existed in the open-source hyper library across multiple major versions.",
-    "published_iso": "2026-06-22T18:00:00+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "f826346cb1296d1306eca3a35547d4c1936b93cf",
@@ -2520,6 +2520,16 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+    "blog_name": "Google Developers Blog",
+    "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+    "link": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+    "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointin",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
     "blog_name": "Google Developers Blog",
     "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
@@ -2540,6 +2550,16 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
+    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "blog_name": "Google Developers Blog",
+    "title": "Building scalable AI agents with modular prompt transpilation",
+    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "blog_name": "Google Developers Blog",
     "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
@@ -2555,16 +2575,6 @@
     "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
     "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "blog_name": "Google Developers Blog",
-    "title": "Building scalable AI agents with modular prompt transpilation",
-    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2610,6 +2620,16 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
+    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "blog_name": "Google Developers Blog",
+    "title": "Build agentic full-stack apps with Genkit",
+    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/why-we-built-adk-20/",
     "blog_name": "Google Developers Blog",
     "title": "Why we built ADK 2.0",
@@ -2625,16 +2645,6 @@
     "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
     "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "blog_name": "Google Developers Blog",
-    "title": "Build agentic full-stack apps with Genkit",
-    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2705,16 +2715,6 @@
     "title": "Announcing the Agentic Resource Discovery specification",
     "link": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
     "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
-    "blog_name": "Google Developers Blog",
-    "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
-    "link": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
-    "summary": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-l",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

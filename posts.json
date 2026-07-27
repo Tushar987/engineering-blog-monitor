@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
+    "blog_name": "ByteByteGo",
+    "title": "How NVIDIA Builds Open Models for the Age of AI",
+    "link": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
+    "summary": "Bryan Catanzaro, VP of Applied Deep Learning Research at NVIDIA, walked us through how his team builds the company&#8217;s open models, the reasoning behind their architecture, and why NVIDIA open-sources so much of it.",
+    "published_iso": "2026-07-27T15:01:46+00:00",
+    "published_display": "2026-07-27",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01KYGZXPC2FQ4NSXSKXXYY86FZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "We’re open sourcing our privacy proxy CLI",
+    "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
+    "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
+    "published_iso": "2026-07-27T13:00:00+00:00",
+    "published_display": "2026-07-27",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "01KYAFZ0EEBE4R099P8HT79D5X",
     "blog_name": "Cloudflare Blog",
     "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
@@ -730,16 +750,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
-    "blog_name": "ByteByteGo",
-    "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
-    "link": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
-    "summary": "RAG connects LLMs to your data and there are three different ways to do it.",
-    "published_iso": "2026-06-27T15:30:44+00:00",
-    "published_display": "2026-06-27",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24095",
     "blog_name": "Meta Engineering",
     "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
@@ -777,16 +787,6 @@
     "summary": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
     "published_iso": "2026-06-24T06:00:00+00:00",
     "published_display": "2026-06-24",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "6ecffq4Al52D0ka1U4p2OR",
-    "blog_name": "Cloudflare Blog",
-    "title": "The White House's post-quantum executive order is an important milestone. It’s time to get to work",
-    "link": "https://blog.cloudflare.com/post-quantum-eo-2026/",
-    "summary": "The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry.",
-    "published_iso": "2026-06-23T18:25:18+00:00",
-    "published_display": "2026-06-23",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {

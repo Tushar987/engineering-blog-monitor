@@ -81,6 +81,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KYJZQZHMFNYN2EGYDF73J99A",
     "01KYGZXPC2FQ4NSXSKXXYY86FZ",
     "01KYAFZ0EEBE4R099P8HT79D5X",
     "01KY05J6W4B4TF7X9348W51RWP",
@@ -296,6 +297,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
+    "https://martinfowler.com/rachels-ramblings/intro.html",
     "https://martinfowler.com/fragments/2026-07-21.html",
     "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
     "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",

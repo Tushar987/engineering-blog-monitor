@@ -1,5 +1,35 @@
 [
   {
+    "id": "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
+    "blog_name": "Martin Fowler",
+    "title": "The Orchestrator's Tax",
+    "link": "https://martinfowler.com/articles/orchestrator-tax.html",
+    "summary": "Subagents get justified by time saved and parallel execution, but Rahul Garg explains that's not what matters most. Every token in the orchestrator's context is competing for its attention, and the real value of a subagent is what it keeps out of that context. Subagents should be treated as a tool for protecting the orchestrator's working memory, offloading reasoning it doesn't need to hold onto. Doing this well means giving the orchestrator explicit ground rules for when and how to delegate. mo",
+    "published_iso": "2026-07-28T13:10:00+00:00",
+    "published_display": "2026-07-28",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01KYJZQZHMFNYN2EGYDF73J99A",
+    "blog_name": "Cloudflare Blog",
+    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption event",
+    "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
+    "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This blog post analyzes traffic telemetry to explain how these events impacted global connectivity.",
+    "published_iso": "2026-07-28T13:00:00+00:00",
+    "published_display": "2026-07-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/rachels-ramblings/intro.html",
+    "blog_name": "Martin Fowler",
+    "title": "Why I’m Writing Rachel’s Ramblings",
+    "link": "https://martinfowler.com/rachels-ramblings/intro.html",
+    "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization: I have my own. Not just opinions. Actual patterns. Hypotheses. Things I’m seeing across clien",
+    "published_iso": "2026-07-28T12:32:00+00:00",
+    "published_display": "2026-07-28",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
     "blog_name": "ByteByteGo",
     "title": "How NVIDIA Builds Open Models for the Age of AI",
@@ -12,7 +42,7 @@
   {
     "id": "01KYGZXPC2FQ4NSXSKXXYY86FZ",
     "blog_name": "Cloudflare Blog",
-    "title": "We’re open sourcing our privacy proxy CLI",
+    "title": "We’re open-sourcing our privacy proxy CLI",
     "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
     "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
     "published_iso": "2026-07-27T13:00:00+00:00",
@@ -778,16 +808,6 @@
     "published_iso": "2026-06-25T00:00:00+00:00",
     "published_display": "2026-06-25",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "77AgsHNNnpUDvP0Z6gqgp6",
-    "blog_name": "Cloudflare Blog",
-    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
-    "link": "https://blog.cloudflare.com/oauth-for-all/",
-    "summary": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
-    "published_iso": "2026-06-24T06:00:00+00:00",
-    "published_display": "2026-06-24",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://engineering.fb.com/?p=24113",
@@ -1570,16 +1590,6 @@
     "feed_url": "https://slack.engineering/feed/"
   },
   {
-    "id": "tag:martinfowler.com,2026-03-31:Encoding-Team-Standards",
-    "blog_name": "Martin Fowler",
-    "title": "Encoding Team Standards",
-    "link": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
-    "summary": "AI coding assistants respond to whoever is prompting, and the quality of what they produce depends on how well the prompter articulates team standards. Rahul Garg proposes treating the instructions that govern AI interactions (generation, refactoring, security, review) as infrastructure: versioned, reviewed, and shared artifacts that encode tacit team knowledge into executable instructions, making quality consistent regardless of who is at the keyboard. more…",
-    "published_iso": "2026-03-31T15:20:00+00:00",
-    "published_display": "2026-03-31",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://discord.com/blog/keeping-discord-safe-and-sound",
     "blog_name": "Discord Engineering",
     "title": "How Multi-Factor Authentication Helps Keep Your Discord Account Safe",
@@ -1588,16 +1598,6 @@
     "published_iso": "2026-03-27T00:00:00+00:00",
     "published_display": "2026-03-27",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
-    "blog_name": "Martin Fowler",
-    "title": "Bliki: Architecture Decision Record",
-    "link": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
-    "summary": "An Architecture Decision Record (ADR) is a short document that captures and explains a single decision relevant to a product or ecosystem. Documents should be short, just a couple of pages, and contain the decision, the context for making it, and significant ramifications. They should not be modified if the decision is changed, but linked to a superseding decision. As with most written documents, writing ADRs serves two purposes. Firstly they act as a record of decisions, allowing people months ",
-    "published_iso": "2026-03-24T13:50:00+00:00",
-    "published_display": "2026-03-24",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/discord-update-march-24-2026-changelog",

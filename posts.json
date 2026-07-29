@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
+    "blog_name": "ByteByteGo",
+    "title": "How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference",
+    "link": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
+    "summary": "To understand what techniques are adopted in frontier labs to make AI applications more efficient, we met with the OpenAI engineers who developed and shipped various efficiency techniques into the systems behind Codex and ChatGPT Work.",
+    "published_iso": "2026-07-29T15:18:25+00:00",
+    "published_display": "2026-07-29",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01KYMH71B35NXQ00E0M2D0WMQV",
+    "blog_name": "Cloudflare Blog",
+    "title": "Post-quantum authentication to origins is now supported",
+    "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
+    "summary": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare products.",
+    "published_iso": "2026-07-29T13:00:00+00:00",
+    "published_display": "2026-07-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://medium.com/p/e817e5ae5788",
+    "blog_name": "Airbnb Engineering",
+    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+    "link": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
+    "summary": "How Airbnb teams build trustworthy Generative AI products by treating evaluation as a first-class engineering discipline; not an afterthought. Nestled into the lush hillside, this stunning modern retreat features striking natural wood architecture, terraced balconies, and a serene landscape. By: Rohit Girme , Dan Miller , Mia Zhao , Lifan Yang , Clint Kelly Introduction Generative AI breaks a lot of the assumptions that used to hold true for software testing. Unlike traditional software, LLM out",
+    "published_iso": "2026-07-28T17:01:03+00:00",
+    "published_display": "2026-07-28",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
+    "blog_name": "ByteByteGo",
+    "title": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways",
+    "link": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
+    "summary": "In this article, we will walk through their differing solutions and try to make sense of their choices and understand the pattern behind them.",
+    "published_iso": "2026-07-28T15:30:42+00:00",
+    "published_display": "2026-07-28",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
     "blog_name": "Martin Fowler",
     "title": "The Orchestrator's Tax",
@@ -12,9 +52,9 @@
   {
     "id": "01KYJZQZHMFNYN2EGYDF73J99A",
     "blog_name": "Cloudflare Blog",
-    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption event",
+    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
     "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
-    "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This blog post analyzes traffic telemetry to explain how these events impacted global connectivity.",
+    "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This post analyzes traffic telemetry to explain how these events impacted global connectivity.",
     "published_iso": "2026-07-28T13:00:00+00:00",
     "published_display": "2026-07-28",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -700,16 +740,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
-    "blog_name": "ByteByteGo",
-    "title": "Inside Thinking Machines’ Interaction Models",
-    "link": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
-    "summary": "In this article, we will look at what the research preview covers and the concept of an interaction model proposed by Thinking Machines.",
-    "published_iso": "2026-06-30T15:31:34+00:00",
-    "published_display": "2026-06-30",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
     "blog_name": "Discord Engineering",
     "title": "Discord is Now on Meta Quest: Reach Out to Your Servers While in VR",
@@ -760,16 +790,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
-    "blog_name": "ByteByteGo",
-    "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
-    "link": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
-    "summary": "In this article, we will try to understand how that architecture gets built, from the constraint that forces it to exist all the way to the tradeoffs that follow.",
-    "published_iso": "2026-06-29T15:31:24+00:00",
-    "published_display": "2026-06-29",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/77146fba8a08",
     "blog_name": "Netflix Tech Blog",
     "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
@@ -788,16 +808,6 @@
     "published_iso": "2026-06-25T22:30:51+00:00",
     "published_display": "2026-06-25",
     "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "6BmERiKIIt4pIJoFmNy7Jn",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we built saga rollbacks for Cloudflare Workflows",
-    "link": "https://blog.cloudflare.com/rollbacks-for-workflows/",
-    "summary": "Cloudflare Workflows, our durable execution engine for multi-step applications, now supports saga-style rollbacks, allowing developers to specify a compensating action for each step.do().",
-    "published_iso": "2026-06-25T13:00:00+00:00",
-    "published_display": "2026-06-25",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://discord.com/blog/discord-update-june-25-2026-changelog",
@@ -1488,16 +1498,6 @@
     "published_iso": "2026-04-21T23:34:00+00:00",
     "published_display": "2026-04-21",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://medium.com/p/26a01a6e7017",
-    "blog_name": "Airbnb Engineering",
-    "title": "Building a fault-tolerant metrics storage system at Airbnb",
-    "link": "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4",
-    "summary": "How we built a storage system that ingests 50 million samples per second and stores 2.5 petabytes of logical time series data. By : Rishabh Kumar Modern observability practice encourages instrumenting every meaningful code path. Over the past 15 years, open-source observability SDKs like Prometheus, OpenTelemetry, and StatsD have made deep instrumentation nearly ubiquitous. These days, most software — open-source or custom — can be made observable by default, assuming you actually collect the da",
-    "published_iso": "2026-04-21T17:01:06+00:00",
-    "published_display": "2026-04-21",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes",

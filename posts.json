@@ -1,5 +1,25 @@
 [
   {
+    "id": "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
+    "blog_name": "Martin Fowler",
+    "title": "The Economic Benefit of Refactoring",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a large function helps reduce token costs, suggesting that is may now be possible to measure the economic benefit of refactoring more…",
+    "published_iso": "2026-07-30T13:04:00+00:00",
+    "published_display": "2026-07-30",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01KYQNRTVJ54SHCVBMMXFYGJ5P",
+    "blog_name": "Cloudflare Blog",
+    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+    "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
+    "summary": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits higher for everyone.",
+    "published_iso": "2026-07-30T13:00:00+00:00",
+    "published_display": "2026-07-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
     "blog_name": "ByteByteGo",
     "title": "How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference",
@@ -18,6 +38,16 @@
     "published_iso": "2026-07-29T13:00:00+00:00",
     "published_display": "2026-07-29",
     "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
+    "blog_name": "Discord Engineering",
+    "title": "Introducing Profile Frames: Decorative Borders to Make Your Discord Profile Museum-Worthy",
+    "link": "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
+    "summary": "Introducing Profile Frames: a new way to put a finishing touch on your Discord profile. Frames add a decorative border around your profile, giving the whole thing a look that's unmistakably yours.",
+    "published_iso": "2026-07-29T00:00:00+00:00",
+    "published_display": "2026-07-29",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "https://medium.com/p/e817e5ae5788",
@@ -710,16 +740,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "3qEwyKxigFNDK4JTlPfl8A",
-    "blog_name": "Cloudflare Blog",
-    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
-    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
-    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new infrastructure required to support a sustainable web economy.",
-    "published_iso": "2026-07-01T13:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "3wrqj94tEFsKCZ8OBUE52R",
     "blog_name": "Cloudflare Blog",
     "title": "Unmasking the crawls with Attribution Business Insights",
@@ -985,7 +1005,7 @@
     "title": "Fragments: June 16",
     "link": "https://martinfowler.com/fragments/2026-06-16.html",
     "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration sudde",
-    "published_iso": "2026-06-16T15:44:00+00:00",
+    "published_iso": "2026-06-16T12:44:00+00:00",
     "published_display": "2026-06-16",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
@@ -1140,16 +1160,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://martinfowler.com/fragments/2026-06-02.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: June  2",
-    "link": "https://martinfowler.com/fragments/2026-06-02.html",
-    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
-    "published_iso": "2026-06-02T18:21:00+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://medium.com/p/915a72b91b5c",
     "blog_name": "Airbnb Engineering",
     "title": "When history fails you, borrow from geography",
@@ -1158,6 +1168,16 @@
     "published_iso": "2026-06-02T17:01:04+00:00",
     "published_display": "2026-06-02",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-06-02.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: June  2",
+    "link": "https://martinfowler.com/fragments/2026-06-02.html",
+    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
+    "published_iso": "2026-06-02T15:21:00+00:00",
+    "published_display": "2026-06-02",
+    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://slack.engineering/?p=17812",
@@ -1495,7 +1515,7 @@
     "title": "Fragments: April 21",
     "link": "https://martinfowler.com/fragments/2026-04-21.html",
     "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar . This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements. As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes: An interesting ",
-    "published_iso": "2026-04-21T23:34:00+00:00",
+    "published_iso": "2026-04-21T20:34:00+00:00",
     "published_display": "2026-04-21",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
@@ -1558,16 +1578,6 @@
     "published_iso": "2026-04-06T00:00:00+00:00",
     "published_display": "2026-04-06",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-04-02:Harness-engineering-for-coding-agent-users",
-    "blog_name": "Martin Fowler",
-    "title": "Harness engineering for coding agent users",
-    "link": "https://martinfowler.com/articles/harness-engineering.html",
-    "summary": "Last month Birgitta B&#xf6;ckeler wrote some initial thoughts about the recently developed notion of Harness Engineering. She's been researching and thinking more about this in the weeks since and has now written a thoughtful mental model for understanding harness engineering that we think will help people to drive coding agents more effectively. more…",
-    "published_iso": "2026-04-02T13:10:00+00:00",
-    "published_display": "2026-04-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/last-meadow-online-announcement",
@@ -2355,16 +2365,6 @@
     "title": "Announcing Discord’s Social SDK, Helping Power Your Game’s Social Experiences",
     "link": "https://discord.com/blog/announcing-discords-social-sdk-helping-power-your-games-social-experiences",
     "summary": "Today, we’re announcing our new Social SDK that empowers game developers of all sizes to implement Discord-powered features directly in their games, helping players easily talk, connect and enhance their social experiences.",
-    "published_iso": "2025-03-17T00:00:00+00:00",
-    "published_display": "2025-03-17",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/the-game-developer-playbook-part-one-getting-started-on-discord",
-    "blog_name": "Discord Engineering",
-    "title": "The Game Developer Playbook, Part One: Getting Started on Discord",
-    "link": "https://discord.com/blog/the-game-developer-playbook-part-one-getting-started-on-discord",
-    "summary": "We'll create a home where you can monitor playtests, gather feedback, and talk with those who want to be part of your game's success.",
     "published_iso": "2025-03-17T00:00:00+00:00",
     "published_display": "2025-03-17",
     "feed_url": "https://discord.com/blog/rss.xml"

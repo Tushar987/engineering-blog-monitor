@@ -39,6 +39,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
+    "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
     "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
     "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
     "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
@@ -83,6 +85,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KYVQDQC4RNEJ8Q0PMDQV2RGB",
     "01KYQNRTVJ54SHCVBMMXFYGJ5P",
     "01KYMH71B35NXQ00E0M2D0WMQV",
     "01KYJZQZHMFNYN2EGYDF73J99A",
@@ -126,11 +129,13 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
     "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
     "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
     "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-    "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
@@ -302,6 +307,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
     "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
     "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
     "https://martinfowler.com/rachels-ramblings/intro.html",
@@ -359,6 +365,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/f20be6f643e3",
     "https://medium.com/p/a5a8e799ea2c",
     "https://medium.com/p/f4b792f3f0d8",
     "https://medium.com/p/77146fba8a08",

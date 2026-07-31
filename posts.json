@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
+    "blog_name": "ByteByteGo",
+    "title": "Hiring: Part Time Instructor, Write Production Grade Code with AI",
+    "link": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
+    "summary": "We&#8217;re hiring a part-time instructor for &#8220;&#119830;&#119851;&#119842;&#119853;&#119838; &#119823;&#119851;&#119848;&#119837;&#119854;&#119836;&#119853;&#119842;&#119848;&#119847; &#119814;&#119851;&#119834;&#119837;&#119838; &#119810;&#119848;&#119837;&#119838; &#119856;&#119842;&#119853;&#119841; &#119808;&#119816;&#8221;.",
+    "published_iso": "2026-07-31T15:01:37+00:00",
+    "published_display": "2026-07-31",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+    "blog_name": "Martin Fowler",
+    "title": "The Conductor Developer",
+    "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+    "summary": "TL;DR Why I think software development is starting to feel a little more like conducting an orchestra. There’s a shift happening in software development that I don’t think we’re talking about clearly enough. For the last couple of years we’ve framed AI as a productivity tool. How much faster can it write code? How many more features can we ship? How much cheaper can we build software? I think that’s the wrong question, but I understand why. The first thing AI became good at was writing code, so ",
+    "published_iso": "2026-07-31T13:48:00+00:00",
+    "published_display": "2026-07-31",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01KYVQDQC4RNEJ8Q0PMDQV2RGB",
+    "blog_name": "Cloudflare Blog",
+    "title": "An API for MoQ: provision your own isolated relays",
+    "link": "https://blog.cloudflare.com/moq-relays/",
+    "summary": "Last year we made every Cloudflare server a Media over QUIC (MoQ) relay. Now the new provisioning API lets you create your own isolated relay and control who can publish and who can only watch.",
+    "published_iso": "2026-07-31T13:00:00+00:00",
+    "published_display": "2026-07-31",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://medium.com/p/f20be6f643e3",
+    "blog_name": "Netflix Tech Blog",
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+    "summary": "Authors: Ying Li , Arjun Rao , Shradha Sehgal Introduction Recommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand‑crafted features over users, items, and interactions, along with specialized architectures for sequence modeling, feature interactions, and multi‑task objectives. This stack has evolved over many years to support diverse content types (movies, series, games, live, podcasts) and product surfaces, but its complexity makes it ",
+    "published_iso": "2026-07-30T20:10:15+00:00",
+    "published_display": "2026-07-30",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
+    "blog_name": "ByteByteGo",
+    "title": "A Detailed Guide to Idempotency, Delivery Semantics, and Deduplication",
+    "link": "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
+    "summary": "What happens when a service sends a request to charge a customer, but the request times out with no response?",
+    "published_iso": "2026-07-30T15:30:29+00:00",
+    "published_display": "2026-07-30",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
     "blog_name": "Martin Fowler",
     "title": "The Economic Benefit of Refactoring",
@@ -680,16 +730,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
-    "blog_name": "ByteByteGo",
-    "title": "Multi-Region Architecture: Going Global Without Going Broke",
-    "link": "https://blog.bytebytego.com/p/multi-region-architecture-going-global",
-    "summary": "When an application grows geographically, it is logical to start serving it from a second region to improve latency and availability.",
-    "published_iso": "2026-07-02T15:30:30+00:00",
-    "published_display": "2026-07-02",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24150",
     "blog_name": "Meta Engineering",
     "title": "Meta’s AI Storage Blueprint at Scale",
@@ -698,16 +738,6 @@
     "published_iso": "2026-07-01T16:00:36+00:00",
     "published_display": "2026-07-01",
     "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
-    "blog_name": "ByteByteGo",
-    "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users",
-    "link": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
-    "summary": "In this article, we will look at the entire journey in detail and challenges the OpenAI engineering team faced.",
-    "published_iso": "2026-07-01T15:31:13+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "YqZRSH26JlDBUNvwASOr2",
@@ -725,16 +755,6 @@
     "title": "Your site, your rules: new AI traffic options for all customers",
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.",
-    "published_iso": "2026-07-01T13:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "6dNg0U03j4cnbacP8txDok",
-    "blog_name": "Cloudflare Blog",
-    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-    "link": "https://blog.cloudflare.com/monetization-gateway/",
-    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stack of your own to build.",
     "published_iso": "2026-07-01T13:00:00+00:00",
     "published_display": "2026-07-01",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -956,16 +976,6 @@
     "link": "https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1?source=rss----2615bd06b42e---4",
     "summary": "By Guil Pires , Jennifer Prince , Jose Camacho , Ken Kurzweil , Phanindra Chunduru Background In a previous post, we introduced Data Bridge , a unified management plane for batch Data Movement at Netflix. Historically, several bespoke Data Movement connectors were developed across different engineering organizations to fulfill their specific requirements. Over the last few years, the Data Movement team has started centralizing these offerings through an abstraction that provides a catalog of con",
     "published_iso": "2026-06-19T23:53:30+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/4d89b26525cd",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Thinking Fast & Slow for a Personalized Notification System",
-    "link": "https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss----2615bd06b42e---4",
-    "summary": "by Matthew Wood , Ishan Gupta , Kevin Mercurio, Devon Bryant , and Claire Dorman In his seminal book “Thinking, Fast and Slow,” Daniel Kahneman describes two systems that drive human cognition: System 1, which operates automatically and quickly with little effort, and System 2, which allocates attention to more challenging mental activities requiring deliberate focus. This dual-process theory has profound implications not just for understanding human behavior, but for designing intelligent syste",
-    "published_iso": "2026-06-19T23:53:16+00:00",
     "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
   },
@@ -1557,16 +1567,6 @@
     "summary": "Rahul Garg finishes his series on reducing the friction in AI-Assisted Development. He proposes a structured feedback practice that harvests learnings from AI sessions and feeds them back into the team's shared artifacts, turning individual experience into collective improvement. more…",
     "published_iso": "2026-04-08T13:28:00+00:00",
     "published_display": "2026-04-08",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",
-    "blog_name": "Martin Fowler",
-    "title": "Principles of Mechanical Sympathy",
-    "link": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
-    "summary": "Modern hardware is remarkably fast, but software often fails to leverage it. Caer Sanders has found it valuable to guide their work with mechanical sympathy - the practice of creating software that is sympathetic to its underlying hardware. They distill this practice into everyday principles: predictable memory access, awareness of cache lines, single-writer, and natural batching. more…",
-    "published_iso": "2026-04-07T13:39:00+00:00",
-    "published_display": "2026-04-07",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
@@ -2520,6 +2520,26 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "blog_name": "Google Developers Blog",
+    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+    "link": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precis",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+    "blog_name": "Google Developers Blog",
+    "title": "How to use Google microbenchmarks for evaluating TPU performance",
+    "link": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations—such as kernel tuning, mesh shardi",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
     "blog_name": "Google Developers Blog",
     "title": "Run Ray on TPU, Part 2: Ray AI libraries",
@@ -2550,21 +2570,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "blog_name": "Google Developers Blog",
-    "title": "Building scalable AI agents with modular prompt transpilation",
-    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "blog_name": "Google Developers Blog",
     "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
     "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single sour",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "blog_name": "Google Developers Blog",
+    "title": "Building scalable AI agents with modular prompt transpilation",
+    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "How A2A is Building a World of Collaborative Agents",
     "link": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
     "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sci",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "blog_name": "Google Developers Blog",
-    "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
-    "link": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "summary": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid framewo",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-    "blog_name": "Google Developers Blog",
-    "title": "Announcing the Agentic Resource Discovery specification",
-    "link": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-    "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

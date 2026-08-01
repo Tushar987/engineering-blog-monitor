@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://medium.com/p/e7607acebde8",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Modeling Device Capabilities for Analytics",
+    "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+    "summary": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud gaming, across a diverse ecosystem of devices. However, not all devices are created equal. Hardware limitations such as available RAM, CPU cores, display capabilities, or platform support mean that some features cannot be supported on certain device models. To ensure the best pos",
+    "published_iso": "2026-07-31T16:01:02+00:00",
+    "published_display": "2026-07-31",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
     "blog_name": "ByteByteGo",
     "title": "Hiring: Part Time Instructor, Write Production Grade Code with AI",
@@ -966,16 +976,6 @@
     "link": "https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4",
     "summary": "by Emily Gill Each year, we bring the Analytics Engineering community together for an Analytics Summit — a multi-day internal conference to share analytical deliverables across Netflix, discuss analytic practice, and build relationships within the community. This post is one of several topics presented at the Summit highlighting the breadth and impact of Analytics work across different areas of the business. Understanding Risk in Content Launches Every title you see on Netflix goes through sever",
     "published_iso": "2026-06-19T23:53:47+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/6e13329c80a1",
-    "blog_name": "Netflix Tech Blog",
-    "title": "The Evolution of Cassandra Data Movement at Netflix",
-    "link": "https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1?source=rss----2615bd06b42e---4",
-    "summary": "By Guil Pires , Jennifer Prince , Jose Camacho , Ken Kurzweil , Phanindra Chunduru Background In a previous post, we introduced Data Bridge , a unified management plane for batch Data Movement at Netflix. Historically, several bespoke Data Movement connectors were developed across different engineering organizations to fulfill their specific requirements. Over the last few years, the Data Movement team has started centralizing these offerings through an abstraction that provides a catalog of con",
-    "published_iso": "2026-06-19T23:53:30+00:00",
     "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
   },
@@ -2520,6 +2520,16 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "blog_name": "Google Developers Blog",
+    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+    "link": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
     "blog_name": "Google Developers Blog",
     "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
@@ -2705,16 +2715,6 @@
     "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
     "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
     "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "blog_name": "Google Developers Blog",
-    "title": "How A2A is Building a World of Collaborative Agents",
-    "link": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sci",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

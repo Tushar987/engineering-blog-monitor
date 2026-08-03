@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
+    "blog_name": "ByteByteGo",
+    "title": "LLM Security Basics: The Full Threat Model",
+    "link": "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
+    "summary": "In this article, we try to build a map of the full attack surface that threatens an LLM&#8217;s security.",
+    "published_iso": "2026-08-03T15:31:14+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01KZ0Q4HGGZF4CDMZVFZRGTTCF",
+    "blog_name": "Cloudflare Blog",
+    "title": "Your agent needs a computer, not a container — introducing @cloudflare/computer",
+    "link": "https://blog.cloudflare.com/cloudflare-computer/",
+    "summary": "Agents need more than just a container to scale. We're introducing @cloudflare/computer, an agent runtime that dynamically orchestrates between fast, efficient isolates and full Linux containers to give every agent a computer of its own.",
+    "published_iso": "2026-08-03T13:15:24+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ21C4W4K7E7W8E61PNSYFQ1",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+    "link": "https://blog.cloudflare.com/grpc-workers/",
+    "summary": "Cloudflare Workers now support inbound TCP connections via Spectrum, allowing direct socket forwarding to Durable Objects and Containers. Developers can run full-duplex gRPC applications or leverage automatic gRPC-to-gRPC-web translation directly within Workers.",
+    "published_iso": "2026-08-03T13:00:00+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ1X08HVW808ZTAF030PTT5X",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
+    "link": "https://blog.cloudflare.com/billable-usage-api/",
+    "summary": "Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, spend can now be tracked seamlessly alongside the rest of your cloud stack.",
+    "published_iso": "2026-08-03T13:00:00+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ1PQYERR7GDZ61F4H35QVT1",
+    "blog_name": "Cloudflare Blog",
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "summary": "Serving frontier models like Kimi and GLM means fighting for GPU memory. Here's how we quantize KV caches, compress model weights, and add integrity checks to serve them faster, cheaper, and safely.",
+    "published_iso": "2026-08-03T13:00:00+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KYT15YJPSYBNRFS8G400P5P5",
+    "blog_name": "Cloudflare Blog",
+    "title": "Workers RPC now works across Python and JavaScript",
+    "link": "https://blog.cloudflare.com/python-workers-rpc/",
+    "summary": "One coding agent can write a Python Worker and another can write a JavaScript Worker. At runtime, those Workers can exchange references to live objects and call their methods without defining APIs, schemas, or serialization code",
+    "published_iso": "2026-08-03T13:00:00+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KYZDDR9B6VG028YHK8T709TD",
+    "blog_name": "Cloudflare Blog",
+    "title": "Welcome to Agents Week",
+    "link": "https://blog.cloudflare.com/agents-week-welcome/",
+    "summary": "Agents Week explores how cloud infrastructure must evolve to serve autonomous agents rather than human browsers. Join us as we unpack the storage, execution, and security primitives needed for an agent-native web.",
+    "published_iso": "2026-08-02T16:00:00+00:00",
+    "published_display": "2026-08-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://medium.com/p/e7607acebde8",
     "blog_name": "Netflix Tech Blog",
     "title": "Modeling Device Capabilities for Analytics",
@@ -630,16 +700,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "7zbgYCOZDfvIIsVrPpZ8xJ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Meerkat: an experiment in global consensus",
-    "link": "https://blog.cloudflare.com/meerkat-introduction/",
-    "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
-    "published_iso": "2026-07-08T12:00:00+00:00",
-    "published_display": "2026-07-08",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
     "blog_name": "Martin Fowler",
     "title": "Experiences with local models for coding",
@@ -680,16 +740,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "3xHevpKOOM76zUSrlPcQno",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
-    "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
-    "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framework: democratizing security, leadership accountability, and radical transparency.",
-    "published_iso": "2026-07-07T12:00:00+00:00",
-    "published_display": "2026-07-07",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-july-7-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: July 7, 2026",
@@ -710,16 +760,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "1WYEYtVwQSo4H3jKHTcKmO",
-    "blog_name": "Cloudflare Blog",
-    "title": "Your Worker can now have its own cache in front of it",
-    "link": "https://blog.cloudflare.com/workers-cache/",
-    "summary": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
-    "published_iso": "2026-07-06T13:00:00+00:00",
-    "published_display": "2026-07-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-07-06.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: July  6",
@@ -730,16 +770,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
-    "blog_name": "ByteByteGo",
-    "title": "Proof of Human: How to Verify a Person Is Real and Unique",
-    "link": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
-    "summary": "For this article we spoke with the team behind World, including Tiago Sada and Lily Gordon at Tools for Humanity, on how they try to solve this problem.",
-    "published_iso": "2026-07-04T15:30:16+00:00",
-    "published_display": "2026-07-04",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24150",
     "blog_name": "Meta Engineering",
     "title": "Meta’s AI Storage Blueprint at Scale",
@@ -748,36 +778,6 @@
     "published_iso": "2026-07-01T16:00:36+00:00",
     "published_display": "2026-07-01",
     "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "YqZRSH26JlDBUNvwASOr2",
-    "blog_name": "Cloudflare Blog",
-    "title": "Making AI search smarter",
-    "link": "https://blog.cloudflare.com/making-ai-search-smarter/",
-    "summary": "Search is how we find nearly everything on the web — creators, merchants, answers. AI is rewriting the rules, leaving creators caught between staying discoverable in an agentic era and getting paid for their work. Today we're launching two initiatives to help.",
-    "published_iso": "2026-07-01T13:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "FWKHybUFEZFSsFCrbEwAd",
-    "blog_name": "Cloudflare Blog",
-    "title": "Your site, your rules: new AI traffic options for all customers",
-    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.",
-    "published_iso": "2026-07-01T13:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "3wrqj94tEFsKCZ8OBUE52R",
-    "blog_name": "Cloudflare Blog",
-    "title": "Unmasking the crawls with Attribution Business Insights",
-    "link": "https://blog.cloudflare.com/attribution-business-insights/",
-    "summary": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
-    "published_iso": "2026-07-01T06:00:00+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://engineering.fb.com/?p=24128",

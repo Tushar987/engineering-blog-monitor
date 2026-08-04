@@ -86,6 +86,13 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KZ67XSDB3QZRT3JC43EGMSD1",
+    "01KZ518N1HS1MZE4GF7XES27C5",
+    "01KZ4ZEV9RTTBYR2S8AX9R4NNF",
+    "01KZ4XGGJ39E5ZDS4AHVQSB0M3",
+    "01KZ4WJAC5X5TGJJZKJDY8XHTD",
+    "01KZ4VTTGC4FD3MQ89XQDW2ZZ6",
+    "01KZ4HYXCHKAZHVPH6PMEG04RZ",
     "01KZ0Q4HGGZF4CDMZVFZRGTTCF",
     "01KZ21C4W4K7E7W8E61PNSYFQ1",
     "01KZ1X08HVW808ZTAF030PTT5X",
@@ -136,14 +143,15 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
     "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
     "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
     "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
     "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
     "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-    "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
@@ -283,6 +291,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24167",
     "https://engineering.fb.com/?p=24251",
     "https://engineering.fb.com/?p=24221",
     "https://engineering.fb.com/?p=24150",
@@ -315,6 +324,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-08-04.html",
     "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
     "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
     "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
@@ -342,9 +352,9 @@
     "https://martinfowler.com/bliki/MythicalManMonth.html",
     "https://martinfowler.com/fragments/2026-04-29.html",
     "tag:martinfowler.com,2026-04-28:Structured-Prompt-Driven-Development--SPDD-",
-    "https://martinfowler.com/fragments/2026-04-21.html",
     "https://martinfowler.com/articles/202604-turing.html",
     "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
+    "https://martinfowler.com/fragments/2026-04-21.html",
     "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",
     "tag:martinfowler.com,2026-04-02:Harness-engineering-for-coding-agent-users",
     "tag:martinfowler.com,2026-03-31:Encoding-Team-Standards",

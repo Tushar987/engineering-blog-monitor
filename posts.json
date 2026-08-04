@@ -1,5 +1,95 @@
 [
   {
+    "id": "01KZ67XSDB3QZRT3JC43EGMSD1",
+    "blog_name": "Cloudflare Blog",
+    "title": "The Agent Development Lifecycle has arrived on Cloudflare",
+    "link": "https://blog.cloudflare.com/agent-development-lifecycle/",
+    "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ518N1HS1MZE4GF7XES27C5",
+    "blog_name": "Cloudflare Blog",
+    "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
+    "link": "https://blog.cloudflare.com/wallets/",
+    "summary": "Cloudflare Wallets will provide AI agents with native payments and verifiable identity on the web. Using the x402 protocol, agents can autonomously purchase APIs and content within clear safety guardrails.",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ4ZEV9RTTBYR2S8AX9R4NNF",
+    "blog_name": "Cloudflare Blog",
+    "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
+    "link": "https://blog.cloudflare.com/ci-workflows/",
+    "summary": "Learn how to build customizable, sandboxed CI/CD pipelines natively on Cloudflare using Workflows, Artifacts, and the CI SDK. We walk through replacing complex YAML configurations with TypeScript workflow steps and self-healing AI agents.",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ4XGGJ39E5ZDS4AHVQSB0M3",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Cloudflare enforces engineering standards using AI",
+    "link": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+    "summary": "We created the Cloudflare Codex, a governed body of engineering standards that AI agents consume across the development lifecycle. By pairing structured RFCs with agentic reviews, teams automatically enforce consistency across code, specs, and incident reports.",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ4WJAC5X5TGJJZKJDY8XHTD",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing: Cloudflare Agents",
+    "link": "https://blog.cloudflare.com/agents-on-cloudflare/",
+    "summary": "Cloudflare Agents brings all of your deployed agent sessions into a single experience, surfacing key information and insights into how your agents perform at scale.",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ4VTTGC4FD3MQ89XQDW2ZZ6",
+    "blog_name": "Cloudflare Blog",
+    "title": "Your agent can now debug Workers with local tracing",
+    "link": "https://blog.cloudflare.com/local-tracing/",
+    "summary": "wrangler dev now produces structured traces for every local request. Your coding agent can hit a single API to pinpoint exactly what failed and why — no deployment required.",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ4HYXCHKAZHVPH6PMEG04RZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
+    "link": "https://blog.cloudflare.com/astro-issue-triage/",
+    "summary": "By replacing manual issue verification with isolated AI subagents running in GitHub Actions, the Astro maintainers reduced open issue count by 85%. This post explores the architecture behind automated bug reproduction, patch verification, and preview releases.",
+    "published_iso": "2026-08-04T13:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-08-04.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: August  4",
+    "link": "https://martinfowler.com/fragments/2026-08-04.html",
+    "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face . This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incidents where models had gained unauthorized access to data in other organizations. Simon Wilison concluded : It’s abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. Every AI lab needs to pay attention to this. Keeping a clo",
+    "published_iso": "2026-08-04T12:08:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24167",
+    "blog_name": "Meta Engineering",
+    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+    "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+    "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The post GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model appea",
+    "published_iso": "2026-08-03T18:00:17+00:00",
+    "published_display": "2026-08-03",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
     "blog_name": "ByteByteGo",
     "title": "LLM Security Basics: The Full Threat Model",
@@ -34,7 +124,7 @@
     "blog_name": "Cloudflare Blog",
     "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
     "link": "https://blog.cloudflare.com/billable-usage-api/",
-    "summary": "Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, spend can now be tracked seamlessly alongside the rest of your cloud stack.",
+    "summary": "Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, track spend seamlessly alongside the rest of your cloud stack.",
     "published_iso": "2026-08-03T13:00:00+00:00",
     "published_display": "2026-08-03",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -360,16 +450,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "01KY2432VQPD5FTF2RARXXYQGH",
-    "blog_name": "Cloudflare Blog",
-    "title": "How the 2026 World Cup affected Internet traffic",
-    "link": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/",
-    "summary": "We analyzed global HTTP traffic to explore how kickoff times, streaming habits, and hydration breaks reshaped online activity worldwide. From late-night traffic surges to halftime browsing spikes, here is how the world connected during the global tournament.",
-    "published_iso": "2026-07-21T12:59:40+00:00",
-    "published_display": "2026-07-21",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
     "blog_name": "Stripe Engineering",
     "title": "Analyzing the evidence that helps businesses win “product not received” disputes",
@@ -378,16 +458,6 @@
     "published_iso": "2026-07-21T00:00:00+00:00",
     "published_display": "2026-07-21",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "01KXNA2XDCKTZTZQ1NC6HM40AZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare Internal DNS is now generally available",
-    "link": "https://blog.cloudflare.com/internal-dns/",
-    "summary": "Cloudflare Internal DNS brings authoritative and recursive DNS for private networks to the same global network and control plane that runs Cloudflare's Zero Trust, networking, and public DNS.",
-    "published_iso": "2026-07-20T20:59:31+00:00",
-    "published_display": "2026-07-20",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
@@ -408,16 +478,6 @@
     "published_iso": "2026-07-17T21:32:39+00:00",
     "published_display": "2026-07-17",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "01KXQS1XDD7HKB324JEWG6BZDA",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
-    "link": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
-    "summary": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but customers should still update immediately to a patched release",
-    "published_iso": "2026-07-17T21:30:43+00:00",
-    "published_display": "2026-07-17",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "f41c185d4345c3ee9fab04ee26074c87138bd0cd",
@@ -550,16 +610,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "4k8LbDKkNXwcJVEFYF1ije",
-    "blog_name": "Cloudflare Blog",
-    "title": "A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed",
-    "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
-    "summary": "When a failed DNSSEC key rollover took down the .al TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals directly in the response that DNSSEC validation was bypassed.",
-    "published_iso": "2026-07-14T13:00:00+00:00",
-    "published_display": "2026-07-14",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
     "blog_name": "Martin Fowler",
     "title": "DSLs Enable Reliable Use of LLMs",
@@ -598,16 +648,6 @@
     "published_iso": "2026-07-13T15:02:11+00:00",
     "published_display": "2026-07-13",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "6ePF6Vl7bAXNNpdFDoFbqs",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
-    "link": "https://blog.cloudflare.com/introducing-precursor/",
-    "summary": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it identifies advanced automation with higher precision — while reducing friction for legitimate users.",
-    "published_iso": "2026-07-13T13:00:00+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-07-13.html",
@@ -650,16 +690,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "2smERhDvpGH6FbC035djwD",
-    "blog_name": "Cloudflare Blog",
-    "title": "Improving Smart Tiered Cache for Public Cloud Regions",
-    "link": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
-    "summary": "Smart Tiered Cache allows for precise upper tier selection for origins hosted on AWS, GCP, Azure, and Oracle Cloud with customer-provided cloud region hints.",
-    "published_iso": "2026-07-10T12:00:00+00:00",
-    "published_display": "2026-07-10",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "blog_name": "AWS Architecture Blog",
     "title": "Specification-driven composition for flexible data workflows",
@@ -678,16 +708,6 @@
     "published_iso": "2026-07-09T15:31:10+00:00",
     "published_display": "2026-07-09",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "5wMIF1Oa7DES2YNRpqiVB0",
-    "blog_name": "Cloudflare Blog",
-    "title": "Why we cannot wait for better post-quantum signature algorithms",
-    "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
-    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best currently available.",
-    "published_iso": "2026-07-09T14:00:00+00:00",
-    "published_display": "2026-07-09",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
@@ -1260,16 +1280,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://engineering.fb.com/?p=23988",
-    "blog_name": "Meta Engineering",
-    "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
-    "link": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
-    "summary": "We’re introducing SilverTorch, a reimagining of recommendation systems that unifies all retrieval components for user generated content under a unified architecture. SilverTorch shows up to 23.7x higher throughput compared to the state-of-the-art approaches. It’s also showing 20.9x more compute cost efficiency compared to a CPU-based solution while also improving accuracy. Our research paper, “SilverTorch: A [...] Read More... The post SilverTorch: Index as Model — A New Retrieval Paradigm for R",
-    "published_iso": "2026-05-26T16:00:01+00:00",
-    "published_display": "2026-05-26",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://martinfowler.com/bliki/VibeCoding.html",
     "blog_name": "Martin Fowler",
     "title": "Bliki: Vibe Coding",
@@ -1518,16 +1528,6 @@
     "published_iso": "2026-04-24T00:00:00+00:00",
     "published_display": "2026-04-24",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-04-21.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: April 21",
-    "link": "https://martinfowler.com/fragments/2026-04-21.html",
-    "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar . This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements. As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes: An interesting ",
-    "published_iso": "2026-04-21T20:34:00+00:00",
-    "published_display": "2026-04-21",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes",
@@ -2520,11 +2520,11 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
-    "id": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "id": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
     "blog_name": "Google Developers Blog",
-    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
-    "link": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, ",
+    "title": "Scaling real-time AI agents with session-aware load balancing",
+    "link": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+    "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can e",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2535,6 +2535,16 @@
     "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
     "link": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
     "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precis",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "blog_name": "Google Developers Blog",
+    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+    "link": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2580,21 +2590,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "blog_name": "Google Developers Blog",
-    "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
-    "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single sour",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "blog_name": "Google Developers Blog",
     "title": "Building scalable AI agents with modular prompt transpilation",
     "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
     "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "blog_name": "Google Developers Blog",
+    "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
+    "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single sour",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2705,16 +2715,6 @@
     "title": "Measuring What Matters with Jules",
     "link": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
     "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
-    "blog_name": "Google Developers Blog",
-    "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
-    "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
-    "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

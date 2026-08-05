@@ -39,6 +39,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
     "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
     "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
     "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
@@ -86,6 +87,11 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KZ7MGHAX6C81BVS5AM1DRP2Q",
+    "01KZ7KS18W44EAET2511C0NY3V",
+    "01KZ7PERAEJK3G9KDWDQ3BXZZQ",
+    "01KZ7CKXC5ECVNAP2GSTX54B48",
+    "01KZ7B5XMX7JB1E4KZZP5QRR9P",
     "01KZ67XSDB3QZRT3JC43EGMSD1",
     "01KZ518N1HS1MZE4GF7XES27C5",
     "01KZ4ZEV9RTTBYR2S8AX9R4NNF",
@@ -143,6 +149,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
     "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
     "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
@@ -185,6 +192,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing",
     "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
     "https://discord.com/blog/discord-patch-notes-july-7-2026",
     "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",

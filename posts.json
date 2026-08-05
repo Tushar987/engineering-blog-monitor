@@ -1,5 +1,65 @@
 [
   {
+    "id": "01KZ7MGHAX6C81BVS5AM1DRP2Q",
+    "blog_name": "Cloudflare Blog",
+    "title": "The Agent Access Model",
+    "link": "https://blog.cloudflare.com/the-agent-access-model/",
+    "summary": "The Agent Access Model proposes a new architecture to secure task-scoped agents using strict identity brokering, continuous mediation, and stateful trust.",
+    "published_iso": "2026-08-05T13:00:41+00:00",
+    "published_display": "2026-08-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ7KS18W44EAET2511C0NY3V",
+    "blog_name": "Cloudflare Blog",
+    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+    "link": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
+    "summary": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey to give our users the best AI tools available.",
+    "published_iso": "2026-08-05T13:00:01+00:00",
+    "published_display": "2026-08-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ7PERAEJK3G9KDWDQ3BXZZQ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "link": "https://blog.cloudflare.com/cloudflare-os/",
+    "summary": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates",
+    "published_iso": "2026-08-05T13:00:00+00:00",
+    "published_display": "2026-08-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ7CKXC5ECVNAP2GSTX54B48",
+    "blog_name": "Cloudflare Blog",
+    "title": "WriteGuard: fine-grained controls for MCP Servers",
+    "link": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/",
+    "summary": "At Cloudflare, we knew we could not depend on every employee to configure every agent perfectly or watch every tool call. Before expanding write access across our own internal MCP servers, we built WriteGuard. We are now bringing those controls to Cloudflare MCP server portals through a private beta.",
+    "published_iso": "2026-08-05T13:00:00+00:00",
+    "published_display": "2026-08-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZ7B5XMX7JB1E4KZZP5QRR9P",
+    "blog_name": "Cloudflare Blog",
+    "title": "Catching rogue AI behavior with identity-aware analytics",
+    "link": "https://blog.cloudflare.com/identity-aware-ai-gateway/",
+    "summary": "Identity-aware AI Gateway is now in open beta. User Insights turns that traffic into a behavioral baseline for every person and agent, and flags insider risk the moment it appears.",
+    "published_iso": "2026-08-05T13:00:00+00:00",
+    "published_display": "2026-08-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
+    "blog_name": "ByteByteGo",
+    "title": "Why An LLM’s Memory Gets Expensive and How to Fix It",
+    "link": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
+    "summary": "In this article, we will learn how LLMs use memory, how it gets expensive, and how to fix it.",
+    "published_iso": "2026-08-04T15:31:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01KZ67XSDB3QZRT3JC43EGMSD1",
     "blog_name": "Cloudflare Blog",
     "title": "The Agent Development Lifecycle has arrived on Cloudflare",
@@ -78,6 +138,16 @@
     "published_iso": "2026-08-04T12:08:00+00:00",
     "published_display": "2026-08-04",
     "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing",
+    "blog_name": "Discord Engineering",
+    "title": "Squircles, Styles, and Spacing: How Your Feedback is Helping Improve Mobile",
+    "link": "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing",
+    "summary": "We're working to more closely match your mobile and desktop experiences, including changes to server icons and the chat bar. (Did we mention Ash, the OG dark theme, is back?)",
+    "published_iso": "2026-08-04T00:00:00+00:00",
+    "published_display": "2026-08-04",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "https://engineering.fb.com/?p=24167",
@@ -250,16 +320,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01KYMH71B35NXQ00E0M2D0WMQV",
-    "blog_name": "Cloudflare Blog",
-    "title": "Post-quantum authentication to origins is now supported",
-    "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
-    "summary": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare products.",
-    "published_iso": "2026-07-29T13:00:00+00:00",
-    "published_display": "2026-07-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
     "blog_name": "Discord Engineering",
     "title": "Introducing Profile Frames: Decorative Borders to Make Your Discord Profile Museum-Worthy",
@@ -300,16 +360,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "01KYJZQZHMFNYN2EGYDF73J99A",
-    "blog_name": "Cloudflare Blog",
-    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
-    "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
-    "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This post analyzes traffic telemetry to explain how these events impacted global connectivity.",
-    "published_iso": "2026-07-28T13:00:00+00:00",
-    "published_display": "2026-07-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/rachels-ramblings/intro.html",
     "blog_name": "Martin Fowler",
     "title": "Why I’m Writing Rachel’s Ramblings",
@@ -328,36 +378,6 @@
     "published_iso": "2026-07-27T15:01:46+00:00",
     "published_display": "2026-07-27",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01KYGZXPC2FQ4NSXSKXXYY86FZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "We’re open-sourcing our privacy proxy CLI",
-    "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
-    "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
-    "published_iso": "2026-07-27T13:00:00+00:00",
-    "published_display": "2026-07-27",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KYAFZ0EEBE4R099P8HT79D5X",
-    "blog_name": "Cloudflare Blog",
-    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-    "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-    "summary": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection.",
-    "published_iso": "2026-07-24T17:25:28+00:00",
-    "published_display": "2026-07-24",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KY05J6W4B4TF7X9348W51RWP",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Cache Response Rules",
-    "link": "https://blog.cloudflare.com/introducing-cache-response-rules/",
-    "summary": "Perhaps you’ve seen something that should sail out of cache get dragged back to the origin by a stray Set-Cookie or Cache-Control, headers that can be difficult to change on the origin itself. Cache Response Rules is the fix, applied at the right time.",
-    "published_iso": "2026-07-23T18:40:38+00:00",
-    "published_display": "2026-07-23",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
@@ -768,16 +788,6 @@
     "published_iso": "2026-07-07T00:00:00+00:00",
     "published_display": "2026-07-07",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
-    "blog_name": "ByteByteGo",
-    "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b",
-    "summary": "Our 7th cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.",
-    "published_iso": "2026-07-06T15:31:49+00:00",
-    "published_display": "2026-07-06",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-07-06.html",
@@ -2360,16 +2370,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://discord.com/blog/announcing-discords-social-sdk-helping-power-your-games-social-experiences",
-    "blog_name": "Discord Engineering",
-    "title": "Announcing Discord’s Social SDK, Helping Power Your Game’s Social Experiences",
-    "link": "https://discord.com/blog/announcing-discords-social-sdk-helping-power-your-games-social-experiences",
-    "summary": "Today, we’re announcing our new Social SDK that empowers game developers of all sizes to implement Discord-powered features directly in their games, helping players easily talk, connect and enhance their social experiences.",
-    "published_iso": "2025-03-17T00:00:00+00:00",
-    "published_display": "2025-03-17",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
     "id": "663c0f44a2fcdf0001bab86c",
     "blog_name": "High Scalability",
     "title": "Kafka 101",
@@ -2518,6 +2518,16 @@
     "published_iso": "2022-05-04T07:35:24+00:00",
     "published_display": "2022-05-04",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+    "blog_name": "Google Developers Blog",
+    "title": "A unified API for AI model routing",
+    "link": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+    "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
     "id": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
@@ -2705,16 +2715,6 @@
     "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
     "link": "https://developers.googleblog.com/announcing-adk-go-20/",
     "summary": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemet",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
-    "blog_name": "Google Developers Blog",
-    "title": "Measuring What Matters with Jules",
-    "link": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
-    "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

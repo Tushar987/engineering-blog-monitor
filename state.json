@@ -39,6 +39,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-big-models-teach-small-models",
     "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
     "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
     "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
@@ -87,6 +88,13 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KZA4HXGQQ9FD8XRZB8E0CJEN",
+    "01KZA4H1D8PD7BXJ5RQBK5JQX0",
+    "01KZA2T3ZHH6G6Q1Z3CQJD7Q4D",
+    "01KZA0G6ZQF7ZGG8EJ2VPCFY2B",
+    "01KZ9Z9511J0G655EQ0XMSVWQV",
+    "01KZ9RBPN3JAYNT28NNJH6K9QJ",
+    "01KZ7BXG1WSAKP11NS16P6XPPE",
     "01KZ7MGHAX6C81BVS5AM1DRP2Q",
     "01KZ7KS18W44EAET2511C0NY3V",
     "01KZ7PERAEJK3G9KDWDQ3BXZZQ",
@@ -149,6 +157,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
     "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
@@ -299,6 +308,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=23996",
     "https://engineering.fb.com/?p=24167",
     "https://engineering.fb.com/?p=24251",
     "https://engineering.fb.com/?p=24221",

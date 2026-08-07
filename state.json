@@ -39,6 +39,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
     "https://blog.bytebytego.com/p/how-big-models-teach-small-models",
     "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
     "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
@@ -88,6 +89,10 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KZCHBWNB93JTTPTBKQZF0SG9",
+    "01KZCGVT7YXBW6BH8Y05159WAR",
+    "01KZCB7QVKW1EKYJAYCVTDKH4K",
+    "01KZA4HFQTZ276N6FJQ3CS9ACG",
     "01KZA4HXGQQ9FD8XRZB8E0CJEN",
     "01KZA4H1D8PD7BXJ5RQBK5JQX0",
     "01KZA2T3ZHH6G6Q1Z3CQJD7Q4D",
@@ -157,6 +162,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
     "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
@@ -201,6 +207,8 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-patch-notes-august-4-2026",
+    "https://discord.com/blog/mobile-platform-support-arrives-in-discord-social-sdk",
     "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing",
     "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
     "https://discord.com/blog/discord-patch-notes-july-7-2026",

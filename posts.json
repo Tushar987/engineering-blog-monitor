@@ -1,5 +1,55 @@
 [
   {
+    "id": "01KZCHBWNB93JTTPTBKQZF0SG9",
+    "blog_name": "Cloudflare Blog",
+    "title": "Unveiling good and bad behaviors on the Agentic Internet",
+    "link": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+    "summary": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out our Precursor Trace simulation to see how your own cursor movements would be assessed as human or bot.",
+    "published_iso": "2026-08-07T13:01:00+00:00",
+    "published_display": "2026-08-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZCGVT7YXBW6BH8Y05159WAR",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+    "link": "https://blog.cloudflare.com/introducing-radar-researcher/",
+    "summary": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language queries into real, interactive charts.",
+    "published_iso": "2026-08-07T13:00:00+00:00",
+    "published_display": "2026-08-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZCB7QVKW1EKYJAYCVTDKH4K",
+    "blog_name": "Cloudflare Blog",
+    "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+    "link": "https://blog.cloudflare.com/community-program-refresh/",
+    "summary": "We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.",
+    "published_iso": "2026-08-07T13:00:00+00:00",
+    "published_display": "2026-08-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZA4HFQTZ276N6FJQ3CS9ACG",
+    "blog_name": "Cloudflare Blog",
+    "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+    "link": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+    "summary": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing simplify building resilient AI applications.",
+    "published_iso": "2026-08-07T13:00:00+00:00",
+    "published_display": "2026-08-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
+    "blog_name": "ByteByteGo",
+    "title": "The Read Path versus the Write Path: Strategies and Techniques",
+    "link": "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
+    "summary": "In this article, we will look at read path and write path operations and techniques in detail.",
+    "published_iso": "2026-08-06T15:31:50+00:00",
+    "published_display": "2026-08-06",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01KZA4HXGQQ9FD8XRZB8E0CJEN",
     "blog_name": "Cloudflare Blog",
     "title": "Cloudflare AI Search: give your agents a search engine for your data",
@@ -44,7 +94,7 @@
     "blog_name": "Cloudflare Blog",
     "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
     "link": "https://blog.cloudflare.com/kitesurf/",
-    "summary": "We should be giving all agents tools that excel at what’s important for an AI model. Kitesurf is Cloudflare’s new stateless, highly scalable, and cost-effective web browser that runs entirely on top of Workers and was designed specifically for the Agentic Cloud",
+    "summary": "We should be giving all agents tools that excel at what’s important for an AI model. Kitesurf is Cloudflare’s new stateless, highly scalable, and cost-effective web browser that runs entirely on top of Workers and was designed specifically for the Agentic Cloud.",
     "published_iso": "2026-08-06T13:00:00+00:00",
     "published_display": "2026-08-06",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -58,6 +108,26 @@
     "published_iso": "2026-08-06T13:00:00+00:00",
     "published_display": "2026-08-06",
     "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Patch Notes: August 4, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-august-4-2026",
+    "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "published_iso": "2026-08-06T00:00:00+00:00",
+    "published_display": "2026-08-06",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://discord.com/blog/mobile-platform-support-arrives-in-discord-social-sdk",
+    "blog_name": "Discord Engineering",
+    "title": "General Availability of Mobile Platform Support Arrives in Discord Social SDK Version 1.10",
+    "link": "https://discord.com/blog/mobile-platform-support-arrives-in-discord-social-sdk",
+    "summary": "Mobile support is now generally available in the Discord Social SDK, allowing developers to extend Discord's social experiences to iOS and Android.",
+    "published_iso": "2026-08-06T00:00:00+00:00",
+    "published_display": "2026-08-06",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "01KZ7BXG1WSAKP11NS16P6XPPE",
@@ -190,36 +260,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZ4WJAC5X5TGJJZKJDY8XHTD",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing: Cloudflare Agents",
-    "link": "https://blog.cloudflare.com/agents-on-cloudflare/",
-    "summary": "Cloudflare Agents brings all of your deployed agent sessions into a single experience, surfacing key information and insights into how your agents perform at scale.",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ4VTTGC4FD3MQ89XQDW2ZZ6",
-    "blog_name": "Cloudflare Blog",
-    "title": "Your agent can now debug Workers with local tracing",
-    "link": "https://blog.cloudflare.com/local-tracing/",
-    "summary": "wrangler dev now produces structured traces for every local request. Your coding agent can hit a single API to pinpoint exactly what failed and why — no deployment required.",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ4HYXCHKAZHVPH6PMEG04RZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
-    "link": "https://blog.cloudflare.com/astro-issue-triage/",
-    "summary": "By replacing manual issue verification with isolated AI subagents running in GitHub Actions, the Astro maintainers reduced open issue count by 85%. This post explores the architecture behind automated bug reproduction, patch verification, and preview releases.",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-08-04.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: August  4",
@@ -258,16 +298,6 @@
     "published_iso": "2026-08-03T15:31:14+00:00",
     "published_display": "2026-08-03",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01KZ0Q4HGGZF4CDMZVFZRGTTCF",
-    "blog_name": "Cloudflare Blog",
-    "title": "Your agent needs a computer, not a container — introducing @cloudflare/computer",
-    "link": "https://blog.cloudflare.com/cloudflare-computer/",
-    "summary": "Agents need more than just a container to scale. We're introducing @cloudflare/computer, an agent runtime that dynamically orchestrates between fast, efficient isolates and full Linux containers to give every agent a computer of its own.",
-    "published_iso": "2026-08-03T13:15:24+00:00",
-    "published_display": "2026-08-03",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/e7607acebde8",
@@ -747,16 +777,6 @@
     "summary": "When is the data complete enough to be moved to the compute stage?",
     "published_iso": "2026-07-09T15:31:10+00:00",
     "published_display": "2026-07-09",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
-    "blog_name": "ByteByteGo",
-    "title": "The Agent Loop: How AI Goes From Answering Questions to Doing Things",
-    "link": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
-    "summary": "In this article, we will walk through that progression. We will also look at how an agent is structured, what choices the model makes on every turn, what scaffolding holds it together, and when an agent is actually the right pattern to reach for.",
-    "published_iso": "2026-07-08T15:30:07+00:00",
-    "published_display": "2026-07-08",
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
@@ -2350,26 +2370,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://discord.com/blog/announcing-quests-advertising-on-mobile",
-    "blog_name": "Discord Engineering",
-    "title": "Discord Announces First Mobile Ad Format, Broadening Advertising Opportunities",
-    "link": "https://discord.com/blog/announcing-quests-advertising-on-mobile",
-    "summary": "Discord announces plans to expand its successful Video Quests advertising format to mobile devices, making the company's first mobile ad offering.",
-    "published_iso": "2025-03-20T00:00:00+00:00",
-    "published_display": "2025-03-20",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/announcing-discord-social-sdk-to-power-game-comms",
-    "blog_name": "Discord Engineering",
-    "title": "Discord Launches SDK to Power Social Infrastructure and Communications for Games",
-    "link": "https://discord.com/blog/announcing-discord-social-sdk-to-power-game-comms",
-    "summary": "Announcing Discord Social SDK, which enables developers of all sizes to tap into Discord’s social infrastructure and drive their game’s social and multiplayer experiences — with or without a Discord account.",
-    "published_iso": "2025-03-17T00:00:00+00:00",
-    "published_display": "2025-03-17",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
     "id": "663c0f44a2fcdf0001bab86c",
     "blog_name": "High Scalability",
     "title": "Kafka 101",
@@ -2518,6 +2518,16 @@
     "published_iso": "2022-05-04T07:35:24+00:00",
     "published_display": "2022-05-04",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+    "blog_name": "Google Developers Blog",
+    "title": "Agent Plugins package your skills, tools, and more",
+    "link": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agent",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
     "id": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
@@ -2705,16 +2715,6 @@
     "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
     "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
-    "blog_name": "Google Developers Blog",
-    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
-    "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
-    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenar",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

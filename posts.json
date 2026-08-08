@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://medium.com/p/0f3468349607",
+    "blog_name": "Netflix Tech Blog",
+    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+    "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+    "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1 , we discussed the motivation for creating the RDG and the architecture of the data processing pipeline that populates it. In Part 2 , we discussed how we designed the storage layer to handle billions of nodes and edges while maint",
+    "published_iso": "2026-08-07T16:01:02+00:00",
+    "published_display": "2026-08-07",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "id": "01KZCHBWNB93JTTPTBKQZF0SG9",
     "blog_name": "Cloudflare Blog",
     "title": "Unveiling good and bad behaviors on the Agentic Internet",
@@ -1026,16 +1036,6 @@
     "link": "https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
     "summary": "By Amer Hesson , Marcelo Mayworm , James Mulcahy , and Brittany Truong The Problem: Managing Assets at Netflix Scale Netflix’s Data Platform is vast. We have millions of tables in our data warehouse and tens of thousands of scheduled workloads running across our orchestration systems. Behind each of these assets sits an engineer, a team, or an initiative — and behind each of those sits a set of decisions about who can access what , and how those workloads execute day after day. For years, the to",
     "published_iso": "2026-06-19T23:54:00+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/587b1f2de928",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning",
-    "link": "https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4",
-    "summary": "by Emily Gill Each year, we bring the Analytics Engineering community together for an Analytics Summit — a multi-day internal conference to share analytical deliverables across Netflix, discuss analytic practice, and build relationships within the community. This post is one of several topics presented at the Summit highlighting the breadth and impact of Analytics work across different areas of the business. Understanding Risk in Content Launches Every title you see on Netflix goes through sever",
-    "published_iso": "2026-06-19T23:53:47+00:00",
     "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
   },

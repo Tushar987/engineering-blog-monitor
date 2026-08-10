@@ -1,5 +1,15 @@
 [
   {
+    "id": "2qQZuefCfPJvVRRFrHQgKC",
+    "blog_name": "Cloudflare Blog",
+    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+    "link": "https://blog.cloudflare.com/fedramp-class-d-certification/",
+    "summary": "Cloudflare for Government achieves FedRAMP Class D (High) Certified status. We also announce our commitment to pursue DoD IL4 authorization. Cloudflare brings world-class security, performance, and developer products to the public sector.",
+    "published_iso": "2026-08-10T13:00:00+00:00",
+    "published_display": "2026-08-10",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://medium.com/p/0f3468349607",
     "blog_name": "Netflix Tech Blog",
     "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
@@ -255,16 +265,6 @@
     "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
     "link": "https://blog.cloudflare.com/ci-workflows/",
     "summary": "Learn how to build customizable, sandboxed CI/CD pipelines natively on Cloudflare using Workflows, Artifacts, and the CI SDK. We walk through replacing complex YAML configurations with TypeScript workflow steps and self-healing AI agents.",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ4XGGJ39E5ZDS4AHVQSB0M3",
-    "blog_name": "Cloudflare Blog",
-    "title": "How Cloudflare enforces engineering standards using AI",
-    "link": "https://blog.cloudflare.com/engineering-standards-enforcement/",
-    "summary": "We created the Cloudflare Codex, a governed body of engineering standards that AI agents consume across the development lifecycle. By pairing structured RFCs with agentic reviews, teams automatically enforce consistency across code, specs, and incident reports.",
     "published_iso": "2026-08-04T13:00:00+00:00",
     "published_display": "2026-08-04",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -2542,7 +2542,7 @@
   {
     "id": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "blog_name": "Google Developers Blog",
-    "title": "A unified API for AI model routing",
+    "title": "Model routing with Google Cloud API Gateway",
     "link": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard",
     "published_iso": "",

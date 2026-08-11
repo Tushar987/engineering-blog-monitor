@@ -1,5 +1,45 @@
 [
   {
+    "id": "01KZQNDKFVX2ZXMBEHCJJHFH8N",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+    "summary": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts reshaped the global cyber threat landscape.",
+    "published_iso": "2026-08-11T13:00:00+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
+    "blog_name": "Martin Fowler",
+    "title": "TDD inside the agent loop - theater or actual value?",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+    "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta B&#xf6;ckeler was curious if this really makes a difference, so conducted a few experiments . more…",
+    "published_iso": "2026-08-11T11:39:00+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01KZEF237MMZ9CHJ8RTKBA8G7A",
+    "blog_name": "Cloudflare Blog",
+    "title": "Everything we launched during Agents Week",
+    "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
+    "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.",
+    "published_iso": "2026-08-10T18:34:10+00:00",
+    "published_display": "2026-08-10",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
+    "blog_name": "ByteByteGo",
+    "title": "How to Fight Clickbait: Meta, LinkedIn & YouTube Case Studies",
+    "link": "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
+    "summary": "What does it take for a social media platform to stop rewarding clickbait content?",
+    "published_iso": "2026-08-10T15:30:49+00:00",
+    "published_display": "2026-08-10",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "2qQZuefCfPJvVRRFrHQgKC",
     "blog_name": "Cloudflare Blog",
     "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
@@ -245,26 +285,6 @@
     "title": "The Agent Development Lifecycle has arrived on Cloudflare",
     "link": "https://blog.cloudflare.com/agent-development-lifecycle/",
     "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ518N1HS1MZE4GF7XES27C5",
-    "blog_name": "Cloudflare Blog",
-    "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
-    "link": "https://blog.cloudflare.com/wallets/",
-    "summary": "Cloudflare Wallets will provide AI agents with native payments and verifiable identity on the web. Using the x402 protocol, agents can autonomously purchase APIs and content within clear safety guardrails.",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ4ZEV9RTTBYR2S8AX9R4NNF",
-    "blog_name": "Cloudflare Blog",
-    "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
-    "link": "https://blog.cloudflare.com/ci-workflows/",
-    "summary": "Learn how to build customizable, sandboxed CI/CD pipelines natively on Cloudflare using Workflows, Artifacts, and the CI SDK. We walk through replacing complex YAML configurations with TypeScript workflow steps and self-healing AI agents.",
     "published_iso": "2026-08-04T13:00:00+00:00",
     "published_display": "2026-08-04",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -778,16 +798,6 @@
     "published_iso": "2026-07-09T22:27:31+00:00",
     "published_display": "2026-07-09",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
-    "blog_name": "ByteByteGo",
-    "title": "Streaming vs Batch: Two Philosophies of Data Processing",
-    "link": "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies",
-    "summary": "When is the data complete enough to be moved to the compute stage?",
-    "published_iso": "2026-07-09T15:31:10+00:00",
-    "published_display": "2026-07-09",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
@@ -1587,16 +1597,6 @@
     "summary": "Last night I saw Central Square Theater’s excellent production of Breaking the Code . It’s about Alan Turing, who made a monumental contribution to both my profession and the fate of free democracies. Well worth seeing if you’re in the Boston area this month.",
     "published_iso": "2026-04-11T13:01:00+00:00",
     "published_display": "2026-04-11",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
-    "blog_name": "Martin Fowler",
-    "title": "Feedback Flywheel",
-    "link": "https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html",
-    "summary": "Rahul Garg finishes his series on reducing the friction in AI-Assisted Development. He proposes a structured feedback practice that harvests learnings from AI sessions and feeds them back into the team's shared artifacts, turning individual experience into collective improvement. more…",
-    "published_iso": "2026-04-08T13:28:00+00:00",
-    "published_display": "2026-04-08",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {

@@ -39,6 +39,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
     "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
     "https://blog.bytebytego.com/p/how-big-models-teach-small-models",
     "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
@@ -89,6 +90,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KZQNDKFVX2ZXMBEHCJJHFH8N",
+    "01KZEF237MMZ9CHJ8RTKBA8G7A",
     "2qQZuefCfPJvVRRFrHQgKC",
     "01KZCHBWNB93JTTPTBKQZF0SG9",
     "01KZCGVT7YXBW6BH8Y05159WAR",
@@ -351,6 +354,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
     "https://martinfowler.com/fragments/2026-08-04.html",
     "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
     "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",

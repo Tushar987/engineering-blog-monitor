@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://engineering.fb.com/?p=24092",
+    "blog_name": "Meta Engineering",
+    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+    "link": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+    "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we&#8217;re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we&#8217;re sharing an early [...] Read More... The post How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guara",
+    "published_iso": "2026-08-12T13:00:28+00:00",
+    "published_display": "2026-08-12",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "0706b8b494465b7b3b950573fddf1af92f4b7a12",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
+    "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/",
+    "summary": "Learn how to coordinate AI agents through shared state in Amazon S3 instead of a central orchestrator. Deploy and observe self-organizing agent clusters on Amazon EC2 with the open-source kiro-flock reference implementation.",
+    "published_iso": "2026-08-11T21:17:02+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for",
+    "blog_name": "ByteByteGo",
+    "title": "How Cloudflare Is Making AI Pay for Content",
+    "link": "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for",
+    "summary": "In this article, we will go through Cloudflare&#8217;s solution in the following five steps.",
+    "published_iso": "2026-08-11T15:30:42+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01KZQNDKFVX2ZXMBEHCJJHFH8N",
     "blog_name": "Cloudflare Blog",
     "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
@@ -18,6 +48,36 @@
     "published_iso": "2026-08-11T11:39:00+00:00",
     "published_display": "2026-08-11",
     "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://stripe.com/blog/mapping-the-ai-economy",
+    "blog_name": "Stripe Engineering",
+    "title": "Mapping the AI economy",
+    "link": "https://stripe.com/blog/mapping-the-ai-economy",
+    "summary": "AI companies are undergoing rapid global expansion while achieving unprecedented rates of growth. We analyzed Stripe data to understand where global demand is the strongest, and how companies can build to best capture that demand.",
+    "published_iso": "2026-08-11T00:00:00+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/link-world-of-warcraft-with-discord",
+    "blog_name": "Discord Engineering",
+    "title": "Link Discord and WoW to Keep the Guild Chatting Wherever You Are",
+    "link": "https://discord.com/blog/link-world-of-warcraft-with-discord",
+    "summary": "Gather your guildmates! Link your Discord and Battle.net accounts to unlock synced guild chat across Discord and World of Warcraft.",
+    "published_iso": "2026-08-11T00:00:00+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://discord.com/blog/discord-update-august-11-2026-changelog",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Update: August 11, 2026 Changelog",
+    "link": "https://discord.com/blog/discord-update-august-11-2026-changelog",
+    "summary": "Here's the Discord Changelog from August 11, 2026, so you can stay informed on what’s new in recent app updates!",
+    "published_iso": "2026-08-11T00:00:00+00:00",
+    "published_display": "2026-08-11",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "01KZEF237MMZ9CHJ8RTKBA8G7A",
@@ -780,16 +840,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
-    "blog_name": "ByteByteGo",
-    "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d",
-    "summary": "Our 7th cohort of Becoming an AI Engineer starts tomorrow, Saturday, July 11. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.",
-    "published_iso": "2026-07-10T15:32:04+00:00",
-    "published_display": "2026-07-10",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "blog_name": "AWS Architecture Blog",
     "title": "Specification-driven composition for flexible data workflows",
@@ -1020,16 +1070,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://engineering.fb.com/?p=24054",
-    "blog_name": "Meta Engineering",
-    "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
-    "link": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
-    "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate control [...] Read More... The post Adopting AV1 for Real-Time Communication (RTC) at Scale appeared ",
-    "published_iso": "2026-06-22T16:00:08+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://medium.com/p/18b699d58e36",
     "blog_name": "Netflix Tech Blog",
     "title": "The Data Canary: How Netflix Validates Catalog Metadata",
@@ -1068,16 +1108,6 @@
     "published_iso": "2026-06-18T00:00:00+00:00",
     "published_display": "2026-06-18",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "896d74573d5a673ecb2d100c9b9230a603cc58a0",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
-    "link": "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito/",
-    "summary": "In this post, we show how Vonage network-powered solutions work with Amazon Cognito to enhance many mobile-first use cases with network-level identity verification. Vonage network-powered solutions are a composable stack of real-time mobile operator intelligence, silent authentication, and integrated fraud protection, which uses the CUSTOM_AUTH flow to complete identity verification in under 5 seconds, with zero user interaction.",
-    "published_iso": "2026-06-17T13:50:16+00:00",
-    "published_display": "2026-06-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-06-16.html",
@@ -1308,16 +1338,6 @@
     "published_iso": "2026-05-27T14:03:00+00:00",
     "published_display": "2026-05-27",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business",
-    "blog_name": "Stripe Engineering",
-    "title": "Expanding Stripe Radar to protect more of your business",
-    "link": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business",
-    "summary": "Radar now blocks high-risk transactions across all supported payment methods; defends against new fraud types like multi-account abuse and pay-as-you-go abuse, regardless of which payment processor you use; and gives platforms new tools to evaluate and mitigate merchant risk on and off Stripe.",
-    "published_iso": "2026-05-27T00:00:00+00:00",
-    "published_display": "2026-05-27",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://martinfowler.com/bliki/VibeCoding.html",
@@ -2350,26 +2370,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://discord.com/blog/discord-update-march-25-2025-changelog",
-    "blog_name": "Discord Engineering",
-    "title": "Discord Update: March 25, 2025 Changelog",
-    "link": "https://discord.com/blog/discord-update-march-25-2025-changelog",
-    "summary": "Here's the Discord Changelog from March 25, 2025, so you can stay informed on what’s new in recent app updates!",
-    "published_iso": "2025-03-25T00:00:00+00:00",
-    "published_display": "2025-03-25",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/player-release-q12025",
-    "blog_name": "Discord Engineering",
-    "title": "Revamped Overlay & Refreshed Desktop Give Game Time a Boost",
-    "link": "https://discord.com/blog/player-release-q12025",
-    "summary": "We’re releasing a new and improved version of the Game Overlay, along with a refreshed desktop app so you can further customize Discord to your style.",
-    "published_iso": "2025-03-25T00:00:00+00:00",
-    "published_display": "2025-03-25",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
     "id": "663c0f44a2fcdf0001bab86c",
     "blog_name": "High Scalability",
     "title": "Kafka 101",
@@ -2518,6 +2518,26 @@
     "published_iso": "2022-05-04T07:35:24+00:00",
     "published_display": "2022-05-04",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "blog_name": "Google Developers Blog",
+    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+    "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "blog_name": "Google Developers Blog",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibili",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
     "id": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
@@ -2695,26 +2715,6 @@
     "title": "Build agentic full-stack apps with Genkit",
     "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
     "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/why-we-built-adk-20/",
-    "blog_name": "Google Developers Blog",
-    "title": "Why we built ADK 2.0",
-    "link": "https://developers.googleblog.com/why-we-built-adk-20/",
-    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "blog_name": "Google Developers Blog",
-    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
-    "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Mark",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

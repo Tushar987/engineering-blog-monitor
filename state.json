@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "0706b8b494465b7b3b950573fddf1af92f4b7a12",
     "79195fa586925a9b62c134acc83bb06b7b67a778",
     "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
     "36baf26c54fe304725040010bfa7f4187708c5c9",
@@ -39,6 +40,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for",
     "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
     "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
     "https://blog.bytebytego.com/p/how-big-models-teach-small-models",
@@ -166,6 +168,8 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
     "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
@@ -211,6 +215,8 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/link-world-of-warcraft-with-discord",
+    "https://discord.com/blog/discord-update-august-11-2026-changelog",
     "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "https://discord.com/blog/mobile-platform-support-arrives-in-discord-social-sdk",
     "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing",
@@ -320,6 +326,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24092",
     "https://engineering.fb.com/?p=23996",
     "https://engineering.fb.com/?p=24167",
     "https://engineering.fb.com/?p=24251",
@@ -443,6 +450,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/mapping-the-ai-economy",
     "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
     "https://stripe.com/blog/trends-from-hitec",
     "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",

@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
+    "8a7d04cae66e4cde2c7aba45db9d4c60b5230e93",
+    "67bab42fa08b0b21ed88fba69f07f953ea642f5f",
     "0706b8b494465b7b3b950573fddf1af92f4b7a12",
     "79195fa586925a9b62c134acc83bb06b7b67a778",
     "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
@@ -40,6 +43,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
     "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for",
     "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
     "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
@@ -92,6 +96,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01KZQPY0C41XKPVZ5HRG3E1ZK3",
     "01KZQNDKFVX2ZXMBEHCJJHFH8N",
     "01KZEF237MMZ9CHJ8RTKBA8G7A",
     "2qQZuefCfPJvVRRFrHQgKC",
@@ -406,6 +411,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/3a8a4c917137",
     "https://medium.com/p/e817e5ae5788",
     "https://medium.com/p/bcefd1915624",
     "https://medium.com/p/14e2d35198b4",

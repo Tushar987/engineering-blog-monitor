@@ -1,5 +1,65 @@
 [
   {
+    "id": "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Recovery strategies to meet data residency requirements",
+    "link": "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/",
+    "summary": "Learn three strategies for achieving disaster recovery while meeting data residency requirements. Ranging from encryption-based controls on multi-Region replication to fully in-country architectures, these patterns help you balance recovery objectives with regulatory constraints.",
+    "published_iso": "2026-08-13T14:05:39+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01KZQPY0C41XKPVZ5HRG3E1ZK3",
+    "blog_name": "Cloudflare Blog",
+    "title": "Certificate Transparency Monitoring is now generally available",
+    "link": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
+    "summary": "Cloudflare's Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it's worth a look.",
+    "published_iso": "2026-08-13T13:00:00+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "8a7d04cae66e4cde2c7aba45db9d4c60b5230e93",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Reducing Text2SQL latency with parameterized query templates",
+    "link": "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates/",
+    "summary": "Learn how parameterized query templates reduced Text2SQL latency by 80% and cut token consumption by over 50%. This post covers the architecture behind an intelligent caching layer that uses semantic similarity to match user questions to SQL templates, bypassing expensive LLM calls.",
+    "published_iso": "2026-08-13T00:40:32+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "67bab42fa08b0b21ed88fba69f07f953ea642f5f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
+    "link": "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus/",
+    "summary": "Learn how Adobe Firefly achieved 28x faster GPU metric queries by migrating from self-managed Prometheus to Amazon Managed Service for Prometheus, with improvements in query performance, infrastructure reliability, and operational efficiency.",
+    "published_iso": "2026-08-13T00:14:19+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://medium.com/p/3a8a4c917137",
+    "blog_name": "Airbnb Engineering",
+    "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
+    "link": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4",
+    "summary": "Rebuilding login and signup surfaced product insights, not just technical challenges. Here’s how we designed Flexible Authentication at the intersection of product intuition and technical architecture. By : Jose Santos , Mike Barry For Airbnb, logins at irregular intervals are normal. A guest books a trip in January and may not open the app again until summer. A host checks back only when a reservation comes in, and may be busy with other activities when it does. For a two-sided marketplace wher",
+    "published_iso": "2026-08-12T17:01:04+00:00",
+    "published_display": "2026-08-12",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
+    "blog_name": "ByteByteGo",
+    "title": "GitHub vs Vercel vs Replit: What Dev Platforms Do When AI Code Is Cheap",
+    "link": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
+    "summary": "AI models have solved the writing code part of software development to a great extent.",
+    "published_iso": "2026-08-12T15:30:02+00:00",
+    "published_display": "2026-08-12",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://engineering.fb.com/?p=24092",
     "blog_name": "Meta Engineering",
     "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
@@ -338,16 +398,6 @@
     "published_iso": "2026-08-04T15:31:00+00:00",
     "published_display": "2026-08-04",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01KZ67XSDB3QZRT3JC43EGMSD1",
-    "blog_name": "Cloudflare Blog",
-    "title": "The Agent Development Lifecycle has arrived on Cloudflare",
-    "link": "https://blog.cloudflare.com/agent-development-lifecycle/",
-    "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
-    "published_iso": "2026-08-04T13:00:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-08-04.html",
@@ -830,16 +880,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
-    "blog_name": "ByteByteGo",
-    "title": "EP221: How Docker Works Under the Hood",
-    "link": "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
-    "summary": "A Docker container starts with a single command, but that command has to be turned into a running Linux process. Here is what actually happens.",
-    "published_iso": "2026-07-11T15:30:14+00:00",
-    "published_display": "2026-07-11",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
     "blog_name": "AWS Architecture Blog",
     "title": "Specification-driven composition for flexible data workflows",
@@ -1038,36 +1078,6 @@
     "published_iso": "2026-06-22T21:35:01+00:00",
     "published_display": "2026-06-22",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "f826346cb1296d1306eca3a35547d4c1936b93cf",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
-    "link": "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/",
-    "summary": "This post walks you through a two-layer, defense-in-depth authorization pattern for granular, intra-tenant access control in RAG applications. Defense in depth is a security strategy that uses multiple independent layers of protection. Each layer operates independently. If one layer is misconfigured, the other layer still enforces access control. The pattern runs on Amazon Bedrock, a fully managed service that offers a choice of high-performing foundation models (FMs) from Amazon and AI companie",
-    "published_iso": "2026-06-22T16:49:13+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "7b74f2ea3ba81a144eb3a6b7539e7cecb9b1b513",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Modernizing financial analytics with Amazon SageMaker Unified Studio",
-    "link": "https://aws.amazon.com/blogs/architecture/modernizing-financial-analytics-with-amazon-sagemaker-unified-studio/",
-    "summary": "Avanse Financial Services, India’s leading education loan providers, migrated to a cloud-native lakehouse architecture using Amazon SageMaker Unified Studio, which unified their data engineering, analytics, and artificial intelligence (AI) workflows in a single governed environment on AWS. In this post, we walk through their migration journey so you can adapt their approach to your own environment.",
-    "published_iso": "2026-06-22T16:42:55+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "98ef5bb1305a4795ddca9c7137daee688de7bc69",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Architecting AI-powered resilience framework on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws/",
-    "summary": "In this post, you’ll learn how to architect and implement a five-layer AI-powered resilience framework that automatically discovers dependencies, generates targeted experiments, and integrates with your existing Continuous Integration/Continuous Deployment (CI/CD) pipelines. First, we’ll explore the key challenges in resilience testing. Then, we’ll walk through the five-layer architecture that solves these challenges. Finally, we’ll show you how to implement this, with phased rollout guidance fo",
-    "published_iso": "2026-06-22T16:35:07+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/18b699d58e36",
@@ -1558,16 +1568,6 @@
     "published_iso": "2026-04-29T00:00:00+00:00",
     "published_display": "2026-04-29",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/f6c34552146f",
-    "blog_name": "Airbnb Engineering",
-    "title": "Skipper: Building Airbnb’s embedded workflow engine",
-    "link": "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb built a lightweight workflow engine to solve durable execution. By : Ricardo Gamba , Andriy Sergiyenko Introduction: The durable execution problem Picture this hypothetical flow: A host submits an insurance claim about their listing to Airbnb. The system needs to validate the claim, run trust and safety checks, assess estimates, process the payout, and send notifications. Halfway through — after the validation passes, but before the payout — the server crashes. What happens next? In a",
-    "published_iso": "2026-04-28T17:01:02+00:00",
-    "published_display": "2026-04-28",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "tag:martinfowler.com,2026-04-28:Structured-Prompt-Driven-Development--SPDD-",

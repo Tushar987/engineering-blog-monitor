@@ -1,5 +1,65 @@
 [
   {
+    "id": "01M005AFBW9P2YGZT4HH64D2BQ",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Cloudflare detects MCP traffic and helps secure it",
+    "link": "https://blog.cloudflare.com/mcp-security-updates/",
+    "summary": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network paths.",
+    "published_iso": "2026-08-14T13:12:12+00:00",
+    "published_display": "2026-08-14",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KZW0MF4VJTZW3F7601QANQ7Z",
+    "blog_name": "Cloudflare Blog",
+    "title": "Secure all your internal vibe-coded applications — in one click",
+    "link": "https://blog.cloudflare.com/workers-protected-by-access/",
+    "summary": "Introducing Cloudflare Access for Workers. Attach an Access policy directly to a Worker and it applies everywhere that Worker runs — routes, custom domains, workers.dev, and previews — automatically.",
+    "published_iso": "2026-08-14T13:00:00+00:00",
+    "published_display": "2026-08-14",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "8aedd5f999cd02a2d1d7d07ca7fdf572137781cf",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Serverless vehicle tracking at scale: Bosch L.OS on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws/",
+    "summary": "Learn how Bosch Mobility Platform Solutions built L.OS, a serverless vehicle tracking platform on AWS that unifies India's fragmented spot logistics market into a single real-time visibility layer using Amazon ECS, AWS Lambda, and Amazon MSK.",
+    "published_iso": "2026-08-14T10:02:13+00:00",
+    "published_display": "2026-08-14",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01KZY9EY62FCNTTQG8TX7R4GWK",
+    "blog_name": "Cloudflare Blog",
+    "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+    "link": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
+    "summary": "Cloudflare's data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.",
+    "published_iso": "2026-08-13T19:58:01+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "e822b084e9cc7b47a22fb7752cbf000178be53f4",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Track generative AI costs with Amazon Bedrock inference profiles",
+    "link": "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/",
+    "summary": "Learn how to track generative AI costs by department using Amazon Bedrock application inference profiles and AWS cost allocation tags. Create tagged profiles for each team and view per-department cost breakdowns in AWS Cost Explorer.",
+    "published_iso": "2026-08-13T15:59:39+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
+    "blog_name": "ByteByteGo",
+    "title": "A Detailed Guide to API Composition Techniques",
+    "link": "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
+    "summary": "In this article, we are going to dive deep into the area of the API composition problem and the patterns associated with it.",
+    "published_iso": "2026-08-13T15:30:27+00:00",
+    "published_display": "2026-08-13",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
     "blog_name": "AWS Architecture Blog",
     "title": "Recovery strategies to meet data residency requirements",
@@ -356,36 +416,6 @@
     "link": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
     "summary": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey to give our users the best AI tools available.",
     "published_iso": "2026-08-05T13:00:01+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ7PERAEJK3G9KDWDQ3BXZZQ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "link": "https://blog.cloudflare.com/cloudflare-os/",
-    "summary": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates",
-    "published_iso": "2026-08-05T13:00:00+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ7CKXC5ECVNAP2GSTX54B48",
-    "blog_name": "Cloudflare Blog",
-    "title": "WriteGuard: fine-grained controls for MCP Servers",
-    "link": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/",
-    "summary": "At Cloudflare, we knew we could not depend on every employee to configure every agent perfectly or watch every tool call. Before expanding write access across our own internal MCP servers, we built WriteGuard. We are now bringing those controls to Cloudflare MCP server portals through a private beta.",
-    "published_iso": "2026-08-05T13:00:00+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KZ7B5XMX7JB1E4KZZP5QRR9P",
-    "blog_name": "Cloudflare Blog",
-    "title": "Catching rogue AI behavior with identity-aware analytics",
-    "link": "https://blog.cloudflare.com/identity-aware-ai-gateway/",
-    "summary": "Identity-aware AI Gateway is now in open beta. User Insights turns that traffic into a behavioral baseline for every person and agent, and flags insider risk the moment it appears.",
-    "published_iso": "2026-08-05T13:00:00+00:00",
     "published_display": "2026-08-05",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -850,16 +880,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
-    "blog_name": "ByteByteGo",
-    "title": "How Microsoft Ships AI Agents at Enterprise Scale",
-    "link": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
-    "summary": "To understand what it actually takes to ship agents at that scale, we spoke with Marco Casalaina, VP of Products for Microsoft Core AI.",
-    "published_iso": "2026-07-13T15:02:11+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-07-13.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: July 13",
@@ -986,26 +1006,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/",
     "summary": "In this post, we share our journey and the lessons learned from building and running a fully serverless, multi-account software as a service (SaaS) platform at scale. We’ll explore why true scale-to-zero is critical, how we handle quota management, why engaging AWS service teams early saved us from outages, and which unexpected practices emerged once we scaled from thousands to over a million functions.",
     "published_iso": "2026-06-29T17:21:05+00:00",
-    "published_display": "2026-06-29",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "911455f3ceec06dfe1daa980d11ff3d1dd9dad0f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Preventing data exfiltration in machine learning environments with Amazon SageMaker AI",
-    "link": "https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/",
-    "summary": "In this post, we demonstrate how iBusiness implemented a three-layered security architecture using Amazon SageMaker AI, virtual private cloud (VPC) endpoints, and Amazon WorkSpaces Secure Browser to prevent data exfiltration while maintaining data scientist productivity. You can adapt this approach to build secure machine learning environments that balance strict data protection with team scalability.",
-    "published_iso": "2026-06-29T17:16:48+00:00",
-    "published_display": "2026-06-29",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "724ed00b59475c0e4625e6635fc2bac52720a8cc",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Dual-token authentication for Nakama game servers with Amazon Cognito on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/",
-    "summary": "In this post, you learn how to configure an Amazon Cognito User Pool for SRP-based game client authentication with no client secret. You will implement a Go runtime hook that validates Cognito JWTs and bridges player identity to Nakama sessions.",
-    "published_iso": "2026-06-29T17:09:54+00:00",
     "published_display": "2026-06-29",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
@@ -2520,11 +2520,21 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
-    "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "id": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "blog_name": "Google Developers Blog",
-    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-    "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+    "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized memory footprint, the library delivers instant validation verdicts for multi-gigabyte media files without incurring cloud latency, bandwidth costs, or data privacy risks. The library currently features deep manifest parsing",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+    "blog_name": "Google Developers Blog",
+    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+    "link": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, the engineering team pipelined exposed all-to-all collectives, aligned sparse attention block sizes to eliminate mask padding, and bypassed softmax serial dependencies using a precomputed Cauchy-Schwarz upper bound. These custom Pallas kernel and",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2535,6 +2545,16 @@
     "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
     "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibili",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "blog_name": "Google Developers Blog",
+    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+    "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
     "link": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
-    "blog_name": "Google Developers Blog",
-    "title": "We terminated a TPU mid-training and it recovered in seconds:  Introduction to elastic training with MaxText",
-    "link": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
-    "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX ecosystem utilizes elastic training via Pathways, which converts a hardware failure into a catchable Python exception so the running process can survive. When an unplanned failure occurs, the system automatically replaces only the broken worker, restores the last viable checkpoint ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "blog_name": "Google Developers Blog",
-    "title": "Build agentic full-stack apps with Genkit",
-    "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

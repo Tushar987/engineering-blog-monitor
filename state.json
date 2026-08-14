@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "8aedd5f999cd02a2d1d7d07ca7fdf572137781cf",
+    "e822b084e9cc7b47a22fb7752cbf000178be53f4",
     "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
     "8a7d04cae66e4cde2c7aba45db9d4c60b5230e93",
     "67bab42fa08b0b21ed88fba69f07f953ea642f5f",
@@ -43,6 +45,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
     "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
     "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for",
     "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
@@ -96,6 +99,9 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M005AFBW9P2YGZT4HH64D2BQ",
+    "01KZW0MF4VJTZW3F7601QANQ7Z",
+    "01KZY9EY62FCNTTQG8TX7R4GWK",
     "01KZQPY0C41XKPVZ5HRG3E1ZK3",
     "01KZQNDKFVX2ZXMBEHCJJHFH8N",
     "01KZEF237MMZ9CHJ8RTKBA8G7A",
@@ -173,8 +179,10 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+    "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
     "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
     "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",

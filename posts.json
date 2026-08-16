@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
+    "blog_name": "ByteByteGo",
+    "title": "EP222: What is Google’s TPU?",
+    "link": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
+    "summary": "A TPU (Tensor Processing Unit) is Google&#8217;s custom AI chip, designed from scratch for the giant matrix multiplications that modern models live on. GPUs were built for graphics first.",
+    "published_iso": "2026-08-15T15:30:49+00:00",
+    "published_display": "2026-08-15",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M005AFBW9P2YGZT4HH64D2BQ",
     "blog_name": "Cloudflare Blog",
     "title": "How Cloudflare detects MCP traffic and helps secure it",
@@ -838,16 +848,6 @@
     "published_iso": "2026-07-14T16:10:08+00:00",
     "published_display": "2026-07-14",
     "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
-    "blog_name": "ByteByteGo",
-    "title": "How LLMs Learn to Be Helpful (RLHF vs DPO)",
-    "link": "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
-    "summary": "In this article, we will look at how that learning actually happens, starting with why instruction-following alone falls short, then walking through the two main methods for teaching preferences (RLHF and DPO).",
-    "published_iso": "2026-07-14T15:30:53+00:00",
-    "published_display": "2026-07-14",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",

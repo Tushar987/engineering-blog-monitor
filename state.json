@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "7849f6dd4756b52e47e36f73e05ce3d50161e20f",
     "8aedd5f999cd02a2d1d7d07ca7fdf572137781cf",
     "e822b084e9cc7b47a22fb7752cbf000178be53f4",
     "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
@@ -45,6 +46,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
     "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
     "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
     "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
@@ -180,10 +182,11 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
     "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-    "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
     "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
@@ -229,6 +232,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
     "https://discord.com/blog/link-world-of-warcraft-with-discord",
     "https://discord.com/blog/discord-update-august-11-2026-changelog",
     "https://discord.com/blog/discord-patch-notes-august-4-2026",
@@ -465,6 +469,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/reduce-fx-costs-with-stripe",
     "https://stripe.com/blog/mapping-the-ai-economy",
     "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
     "https://stripe.com/blog/trends-from-hitec",

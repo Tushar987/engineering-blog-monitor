@@ -1,5 +1,45 @@
 [
   {
+    "id": "7849f6dd4756b52e47e36f73e05ce3d50161e20f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Consistency is the new latency: AI at the data layer",
+    "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/",
+    "summary": "As AI agents move from chatbots to taking action, their reliability depends on the consistency of the data layer beneath them. This post examines how replication lag poisons an agent's context and shows how to match Amazon Aurora, Amazon DynamoDB, and Amazon Keyspaces replication models to each task's consistency requirements.",
+    "published_iso": "2026-08-18T11:13:20+00:00",
+    "published_display": "2026-08-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
+    "blog_name": "ByteByteGo",
+    "title": "Waymo vs Tesla: Two Ways to Build Self-Driving Cars",
+    "link": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
+    "summary": "In this article, we will take a look at both approaches.",
+    "published_iso": "2026-08-17T15:30:56+00:00",
+    "published_display": "2026-08-17",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
+    "blog_name": "Stripe Engineering",
+    "title": "New currency capabilities for global businesses to cut FX costs",
+    "link": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
+    "summary": "Two product upgrades make it easy for global businesses to manage FX entirely on Stripe. We’re expanding multicurrency settlement to more markets and currencies, and we’re introducing the ability to convert currencies instantly—all on Stripe.",
+    "published_iso": "2026-08-17T00:00:00+00:00",
+    "published_display": "2026-08-17",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
+    "blog_name": "Discord Engineering",
+    "title": "A letter to the Discord community in Brazil",
+    "link": "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
+    "summary": "On the order from Brazil's ANPD to suspend screensharing and video features in the country, how we're complying, and our commitment to our community in Brazil.",
+    "published_iso": "2026-08-17T00:00:00+00:00",
+    "published_display": "2026-08-17",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
     "blog_name": "ByteByteGo",
     "title": "EP222: What is Google’s TPU?",
@@ -800,16 +840,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
-    "blog_name": "ByteByteGo",
-    "title": "AI Customer Support at Scale: The Travel Industry’s $Billion Bet",
-    "link": "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
-    "summary": "In this article, we will look more closely at the different solutions by following the support pipeline from first principles, show why a tail of cases resists automation regardless of model quality, and use these three approaches to understand how these can be handled.",
-    "published_iso": "2026-07-15T15:30:53+00:00",
-    "published_display": "2026-07-15",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "e93a67cd681588de3d1728e022a51ce4dda6f4fc",
     "blog_name": "AWS Architecture Blog",
     "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
@@ -998,16 +1028,6 @@
     "published_iso": "2026-06-30T00:00:00+00:00",
     "published_display": "2026-06-30",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "7787ea31cf0745f0c436ee3c2129e76cc178b69e",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Lessons learned from scaling to 1 million Lambda functions",
-    "link": "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/",
-    "summary": "In this post, we share our journey and the lessons learned from building and running a fully serverless, multi-account software as a service (SaaS) platform at scale. We’ll explore why true scale-to-zero is critical, how we handle quota management, why engaging AWS service teams early saved us from outages, and which unexpected practices emerged once we scaled from thousands to over a million functions.",
-    "published_iso": "2026-06-29T17:21:05+00:00",
-    "published_display": "2026-06-29",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/77146fba8a08",
@@ -1298,16 +1318,6 @@
     "published_iso": "2026-05-28T14:15:20+00:00",
     "published_display": "2026-05-28",
     "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "https://stripe.com/blog/top-solo-founder-traits",
-    "blog_name": "Stripe Engineering",
-    "title": "Solo founding is at an all-time high: Top performers have these traits in common",
-    "link": "https://stripe.com/blog/top-solo-founder-traits",
-    "summary": "In 2025, solo founders in the top decile generated 61 times the revenue of the median solo founder in their first six months. We analyzed the data to understand what drives that gap.",
-    "published_iso": "2026-05-28T00:00:00+00:00",
-    "published_display": "2026-05-28",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://discord.com/blog/official-discord-integrations-for-steal-a-brainrot-grow-a-garden-brookhaven-rp-and-more",
@@ -2360,16 +2370,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://discord.com/blog/how-to-create-upload-your-own-stickers-on-discord",
-    "blog_name": "Discord Engineering",
-    "title": "How to Create & Upload Your Own Stickers on Discord",
-    "link": "https://discord.com/blog/how-to-create-upload-your-own-stickers-on-discord",
-    "summary": "Stickers on Discord let you express yourself in BIG ways. Learn how to create, upload, and use stickers on Discord.",
-    "published_iso": "2025-03-27T00:00:00+00:00",
-    "published_display": "2025-03-27",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
     "id": "663c0f44a2fcdf0001bab86c",
     "blog_name": "High Scalability",
     "title": "Kafka 101",
@@ -2520,6 +2520,16 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+    "blog_name": "Google Developers Blog",
+    "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+    "link": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+    "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infras",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "blog_name": "Google Developers Blog",
     "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
@@ -2540,21 +2550,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "blog_name": "Google Developers Blog",
-    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibili",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "blog_name": "Google Developers Blog",
     "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
     "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "blog_name": "Google Developers Blog",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibili",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2705,16 +2715,6 @@
     "title": "LiteRT.js, Google's high performance Web AI Inference",
     "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
-    "blog_name": "Google Developers Blog",
-    "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
-    "link": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
-    "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

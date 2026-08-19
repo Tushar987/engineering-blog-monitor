@@ -1,5 +1,45 @@
 [
   {
+    "id": "e9a8c491bf79e0fec6ae5aa7d30d2f08bbe7ab84",
+    "blog_name": "AWS Architecture Blog",
+    "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/",
+    "summary": "AI agents built on Amazon Bedrock AgentCore help clinical trial teams make fast, accurate enrollment decisions while keeping clinicians in control. This post shows how to architect an eligibility and safety screening agent using AWS HealthLake, AgentCore, and AgentCore Evaluations.",
+    "published_iso": "2026-08-19T13:11:51+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+    "blog_name": "ByteByteGo",
+    "title": "The New American AI Model Designed to be Customized",
+    "link": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+    "summary": "In this article, we will work through the various choices Thinking Machines made while building Inkling.",
+    "published_iso": "2026-08-18T15:30:36+00:00",
+    "published_display": "2026-08-18",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M0ANY0TKGXDWAN9C58T3A1HR",
+    "blog_name": "Cloudflare Blog",
+    "title": "BGP Role model: tracking the adoption of RFC 9234",
+    "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+    "summary": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
+    "published_iso": "2026-08-18T15:21:32+00:00",
+    "published_display": "2026-08-18",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-08-18.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: August 18",
+    "link": "https://martinfowler.com/fragments/2026-08-18.html",
+    "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock , who is the global CTO of Thoughtworks. Not just is she far better than me at r",
+    "published_iso": "2026-08-18T15:04:00+00:00",
+    "published_display": "2026-08-18",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "7849f6dd4756b52e47e36f73e05ce3d50161e20f",
     "blog_name": "AWS Architecture Blog",
     "title": "Consistency is the new latency: AI at the data layer",
@@ -460,16 +500,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZ7KS18W44EAET2511C0NY3V",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
-    "link": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
-    "summary": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey to give our users the best AI tools available.",
-    "published_iso": "2026-08-05T13:00:01+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
     "blog_name": "ByteByteGo",
     "title": "Why An LLM’s Memory Gets Expensive and How to Fix It",
@@ -800,16 +830,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
-    "blog_name": "ByteByteGo",
-    "title": "A Guide to Multi-Tenancy: Benefits and Challenges",
-    "link": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
-    "summary": "In this article, we will understand multi-tenant architecture from the basics, along with its various benefits and challenges.",
-    "published_iso": "2026-07-16T16:37:08+00:00",
-    "published_display": "2026-07-16",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "abf6f9161a9d2e1227daae436ad0c85282f26fc9",
     "blog_name": "AWS Architecture Blog",
     "title": "Prioritize your AWS Health alerts using AWS User Notifications",
@@ -948,16 +968,6 @@
     "published_iso": "2026-07-08T11:57:00+00:00",
     "published_display": "2026-07-08",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "23f64103d7883c302cd093107cc54367ad330819",
-    "blog_name": "AWS Architecture Blog",
-    "title": "S&P Global’s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots",
-    "link": "https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/",
-    "summary": "In this post, we explain how S&amp;P Global Market Intelligence implemented an innovative disaster recovery solution for their Capital IQ platform using Amazon FSx for NetApp ONTAP. This solution enables immediate failover to read-only mode in a secondary region within 15 minutes, followed by full read-write recovery when needed. This approach achieves reduction in failover time while maintaining data consistency for global financial operations.",
-    "published_iso": "2026-07-07T16:32:21+00:00",
-    "published_display": "2026-07-07",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
@@ -1558,16 +1568,6 @@
     "published_iso": "2026-05-04T00:00:00+00:00",
     "published_display": "2026-05-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-04-29.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: April 29",
-    "link": "https://martinfowler.com/fragments/2026-04-29.html",
-    "summary": "Chris Parsons has updated his guide on using AI to code . This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also resonates with the better advice I’ve seen out there, so the article makes a good overview of the state of using AI for software development. I wrote the previous version of this post in March 2025, updated it once in August, and it has been linked from almos",
-    "published_iso": "2026-04-29T13:23:00+00:00",
-    "published_display": "2026-04-29",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/behind-the-scenes-of-the-3-25-26-voice-outage",

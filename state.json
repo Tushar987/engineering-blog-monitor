@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "e9a8c491bf79e0fec6ae5aa7d30d2f08bbe7ab84",
     "7849f6dd4756b52e47e36f73e05ce3d50161e20f",
     "8aedd5f999cd02a2d1d7d07ca7fdf572137781cf",
     "e822b084e9cc7b47a22fb7752cbf000178be53f4",
@@ -46,6 +47,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
     "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
     "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
     "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
@@ -102,6 +104,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M0ANY0TKGXDWAN9C58T3A1HR",
     "01M005AFBW9P2YGZT4HH64D2BQ",
     "01KZW0MF4VJTZW3F7601QANQ7Z",
     "01KZY9EY62FCNTTQG8TX7R4GWK",
@@ -379,6 +382,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-08-18.html",
     "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
     "https://martinfowler.com/fragments/2026-08-04.html",
     "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
@@ -406,9 +410,9 @@
     "tag:martinfowler.com,2026-05-12:What-is-Code",
     "https://martinfowler.com/fragments/2026-05-05.html",
     "https://martinfowler.com/bliki/MythicalManMonth.html",
-    "https://martinfowler.com/fragments/2026-04-29.html",
     "tag:martinfowler.com,2026-04-28:Structured-Prompt-Driven-Development--SPDD-",
     "https://martinfowler.com/articles/202604-turing.html",
+    "https://martinfowler.com/fragments/2026-04-29.html",
     "tag:martinfowler.com,2026-04-08:Feedback-Flywheel",
     "https://martinfowler.com/fragments/2026-04-21.html",
     "tag:martinfowler.com,2026-04-07:Principles-of-Mechanical-Sympathy",

@@ -1,5 +1,75 @@
 [
   {
+    "id": "2f4c96e8ba05ad7c022ccf6b821c106a84683886",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1",
+    "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/",
+    "summary": "Learn how AgentFlo built always-on AI sales agents on Amazon Bedrock AgentCore and the Strands Agents SDK. Part 1 covers three pillars of production-grade agents—velocity, standardization, and scalability—including recipe-based deployment, tool routing through AgentCore Gateway, and elastic, stateful commerce conversations.",
+    "published_iso": "2026-08-20T00:32:52+00:00",
+    "published_display": "2026-08-20",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+    "blog_name": "Martin Fowler",
+    "title": "Citizens Build, Agents Execute, Experts Govern",
+    "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+    "summary": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is. The conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingl",
+    "published_iso": "2026-08-19T18:30:00+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-08-19:Practitioner-Voice--The-Writing-Category-Nobody-has-Named-Yet",
+    "blog_name": "Martin Fowler",
+    "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+    "link": "https://martinfowler.com/articles/practitioner-voice.html",
+    "summary": "Jim Highsmith recognizes that effective writing from a practitioner is a style distinct from academic writing or thought-leadership content. It's a style that I advocate, and my contributors mostly follow. Jim decided it was important to give it a name, and identify what makes it distinctive. more…",
+    "published_iso": "2026-08-19T18:15:00+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://medium.com/p/c606b9bdb0ab",
+    "blog_name": "Airbnb Engineering",
+    "title": "How we knew COVID was over (and what our models had to unlearn)",
+    "link": "https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4",
+    "summary": "When we retrain, when we rebuild, and when we leave a model alone. By: Harrison Katz A forecast that carries weight The Forecasting Data Science team at Airbnb produces many of the forecasts the rest of the company plans around: demand, bookings, cancellations, and a range of finer cuts by market and segment, refreshed continuously across thousands of markets. The targets differ, and the models differ, but they have one thing in common: Other teams build on top of them. This means a forecast tha",
+    "published_iso": "2026-08-19T17:01:03+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "01M00Y54SDH5EBZBFJ1FQZ2BX9",
+    "blog_name": "Cloudflare Blog",
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "summary": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare Workers.",
+    "published_iso": "2026-08-19T16:00:28+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
+    "blog_name": "ByteByteGo",
+    "title": "GraphRAG: How AI Answers Questions Hidden Across Many Documents",
+    "link": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
+    "summary": "GraphRAG was designed to handle the second kind of questions, and we are going to learn more about it in this article.",
+    "published_iso": "2026-08-19T15:31:18+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "69190b7f78d35ed0650fb5ce280c677f75f54775",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock/",
+    "summary": "Clario, part of Thermo Fisher Scientific, uses Amazon Bedrock and Amazon Textract to automatically detect protected health information (PHI) and personally identifiable information (PII) across thousands of DICOM image slices in clinical trials, covering both metadata tags and text burned into the image pixels.",
+    "published_iso": "2026-08-19T14:29:31+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "e9a8c491bf79e0fec6ae5aa7d30d2f08bbe7ab84",
     "blog_name": "AWS Architecture Blog",
     "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
@@ -8,6 +78,16 @@
     "published_iso": "2026-08-19T13:11:51+00:00",
     "published_display": "2026-08-19",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
+    "blog_name": "Stripe Engineering",
+    "title": "Why global workers are driving demand for stablecoin payouts",
+    "link": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
+    "summary": "Platforms like DoorDash, Meta, and Deel already enable stablecoin payouts for global workers. We surveyed 2,300 workers in 20 countries to see what's driving stablecoin demand, where the opportunity is highest, and how other platforms can adapt.",
+    "published_iso": "2026-08-19T00:00:00+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
@@ -490,16 +570,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01KZ7MGHAX6C81BVS5AM1DRP2Q",
-    "blog_name": "Cloudflare Blog",
-    "title": "The Agent Access Model",
-    "link": "https://blog.cloudflare.com/the-agent-access-model/",
-    "summary": "The Agent Access Model proposes a new architecture to secure task-scoped agents using strict identity brokering, continuous mediation, and stateful trust.",
-    "published_iso": "2026-08-05T13:00:41+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
     "blog_name": "ByteByteGo",
     "title": "Why An LLM’s Memory Gets Expensive and How to Fix It",
@@ -780,16 +850,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
-    "blog_name": "ByteByteGo",
-    "title": "MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other",
-    "link": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
-    "summary": "Agents are capable on their own. Combined with tools and other agents, their capabilities compound.",
-    "published_iso": "2026-07-18T16:46:13+00:00",
-    "published_display": "2026-07-18",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/a5a8e799ea2c",
     "blog_name": "Netflix Tech Blog",
     "title": "In-House LLM Serving at Netflix",
@@ -938,26 +998,6 @@
     "published_iso": "2026-07-13T12:51:00+00:00",
     "published_display": "2026-07-13",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "0c883221196256a615425f07a9067bccbd3cf13f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Unlocking the future of video data: March Networks cloud storage on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/",
-    "summary": "Enterprise video surveillance is operating at an unprecedented scale as organizations across retail, banking, quick-service restaurants (QSR), convenience stores, and transportation networks generate petabytes of video data across thousands of distributed locations. As retention requirements grow and organizations seek to extract more operational insights from video, traditional on-premise storage models are becoming increasingly difficult and […]",
-    "published_iso": "2026-07-13T10:06:18+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "3dd16d2fb272a87ff4ef5ce08e55c81d2d5479f9",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Specification-driven composition for flexible data workflows",
-    "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/",
-    "summary": "Specification-driven composition addresses a common scalability bottleneck in data pipelines. Data pipelines often start as simple scripts, but as they grow, you duplicate transformation logic and small changes cascade across multiple workflows. Copying and modifying data transformation logic across scripts leads to workflows that become difficult to manage at scale. Tracking what each pipeline does […]",
-    "published_iso": "2026-07-09T22:27:31+00:00",
-    "published_display": "2026-07-09",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
@@ -1290,16 +1330,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program",
-    "blog_name": "Stripe Engineering",
-    "title": "Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)",
-    "link": "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program",
-    "summary": "We moved quickly to help Stripe businesses take advantage of DCAP and capture interchange savings while protecting authorization rates. Here’s what we did.",
-    "published_iso": "2026-06-03T00:00:00+00:00",
-    "published_display": "2026-06-03",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://medium.com/p/915a72b91b5c",
     "blog_name": "Airbnb Engineering",
     "title": "When history fails you, borrow from geography",
@@ -1520,16 +1550,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://medium.com/p/ca6483040930",
-    "blog_name": "Airbnb Engineering",
-    "title": "Monitoring reliably at scale",
-    "link": "https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss----53c7c27702d5---4",
-    "summary": "Designing monitoring that works when everything else doesn’t. By : Abdurrahman J. Allawala Introduction When an incident hits, teams lean on observability to answer the only questions that matter: what’s broken, and why? Monitoring systems are designed to help you answer these questions, and they usually do. But what happens when your observability stack is dependent on the same systems that are failing? In that moment, the dashboards go dark, alerts stop firing, and the tools meant to guide rec",
-    "published_iso": "2026-05-05T17:01:01+00:00",
-    "published_display": "2026-05-05",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-05-05.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: May  5",
@@ -1580,16 +1600,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "tag:martinfowler.com,2026-04-28:Structured-Prompt-Driven-Development--SPDD-",
-    "blog_name": "Martin Fowler",
-    "title": "Structured-Prompt-Driven Development (SPDD)",
-    "link": "https://martinfowler.com/articles/structured-prompt-driven/",
-    "summary": "LLM programming assistants have demonstrated considerable value, but mostly with individual developers. The internal IT organization in Thoughtworks has been using them for their teams and have developed a method and workflow called Structured Prompt-Driven Development (SPDD). Wei Zhang and Jessie Jie Xia describe a simple example of this workflow with details in github. This workflow treats the prompts as a first-class artifact, kept with the code in version control, and used to align developme",
-    "published_iso": "2026-04-28T13:02:00+00:00",
-    "published_display": "2026-04-28",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
     "blog_name": "Discord Engineering",
     "title": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
@@ -1618,16 +1628,6 @@
     "published_iso": "2026-04-13T17:17:16+00:00",
     "published_display": "2026-04-13",
     "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "https://martinfowler.com/articles/202604-turing.html",
-    "blog_name": "Martin Fowler",
-    "title": "Alan Turing play in Cambridge MA",
-    "link": "https://martinfowler.com/articles/202604-turing.html",
-    "summary": "Last night I saw Central Square Theater’s excellent production of Breaking the Code . It’s about Alan Turing, who made a monumental contribution to both my profession and the fate of free democracies. Well worth seeing if you’re in the Boston area this month.",
-    "published_iso": "2026-04-11T13:01:00+00:00",
-    "published_display": "2026-04-11",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-april-6-2026",

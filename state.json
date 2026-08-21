@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "ee6c512a34563af74e3691ed78021d5071e6ef4b",
     "2f4c96e8ba05ad7c022ccf6b821c106a84683886",
     "69190b7f78d35ed0650fb5ce280c677f75f54775",
     "e9a8c491bf79e0fec6ae5aa7d30d2f08bbe7ab84",
@@ -49,6 +50,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
     "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
     "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
     "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
@@ -107,6 +109,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M0E1JC8D74SDDVJCVBVX8EFA",
     "01M00Y54SDH5EBZBFJ1FQZ2BX9",
     "01M0ANY0TKGXDWAN9C58T3A1HR",
     "01M005AFBW9P2YGZT4HH64D2BQ",

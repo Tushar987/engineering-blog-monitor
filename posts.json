@@ -1,5 +1,35 @@
 [
   {
+    "id": "01M0GEDGHWE8A801RQP25T1R91",
+    "blog_name": "Cloudflare Blog",
+    "title": "Say it once: introducing Bot Preference Sync",
+    "link": "https://blog.cloudflare.com/bot-preference-sync/",
+    "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
+    "published_iso": "2026-08-21T23:19:57+00:00",
+    "published_display": "2026-08-21",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "092b963484bd12ba804720ad012fb2e297b29bb7",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Build a unified AI agent architecture with DynamoDB and Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/",
+    "summary": "With native vector search in Amazon DynamoDB, you can store vector embeddings alongside your operational data in a single table. This post shows how to build a unified AI agent architecture where an Amazon Bedrock agent uses one DynamoDB table for both structured lookups and semantic search, with a DynamoDB Streams pipeline that keeps embeddings in sync.",
+    "published_iso": "2026-08-21T18:19:23+00:00",
+    "published_display": "2026-08-21",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://medium.com/p/e9f6a1b1492b",
+    "blog_name": "Netflix Tech Blog",
+    "title": "A Tale of Two Flink Autoscalers",
+    "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+    "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for. We now run both in production and are steadily converging on the open-source one. Along the way we learned some hard lessons about metrics, cost",
+    "published_iso": "2026-08-21T16:01:01+00:00",
+    "published_display": "2026-08-21",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "id": "ee6c512a34563af74e3691ed78021d5071e6ef4b",
     "blog_name": "AWS Architecture Blog",
     "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2",
@@ -540,16 +570,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZ9RBPN3JAYNT28NNJH6K9QJ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Give any website a WebMCP interface",
-    "link": "https://blog.cloudflare.com/webmcp/",
-    "summary": "Today we're launching a developer preview of WebMCP on Cloudflare. With one switch, any site becomes usable by browser AI agents — no new APIs, no origin changes — while the human stays in control and creators keep their traffic.",
-    "published_iso": "2026-08-06T13:00:00+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -930,16 +950,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "e93a67cd681588de3d1728e022a51ce4dda6f4fc",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
-    "link": "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/",
-    "summary": "When 121 million mobile devices establish persistent gRPC connections to your origin infrastructure within seconds of a live broadcast, the routing policy behind your DNS records matters far more than it does at normal traffic levels. The wrong policy can concentrate all your connections onto a single origin endpoint, turning a scaling success into an […]",
-    "published_iso": "2026-07-15T15:27:47+00:00",
-    "published_display": "2026-07-15",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://medium.com/p/14e2d35198b4",
     "blog_name": "Airbnb Engineering",
     "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
@@ -1156,16 +1166,6 @@
     "link": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
     "summary": "By Celina Amados At Netflix, our catalog metadata is crucial to our member experience, and a single corrupted data state can impact millions of viewers immediately. To protect streaming reliability, we built an automated data canary system that validates data transformations using production traffic. This canary detects issues in under 10 minutes, and blocks bad data from reaching our members. Intro Catalog metadata is what makes Netflix functional. It defines what titles exist, where they’re av",
     "published_iso": "2026-06-19T23:54:17+00:00",
-    "published_display": "2026-06-19",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/7ca25888591e",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Data Projects: Managing Data Assets at Netflix Scale",
-    "link": "https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
-    "summary": "By Amer Hesson , Marcelo Mayworm , James Mulcahy , and Brittany Truong The Problem: Managing Assets at Netflix Scale Netflix’s Data Platform is vast. We have millions of tables in our data warehouse and tens of thousands of scheduled workloads running across our orchestration systems. Behind each of these assets sits an engineer, a team, or an initiative — and behind each of those sits a set of decisions about who can access what , and how those workloads execute day after day. For years, the to",
-    "published_iso": "2026-06-19T23:54:00+00:00",
     "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
   },

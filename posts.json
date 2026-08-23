@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
+    "blog_name": "ByteByteGo",
+    "title": "EP223: Ollama vs vLLM vs SGLang",
+    "link": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
+    "summary": "To use open-weight models on your machine, you have three main options: Ollama, vLLM, and SGLang. But each engine handles requests differently.",
+    "published_iso": "2026-08-22T15:31:34+00:00",
+    "published_display": "2026-08-22",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M0GEDGHWE8A801RQP25T1R91",
     "blog_name": "Cloudflare Blog",
     "title": "Say it once: introducing Bot Preference Sync",
@@ -808,16 +818,6 @@
     "published_iso": "2026-07-22T17:12:27+00:00",
     "published_display": "2026-07-22",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents",
-    "blog_name": "ByteByteGo",
-    "title": "Best Practices for Building AI Agents That Work in Production",
-    "link": "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents",
-    "summary": "In this article, we try to explore the collective thinking into a smaller set of practices and explain the reasoning behind each one, rather than asking anyone to memorize a numbered list.",
-    "published_iso": "2026-07-22T15:30:44+00:00",
-    "published_display": "2026-07-22",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",

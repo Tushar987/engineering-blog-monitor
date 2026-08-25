@@ -1,5 +1,65 @@
 [
   {
+    "id": "01M0TDEVJZ66N7RGSKFA27M2WZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "The Cloudflare Blog – Brought to you by EmDash",
+    "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+    "summary": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
+    "published_iso": "2026-08-24T19:00:00+00:00",
+    "published_display": "2026-08-24",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24399",
+    "blog_name": "Meta Engineering",
+    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+    "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet. We&#8217;re releasing the MetaRoCE specification, a reference software implementation and a compliance test [...] Read More... The post MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet appeared first on En",
+    "published_iso": "2026-08-24T18:02:29+00:00",
+    "published_display": "2026-08-24",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24394",
+    "blog_name": "Meta Engineering",
+    "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+    "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs. By co-designing MTIA’s communication library, HCCL, alongside the [...] Read More... The post MTIA 300: Meta&#8217;s First Training Chip with Built-in NICs and Com",
+    "published_iso": "2026-08-24T17:45:52+00:00",
+    "published_display": "2026-08-24",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
+    "blog_name": "ByteByteGo",
+    "title": "Why Code Verification Matters More Than Ever in the Age of AI",
+    "link": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
+    "summary": "In this article, we will look at how code verification works, why the rise of AI-generated code puts more pressure on it, along with the extremely useful insights from Andrea on what the future may look like.",
+    "published_iso": "2026-08-24T15:31:01+00:00",
+    "published_display": "2026-08-24",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-08-24.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: August 24",
+    "link": "https://martinfowler.com/fragments/2026-08-24.html",
+    "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human [Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmer",
+    "published_iso": "2026-08-24T15:29:00+00:00",
+    "published_display": "2026-08-24",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "8f373005181e55a96d79518e8fa48db9eb211175",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration",
+    "link": "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration/",
+    "summary": "When AWS accounts move between organizations, organization-bound AWS RAM resource shares break and control-plane access is lost. Learn how a global payment processor used temporary bridge shares to preserve AWS Lake Formation permissions across a 382-account AWS Organizations migration, then restored the original shares as the durable source of truth.",
+    "published_iso": "2026-08-24T15:23:21+00:00",
+    "published_display": "2026-08-24",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
     "blog_name": "ByteByteGo",
     "title": "EP223: Ollama vs vLLM vs SGLang",
@@ -78,6 +138,16 @@
     "published_iso": "2026-08-20T00:32:52+00:00",
     "published_display": "2026-08-20",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
+    "blog_name": "Stripe Engineering",
+    "title": "Five monetization trends from global pricing leaders",
+    "link": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
+    "summary": "As AI transforms software economics, the standard revenue playbook is breaking down. Learn how leaders around the world are preparing for agent buyers, updating processes for faster pricing iteration, and building more flexible infrastructure.",
+    "published_iso": "2026-08-20T00:00:00+00:00",
+    "published_display": "2026-08-20",
+    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
@@ -570,16 +640,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZ9Z9511J0G655EQ0XMSVWQV",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-    "link": "https://blog.cloudflare.com/kitesurf/",
-    "summary": "We should be giving all agents tools that excel at what’s important for an AI model. Kitesurf is Cloudflare’s new stateless, highly scalable, and cost-effective web browser that runs entirely on top of Workers and was designed specifically for the Agentic Cloud.",
-    "published_iso": "2026-08-06T13:00:00+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -800,16 +860,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
-    "blog_name": "ByteByteGo",
-    "title": "A Beginner’s Guide to Clocks, Causality, and Ordering in Distributed Systems",
-    "link": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
-    "summary": "Why does something as simple as reading the time become a hard problem for distributed systems?",
-    "published_iso": "2026-07-23T15:30:41+00:00",
-    "published_display": "2026-07-23",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "79195fa586925a9b62c134acc83bb06b7b67a778",
     "blog_name": "AWS Architecture Blog",
     "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
@@ -917,16 +967,6 @@
     "summary": "This three-part blog series guides you through implementing Eclipse Dataspace Components (EDC) on AWS, from foundational concept to production deployment. Part 1 establishes the theoretical foundation with IDSA standards, the Dataspace Protocol (DSP), and core EDC architecture. Part 2 provides production-ready AWS deployment patterns using services like Amazon Elastic Container Service (Amazon ECS), Amazon Aurora, […]",
     "published_iso": "2026-07-17T16:03:40+00:00",
     "published_display": "2026-07-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "abf6f9161a9d2e1227daae436ad0c85282f26fc9",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Prioritize your AWS Health alerts using AWS User Notifications",
-    "link": "https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications/",
-    "summary": "If you run critical workloads on AWS, such as a contact center on Amazon Connect Customer, database workloads on Amazon Relational Database Service (Amazon RDS), or hybrid connectivity through AWS Direct Connect, service health events demand your attention. But not all events are equal. An operational issue, a scheduled maintenance window, and a deprecation notice […]",
-    "published_iso": "2026-07-16T14:56:22+00:00",
-    "published_display": "2026-07-16",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
@@ -1100,16 +1140,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://engineering.fb.com/?p=24095",
-    "blog_name": "Meta Engineering",
-    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
-    "link": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
-    "summary": "&#160; Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named &#8220;age&#8220;: In one context, it [...] Read More... The post Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study appeared fi",
-    "published_iso": "2026-06-25T22:30:51+00:00",
-    "published_display": "2026-06-25",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://discord.com/blog/discord-update-june-25-2026-changelog",
     "blog_name": "Discord Engineering",
     "title": "Discord Update: June 25, 2026 Changelog",
@@ -1118,16 +1148,6 @@
     "published_iso": "2026-06-25T00:00:00+00:00",
     "published_display": "2026-06-25",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24113",
-    "blog_name": "Meta Engineering",
-    "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
-    "link": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
-    "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses’ temple arms. So how do you place a battery with enough power to run a pair of smart glasses [...] Read More... The post How Meta Engineered Ultra-Narrow Batteries for AI Glasses appeared first on Engineering at Meta .",
-    "published_iso": "2026-06-23T16:00:38+00:00",
-    "published_display": "2026-06-23",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://medium.com/p/eb8160ed60a2",
@@ -1305,16 +1325,6 @@
     "title": "The future of agentic commerce is here",
     "link": "https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH",
     "summary": "Explore how AI agents are transforming commerce at Stripe’s Agentic Commerce Next roadshow. Reserve your spot in Seattle.",
-    "published_iso": "2026-06-04T00:00:00+00:00",
-    "published_display": "2026-06-04",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH",
-    "blog_name": "Stripe Engineering",
-    "title": "Rethinking risk in the age of AI",
-    "link": "https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH",
-    "summary": "Join senior risk and payments leaders in Seattle to explore how AI is reshaping fraud strategy. Seats are limited.",
     "published_iso": "2026-06-04T00:00:00+00:00",
     "published_display": "2026-06-04",
     "feed_url": "https://stripe.com/blog/feed.rss"
@@ -1548,16 +1558,6 @@
     "published_iso": "2026-05-07T00:00:00+00:00",
     "published_display": "2026-05-07",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-05-05.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: May  5",
-    "link": "https://martinfowler.com/fragments/2026-05-05.html",
-    "summary": "Over the last couple of months Rahul Garg published a series of posts here on how to reduce the friction in AI-assisted programming . To make it easier to put these ideas into practice he’s now built an open-source framework to operationalize these patterns . AI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real engineering standards. Lattice fixes this with composable skills in three tiers",
-    "published_iso": "2026-05-05T16:23:00+00:00",
-    "published_display": "2026-05-05",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://martinfowler.com/bliki/MythicalManMonth.html",
@@ -2520,6 +2520,16 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+    "blog_name": "Google Developers Blog",
+    "title": "How to Evaluate Live & Voice Agents in ADK",
+    "link": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+    "summary": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test graph-based agent workflows against LLM-driven simulated users that generate actual audio via Gemini TTS. By defining evaluation scenarios and natural-language rubrics, you can automatically score audio responses and tool executions, inspect the resulting transcripts in ADK Web, ",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
     "blog_name": "Google Developers Blog",
     "title": "Build zero-trust AI agents with Google's Agent Development Kit",
@@ -2705,16 +2715,6 @@
     "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
     "link": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
     "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executi",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
-    "blog_name": "Google Developers Blog",
-    "title": "LiteRT.js, Google's high performance Web AI Inference",
-    "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
-    "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to ",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

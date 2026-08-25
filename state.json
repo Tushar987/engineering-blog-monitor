@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "8f373005181e55a96d79518e8fa48db9eb211175",
     "092b963484bd12ba804720ad012fb2e297b29bb7",
     "ee6c512a34563af74e3691ed78021d5071e6ef4b",
     "2f4c96e8ba05ad7c022ccf6b821c106a84683886",
@@ -51,6 +52,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-code-verification-matters-more",
     "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
     "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
     "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
@@ -111,6 +113,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M0TDEVJZ66N7RGSKFA27M2WZ",
     "01M0GEDGHWE8A801RQP25T1R91",
     "01M0E1JC8D74SDDVJCVBVX8EFA",
     "01M00Y54SDH5EBZBFJ1FQZ2BX9",
@@ -195,6 +198,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
     "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
     "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
@@ -357,6 +361,8 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24399",
+    "https://engineering.fb.com/?p=24394",
     "https://engineering.fb.com/?p=24092",
     "https://engineering.fb.com/?p=23996",
     "https://engineering.fb.com/?p=24167",
@@ -392,6 +398,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-08-24.html",
     "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
     "tag:martinfowler.com,2026-08-19:Practitioner-Voice--The-Writing-Category-Nobody-has-Named-Yet",
     "https://martinfowler.com/fragments/2026-08-18.html",
@@ -420,8 +427,8 @@
     "https://martinfowler.com/fragments/2026-05-14.html",
     "https://martinfowler.com/bliki/InterrogatoryLLM.html",
     "tag:martinfowler.com,2026-05-12:What-is-Code",
-    "https://martinfowler.com/fragments/2026-05-05.html",
     "https://martinfowler.com/bliki/MythicalManMonth.html",
+    "https://martinfowler.com/fragments/2026-05-05.html",
     "tag:martinfowler.com,2026-04-28:Structured-Prompt-Driven-Development--SPDD-",
     "https://martinfowler.com/articles/202604-turing.html",
     "https://martinfowler.com/fragments/2026-04-29.html",
@@ -487,6 +494,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
     "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
     "https://stripe.com/blog/reduce-fx-costs-with-stripe",
     "https://stripe.com/blog/mapping-the-ai-economy",

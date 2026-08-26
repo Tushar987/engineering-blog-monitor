@@ -52,6 +52,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
     "https://blog.bytebytego.com/p/why-code-verification-matters-more",
     "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
     "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
@@ -447,6 +448,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/74f8b26653fb",
     "https://medium.com/p/c606b9bdb0ab",
     "https://medium.com/p/3a8a4c917137",
     "https://medium.com/p/e817e5ae5788",

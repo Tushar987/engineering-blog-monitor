@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://medium.com/p/74f8b26653fb",
+    "blog_name": "Airbnb Engineering",
+    "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
+    "link": "https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4",
+    "summary": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize The data in Project Lighthouse is powered by privacy-preserving anonymization code. We’ve put this code into open source, and published two new technical papers detailing the scalable algorithms and data quality frameworks behind it. By: Adam Bloomston Introduction In 2020, we launched Project Lighthouse, which we developed in partnership with leading civil rights and privacy organizations. As our 2020 announcement details, Pr",
+    "published_iso": "2026-08-25T17:01:02+00:00",
+    "published_display": "2026-08-25",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
+    "blog_name": "ByteByteGo",
+    "title": "How to Steal an AI Model’s Private Thoughts",
+    "link": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
+    "summary": "In August 2026, a team at MATS Research, the ELLIS Institute T&#252;bingen, and the Max Planck Institute for Intelligent Systems wanted to test whether the encrypted reasoning blocks that Anthropic, OpenAI, and Google hand back to clients actually keep that reasoning private.",
+    "published_iso": "2026-08-25T15:31:09+00:00",
+    "published_display": "2026-08-25",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M0TDEVJZ66N7RGSKFA27M2WZ",
     "blog_name": "Cloudflare Blog",
     "title": "The Cloudflare Blog – Brought to you by EmDash",
@@ -850,16 +870,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
-    "blog_name": "ByteByteGo",
-    "title": "How NVIDIA Builds Open Models for the Age of AI",
-    "link": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
-    "summary": "Bryan Catanzaro, VP of Applied Deep Learning Research at NVIDIA, walked us through how his team builds the company&#8217;s open models, the reasoning behind their architecture, and why NVIDIA open-sources so much of it.",
-    "published_iso": "2026-07-27T15:01:46+00:00",
-    "published_display": "2026-07-27",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "79195fa586925a9b62c134acc83bb06b7b67a778",
     "blog_name": "AWS Architecture Blog",
     "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
@@ -1488,16 +1498,6 @@
     "published_iso": "2026-05-14T15:04:00+00:00",
     "published_display": "2026-05-14",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://medium.com/p/6bab4ec98b89",
-    "blog_name": "Airbnb Engineering",
-    "title": "Viaduct 1.0 and the future of Airbnb’s data mesh",
-    "link": "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4",
-    "summary": "Moving from an internal tool to a community-driven, production-ready data mesh. By : Ryan Tanner , Raymie Stata , Adam Miskiewicz Introduction We’re excited to announce the 1.0 release of the Viaduct. This release marks a shift from Viaduct being an Airbnb-internal tool that happens to be open source to a true community-driven project with a stable public API. The 1.0 release includes substantial new features and enhancements which we describe in the Viaduct blog . Viaduct is for platform engine",
-    "published_iso": "2026-05-13T17:01:01+00:00",
-    "published_display": "2026-05-13",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://discord.com/blog/celebrate-discords-11th-birthday-with-an-exclusive-set-of-emoji-and-wallpapers",

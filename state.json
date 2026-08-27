@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "970a03810729afa5d4975d63cdc0e14eaf52f98f",
+    "1912616f6e192c0ce0ab5843018f7a88936eac21",
     "8f373005181e55a96d79518e8fa48db9eb211175",
     "092b963484bd12ba804720ad012fb2e297b29bb7",
     "ee6c512a34563af74e3691ed78021d5071e6ef4b",
@@ -52,6 +54,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/background-work-from-cron-jobs-to",
+    "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
     "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
     "https://blog.bytebytego.com/p/why-code-verification-matters-more",
     "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
@@ -114,6 +118,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M11810QJGXPR0NHE510EFS6F",
     "01M0TDEVJZ66N7RGSKFA27M2WZ",
     "01M0GEDGHWE8A801RQP25T1R91",
     "01M0E1JC8D74SDDVJCVBVX8EFA",
@@ -199,10 +204,12 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+    "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
     "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
     "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
-    "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+    "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
@@ -399,6 +406,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-08-27:Making-Your-Data-Ready-for-Agentic-AI",
     "https://martinfowler.com/fragments/2026-08-24.html",
     "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
     "tag:martinfowler.com,2026-08-19:Practitioner-Voice--The-Writing-Category-Nobody-has-Named-Yet",

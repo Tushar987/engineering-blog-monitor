@@ -1,5 +1,65 @@
 [
   {
+    "id": "01M11810QJGXPR0NHE510EFS6F",
+    "blog_name": "Cloudflare Blog",
+    "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+    "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "summary": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+    "published_iso": "2026-08-27T17:02:35+00:00",
+    "published_display": "2026-08-27",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/background-work-from-cron-jobs-to",
+    "blog_name": "ByteByteGo",
+    "title": "Background Work: From Cron Jobs to Distributed Systems",
+    "link": "https://blog.bytebytego.com/p/background-work-from-cron-jobs-to",
+    "summary": "In this article, we will look at various such strategies to perform background work in detail.",
+    "published_iso": "2026-08-27T15:31:25+00:00",
+    "published_display": "2026-08-27",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-08-27:Making-Your-Data-Ready-for-Agentic-AI",
+    "blog_name": "Martin Fowler",
+    "title": "Making Your Data Ready for Agentic AI",
+    "link": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+    "summary": "Lots of organizations are excited about what AI can do to streamline their processes, save money, and juice margins. But AI's capabilities are founded on the data that AI accesses, and for many organizations that foundation is little more than sand. Pramod Sadalage and Prem Chandrasekaran write about how to build a reliable foundation of data that can be accurate and trusted. more…",
+    "published_iso": "2026-08-27T13:11:00+00:00",
+    "published_display": "2026-08-27",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "970a03810729afa5d4975d63cdc0e14eaf52f98f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/",
+    "summary": "Gallup transformed 90 years of workplace science into Gallup AI, a generative AI assistant powered by Amazon Bedrock that delivers real-time, personalized coaching to leaders directly within the Gallup Access application.",
+    "published_iso": "2026-08-26T17:36:23+00:00",
+    "published_display": "2026-08-26",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "1912616f6e192c0ce0ab5843018f7a88936eac21",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Closing the AI agent trust gap with graduated autonomy",
+    "link": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/",
+    "summary": "Most teams give AI agents either full access or read-only, leaving value unused or risk unmanaged. This post describes graduated autonomy, an architectural pattern in which agents earn expanded permissions through sustained reliability and lose them when performance degrades, built on Amazon Bedrock AgentCore, Amazon DynamoDB, and AWS CodePipeline.",
+    "published_iso": "2026-08-26T17:33:03+00:00",
+    "published_display": "2026-08-26",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+    "blog_name": "ByteByteGo",
+    "title": "How to Make LLMs 3X Faster",
+    "link": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+    "summary": "In this article, we will look at how speculative decoding works.",
+    "published_iso": "2026-08-26T15:30:34+00:00",
+    "published_display": "2026-08-26",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://medium.com/p/74f8b26653fb",
     "blog_name": "Airbnb Engineering",
     "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
@@ -650,16 +710,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZA0G6ZQF7ZGG8EJ2VPCFY2B",
-    "blog_name": "Cloudflare Blog",
-    "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
-    "link": "https://blog.cloudflare.com/the-agentic-internet/",
-    "summary": "Agents are a new kind of visitor. They don't render CSS or click ads, but they have a paying human on the other end. Block them and you block your customer. We're building the open tools and protocols so publishers and agents can cooperate and not collide.",
-    "published_iso": "2026-08-06T13:00:00+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -810,16 +860,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
-    "blog_name": "ByteByteGo",
-    "title": "How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference",
-    "link": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
-    "summary": "To understand what techniques are adopted in frontier labs to make AI applications more efficient, we met with the OpenAI engineers who developed and shipped various efficiency techniques into the systems behind Codex and ChatGPT Work.",
-    "published_iso": "2026-07-29T15:18:25+00:00",
-    "published_display": "2026-07-29",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
     "blog_name": "Discord Engineering",
     "title": "Introducing Profile Frames: Decorative Borders to Make Your Discord Profile Museum-Worthy",
@@ -838,16 +878,6 @@
     "published_iso": "2026-07-28T17:01:03+00:00",
     "published_display": "2026-07-28",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
-    "blog_name": "ByteByteGo",
-    "title": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways",
-    "link": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
-    "summary": "In this article, we will walk through their differing solutions and try to make sense of their choices and understand the pattern behind them.",
-    "published_iso": "2026-07-28T15:30:42+00:00",
-    "published_display": "2026-07-28",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
@@ -956,26 +986,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/",
     "summary": "When you deploy Eclipse Dataspace Components (EDC) connectors on AWS, one of the first challenges you face is predicting and controlling the cost of the required infrastructure. Without clear benchmarks, it is difficult to make informed decisions about workload sizing, environment configuration, and long-term investment. Part 1 of this 3-part blog series covered the fundamentals […]",
     "published_iso": "2026-07-17T16:03:47+00:00",
-    "published_display": "2026-07-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "79c1ac7425c27097c35a7bcd9fca2e4f4daf585b",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Eclipse Dataspace Components on AWS: Architecture patterns in production",
-    "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production/",
-    "summary": "Running Eclipse Dataspace Components (EDC) connectors in production on AWS requires deliberate architecture decisions around isolation, managed services, and security layering. In Part 1 of this series, we covered the fundamentals of data space architectures and EDC per the International Data Space Association’s (IDSA) standards. If you are new to EDC, we recommend starting there. […]",
-    "published_iso": "2026-07-17T16:03:44+00:00",
-    "published_display": "2026-07-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "219d2d32b5ffa4168e43dc558a94ea5de261d873",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Eclipse Dataspace Components on AWS: Data sharing fundamentals",
-    "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals/",
-    "summary": "This three-part blog series guides you through implementing Eclipse Dataspace Components (EDC) on AWS, from foundational concept to production deployment. Part 1 establishes the theoretical foundation with IDSA standards, the Dataspace Protocol (DSP), and core EDC architecture. Part 2 provides production-ready AWS deployment patterns using services like Amazon Elastic Container Service (Amazon ECS), Amazon Aurora, […]",
-    "published_iso": "2026-07-17T16:03:40+00:00",
     "published_display": "2026-07-17",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
@@ -1558,16 +1568,6 @@
     "published_iso": "2026-05-07T00:00:00+00:00",
     "published_display": "2026-05-07",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/bliki/MythicalManMonth.html",
-    "blog_name": "Martin Fowler",
-    "title": "Bliki: Mythical Man Month",
-    "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
-    "summary": "In the early 1960s, Fred Brooks managed the development of IBM's System/360 computer systems. After it was done he penned his thoughts in the book The Mythical Man-Month which became one of the most influential books on software development after its publication in 1975. Reading it in 2026, we'll find some of it outdated, but it also retains many lessons that are still relevant today. The book contains Brooks's law: “Adding manpower to a late software project makes it later.” The issue here is c",
-    "published_iso": "2026-05-05T16:18:00+00:00",
-    "published_display": "2026-05-05",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://slack.engineering/?p=17774",
@@ -2520,6 +2520,26 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+    "blog_name": "Google Developers Blog",
+    "title": "Decoding cosmic signals with deep learning and Keras",
+    "link": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+    "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
+    "blog_name": "Google Developers Blog",
+    "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
+    "link": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
+    "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token contexts for models like Qwen3-Embedding-8B, the engineering team implemented TPU-specific optimizations such as hardware-safe tensor alignment, JAX/XLA compilation pre-warming, and a hybrid StepPool architecture for chunked prefill management. These enhancements achieve near-perf",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
     "id": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
     "blog_name": "Google Developers Blog",
     "title": "How to Evaluate Live & Voice Agents in ADK",
@@ -2540,21 +2560,21 @@
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
   },
   {
-    "id": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "blog_name": "Google Developers Blog",
-    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
-    "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized memory footprint, the library delivers instant validation verdicts for multi-gigabyte media files without incurring cloud latency, bandwidth costs, or data privacy risks. The library currently features deep manifest parsing",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
     "id": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
     "blog_name": "Google Developers Blog",
     "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
     "link": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
     "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, the engineering team pipelined exposed all-to-all collectives, aligned sparse attention block sizes to eliminate mask padding, and bypassed softmax serial dependencies using a precomputed Cauchy-Schwarz upper bound. These custom Pallas kernel and",
+    "published_iso": "",
+    "published_display": "unknown",
+    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "id": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+    "blog_name": "Google Developers Blog",
+    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+    "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized memory footprint, the library delivers instant validation verdicts for multi-gigabyte media files without incurring cloud latency, bandwidth costs, or data privacy risks. The library currently features deep manifest parsing",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
@@ -2695,26 +2715,6 @@
     "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
     "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
     "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single sour",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
-    "blog_name": "Google Developers Blog",
-    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
-    "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
-    "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
-  },
-  {
-    "id": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
-    "blog_name": "Google Developers Blog",
-    "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
-    "link": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
-    "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executi",
     "published_iso": "",
     "published_display": "unknown",
     "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"

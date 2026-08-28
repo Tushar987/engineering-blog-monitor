@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://medium.com/p/32f96320785e",
+    "blog_name": "Netflix Tech Blog",
+    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+    "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+    "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the video previews that autoplay while you browse, is there to connect you with a story you will love. We call these visual cues assets , and choosing the right one for each member is a personalization problem of its own. But which image or video preview of Squid",
+    "published_iso": "2026-08-28T16:01:02+00:00",
+    "published_display": "2026-08-28",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "01M0GDENDTZTAJ4BWXRH29NYBZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+    "link": "https://blog.cloudflare.com/botbase-for-operators/",
+    "summary": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
+    "published_iso": "2026-08-28T12:59:44+00:00",
+    "published_display": "2026-08-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "01M11810QJGXPR0NHE510EFS6F",
     "blog_name": "Cloudflare Blog",
     "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
@@ -700,16 +720,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZA2T3ZHH6G6Q1Z3CQJD7Q4D",
-    "blog_name": "Cloudflare Blog",
-    "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
-    "link": "https://blog.cloudflare.com/aeo/",
-    "summary": "More than half of requests now come from machines, not people. Agent Readiness shows how well agents can discover and read your site, while Answer Engine Optimization tracks how often AI assistants recommend you.",
-    "published_iso": "2026-08-06T13:00:00+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -1197,16 +1207,6 @@
     "summary": "By Alvin Bao , Alex Petrov , Jennifer Lai , Aidan Sherr , and Samartha Chandrashekar As a part of the journey to transition Netflix’s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the Kubernetes ecosystem into our container platform Titus . One example of this is our use of Kueue , a cloud-native job queueing system for batch workloads, which has largely replaced the custom queuing and scheduling logic in our homegrown managed batch soluti",
     "published_iso": "2026-06-22T21:35:01+00:00",
     "published_display": "2026-06-22",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/18b699d58e36",
-    "blog_name": "Netflix Tech Blog",
-    "title": "The Data Canary: How Netflix Validates Catalog Metadata",
-    "link": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
-    "summary": "By Celina Amados At Netflix, our catalog metadata is crucial to our member experience, and a single corrupted data state can impact millions of viewers immediately. To protect streaming reliability, we built an automated data canary system that validates data transformations using production traffic. This canary detects issues in under 10 minutes, and blocks bad data from reaching our members. Intro Catalog metadata is what makes Netflix functional. It defines what titles exist, where they’re av",
-    "published_iso": "2026-06-19T23:54:17+00:00",
-    "published_display": "2026-06-19",
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {

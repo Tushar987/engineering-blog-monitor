@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
+    "blog_name": "ByteByteGo",
+    "title": "What Happens Inside an AI Chatbot Between Enter and the First Word?",
+    "link": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
+    "summary": "In this article, we are going to look at this entire journey in detail.",
+    "published_iso": "2026-08-31T15:31:20+00:00",
+    "published_display": "2026-08-31",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M15GV7R8AFPM9KDM9HXDKJZ4",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+    "link": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+    "summary": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the meta-signals of live traffic and deploying disposable rules, making automated attacks too expensive to sustain.",
+    "published_iso": "2026-08-31T12:59:00+00:00",
+    "published_display": "2026-08-31",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://medium.com/p/32f96320785e",
     "blog_name": "Netflix Tech Blog",
     "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
@@ -102,7 +122,7 @@
   {
     "id": "01M0TDEVJZ66N7RGSKFA27M2WZ",
     "blog_name": "Cloudflare Blog",
-    "title": "The Cloudflare Blog – Brought to you by EmDash",
+    "title": "The Cloudflare Blog — brought to you by EmDash",
     "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
     "summary": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
     "published_iso": "2026-08-24T19:00:00+00:00",
@@ -172,7 +192,7 @@
   {
     "id": "01M0GEDGHWE8A801RQP25T1R91",
     "blog_name": "Cloudflare Blog",
-    "title": "Say it once: introducing Bot Preference Sync",
+    "title": "Say it once: Introducing Bot Preference Sync",
     "link": "https://blog.cloudflare.com/bot-preference-sync/",
     "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
     "published_iso": "2026-08-21T23:19:57+00:00",
@@ -710,16 +730,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZA4H1D8PD7BXJ5RQBK5JQX0",
-    "blog_name": "Cloudflare Blog",
-    "title": "The next generation of MCP",
-    "link": "https://blog.cloudflare.com/mcp-v2/",
-    "summary": "The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.",
-    "published_iso": "2026-08-06T13:00:00+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -848,16 +858,6 @@
     "published_iso": "2026-07-30T20:10:15+00:00",
     "published_display": "2026-07-30",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
-    "blog_name": "ByteByteGo",
-    "title": "A Detailed Guide to Idempotency, Delivery Semantics, and Deduplication",
-    "link": "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
-    "summary": "What happens when a service sends a request to charge a customer, but the request times out with no response?",
-    "published_iso": "2026-07-30T15:30:29+00:00",
-    "published_display": "2026-07-30",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
+    "blog_name": "ByteByteGo",
+    "title": "How to Shrink a Language Model Without Making it Too Dumb",
+    "link": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
+    "summary": "Models have grown roughly 100-fold in a few years, while consumer graphics memory has roughly doubled. It&#8217;s not just a matter of tightening things up to make them fit.",
+    "published_iso": "2026-09-01T15:30:41+00:00",
+    "published_display": "2026-09-01",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "5ebb77e9f17c34300792188df51307ba3c47c1bb",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws/",
+    "summary": "Learn how to build a hybrid cloud orchestration solution that manages distributed on-premises infrastructure at scale using AWS serverless technologies and Amazon EKS Anywhere. Part 1 covers the core event-driven architecture patterns for automating server lifecycle and cluster management across hundreds of sites.",
+    "published_iso": "2026-09-01T14:01:10+00:00",
+    "published_display": "2026-09-01",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "dad9dac7fb1a93dce9ee9cb3be66334937e8c55f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
+    "link": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/",
+    "summary": "On July 28, 2026, MCP made its protocol core stateless, removing the initialize handshake and session header. This post maps the MCP 2026-07-28 specification to the AWS Well-Architected Agentic AI Lens, pillar by pillar, and shows why the stateless design lets you delete the sticky sessions and session stores your MCP servers needed on AWS.",
+    "published_iso": "2026-09-01T13:09:19+00:00",
+    "published_display": "2026-09-01",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01M1DAE3EH5FEG7RQMQD63A731",
+    "blog_name": "Cloudflare Blog",
+    "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+    "link": "https://blog.cloudflare.com/cache-transcoding/",
+    "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+    "published_iso": "2026-09-01T12:59:00+00:00",
+    "published_display": "2026-09-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
     "blog_name": "ByteByteGo",
     "title": "What Happens Inside an AI Chatbot Between Enter and the First Word?",
@@ -320,6 +360,16 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
+    "id": "https://shopify.engineering/gisting",
+    "blog_name": "Shopify Engineering",
+    "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
+    "link": "https://shopify.engineering/gisting",
+    "summary": "Gisting compresses context into a set of learned tokens, preserving its quality while making the model faster and cheaper.",
+    "published_iso": "2026-08-19T14:32:58+00:00",
+    "published_display": "2026-08-19",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "69190b7f78d35ed0650fb5ce280c677f75f54775",
     "blog_name": "AWS Architecture Blog",
     "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
@@ -530,6 +580,16 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
+    "id": "https://shopify.engineering/mobile-e2e-testing",
+    "blog_name": "Shopify Engineering",
+    "title": "How we raised mobile end-to-end test stability to 98%",
+    "link": "https://shopify.engineering/mobile-e2e-testing",
+    "summary": "We rebuilt our mobile end-to-end testing framework with a strict API and computer vision, raising test stability drastically.",
+    "published_iso": "2026-08-12T20:02:35+00:00",
+    "published_display": "2026-08-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://medium.com/p/3a8a4c917137",
     "blog_name": "Airbnb Engineering",
     "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
@@ -720,16 +780,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01KZA4HXGQQ9FD8XRZB8E0CJEN",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare AI Search: give your agents a search engine for your data",
-    "link": "https://blog.cloudflare.com/ai-search-easier/",
-    "summary": "AI Search makes search easier than ever, with no Cloudflare primitives to stitch together. Point it at your data to create a search for your own files and websites. We're also sharing a preview of our new pricing model.",
-    "published_iso": "2026-08-06T13:00:00+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -768,6 +818,16 @@
     "published_iso": "2026-08-05T15:30:28+00:00",
     "published_display": "2026-08-05",
     "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://shopify.engineering/sidekicks-continual-learning-loop",
+    "blog_name": "Shopify Engineering",
+    "title": "Sidekick's continual learning loop",
+    "link": "https://shopify.engineering/sidekicks-continual-learning-loop",
+    "summary": "How we compress production failures into model weights every day, beat frontier-model quality, and cut serving costs 96%.",
+    "published_iso": "2026-08-05T14:52:54+00:00",
+    "published_display": "2026-08-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
@@ -830,16 +890,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
-    "blog_name": "ByteByteGo",
-    "title": "Hiring: Part Time Instructor, Write Production Grade Code with AI",
-    "link": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
-    "summary": "We&#8217;re hiring a part-time instructor for &#8220;&#119830;&#119851;&#119842;&#119853;&#119838; &#119823;&#119851;&#119848;&#119837;&#119854;&#119836;&#119853;&#119842;&#119848;&#119847; &#119814;&#119851;&#119834;&#119837;&#119838; &#119810;&#119848;&#119837;&#119838; &#119856;&#119842;&#119853;&#119841; &#119808;&#119816;&#8221;.",
-    "published_iso": "2026-07-31T15:01:37+00:00",
-    "published_display": "2026-07-31",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
     "blog_name": "Martin Fowler",
     "title": "The Conductor Developer",
@@ -868,6 +918,16 @@
     "published_iso": "2026-07-30T13:04:00+00:00",
     "published_display": "2026-07-30",
     "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-an-agentic-harness-that-outlasts-the-model",
+    "blog_name": "Shopify Engineering",
+    "title": "Building an agentic harness that outlasts the model",
+    "link": "https://shopify.engineering/building-an-agentic-harness-that-outlasts-the-model",
+    "summary": "We built an agentic code review and test oracle harness that discovers vulnerabilities, proves them with real tests, and provides Shopify-tuned fixes.",
+    "published_iso": "2026-07-29T15:30:00+00:00",
+    "published_display": "2026-07-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy",
@@ -940,16 +1000,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "22e273b92b518fee449b6a6114b657618e5e1864",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Automate custom PII detection at scale with Amazon Macie and Step Functions",
-    "link": "https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions/",
-    "summary": "Organizations in regulated industries like financial services, insurance, healthcare, and government ingest large volumes of data containing personally identifiable information (PII). Your applications, claims processing systems, partner data feeds, and internal workflows produce files that may include names, addresses, Social Security numbers, and domain-specific identifiers such as policy numbers, member IDs, and medical record numbers. […]",
-    "published_iso": "2026-07-22T13:30:26+00:00",
-    "published_display": "2026-07-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://medium.com/p/bcefd1915624",
     "blog_name": "Airbnb Engineering",
     "title": "Personalizing Airbnb search by learning from the guest journey",
@@ -990,14 +1040,14 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "f41c185d4345c3ee9fab04ee26074c87138bd0cd",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
-    "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/",
-    "summary": "When you deploy Eclipse Dataspace Components (EDC) connectors on AWS, one of the first challenges you face is predicting and controlling the cost of the required infrastructure. Without clear benchmarks, it is difficult to make informed decisions about workload sizing, environment configuration, and long-term investment. Part 1 of this 3-part blog series covered the fundamentals […]",
-    "published_iso": "2026-07-17T16:03:47+00:00",
-    "published_display": "2026-07-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+    "id": "https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components",
+    "blog_name": "Shopify Engineering",
+    "title": "Upgrading Checkout Blocks app to Polaris web components",
+    "link": "https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components",
+    "summary": "We moved five high-traffic checkout extensions to remote-dom and Polaris web components, cutting bundle sizes drastically and making checkout faster.",
+    "published_iso": "2026-07-16T17:19:40+00:00",
+    "published_display": "2026-07-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
@@ -1038,6 +1088,16 @@
     "published_iso": "2026-07-14T16:10:08+00:00",
     "published_display": "2026-07-14",
     "feed_url": "https://slack.engineering/feed/"
+  },
+  {
+    "id": "https://shopify.engineering/hack-days",
+    "blog_name": "Shopify Engineering",
+    "title": "Inside Shopify Hack Days: Building a prototype for music-playing pages",
+    "link": "https://shopify.engineering/hack-days",
+    "summary": "How a Hack Days team built a music player, custom GLSL visualizers, and an artist toolkit for storefronts, all in three days.",
+    "published_iso": "2026-07-14T13:55:57+00:00",
+    "published_display": "2026-07-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
@@ -1230,6 +1290,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/catalog-clustering",
+    "blog_name": "Shopify Engineering",
+    "title": "Clustering billions of products for agentic commerce with Catalog API",
+    "link": "https://shopify.engineering/catalog-clustering",
+    "summary": "Building an LLM-powered pipeline to match product listings across millions of merchants into a unified catalog that AI agents can search.",
+    "published_iso": "2026-06-17T16:54:51+00:00",
+    "published_display": "2026-06-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://martinfowler.com/fragments/2026-06-16.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: June 16",
@@ -1250,6 +1320,16 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
+    "id": "https://shopify.engineering/sidekick-curation",
+    "blog_name": "Shopify Engineering",
+    "title": "Teaching Sidekick to say no: automated data curation with LLM judge consensus",
+    "link": "https://shopify.engineering/sidekick-curation",
+    "summary": "Production training data only captures successful queries; it can't teach a model when to say no. We built an automated curation pipeline using LLM judge consensus to close that gap.",
+    "published_iso": "2026-06-15T19:30:00+00:00",
+    "published_display": "2026-06-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://slack.engineering/?p=17854",
     "blog_name": "Slack Engineering",
     "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
@@ -1268,6 +1348,16 @@
     "published_iso": "2026-06-11T00:00:00+00:00",
     "published_display": "2026-06-11",
     "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://shopify.engineering/quick",
+    "blog_name": "Shopify Engineering",
+    "title": "Quick: An internal hosting platform for the AI era",
+    "link": "https://shopify.engineering/quick",
+    "summary": "Quick lets anyone at Shopify ship a site in seconds. It has changed the culture of how we build and share.",
+    "published_iso": "2026-06-10T12:49:23+00:00",
+    "published_display": "2026-06-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers",
@@ -1388,6 +1478,16 @@
     "published_iso": "2026-05-28T14:15:20+00:00",
     "published_display": "2026-05-28",
     "feed_url": "https://slack.engineering/feed/"
+  },
+  {
+    "id": "https://shopify.engineering/under-the-river",
+    "blog_name": "Shopify Engineering",
+    "title": "Under the River",
+    "link": "https://shopify.engineering/under-the-river",
+    "summary": "What it took to ship our Slack-native agent River, lessons learned, and the substrate that runs beneath it. Co-authored by River.",
+    "published_iso": "2026-05-28T12:30:02+00:00",
+    "published_display": "2026-05-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/official-discord-integrations-for-steal-a-brainrot-grow-a-garden-brookhaven-rp-and-more",
@@ -1520,6 +1620,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/scaling-inventory-reservations",
+    "blog_name": "Shopify Engineering",
+    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled",
+    "link": "https://shopify.engineering/scaling-inventory-reservations",
+    "summary": "How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets.",
+    "published_iso": "2026-05-12T16:51:53+00:00",
+    "published_display": "2026-05-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "tag:martinfowler.com,2026-05-12:What-is-Code",
     "blog_name": "Martin Fowler",
     "title": "What is Code",
@@ -1610,6 +1720,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/fine-tuning-agent-shopify-flow",
+    "blog_name": "Shopify Engineering",
+    "title": "Flow generation through natural language: An agentic modeling approach",
+    "link": "https://shopify.engineering/fine-tuning-agent-shopify-flow",
+    "summary": "We fine-tuned Qwen3-32B into a tool-calling agent that generates Flow automations from natural language—faster, cheaper, and more accurate than the frontier model it replaced, with a weekly retraining flywheel built on real merchant data.",
+    "published_iso": "2026-04-22T12:32:02+00:00",
+    "published_display": "2026-04-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes",
     "blog_name": "Discord Engineering",
     "title": "Making Discord on Desktop Look Just Right: Display Settings to Ease the Eyes",
@@ -1618,6 +1738,16 @@
     "published_iso": "2026-04-16T00:00:00+00:00",
     "published_display": "2026-04-16",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/autoresearch",
+    "blog_name": "Shopify Engineering",
+    "title": "Autoresearch isn’t just for training models",
+    "link": "https://shopify.engineering/autoresearch",
+    "summary": "Tobi and I generalized Karpathy’s Autoresearch to improve 40+ metrics across Shopify, then we open-sourced our project.",
+    "published_iso": "2026-04-15T16:19:20+00:00",
+    "published_display": "2026-04-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://slack.engineering/?p=17752",
@@ -1690,6 +1820,16 @@
     "feed_url": "https://slack.engineering/feed/"
   },
   {
+    "id": "https://shopify.engineering/magic-mirror",
+    "blog_name": "Shopify Engineering",
+    "title": "Building a Magic Mirror: AI retail experiences with Remix",
+    "link": "https://shopify.engineering/magic-mirror",
+    "summary": "The technical blueprint for an AI-powered mirror that sees customers, analyzes their appearance, and delivers personalized product recommendations in real-time.",
+    "published_iso": "2026-03-19T12:33:46+00:00",
+    "published_display": "2026-03-19",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/how-roost-is-advancing-online-safety",
     "blog_name": "Discord Engineering",
     "title": "How ROOST is Advancing Online Safety",
@@ -1698,6 +1838,16 @@
     "published_iso": "2026-03-16T00:00:00+00:00",
     "published_display": "2026-03-16",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/faster-breadth-first-graphql-execution",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify’s journey to faster breadth-first GraphQL execution",
+    "link": "https://shopify.engineering/faster-breadth-first-graphql-execution",
+    "summary": "Conventional GraphQL execution uses depth-first traversal that incurs many hidden costs. We questioned why, rewrote it in a faster breadth-first manner, and saw dramatic results.",
+    "published_iso": "2026-03-12T12:19:08+00:00",
+    "published_display": "2026-03-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/claim-your-game",
@@ -1738,6 +1888,26 @@
     "published_iso": "2026-03-04T00:00:00+00:00",
     "published_display": "2026-03-04",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/simgym",
+    "blog_name": "Shopify Engineering",
+    "title": "2,000 robots walk into a shop...",
+    "link": "https://shopify.engineering/simgym",
+    "summary": "SimGym infrastructure for synthetic customers at scale. A Shopify + NVIDIA collaboration.",
+    "published_iso": "2026-02-27T18:11:45+00:00",
+    "published_display": "2026-02-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/generative-recommendations",
+    "blog_name": "Shopify Engineering",
+    "title": "The generative recommender behind Shopify's commerce engine",
+    "link": "https://shopify.engineering/generative-recommendations",
+    "summary": "Treating buyer journeys as sequences instead of simplified signals, and building a model fast enough to serve at scale.",
+    "published_iso": "2026-02-25T16:04:54+00:00",
+    "published_display": "2026-02-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing",
@@ -1790,6 +1960,26 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/skypilot",
+    "blog_name": "Shopify Engineering",
+    "title": "SkyPilot at Shopify: Multi-cloud GPUs without the pain",
+    "link": "https://shopify.engineering/skypilot",
+    "summary": "GPUs are annoying. Shopify uses SkyPilot to make them less so: one YAML file, multiple clouds, clean development ergonomics.",
+    "published_iso": "2026-01-26T14:49:55+00:00",
+    "published_display": "2026-01-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/ucp",
+    "blog_name": "Shopify Engineering",
+    "title": "Building the Universal Commerce Protocol",
+    "link": "https://shopify.engineering/ucp",
+    "summary": "We built UCP to power agentic commerce. Here's the architecture behind it.",
+    "published_iso": "2026-01-11T14:17:01+00:00",
+    "published_display": "2026-01-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/beginners-guide-to-custom-emojis",
     "blog_name": "Discord Engineering",
     "title": "How to Make and Use Custom Emoji on Discord",
@@ -1820,6 +2010,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/tangle",
+    "blog_name": "Shopify Engineering",
+    "title": "Tangle: An open-source ML experimentation platform built at Shopify scale",
+    "link": "https://shopify.engineering/tangle",
+    "summary": "Tangle saves months of compute time, makes every experiment automatically reproducible, and allows teammates to share computation without coordination.",
+    "published_iso": "2025-12-05T15:47:00+00:00",
+    "published_display": "2025-12-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/checkpoint-2025-discord-year-in-review",
     "blog_name": "Discord Engineering",
     "title": "Your Discord Checkpoint is Rolling Out! Celebrate What You Did in 2025",
@@ -1828,6 +2028,16 @@
     "published_iso": "2025-12-04T00:00:00+00:00",
     "published_display": "2025-12-04",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/2025-bfcm-live-globe",
+    "blog_name": "Shopify Engineering",
+    "title": "Behind the build: 2025's BFCM globe in a pinball machine 🌎🕹️",
+    "link": "https://shopify.engineering/2025-bfcm-live-globe",
+    "summary": "Real-time merchant sales rendered on our globe, Easter eggs galore, and a pinball machine because... why not?",
+    "published_iso": "2025-12-03T14:28:24+00:00",
+    "published_display": "2025-12-03",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/save-and-display-your-faves-add-discord-shop-marvel-rivals-items-to-your-profiles-wishlist",
@@ -1860,6 +2070,26 @@
     "feed_url": "https://slack.engineering/feed/"
   },
   {
+    "id": "https://shopify.engineering/how-we-built-a-gamified-treadmill",
+    "blog_name": "Shopify Engineering",
+    "title": "Run for your money: Engineering a treadmill that prints store credit",
+    "link": "https://shopify.engineering/how-we-built-a-gamified-treadmill",
+    "summary": "We combined FTMS sensors, Socket.IO, and POS UI extensions to turn a manual treadmill into a discount-printing machine.",
+    "published_iso": "2025-11-25T13:31:13+00:00",
+    "published_display": "2025-11-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/bfcm-readiness-2025",
+    "blog_name": "Shopify Engineering",
+    "title": "How we prepare Shopify for BFCM",
+    "link": "https://shopify.engineering/bfcm-readiness-2025",
+    "summary": "From March to October we simulated traffic tsunamis, injected chaos, and fixed every bottleneck before our merchants needed us most.",
+    "published_iso": "2025-11-20T14:40:48+00:00",
+    "published_display": "2025-11-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/how-to-link-discord-to-popular-multiplayer-games",
     "blog_name": "Discord Engineering",
     "title": "How to Link Discord to Battlefield 6, Marvel Rivals & More",
@@ -1878,6 +2108,16 @@
     "published_iso": "2025-11-14T00:00:00+00:00",
     "published_display": "2025-11-14",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/world-class-product-search",
+    "blog_name": "Shopify Engineering",
+    "title": "Building world-class product search at Shopify: Where C++ excellence meets ML innovation",
+    "link": "https://shopify.engineering/world-class-product-search",
+    "summary": "Learn how we solved a major search engineering dilemma—running machine learning models at native C++ speed.",
+    "published_iso": "2025-11-12T16:21:44+00:00",
+    "published_display": "2025-11-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/discord-update-november-6-2025-changelog",
@@ -1908,6 +2148,16 @@
     "published_iso": "2025-11-04T00:00:00+00:00",
     "published_display": "2025-11-04",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/product-taxonomy-at-scale",
+    "blog_name": "Shopify Engineering",
+    "title": "Beyond classification: How AI agents are evolving Shopify's product taxonomy at scale",
+    "link": "https://shopify.engineering/product-taxonomy-at-scale",
+    "summary": "Last year, over 875 million people bought items from Shopify merchants. Building on our prior Vision Language Model-based product classification, this post explores how AI agents are evolving the taxonomy itself.",
+    "published_iso": "2025-10-09T05:18:20+00:00",
+    "published_display": "2025-10-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers",
@@ -1970,6 +2220,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/react-native-new-architecture",
+    "blog_name": "Shopify Engineering",
+    "title": "Migrating to React Native's New Architecture",
+    "link": "https://shopify.engineering/react-native-new-architecture",
+    "summary": "",
+    "published_iso": "2025-09-05T20:26:56+00:00",
+    "published_display": "2025-09-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/discord-patch-notes-september-3-2025",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: September 3, 2025",
@@ -1998,6 +2258,16 @@
     "published_iso": "2025-08-27T00:00:00+00:00",
     "published_display": "2025-08-27",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/building-production-ready-agentic-systems",
+    "blog_name": "Shopify Engineering",
+    "title": "Building production-ready agentic systems: Lessons from Shopify Sidekick",
+    "link": "https://shopify.engineering/building-production-ready-agentic-systems",
+    "summary": "Learn how we evolved our AI assistant architecture and built robust evaluation frameworks for real-world deployment.",
+    "published_iso": "2025-08-26T10:00:00+00:00",
+    "published_display": "2025-08-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/transforming-game-discovery-with-instant-play-experiences-on-discord",
@@ -2030,6 +2300,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/mcp-ui-breaking-the-text-wall",
+    "blog_name": "Shopify Engineering",
+    "title": "MCP UI: Breaking the text wall with interactive components",
+    "link": "https://shopify.engineering/mcp-ui-breaking-the-text-wall",
+    "summary": "MCP UI extends the Model Context Protocol to enable AI agents to return fully interactive UI components. It solves the critical challenge that commerce experiences require visual and interactive elements like product selectors, image galleries, and cart flows. This open-source protocol allows agents to embed commerce components while maintaining control through an intent-based messaging system, delivering shopping experiences that go far beyond traditional text-only AI interactions.",
+    "published_iso": "2025-08-05T17:21:27+00:00",
+    "published_display": "2025-08-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2025",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2025",
@@ -2040,6 +2320,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/flashlist-v2",
+    "blog_name": "Shopify Engineering",
+    "title": "FlashList v2: A ground-up rewrite for React Native's New Architecture",
+    "link": "https://shopify.engineering/flashlist-v2",
+    "summary": "FlashList v2 is a complete rewrite, delivering faster load times, improved scrolling performance, and precise rendering without requiring item size estimates. It powers thousands of lists in the Shopify mobile app and is now production-ready.",
+    "published_iso": "2025-07-31T18:32:29+00:00",
+    "published_display": "2025-07-31",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/roost-announces-coop-and-osprey-free-open-source-trust-and-safety-infrastructure-for-the-ai-era",
     "blog_name": "Discord Engineering",
     "title": "ROOST Announces “Coop” and “Osprey”: Free, Open-Source Trust and Safety Infrastructure for the AI Era",
@@ -2048,6 +2338,16 @@
     "published_iso": "2025-07-21T00:00:00+00:00",
     "published_display": "2025-07-21",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/leveraging-multimodal-llms",
+    "blog_name": "Shopify Engineering",
+    "title": "Leveraging multimodal LLMs for Shopify’s global catalogue: Recap of expo talk at ICLR 2025",
+    "link": "https://shopify.engineering/leveraging-multimodal-llms",
+    "summary": "Our Global Catalogue demonstrates the impact of multimodal LLMs on one of commerce’s hardest problems: building a unified, structured, and continuously evolving understanding of billions of product listings created by millions of merchants.",
+    "published_iso": "2025-07-16T14:43:31+00:00",
+    "published_display": "2025-07-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/discord-for-business-cannes-worthy-ad-product-updates",
@@ -2090,6 +2390,26 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/machine-learning-at-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Augmented commerce: Machine learning at Shopify",
+    "link": "https://shopify.engineering/machine-learning-at-shopify",
+    "summary": "Commerce is a dynamic ecosystem where our mission is to empower every merchant to succeed. We optimize each step of their journey—from product creation to customer delivery—using advanced tools, infrastructure, and partnerships to solve a complex optimization challenge.",
+    "published_iso": "2025-07-04T13:36:30+00:00",
+    "published_display": "2025-07-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/remixing-admin",
+    "blog_name": "Shopify Engineering",
+    "title": "Remixing Shopify's Admin: How We Made It 30% Faster and AI-Ready",
+    "link": "https://shopify.engineering/remixing-admin",
+    "summary": "Learn how we just made Shopify's Admin 30% faster while setting it up for AI superpowers. We overhauled admin.shopify.com, transforming the system that supports 67 million daily page views and empowers merchants in managing their businesses.",
+    "published_iso": "2025-06-30T18:09:52+00:00",
+    "published_display": "2025-06-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/discord-update-june-30-2025-changelog",
     "blog_name": "Discord Engineering",
     "title": "Discord Update: June 30, 2025 Changelog",
@@ -2120,6 +2440,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/webgpu-skia-web-graphics",
+    "blog_name": "Shopify Engineering",
+    "title": "The Future of React Native Graphics: WebGPU, Skia, and Beyond",
+    "link": "https://shopify.engineering/webgpu-skia-web-graphics",
+    "summary": "WebGPU is revolutionizing React Native graphics by enabling a unified backend architecture, leveraging web ecosystem giants like Three.js for 3D experiences, and facilitating general-purpose GPU computing for tasks like machine learning. This has directly led to significant performance enhancements and expanded platform support for React Native Skia, with the upcoming Skia Graphite promising features like automatic threading and seamless 2D/3D composition.",
+    "published_iso": "2025-06-20T15:37:49+00:00",
+    "published_display": "2025-06-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/how-to-set-up-your-servers-roles-for-members-mods-admins",
     "blog_name": "Discord Engineering",
     "title": "How to Set Up Your Server’s Roles for Members, Mods & Admins",
@@ -2128,6 +2458,16 @@
     "published_iso": "2025-06-20T00:00:00+00:00",
     "published_display": "2025-06-20",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/introducing-roast",
+    "blog_name": "Shopify Engineering",
+    "title": "Introducing Roast: Structured AI workflows made easy",
+    "link": "https://shopify.engineering/introducing-roast",
+    "summary": "Our Augmented Engineering DX team tackles developer productivity challenges like flaky tests and low test coverage using AI agents. We discovered breaking complex tasks into discrete steps was key to reliable AI performance, leading to the creation and open-sourcing of Roast, a tool designed to structure AI workflows effectively.",
+    "published_iso": "2025-06-18T07:00:00+00:00",
+    "published_display": "2025-06-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/get-more-from-your-boosts-with-new-server-perks",
@@ -2148,6 +2488,16 @@
     "published_iso": "2025-06-13T00:00:00+00:00",
     "published_display": "2025-06-13",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/commerce-payments-protocol",
+    "blog_name": "Shopify Engineering",
+    "title": "Introducing the commerce payments protocol",
+    "link": "https://shopify.engineering/commerce-payments-protocol",
+    "summary": "Learn how we partnered with Coinbase to bring payments onchain at scale with a new smart contract protocol to meet the complex requirements of commerce.",
+    "published_iso": "2025-06-12T18:38:14+00:00",
+    "published_display": "2025-06-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/discord-social-sdk-updates-integrations",
@@ -2178,6 +2528,16 @@
     "published_iso": "2025-05-29T00:00:00+00:00",
     "published_display": "2025-05-29",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/resilient-import-maps",
+    "blog_name": "Shopify Engineering",
+    "title": "Resilient Import Maps - Better Theme Development and Beyond",
+    "link": "https://shopify.engineering/resilient-import-maps",
+    "summary": "Import maps are great for both performance and developer experience, but their original limitations made them hard to use, especially at Shopify’s scale. We stepped up and pushed changes across the HTML spec, Chromium and WebKit to fix these issues at the web platform level. Now, developers can interleave JavaScript modules and multiple import maps on their HTML pages without worrying about correctness issues.",
+    "published_iso": "2025-05-28T14:00:00+00:00",
+    "published_display": "2025-05-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement",
@@ -2230,6 +2590,16 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/evolution-product-classification",
+    "blog_name": "Shopify Engineering",
+    "title": "Evolution of Product Classification at Shopify: From Categories to Comprehensive Product Understanding",
+    "link": "https://shopify.engineering/evolution-product-classification",
+    "summary": "Shopify’s product classification system has evolved from basic categorization to an AI-driven framework using Vision Language Models and the Shopify Product Taxonomy. It accurately classifies products, extracts attributes, and processes over 30 million predictions daily, improving search, discovery, trust, and efficiency for merchants and buyers.",
+    "published_iso": "2025-05-08T04:00:00+00:00",
+    "published_display": "2025-05-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://discord.com/blog/star-wars-makes-its-way-to-discord",
     "blog_name": "Discord Engineering",
     "title": "STAR WARS™ Makes Its Way to Discord",
@@ -2248,6 +2618,16 @@
     "published_iso": "2025-05-01T00:00:00+00:00",
     "published_display": "2025-05-01",
     "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://shopify.engineering/mobilebridge-native-webviews",
+    "blog_name": "Shopify Engineering",
+    "title": "Mobile Bridge: Making WebViews Feel Native",
+    "link": "https://shopify.engineering/mobilebridge-native-webviews",
+    "summary": "Learn how we tackled the main issues of traditional WebViews—performance, appearance, and integration—and how Mobile Bridge became a game-changer in our mobile development strategy, even allowing us to accelerate the migration to React Native.",
+    "published_iso": "2025-04-25T14:12:00+00:00",
+    "published_display": "2025-04-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
@@ -2370,6 +2750,66 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
+    "id": "https://shopify.engineering/five-years-of-react-native-at-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Five years of React Native at Shopify",
+    "link": "https://shopify.engineering/five-years-of-react-native-at-shopify",
+    "summary": "",
+    "published_iso": "2025-01-13T23:20:54+00:00",
+    "published_display": "2025-01-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Built the BFCM 2023 Globe",
+    "link": "https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe",
+    "summary": "",
+    "published_iso": "2024-10-30T19:03:30+00:00",
+    "published_display": "2024-10-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-shopify-improved-consumer-search-intent-with-real-time-ml",
+    "blog_name": "Shopify Engineering",
+    "title": "How Shopify improved consumer search intent with real-time ML",
+    "link": "https://shopify.engineering/how-shopify-improved-consumer-search-intent-with-real-time-ml",
+    "summary": "",
+    "published_iso": "2024-10-18T15:33:55+00:00",
+    "published_display": "2024-10-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-tophat-mobile-developer-testing",
+    "blog_name": "Shopify Engineering",
+    "title": "Tophat: Crafting a Delightful Mobile Developer Experience",
+    "link": "https://shopify.engineering/shopify-tophat-mobile-developer-testing",
+    "summary": "Insight into how Shopify created a seamless one-click manual testing experience (known as \"tophatting\") for mobile applications by creating a macOS app.",
+    "published_iso": "2024-08-23T17:16:27+00:00",
+    "published_display": "2024-08-23",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/mitigating-deadlocks-in-high-concurrency-environments",
+    "blog_name": "Shopify Engineering",
+    "title": "Mitigating Deadlocks in high concurrency environments",
+    "link": "https://shopify.engineering/mitigating-deadlocks-in-high-concurrency-environments",
+    "summary": "",
+    "published_iso": "2024-08-14T16:31:20+00:00",
+    "published_display": "2024-08-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shipping-support-for-module-script-integrity-in-chrome-safari",
+    "blog_name": "Shopify Engineering",
+    "title": "Shipping support for module script integrity in Chrome & Safari",
+    "link": "https://shopify.engineering/shipping-support-for-module-script-integrity-in-chrome-safari",
+    "summary": "How we shipped ES module integrity in browsers and made commerce and the web better for everyone!",
+    "published_iso": "2024-08-02T17:17:47+00:00",
+    "published_display": "2024-08-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "663c0f44a2fcdf0001bab86c",
     "blog_name": "High Scalability",
     "title": "Kafka 101",
@@ -2410,6 +2850,66 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://shopify.engineering/improving-shopify-app-s-performance",
+    "blog_name": "Shopify Engineering",
+    "title": "Improving Shopify App’s Performance",
+    "link": "https://shopify.engineering/improving-shopify-app-s-performance",
+    "summary": "",
+    "published_iso": "2024-03-05T20:37:37+00:00",
+    "published_display": "2024-03-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/a-packwerk-retrospective",
+    "blog_name": "Shopify Engineering",
+    "title": "A Packwerk Retrospective",
+    "link": "https://shopify.engineering/a-packwerk-retrospective",
+    "summary": "",
+    "published_iso": "2024-02-07T21:40:35+00:00",
+    "published_display": "2024-02-07",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/horizontally-scaling-the-rails-backend-of-shop-app-with-vitess",
+    "blog_name": "Shopify Engineering",
+    "title": "Horizontally scaling the Rails backend of Shop app with Vitess",
+    "link": "https://shopify.engineering/horizontally-scaling-the-rails-backend-of-shop-app-with-vitess",
+    "summary": "Shop app horizontally scaled a Ruby on Rails app with Vitess. This blog describes Vitess and our detailed approach for introducing Vitess to a Rails app.",
+    "published_iso": "2024-01-17T20:34:53+00:00",
+    "published_display": "2024-01-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/getting-started-with-react-native-skia",
+    "blog_name": "Shopify Engineering",
+    "title": "Getting Started with React Native Skia",
+    "link": "https://shopify.engineering/getting-started-with-react-native-skia",
+    "summary": "",
+    "published_iso": "2023-12-04T15:00:03+00:00",
+    "published_display": "2023-12-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/introducing-ruvy",
+    "blog_name": "Shopify Engineering",
+    "title": "Introducing Ruvy",
+    "link": "https://shopify.engineering/introducing-ruvy",
+    "summary": "",
+    "published_iso": "2023-10-18T13:43:29+00:00",
+    "published_display": "2023-10-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-a-shopifyql-code-editor",
+    "blog_name": "Shopify Engineering",
+    "title": "Building a ShopifyQL Code Editor",
+    "link": "https://shopify.engineering/building-a-shopifyql-code-editor",
+    "summary": "",
+    "published_iso": "2023-09-11T14:02:54+00:00",
+    "published_display": "2023-09-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "65bceaca3953980001659b56",
     "blog_name": "High Scalability",
     "title": "The Swedbank Outage shows that Change Controls don't work",
@@ -2418,6 +2918,36 @@
     "published_iso": "2023-08-16T16:05:12+00:00",
     "published_display": "2023-08-16",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/sidekicks-improved-streaming",
+    "blog_name": "Shopify Engineering",
+    "title": "Sidekick’s Improved Streaming Experience",
+    "link": "https://shopify.engineering/sidekicks-improved-streaming",
+    "summary": "",
+    "published_iso": "2023-08-01T20:08:07+00:00",
+    "published_display": "2023-08-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopifys-platform-is-the-web-platform",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify’s platform is the Web platform",
+    "link": "https://shopify.engineering/shopifys-platform-is-the-web-platform",
+    "summary": "",
+    "published_iso": "2023-07-26T15:51:33+00:00",
+    "published_display": "2023-07-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch",
+    "blog_name": "Shopify Engineering",
+    "title": "Contributing support for a Wasm instruction to Winch",
+    "link": "https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch",
+    "summary": "Jeff Charles, a Senior Shopify Developer, shares key learnings from his successful pull request to Winch. The pull request aimed to add support for various WebAssembly instructions to Wasmtime's baseline (non-optimizing) compiler.",
+    "published_iso": "2023-07-18T20:17:28+00:00",
+    "published_display": "2023-07-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "65bceaca3953980001659b53",
@@ -2440,6 +2970,86 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://shopify.engineering/creating-a-flexible-order-routing-system-with-shopify-functions",
+    "blog_name": "Shopify Engineering",
+    "title": "Creating a Flexible Order Routing System with Shopify Functions",
+    "link": "https://shopify.engineering/creating-a-flexible-order-routing-system-with-shopify-functions",
+    "summary": "In this article, I’ll cover how we added flexibility to our previous one-size-fits-all order routing system with the introduction of “routing rules”, and how we dogfooded our own Shopify Functions feature to give merchants the ability to create their own routing rules.",
+    "published_iso": "2023-04-13T13:30:00+00:00",
+    "published_display": "2023-04-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/adventures-in-garbage-collection",
+    "blog_name": "Shopify Engineering",
+    "title": "Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith",
+    "link": "https://shopify.engineering/adventures-in-garbage-collection",
+    "summary": "At the beginning of this year, we ran several experiments aimed at reducing the latency impact of the Ruby garbage collector (GC) in Shopify's monolith. In this article, Jean talks about the changes we made to improve GC performance, and more importantly, how we got to these changes.",
+    "published_iso": "2023-04-06T14:30:00+00:00",
+    "published_display": "2023-04-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/react-redux-toolkit-migration",
+    "blog_name": "Shopify Engineering",
+    "title": "How Migrating from Vanilla Redux to Redux Toolkit Improved State Management in Shopify POS",
+    "link": "https://shopify.engineering/react-redux-toolkit-migration",
+    "summary": "A look at Shopify’s experience improving state management in the Shopify POS app by migrating from a Vanilla Redux codebase to Redux Toolkit one.",
+    "published_iso": "2023-03-31T13:30:02+00:00",
+    "published_display": "2023-03-31",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/what-being-a-staff-developer-means-at-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "What Being a Staff Developer Means at Shopify",
+    "link": "https://shopify.engineering/what-being-a-staff-developer-means-at-shopify",
+    "summary": "A staff developer is an adaptable engineering leader that's comfortable working with ambiguity.",
+    "published_iso": "2023-03-29T14:00:01+00:00",
+    "published_display": "2023-03-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows",
+    "blog_name": "Shopify Engineering",
+    "title": "Supporting Passkeys in Shop's Authentication Flows",
+    "link": "https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows",
+    "summary": "Passkeys are a new login credential based on public-key cryptography that replace the need for username and password sign-ins.",
+    "published_iso": "2023-03-24T13:00:01+00:00",
+    "published_display": "2023-03-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers",
+    "blog_name": "Shopify Engineering",
+    "title": "Lessons From Linguistics: i18n Best Practices for Front-End Developers",
+    "link": "https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers",
+    "summary": "Here are a few internationalization (i18n) best practices to help front-end developers avoid errors and serve more robust text content on multilingual websites and apps.",
+    "published_iso": "2023-03-16T18:19:33+00:00",
+    "published_display": "2023-03-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopifys-machine-learning-platform-real-time-predictions",
+    "blog_name": "Shopify Engineering",
+    "title": "Unlocking Real-time Predictions with Shopify's Machine Learning Platform",
+    "link": "https://shopify.engineering/shopifys-machine-learning-platform-real-time-predictions",
+    "summary": "Learn how Shopify Data built new online inference capabilities into its Machine Learning Platform to deploy and serve models for real-time prediction at scale.",
+    "published_iso": "2023-03-10T16:16:27+00:00",
+    "published_display": "2023-03-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/improving-the-developer-experience-with-ruby-lsp",
+    "blog_name": "Shopify Engineering",
+    "title": "Improving the Developer Experience with the Ruby LSP",
+    "link": "https://shopify.engineering/improving-the-developer-experience-with-ruby-lsp",
+    "summary": "The Ruby LSP is a new language server built at Shopify that makes coding in Ruby even better by providing extra Ruby features for any editor that has a client layer for the LSP. In this article, we’ll cover how we built the Ruby LSP, the features included within it, and how you can install it.",
+    "published_iso": "2023-02-24T14:00:01+00:00",
+    "published_display": "2023-02-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "65bceaca3953980001659b52",
     "blog_name": "High Scalability",
     "title": "Consistent hashing algorithm",
@@ -2448,6 +3058,196 @@
     "published_iso": "2023-02-22T16:39:15+00:00",
     "published_display": "2023-02-22",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/the-case-against-monkey-patching",
+    "blog_name": "Shopify Engineering",
+    "title": "The Case Against Monkey Patching, From a Rails Core Team Member",
+    "link": "https://shopify.engineering/the-case-against-monkey-patching",
+    "summary": "Monkey patching is considered one of the more powerful features of the Ruby programming language. However, by the end of this post I’m hoping to convince you that they should be used sparingly, if at all, because they are brittle, dangerous, and often unnecessary. I’ll also share tips on how to use them as safely as possible in the rare cases where you do need to monkey patch.",
+    "published_iso": "2023-02-21T14:00:04+00:00",
+    "published_display": "2023-02-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/technical-debt-25-percent-rule",
+    "blog_name": "Shopify Engineering",
+    "title": "The 25 Percent Rule for Tackling Technical Debt",
+    "link": "https://shopify.engineering/technical-debt-25-percent-rule",
+    "summary": "Let’s talk about technical debt. Let’s talk about practical usable approaches for actually paying it down on a daily, weekly, monthly, and yearly basis. Let’s talk about what debt needs to be fixed now versus what can wait for better planning.",
+    "published_iso": "2023-02-16T17:00:01+00:00",
+    "published_display": "2023-02-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-commerce-data-models-with-shopifyql",
+    "blog_name": "Shopify Engineering",
+    "title": "ShopifyQL Notebooks: Simplifying Querying with Commerce Data Models",
+    "link": "https://shopify.engineering/building-commerce-data-models-with-shopifyql",
+    "summary": "We recently released ShopifyQL Notebooks, a powerful self-serve tool which enables merchants to explore their business metrics without any SQL expertise. Here’s how we used ShopifyQL and commerce data models to make it possible.",
+    "published_iso": "2023-02-14T16:00:04+00:00",
+    "published_display": "2023-02-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions",
+    "blog_name": "Shopify Engineering",
+    "title": "Bringing Javascript to WebAssembly for Shopify Functions",
+    "link": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions",
+    "summary": "While we’re working on getting our Shopify Functions infrastructure ready for the public beta, we thought we’d use this opportunity to shine some light on how we brought JavaScript to WebAssembly, how we made everything fit within our very tight Shopify Function constraints, and what our plans for the future look like.",
+    "published_iso": "2023-02-09T14:00:02+00:00",
+    "published_display": "2023-02-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/complex-data-models-behind-shopify-tax-insights",
+    "blog_name": "Shopify Engineering",
+    "title": "The Complex Data Models Behind Shopify's Tax Insights Feature",
+    "link": "https://shopify.engineering/complex-data-models-behind-shopify-tax-insights",
+    "summary": "The intensive data work behind Shopify's Tax Insights feature required building functionality to handle dynamically changing information",
+    "published_iso": "2023-02-08T15:00:04+00:00",
+    "published_display": "2023-02-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/the-hardest-part-of-writing-tests-is-getting-started",
+    "blog_name": "Shopify Engineering",
+    "title": "The Hardest Part of Writing Tests is Getting Started",
+    "link": "https://shopify.engineering/the-hardest-part-of-writing-tests-is-getting-started",
+    "summary": "The hardest part of writing tests is setting things up. Full test suites have a lot of complicated helper tools, stubs, and fixtures. They’re not easy to understand as a beginner, let alone set up for yourself. This post covers the four things you can do to get started.",
+    "published_iso": "2023-02-02T15:30:00+00:00",
+    "published_display": "2023-02-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/scale-performance-testing",
+    "blog_name": "Shopify Engineering",
+    "title": "Performance Testing At Scale—for BFCM and Beyond",
+    "link": "https://shopify.engineering/scale-performance-testing",
+    "summary": "Let’s unpack our approach to BFCM Scale Testing to explore some of what it takes to ensure that our ecommerce platform can handle the busiest weekend of the year.",
+    "published_iso": "2023-01-27T16:32:54+00:00",
+    "published_display": "2023-01-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/from-farmer-to-security-engineer",
+    "blog_name": "Shopify Engineering",
+    "title": "From Farmer to Security Engineer: How Dev Degree Helped Me Find My Dream Job",
+    "link": "https://shopify.engineering/from-farmer-to-security-engineer",
+    "summary": "This story looks at the opportunity Dev Degree gave me, the challenges I overcame, and the weaknesses that turned out to be strengths. If you’re thinking about a career in tech, but don’t think you have the stuff for it, this story is for you.",
+    "published_iso": "2023-01-26T16:00:02+00:00",
+    "published_display": "2023-01-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/making-react-native-gestures-feel-natural",
+    "blog_name": "Shopify Engineering",
+    "title": "Making Your React Native Gestures Feel Natural",
+    "link": "https://shopify.engineering/making-react-native-gestures-feel-natural",
+    "summary": "",
+    "published_iso": "2023-01-20T18:37:05+00:00",
+    "published_display": "2023-01-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/ruby-yjit-is-production-ready",
+    "blog_name": "Shopify Engineering",
+    "title": "Ruby 3.2’s YJIT is Production-Ready",
+    "link": "https://shopify.engineering/ruby-yjit-is-production-ready",
+    "summary": "YJIT, a just-in-time (JIT) implementation on top of CRuby built at Shopify, is now production-ready and delivering major improvements to performance and speed. Maxime (Senior Staff Engineer and leader of the YJIT project) shares the updates that have been made in this newest version of YJIT, and future plans for further optimization.",
+    "published_iso": "2023-01-17T13:30:02+00:00",
+    "published_display": "2023-01-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/good-documentation-productivity",
+    "blog_name": "Shopify Engineering",
+    "title": "How Good Documentation Can Improve Productivity",
+    "link": "https://shopify.engineering/good-documentation-productivity",
+    "summary": "Good documentation has many benefits, but first and foremost it boosts engineers’ productivity. Here are a few tips to encourage a strong writing culture.",
+    "published_iso": "2023-01-12T15:00:04+00:00",
+    "published_display": "2023-01-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience",
+    "blog_name": "Shopify Engineering",
+    "title": "From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience",
+    "link": "https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience",
+    "summary": "In this blog post, Pedro explains why we rewrote Shopify CLI into Node instead of Ruby, the tradeoffs that came with the decision, the principles we embraced in this new iteration, and the challenges and ideas ahead of us to explore.",
+    "published_iso": "2023-01-10T13:00:01+00:00",
+    "published_display": "2023-01-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-to-program-your-vcr",
+    "blog_name": "Shopify Engineering",
+    "title": "Reliving Your Happiest HTTP Interactions with Ruby’s VCR Gem",
+    "link": "https://shopify.engineering/how-to-program-your-vcr",
+    "summary": "VCR is a Ruby library that records HTTP interactions and plays them back to your test suite, verifying input and returning predictable output. If you're struggling with difficult to maintain mocks, misbehaving APIs or complex multi-step interactions and would like tests that are more reliable, faster, and easier to debug, VCR can help you get there. Here’s how.",
+    "published_iso": "2023-01-05T14:00:00+00:00",
+    "published_display": "2023-01-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/monte-carlo-simulations-sampled-success-metrics",
+    "blog_name": "Shopify Engineering",
+    "title": "Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics",
+    "link": "https://shopify.engineering/monte-carlo-simulations-sampled-success-metrics",
+    "summary": "",
+    "published_iso": "2023-01-03T12:20:27+00:00",
+    "published_display": "2023-01-03",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/react-native-skia-2022",
+    "blog_name": "Shopify Engineering",
+    "title": "React Native Skia: A Year in Review and a Look Ahead",
+    "link": "https://shopify.engineering/react-native-skia-2022",
+    "summary": "",
+    "published_iso": "2022-12-29T15:30:00+00:00",
+    "published_display": "2022-12-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native",
+    "blog_name": "Shopify Engineering",
+    "title": "Migrating our Largest Mobile App to React Native",
+    "link": "https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native",
+    "summary": "In 2020, we announced that React Native is the future of mobile at Shopify. As part of that journey, we’ve been migrating Shopify Mobile (our largest app at 300 screens per platform) from native to React Native. Here’s how it’s going.",
+    "published_iso": "2022-12-27T14:00:00+00:00",
+    "published_display": "2022-12-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/ruby-variable-width-allocation",
+    "blog_name": "Shopify Engineering",
+    "title": "Optimizing Ruby’s Memory Layout: Variable Width Allocation",
+    "link": "https://shopify.engineering/ruby-variable-width-allocation",
+    "summary": "Shopify is improving CRuby’s performance in Ruby 3.2 by optimizing the memory layout in the garbage collector through the Variable Width Allocation project.",
+    "published_iso": "2022-12-25T05:01:01+00:00",
+    "published_display": "2022-12-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/ruby-rails-year-in-review-2022",
+    "blog_name": "Shopify Engineering",
+    "title": "Year in Review 2022: Tenderlove's Ruby and Rails Reflections and Predictions",
+    "link": "https://shopify.engineering/ruby-rails-year-in-review-2022",
+    "summary": "Senior Staff Engineer and Rails core team member Aaron Patterson recaps his favourite Ruby and Rails updates of 2022 and some predictions (okay, so maybe it’s more of a wish list) for 2023.",
+    "published_iso": "2022-12-22T15:00:02+00:00",
+    "published_display": "2022-12-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/automatically-rotate-github-tokens",
+    "blog_name": "Shopify Engineering",
+    "title": "Automatically Rotating GitHub Tokens (So You Don’t Have To)",
+    "link": "https://shopify.engineering/automatically-rotate-github-tokens",
+    "summary": "We encountered a problem that lives in the gap between two tried-and-true GitHub authentication methods: personal access tokens and built-in authentication. Our solution? Build a system to automatically rotate GitHub access tokens. Here’s how we did it and how you can do it too.",
+    "published_iso": "2022-12-20T15:00:01+00:00",
+    "published_display": "2022-12-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "65bceaca3953980001659b51",
@@ -2460,6 +3260,46 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://shopify.engineering/shopify-rust-systems-programming",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify Embraces Rust for Systems Programming",
+    "link": "https://shopify.engineering/shopify-rust-systems-programming",
+    "summary": "Shopify is adopting Rust as our systems programming language, and joining the Rust Foundation.",
+    "published_iso": "2022-12-14T18:07:28+00:00",
+    "published_display": "2022-12-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/optimizing-apache-flink-tips-part-two",
+    "blog_name": "Shopify Engineering",
+    "title": "3 (More) Tips for Optimizing Apache Flink Applications",
+    "link": "https://shopify.engineering/optimizing-apache-flink-tips-part-two",
+    "summary": "",
+    "published_iso": "2022-12-13T14:00:00+00:00",
+    "published_display": "2022-12-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/three-essential-remote-work-practices-engineering",
+    "blog_name": "Shopify Engineering",
+    "title": "Three Essential Remote Work Practices for Engineering Teams",
+    "link": "https://shopify.engineering/three-essential-remote-work-practices-engineering",
+    "summary": "It’s been around two and a half years since Shopify became a fully remote-first company. James Stanier shares three big learnings that are essential to succeeding remotely.",
+    "published_iso": "2022-12-08T16:08:51+00:00",
+    "published_display": "2022-12-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/risk-mitigation-at-scale",
+    "blog_name": "Shopify Engineering",
+    "title": "Planning in Bets: Risk Mitigation at Scale",
+    "link": "https://shopify.engineering/risk-mitigation-at-scale",
+    "summary": "What do you do with a finite amount of time to deal with an infinite number of things that can go wrong? This post breaks down a high-level risk mitigation process into four questions that can be applied to nearly any scenario in order to help you make the best use of your time and resources available.",
+    "published_iso": "2022-12-06T22:07:13+00:00",
+    "published_display": "2022-12-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "65bceaca3953980001659b50",
     "blog_name": "High Scalability",
     "title": "Stuff The Internet Says On Scalability For December 2nd, 2022",
@@ -2468,6 +3308,126 @@
     "published_iso": "2022-12-02T17:08:30+00:00",
     "published_display": "2022-12-02",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/server-sent-events-data-streaming",
+    "blog_name": "Shopify Engineering",
+    "title": "Using Server Sent Events to Simplify Real-time Streaming at Scale",
+    "link": "https://shopify.engineering/server-sent-events-data-streaming",
+    "summary": "",
+    "published_iso": "2022-11-30T14:00:04+00:00",
+    "published_display": "2022-11-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/export-datadog-metrics-in-jupyter-notebooks",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Export Datadog Metrics for Exploration in Jupyter Notebooks",
+    "link": "https://shopify.engineering/export-datadog-metrics-in-jupyter-notebooks",
+    "summary": "",
+    "published_iso": "2022-11-29T11:53:22+00:00",
+    "published_display": "2022-11-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/measuring-react-native-rendering-times",
+    "blog_name": "Shopify Engineering",
+    "title": "Our Solution for Measuring React Native Rendering Times",
+    "link": "https://shopify.engineering/measuring-react-native-rendering-times",
+    "summary": "After Shopify went all-in on React Native, we had to find a way to confirm our mobile apps are fast. The solution is an open-source @shopify/react-native-performance library, which measures rendering times in React Native apps.",
+    "published_iso": "2022-11-24T16:09:36+00:00",
+    "published_display": "2022-11-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/server-driven-ui-in-shop-app",
+    "blog_name": "Shopify Engineering",
+    "title": "Implementing Server-Driven UI Architecture on the Shop App",
+    "link": "https://shopify.engineering/server-driven-ui-in-shop-app",
+    "summary": "Ashwin explains why and how we implemented server-driven UI in the Shop App’s Store Screen, and his experience working on the project as a Dev Degree intern.",
+    "published_iso": "2022-11-22T16:00:00+00:00",
+    "published_display": "2022-11-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/what-we-learned-from-open-sourcing-flashlist",
+    "blog_name": "Shopify Engineering",
+    "title": "What We Learned from Open-Sourcing FlashList",
+    "link": "https://shopify.engineering/what-we-learned-from-open-sourcing-flashlist",
+    "summary": "Here's how we launched the React Native List library FlashList as an open-source project, and how you can make your next open-source project a success.",
+    "published_iso": "2022-11-17T16:00:01+00:00",
+    "published_display": "2022-11-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/caching-without-marshal-part-two-messagepack",
+    "blog_name": "Shopify Engineering",
+    "title": "Caching Without Marshal Part 2: The Path to MessagePack",
+    "link": "https://shopify.engineering/caching-without-marshal-part-two-messagepack",
+    "summary": "",
+    "published_iso": "2022-11-15T15:00:00+00:00",
+    "published_display": "2022-11-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/caching-without-marshal-part-one",
+    "blog_name": "Shopify Engineering",
+    "title": "Caching Without Marshal Part 1: Marshal from the Inside Out",
+    "link": "https://shopify.engineering/caching-without-marshal-part-one",
+    "summary": "",
+    "published_iso": "2022-11-11T15:30:00+00:00",
+    "published_display": "2022-11-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/apollo-cache",
+    "blog_name": "Shopify Engineering",
+    "title": "Apollo Cache is Your Friend, If You Get To Know It",
+    "link": "https://shopify.engineering/apollo-cache",
+    "summary": "Shopify's Raman Lally delves into the Apollo GraphQL client cache and the life cycle of objects that are cached within it.",
+    "published_iso": "2022-11-09T19:30:00+00:00",
+    "published_display": "2022-11-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/reducing-bigquery-costs",
+    "blog_name": "Shopify Engineering",
+    "title": "Reducing BigQuery Costs: How We Fixed A $1 Million Query",
+    "link": "https://shopify.engineering/reducing-bigquery-costs",
+    "summary": "",
+    "published_iso": "2022-11-03T18:14:51+00:00",
+    "published_display": "2022-11-03",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/remix-joins-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Mixing It Up: Remix Joins Shopify to Push the Web Forward",
+    "link": "https://shopify.engineering/remix-joins-shopify",
+    "summary": "At Shopify, the Remix open-source community has a strong sponsor and supporter that will enable the web framework to accelerate its roadmap.",
+    "published_iso": "2022-10-31T14:00:02+00:00",
+    "published_display": "2022-10-31",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/management-poles-developer-infrastructure-teams",
+    "blog_name": "Shopify Engineering",
+    "title": "The Management Poles of Developer Infrastructure Teams",
+    "link": "https://shopify.engineering/management-poles-developer-infrastructure-teams",
+    "summary": "",
+    "published_iso": "2022-10-28T17:00:00+00:00",
+    "published_display": "2022-10-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/a-software-engineers-guide-to-working-across-time-zones",
+    "blog_name": "Shopify Engineering",
+    "title": "A Software Engineer's Guide to Working Across Time Zones",
+    "link": "https://shopify.engineering/a-software-engineers-guide-to-working-across-time-zones",
+    "summary": "A few tips to make asynchronous communication across time zones a positive experience",
+    "published_iso": "2022-10-27T01:31:45+00:00",
+    "published_display": "2022-10-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "65bceaca3953980001659b4f",
@@ -2480,6 +3440,296 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://shopify.engineering/hubble-encapsulation-extend-security",
+    "blog_name": "Shopify Engineering",
+    "title": "Hubble: Our Tool for Encapsulating and Extending Security Tools",
+    "link": "https://shopify.engineering/hubble-encapsulation-extend-security",
+    "summary": "",
+    "published_iso": "2022-10-21T17:55:34+00:00",
+    "published_display": "2022-10-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-to-structure-data-teams",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Structure Your Data Team for Maximum Influence",
+    "link": "https://shopify.engineering/how-to-structure-data-teams",
+    "summary": "",
+    "published_iso": "2022-10-20T17:00:06+00:00",
+    "published_display": "2022-10-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies",
+    "blog_name": "Shopify Engineering",
+    "title": "Finding Relationships Between Ruby’s Top 100 Packages and Their Dependencies",
+    "link": "https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies",
+    "summary": "",
+    "published_iso": "2022-10-19T19:17:49+00:00",
+    "published_display": "2022-10-19",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/on-the-importance-of-pull-request-discipline",
+    "blog_name": "Shopify Engineering",
+    "title": "On the Importance of Pull Request Discipline",
+    "link": "https://shopify.engineering/on-the-importance-of-pull-request-discipline",
+    "summary": "Unorganized pull requests are the bane of large codebases. Follow Yash's tips to prevent your PRs from getting roasted in the group chat.",
+    "published_iso": "2022-10-13T14:00:00+00:00",
+    "published_display": "2022-10-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/write-code-without-reading-it",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Write Code Without Having to Read It",
+    "link": "https://shopify.engineering/write-code-without-reading-it",
+    "summary": "",
+    "published_iso": "2022-10-11T18:00:00+00:00",
+    "published_display": "2022-10-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-flex-comp",
+    "blog_name": "Shopify Engineering",
+    "title": "The Engineering Story Behind Flex Comp",
+    "link": "https://shopify.engineering/building-flex-comp",
+    "summary": "How we built Flex Comp: Shopify's new approach to compensation that gives employees the ability to choose how they want to allocate their total reward between base salary, Restricted Stock Units (RSUs), and Stock Options today, with new features like Shop Cash in the future.",
+    "published_iso": "2022-10-05T18:00:02+00:00",
+    "published_display": "2022-10-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/add-not-null-colums-to-database",
+    "blog_name": "Shopify Engineering",
+    "title": "Safely Adding NOT NULL Columns to Your Database Tables",
+    "link": "https://shopify.engineering/add-not-null-colums-to-database",
+    "summary": "Recommendations from Shopify's Data Migrations team for adding NOT NULL columns safely to your own database tables, based on a recent investigation into schema change safety using using the popular Large Hadron Migrator (LHM) gem.",
+    "published_iso": "2022-10-04T15:00:00+00:00",
+    "published_display": "2022-10-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/software-engineers-guide-to-feedback-that-matters",
+    "blog_name": "Shopify Engineering",
+    "title": "A Software Engineer’s Guide to Giving Feedback that Actually Matters",
+    "link": "https://shopify.engineering/software-engineers-guide-to-feedback-that-matters",
+    "summary": "If you see something wrong in a codebase or architecture, and you don’t say something, you will suffer the consequences. Jack teaches how to give feedback that matters to get positive results.",
+    "published_iso": "2022-09-30T18:00:03+00:00",
+    "published_display": "2022-09-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/a-flexible-framework-for-effective-pair-programming",
+    "blog_name": "Shopify Engineering",
+    "title": "A Flexible Framework for Effective Pair Programming",
+    "link": "https://shopify.engineering/a-flexible-framework-for-effective-pair-programming",
+    "summary": "",
+    "published_iso": "2022-09-27T18:59:15+00:00",
+    "published_display": "2022-09-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/lessons-building-android-widgets",
+    "blog_name": "Shopify Engineering",
+    "title": "Lessons From Building Android Widgets",
+    "link": "https://shopify.engineering/lessons-building-android-widgets",
+    "summary": "",
+    "published_iso": "2022-09-22T18:15:00+00:00",
+    "published_display": "2022-09-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/lessons-building-ios-widgets",
+    "blog_name": "Shopify Engineering",
+    "title": "Lessons From Building iOS Widgets",
+    "link": "https://shopify.engineering/lessons-building-ios-widgets",
+    "summary": "",
+    "published_iso": "2022-09-22T13:30:00+00:00",
+    "published_display": "2022-09-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/what-is-a-full-stack-data-scientist",
+    "blog_name": "Shopify Engineering",
+    "title": "What is a Full Stack Data Scientist?",
+    "link": "https://shopify.engineering/what-is-a-full-stack-data-scientist",
+    "summary": "",
+    "published_iso": "2022-09-15T13:35:00+00:00",
+    "published_display": "2022-09-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/managing-react-form-state-using-react-form-library",
+    "blog_name": "Shopify Engineering",
+    "title": "Managing React Form State Using the React-Form Library",
+    "link": "https://shopify.engineering/managing-react-form-state-using-react-form-library",
+    "summary": "",
+    "published_iso": "2022-09-14T16:30:05+00:00",
+    "published_display": "2022-09-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/leveraging-go-worker-pools",
+    "blog_name": "Shopify Engineering",
+    "title": "Leveraging Go Worker Pools to Scale Server-side Data Sharing",
+    "link": "https://shopify.engineering/leveraging-go-worker-pools",
+    "summary": "",
+    "published_iso": "2022-09-09T15:00:00+00:00",
+    "published_display": "2022-09-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/debugging-server-side-webassembly",
+    "blog_name": "Shopify Engineering",
+    "title": "Four Approaches to Debugging Server-side WebAssembly",
+    "link": "https://shopify.engineering/debugging-server-side-webassembly",
+    "summary": "Shopify Functions enables customizing the business logic of Shopify’s back end with server-side WebAssembly. There are many benefits to using a WebAssembly environment to host these customizations such as low cold-start latency and robust security compared to other alternatives. However, WebAssembly poses new challenges when debugging.",
+    "published_iso": "2022-09-07T14:35:22+00:00",
+    "published_display": "2022-09-07",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/behavior-not-state-for-maintainable-codebase",
+    "blog_name": "Shopify Engineering",
+    "title": "Focus On Behavior, Not State, for a More Maintainable Codebase",
+    "link": "https://shopify.engineering/behavior-not-state-for-maintainable-codebase",
+    "summary": "How we moved from focusing on state (what an object is) towards behavior (what an object does) while building our Purchase Options APIs as a way to create a more maintainable codebase.",
+    "published_iso": "2022-09-01T16:00:04+00:00",
+    "published_display": "2022-09-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/railsconf-2022-10-shopify-tech-talks",
+    "blog_name": "Shopify Engineering",
+    "title": "RailsConf 2022: 10 Shopify Tech Talks You Might Have Missed",
+    "link": "https://shopify.engineering/railsconf-2022-10-shopify-tech-talks",
+    "summary": "Watch Shopify's tech talent tackle topics ranging from virtual machines, performance improvements, and investing in open source teams",
+    "published_iso": "2022-08-30T14:30:07+00:00",
+    "published_display": "2022-08-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/code-reviews-communication",
+    "blog_name": "Shopify Engineering",
+    "title": "When Culture and Code Reviews Collide, Communication is Key",
+    "link": "https://shopify.engineering/code-reviews-communication",
+    "summary": "When we understand each other’s cultural context, the emphasis in code reviews can shift from confrontation to collaboration.",
+    "published_iso": "2022-08-26T15:30:00+00:00",
+    "published_display": "2022-08-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-data-guide-opportunity-sizing",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify Data’s Guide To Opportunity Sizing",
+    "link": "https://shopify.engineering/shopify-data-guide-opportunity-sizing",
+    "summary": "",
+    "published_iso": "2022-08-25T15:30:00+00:00",
+    "published_display": "2022-08-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-we-built-oxygen",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Built Oxygen: Hydrogen’s Counterpart for Hosting Custom Storefronts",
+    "link": "https://shopify.engineering/how-we-built-oxygen",
+    "summary": "",
+    "published_iso": "2022-08-23T16:30:01+00:00",
+    "published_display": "2022-08-23",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/two-day-delivery-shopify-fulfillment-network",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Enable Two-Day Delivery in the Shopify Fulfillment Network",
+    "link": "https://shopify.engineering/two-day-delivery-shopify-fulfillment-network",
+    "summary": "",
+    "published_iso": "2022-08-18T18:30:22+00:00",
+    "published_display": "2022-08-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/instant-performance-upgrade-flatlist-flashlist",
+    "blog_name": "Shopify Engineering",
+    "title": "Instant Performance Upgrade: From FlatList to FlashList",
+    "link": "https://shopify.engineering/instant-performance-upgrade-flatlist-flashlist",
+    "summary": "",
+    "published_iso": "2022-08-17T14:53:56+00:00",
+    "published_display": "2022-08-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/when-jit-faster-than-compiler",
+    "blog_name": "Shopify Engineering",
+    "title": "When is JIT Faster Than A Compiler?",
+    "link": "https://shopify.engineering/when-jit-faster-than-compiler",
+    "summary": "",
+    "published_iso": "2022-08-11T14:00:02+00:00",
+    "published_display": "2022-08-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/six-tips-staying-technical-cto",
+    "blog_name": "Shopify Engineering",
+    "title": "Six Tips for Staying Technical as a CTO",
+    "link": "https://shopify.engineering/six-tips-staying-technical-cto",
+    "summary": "Here's what’s on my mind as a technical leader: How do I gain the credibility of the smart people on my team who are far more technical and detailed than I am, in order to lead them?",
+    "published_iso": "2022-08-09T14:00:03+00:00",
+    "published_display": "2022-08-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/sfn-team-cloud-development-spin",
+    "blog_name": "Shopify Engineering",
+    "title": "Spin Cycle: Shopify’s SFN Team Overcomes a Cloud-Development Spiral",
+    "link": "https://shopify.engineering/sfn-team-cloud-development-spin",
+    "summary": "",
+    "published_iso": "2022-08-04T17:30:00+00:00",
+    "published_display": "2022-08-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/master-reacts-stable-values",
+    "blog_name": "Shopify Engineering",
+    "title": "Mastering React’s Stable Values",
+    "link": "https://shopify.engineering/master-reacts-stable-values",
+    "summary": "The concept of stable value is a distinctly React term, and especially relevant since the introduction of Functional Components. It refers to values (usually coming from a hook) that have the same value across multiple renders. And they’re immediately confusing. In this post, Colin Gray, Principal Developer at Shopify, walks through some cases where they really matter and how to make sense of them.",
+    "published_iso": "2022-08-02T16:06:15+00:00",
+    "published_display": "2022-08-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-resilient-payment-systems",
+    "blog_name": "Shopify Engineering",
+    "title": "10 Tips for Building Resilient Payment Systems",
+    "link": "https://shopify.engineering/building-resilient-payment-systems",
+    "summary": "The top 10 tips and tricks for building resilient payment systems from a Staff Developer working on Shopify’s payment infrastructure.",
+    "published_iso": "2022-07-28T17:00:00+00:00",
+    "published_display": "2022-07-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-inbox-message-classification-model",
+    "blog_name": "Shopify Engineering",
+    "title": "Data-Centric Machine Learning: Building Shopify Inbox’s Message Classification Model",
+    "link": "https://shopify.engineering/shopify-inbox-message-classification-model",
+    "summary": "",
+    "published_iso": "2022-07-21T17:00:03+00:00",
+    "published_display": "2022-07-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/five-steps-to-better-performance-reviews",
+    "blog_name": "Shopify Engineering",
+    "title": "5 Steps to Bounce Back from a Negative Performance Review",
+    "link": "https://shopify.engineering/five-steps-to-better-performance-reviews",
+    "summary": "Ebun breaks down how she used a not-so-great performance review to set clear development goals for herself and increase alignment with her lead, ultimately leading to a successful next review.",
+    "published_iso": "2022-07-20T17:00:02+00:00",
+    "published_display": "2022-07-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "65bceaca3953980001659b4e",
     "blog_name": "High Scalability",
     "title": "Sponsored Post: G-Core Labs, Close, Wynter, Pinecone, Kinsta, Bridgecrew, IP2Location, StackHawk, InterviewCamp.io, Educative, Stream, Fauna, Triplebyte",
@@ -2488,6 +3738,16 @@
     "published_iso": "2022-07-18T13:38:51+00:00",
     "published_display": "2022-07-18",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/spin-infrastructure-adventures-containers-systemd-cgroups",
+    "blog_name": "Shopify Engineering",
+    "title": "Spin Infrastructure Adventures: Containers, Systemd, and CGroups",
+    "link": "https://shopify.engineering/spin-infrastructure-adventures-containers-systemd-cgroups",
+    "summary": "",
+    "published_iso": "2022-07-15T16:45:02+00:00",
+    "published_display": "2022-07-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "65bceaca3953980001659b4d",
@@ -2500,6 +3760,106 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
+    "id": "https://shopify.engineering/nail-your-technical-shopify-interview",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify’s Technical Interview Process: What to Expect and How to Prepare",
+    "link": "https://shopify.engineering/nail-your-technical-shopify-interview",
+    "summary": "The interview process can be one of the most daunting aspects of finding a new gig—but it doesn’t have to be. This guide pulls back the curtain on what to expect during the interview process for technical roles at Shopify and sets you up for success with tips for each stage.",
+    "published_iso": "2022-07-07T14:00:00+00:00",
+    "published_display": "2022-07-07",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-open-source-philosophy",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify and Open Source: A Mutually Beneficial Relationship",
+    "link": "https://shopify.engineering/shopify-open-source-philosophy",
+    "summary": "",
+    "published_iso": "2022-07-06T16:45:00+00:00",
+    "published_display": "2022-07-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-isospin-cloud-development-tooling",
+    "blog_name": "Shopify Engineering",
+    "title": "The Story Behind Shopify’s Isospin Tooling",
+    "link": "https://shopify.engineering/shopify-isospin-cloud-development-tooling",
+    "summary": "",
+    "published_iso": "2022-07-05T17:00:01+00:00",
+    "published_display": "2022-07-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/90-day-plan-building-trust-remote-team",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Build Trust as a New Manager in a Fully Remote Team",
+    "link": "https://shopify.engineering/90-day-plan-building-trust-remote-team",
+    "summary": "",
+    "published_iso": "2022-06-30T16:00:00+00:00",
+    "published_display": "2022-06-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/technology-behind-navigating-recurring-payments-india",
+    "blog_name": "Shopify Engineering",
+    "title": "Navigating Recurring Payments in India: A Backend Perspective",
+    "link": "https://shopify.engineering/technology-behind-navigating-recurring-payments-india",
+    "summary": "To address the new RBI framework for recurring payments in Shopify’s billing platform, we worked with a local payment provider that could accommodate both card-based payments as well as a local payment method called Unified Payments Interface (UPI).",
+    "published_iso": "2022-06-29T18:08:33+00:00",
+    "published_display": "2022-06-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/onboarding-shopify-engineering-leaders",
+    "blog_name": "Shopify Engineering",
+    "title": "Perspectives on Onboarding: Joining Shopify as an Engineering Leader",
+    "link": "https://shopify.engineering/onboarding-shopify-engineering-leaders",
+    "summary": "What’s it really like for new engineering leaders at Shopify? I asked Avanti Ketkar and Maria Robledo, who both joined the team this past year, to spill the tea about their first few months. They share their perspectives on how the onboarding experience helped them build context, relationships, and trust.",
+    "published_iso": "2022-06-27T14:00:01+00:00",
+    "published_display": "2022-06-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-commerce-data-querying-language-shopifyql",
+    "blog_name": "Shopify Engineering",
+    "title": "Introducing ShopifyQL: Our New Commerce Data Querying Language",
+    "link": "https://shopify.engineering/shopify-commerce-data-querying-language-shopifyql",
+    "summary": "",
+    "published_iso": "2022-06-22T13:00:01+00:00",
+    "published_display": "2022-06-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-we-built-hydrogen",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Built Hydrogen: A React Framework for Building Custom Storefronts",
+    "link": "https://shopify.engineering/how-we-built-hydrogen",
+    "summary": "We’ve been building Hydrogen for more than a year. Here’s a look behind the scenes at how we did it, what we learned from making big bets, and what it was like building a new framework from the ground up on experimental technology.",
+    "published_iso": "2022-06-22T13:00:00+00:00",
+    "published_display": "2022-06-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-making-open-source-safer",
+    "blog_name": "Shopify Engineering",
+    "title": "Making Open Source Safer for Everyone with Shopify’s Bug Bounty Program",
+    "link": "https://shopify.engineering/shopify-making-open-source-safer",
+    "summary": "Zack Deveau, Senior Application Security Engineer at Shopify, shares the details behind a recent contribution to the Rails library, inspired by a bug bounty report we received. He'll go over the report and its root cause, how we fixed it in our system, and how we took it a step further to make Rails more secure by updating the default serializer for a few classes to use safe defaults.",
+    "published_iso": "2022-06-15T18:00:02+00:00",
+    "published_display": "2022-06-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/how-we-built-shopify-party",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Built Shopify Party",
+    "link": "https://shopify.engineering/how-we-built-shopify-party",
+    "summary": "Shopify Party is a browser-based internal tool that we built to make our virtual hangouts more fun. With Shopify’s move to remote, we wanted to explore how to give people a break from video fatigue and create a new space designed for social interaction. Here's how we built it.",
+    "published_iso": "2022-06-14T14:00:00+00:00",
+    "published_display": "2022-06-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "65bceaca3953980001659b4c",
     "blog_name": "High Scalability",
     "title": "Sponsored Post: G-Core Labs, Close, Wynter, Pinecone, Kinsta, Bridgecrew, IP2Location, StackHawk, InterviewCamp.io, Educative, Stream, Fauna, Triplebyte",
@@ -2508,6 +3868,136 @@
     "published_iso": "2022-06-10T14:39:03+00:00",
     "published_display": "2022-06-10",
     "feed_url": "https://highscalability.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/data-conferences-shopify-data-thinks-you-should-attend",
+    "blog_name": "Shopify Engineering",
+    "title": "8 Data Conferences Shopify Data Thinks You Should Attend",
+    "link": "https://shopify.engineering/data-conferences-shopify-data-thinks-you-should-attend",
+    "summary": "",
+    "published_iso": "2022-06-10T13:58:09+00:00",
+    "published_display": "2022-06-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopifys-cloud-development-journey",
+    "blog_name": "Shopify Engineering",
+    "title": "The Journey to Cloud Development: How Shopify Went All-in on Spin",
+    "link": "https://shopify.engineering/shopifys-cloud-development-journey",
+    "summary": "How we reinvented our developer environment by going cloud native to keep up with increasing complexity and exponential growth.",
+    "published_iso": "2022-06-09T20:00:00+00:00",
+    "published_display": "2022-06-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-polaris-form",
+    "blog_name": "Shopify Engineering",
+    "title": "Building a Form with Polaris",
+    "link": "https://shopify.engineering/building-polaris-form",
+    "summary": "",
+    "published_iso": "2022-06-01T15:30:00+00:00",
+    "published_display": "2022-06-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/ruby-execution-models",
+    "blog_name": "Shopify Engineering",
+    "title": "To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models",
+    "link": "https://shopify.engineering/ruby-execution-models",
+    "summary": "",
+    "published_iso": "2022-05-31T14:00:00+00:00",
+    "published_display": "2022-05-31",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/implementing-equality-in-ruby",
+    "blog_name": "Shopify Engineering",
+    "title": "Implementing Equality in Ruby",
+    "link": "https://shopify.engineering/implementing-equality-in-ruby",
+    "summary": "",
+    "published_iso": "2022-05-26T14:00:01+00:00",
+    "published_display": "2022-05-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/our-favorite-moments-from-railsconf-2022",
+    "blog_name": "Shopify Engineering",
+    "title": "Our Favorite Moments From RailsConf 2022",
+    "link": "https://shopify.engineering/our-favorite-moments-from-railsconf-2022",
+    "summary": "The Rails community gathered in Portland for the first in-person RailsConf in two years. Shopify developers recap a few highlights from the three-day event.",
+    "published_iso": "2022-05-24T21:53:13+00:00",
+    "published_display": "2022-05-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/lessons-learned-apache-airflow-scale",
+    "blog_name": "Shopify Engineering",
+    "title": "Lessons Learned From Running Apache Airflow at Scale",
+    "link": "https://shopify.engineering/lessons-learned-apache-airflow-scale",
+    "summary": "",
+    "published_iso": "2022-05-23T14:00:01+00:00",
+    "published_display": "2022-05-23",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/asynchronous-communication-shopify-engineering",
+    "blog_name": "Shopify Engineering",
+    "title": "Asynchronous Communication is the Great Leveler in Engineering",
+    "link": "https://shopify.engineering/asynchronous-communication-shopify-engineering",
+    "summary": "",
+    "published_iso": "2022-05-20T16:57:19+00:00",
+    "published_display": "2022-05-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/double-entry-transition-tables-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Double Entry Transition Tables: How We Track State Changes At Shopify",
+    "link": "https://shopify.engineering/double-entry-transition-tables-shopify",
+    "summary": "",
+    "published_iso": "2022-05-18T13:30:00+00:00",
+    "published_display": "2022-05-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-ruby-at-scale-research-investment",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify Invests in Research for Ruby at Scale",
+    "link": "https://shopify.engineering/shopify-ruby-at-scale-research-investment",
+    "summary": "",
+    "published_iso": "2022-05-16T14:00:02+00:00",
+    "published_display": "2022-05-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/maestro-the-orchestration-language-powering-shopify-flow",
+    "blog_name": "Shopify Engineering",
+    "title": "Maestro: The Orchestration Language Powering Shopify Flow",
+    "link": "https://shopify.engineering/maestro-the-orchestration-language-powering-shopify-flow",
+    "summary": "",
+    "published_iso": "2022-05-13T18:45:00+00:00",
+    "published_display": "2022-05-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/porting-yjit-ruby-compiler-to-rust",
+    "blog_name": "Shopify Engineering",
+    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust",
+    "link": "https://shopify.engineering/porting-yjit-ruby-compiler-to-rust",
+    "summary": "In this post, I want to give a nuanced perspective on our experience porting YJIT from C to Rust. I'll talk about the positives, but also discuss the things that we found challenging or suboptimal in our experience.",
+    "published_iso": "2022-05-11T14:00:01+00:00",
+    "published_display": "2022-05-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/ten-nerdy-tech-podcasts",
+    "blog_name": "Shopify Engineering",
+    "title": "Talk Nerdy to Me: 10 Tech Podcast Recommendations from Shopify Engineering",
+    "link": "https://shopify.engineering/ten-nerdy-tech-podcasts",
+    "summary": "We asked our tech talent which podcasts they’re tuning into and curated a list of their favorites. Whether you’re in the mood for something quick and informative, or witty and conversational, we think you’ll find something on this list you’ll enjoy.",
+    "published_iso": "2022-05-06T14:30:00+00:00",
+    "published_display": "2022-05-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
     "id": "65bceaca3953980001659b4b",
@@ -2520,203 +4010,993 @@
     "feed_url": "https://highscalability.com/rss/"
   },
   {
-    "id": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
-    "blog_name": "Google Developers Blog",
-    "title": "Decoding cosmic signals with deep learning and Keras",
-    "link": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
-    "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/react-native-skia-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "React Native Skia—For Us, For You, and For Fun",
+    "link": "https://shopify.engineering/react-native-skia-shopify",
+    "summary": "",
+    "published_iso": "2022-04-29T16:00:01+00:00",
+    "published_display": "2022-04-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
-    "blog_name": "Google Developers Blog",
-    "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
-    "link": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
-    "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token contexts for models like Qwen3-Embedding-8B, the engineering team implemented TPU-specific optimizations such as hardware-safe tensor alignment, JAX/XLA compilation pre-warming, and a hybrid StepPool architecture for chunked prefill management. These enhancements achieve near-perf",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/data-storytelling-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Data Is An Art, Not Just A Science—And Storytelling Is The Key",
+    "link": "https://shopify.engineering/data-storytelling-shopify",
+    "summary": "",
+    "published_iso": "2022-04-27T19:45:01+00:00",
+    "published_display": "2022-04-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
-    "blog_name": "Google Developers Blog",
-    "title": "How to Evaluate Live & Voice Agents in ADK",
-    "link": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
-    "summary": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test graph-based agent workflows against LLM-driven simulated users that generate actual audio via Gemini TTS. By defining evaluation scenarios and natural-language rubrics, you can automatically score audio responses and tool executions, inspect the resulting transcripts in ADK Web, ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/rails-business-systems-intergration-platform",
+    "blog_name": "Shopify Engineering",
+    "title": "Building a Business System Integration and Automation Platform at Shopify",
+    "link": "https://shopify.engineering/rails-business-systems-intergration-platform",
+    "summary": "",
+    "published_iso": "2022-04-22T20:10:20+00:00",
+    "published_display": "2022-04-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
-    "blog_name": "Google Developers Blog",
-    "title": "Build zero-trust AI agents with Google's Agent Development Kit",
-    "link": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
-    "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infras",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/mobius-shopify-unified-edge",
+    "blog_name": "Shopify Engineering",
+    "title": "Möbius: Shopify’s Unified Edge",
+    "link": "https://shopify.engineering/mobius-shopify-unified-edge",
+    "summary": "",
+    "published_iso": "2022-04-20T18:30:00+00:00",
+    "published_display": "2022-04-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-    "blog_name": "Google Developers Blog",
-    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
-    "link": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, the engineering team pipelined exposed all-to-all collectives, aligned sparse attention block sizes to eliminate mask padding, and bypassed softmax serial dependencies using a precomputed Cauchy-Schwarz upper bound. These custom Pallas kernel and",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/code-ranges-ruby-strings",
+    "blog_name": "Shopify Engineering",
+    "title": "Code Ranges: A Deeper Look at Ruby Strings",
+    "link": "https://shopify.engineering/code-ranges-ruby-strings",
+    "summary": "",
+    "published_iso": "2022-04-14T20:39:18+00:00",
+    "published_display": "2022-04-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "blog_name": "Google Developers Blog",
-    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
-    "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized memory footprint, the library delivers instant validation verdicts for multi-gigabyte media files without incurring cloud latency, bandwidth costs, or data privacy risks. The library currently features deep manifest parsing",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/shopify-api-build-latest-marketplace-kit",
+    "blog_name": "Shopify Engineering",
+    "title": "Leveraging Shopify’s API to Build the Latest Marketplace Kit",
+    "link": "https://shopify.engineering/shopify-api-build-latest-marketplace-kit",
+    "summary": "",
+    "published_iso": "2022-04-08T21:03:16+00:00",
+    "published_display": "2022-04-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "blog_name": "Google Developers Blog",
-    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-    "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/merlin-shopify-machine-learning-platform",
+    "blog_name": "Shopify Engineering",
+    "title": "The Magic of Merlin: Shopify's New Machine Learning Platform",
+    "link": "https://shopify.engineering/merlin-shopify-machine-learning-platform",
+    "summary": "",
+    "published_iso": "2022-04-06T13:30:00+00:00",
+    "published_display": "2022-04-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "blog_name": "Google Developers Blog",
-    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibili",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/developer-experience-with-hydrogen-and-vite",
+    "blog_name": "Shopify Engineering",
+    "title": "Best-in-Class Developer Experience with Vite and Hydrogen",
+    "link": "https://shopify.engineering/developer-experience-with-hydrogen-and-vite",
+    "summary": "",
+    "published_iso": "2022-03-31T13:00:02+00:00",
+    "published_display": "2022-03-31",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-    "blog_name": "Google Developers Blog",
-    "title": "Agent Plugins package your skills, tools, and more",
-    "link": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agent",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/shopify-tech-talent-book-recommendations",
+    "blog_name": "Shopify Engineering",
+    "title": "10 Books Shopify’s Tech Talent Think You Should Read",
+    "link": "https://shopify.engineering/shopify-tech-talent-book-recommendations",
+    "summary": "",
+    "published_iso": "2022-03-29T21:12:46+00:00",
+    "published_display": "2022-03-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
-    "blog_name": "Google Developers Blog",
-    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
-    "link": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
-    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediat",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/building-add-to-favorite-animation-shop-app",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Built the Add to Favorite Animation in Shop",
+    "link": "https://shopify.engineering/building-add-to-favorite-animation-shop-app",
+    "summary": "",
+    "published_iso": "2022-03-25T15:11:59+00:00",
+    "published_display": "2022-03-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
-    "blog_name": "Google Developers Blog",
-    "title": "Model routing with Google Cloud API Gateway",
-    "link": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
-    "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/a-data-scientist-s-guide-to-measuring-product-success",
+    "blog_name": "Shopify Engineering",
+    "title": "A Data Scientist’s Guide To Measuring Product Success",
+    "link": "https://shopify.engineering/a-data-scientist-s-guide-to-measuring-product-success",
+    "summary": "If you’re a data scientist on a product team, much of your work involves getting a product ready for release. You may conduct exploratory data analyses to understand your product’s market, or build the data models and pipelines needed to power a new product feature, or design a machine learning model to unlock new product functionality. But your work doesn’t end once a product goes live. After a product is released, it’s your job to help identify if your product is a success.",
+    "published_iso": "2022-03-23T20:27:11+00:00",
+    "published_display": "2022-03-23",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
-    "blog_name": "Google Developers Blog",
-    "title": "Scaling real-time AI agents with session-aware load balancing",
-    "link": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
-    "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can e",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/shopify-bug-bounty-program-maximum-payout-2022",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify’s Bug Bounty Program Raises Maximum Payout in 2022",
+    "link": "https://shopify.engineering/shopify-bug-bounty-program-maximum-payout-2022",
+    "summary": "In 2022, Shopify's Bug Bounty Program is doubling the maximum reward to $100,000 and moving key services into the highest severity level.",
+    "published_iso": "2022-03-22T18:56:46+00:00",
+    "published_display": "2022-03-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
-    "blog_name": "Google Developers Blog",
-    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
-    "link": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
-    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precis",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/manage-infrastructure-with-terraform",
+    "blog_name": "Shopify Engineering",
+    "title": "Using Terraform to Manage Infrastructure",
+    "link": "https://shopify.engineering/manage-infrastructure-with-terraform",
+    "summary": "",
+    "published_iso": "2022-03-17T20:37:36+00:00",
+    "published_display": "2022-03-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-    "blog_name": "Google Developers Blog",
-    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
-    "link": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/react-library-consistent-data-visualization",
+    "blog_name": "Shopify Engineering",
+    "title": "Creating a React Library for Consistent Data Visualization",
+    "link": "https://shopify.engineering/react-library-consistent-data-visualization",
+    "summary": "",
+    "published_iso": "2022-03-15T22:38:56+00:00",
+    "published_display": "2022-03-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
-    "blog_name": "Google Developers Blog",
-    "title": "How to use Google microbenchmarks for evaluating TPU performance",
-    "link": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
-    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations—such as kernel tuning, mesh shardi",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/refactor-path-to-faster-rendering-liquid-c",
+    "blog_name": "Shopify Engineering",
+    "title": "After the Refactor: A Path to Faster Rendering with Liquid-C",
+    "link": "https://shopify.engineering/refactor-path-to-faster-rendering-liquid-c",
+    "summary": "Not every feature of open-source template language Liquid has been ported over to Liquid-C, such as the If tag and For Tag. I started to look into how to compile Liquid’s If tag from Liquid-C, a process that would improve parsing time.",
+    "published_iso": "2022-03-10T22:13:54+00:00",
+    "published_display": "2022-03-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
-    "blog_name": "Google Developers Blog",
-    "title": "Run Ray on TPU, Part 2: Ray AI libraries",
-    "link": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
-    "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointin",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/optimizing-apache-flink-applications-tips",
+    "blog_name": "Shopify Engineering",
+    "title": "7 Tips For Optimizing Apache Flink Applications",
+    "link": "https://shopify.engineering/optimizing-apache-flink-applications-tips",
+    "summary": "We’ve spent a lot of time on performance tuning our Apache Flink application. We’ll walk you through key lessons for optimizing large stateful Apache Flink applications.",
+    "published_iso": "2022-03-08T21:20:39+00:00",
+    "published_display": "2022-03-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
-    "blog_name": "Google Developers Blog",
-    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
-    "link": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
-    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing develop",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/test-budget-time-constrained-ci-feedback",
+    "blog_name": "Shopify Engineering",
+    "title": "Test Budget: Time Constrained CI Feedback",
+    "link": "https://shopify.engineering/test-budget-time-constrained-ci-feedback",
+    "summary": "",
+    "published_iso": "2022-03-07T15:00:00+00:00",
+    "published_display": "2022-03-07",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-    "blog_name": "Google Developers Blog",
-    "title": "Run Ray on TPU, Part 1: The foundations",
-    "link": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to ",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/adding-v8-cpu-profiler-v8go",
+    "blog_name": "Shopify Engineering",
+    "title": "Adding the V8 CPU Profiler to v8go",
+    "link": "https://shopify.engineering/adding-v8-cpu-profiler-v8go",
+    "summary": "",
+    "published_iso": "2022-03-04T15:10:36+00:00",
+    "published_display": "2022-03-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "blog_name": "Google Developers Blog",
-    "title": "Building scalable AI agents with modular prompt transpilation",
-    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe f",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/rubyconf-2021-the-talks-you-might-have-missed",
+    "blog_name": "Shopify Engineering",
+    "title": "RubyConf 2021: The Talks You Might Have Missed",
+    "link": "https://shopify.engineering/rubyconf-2021-the-talks-you-might-have-missed",
+    "summary": "",
+    "published_iso": "2022-03-02T21:55:26+00:00",
+    "published_display": "2022-03-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "blog_name": "Google Developers Blog",
-    "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
-    "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single sour",
-    "published_iso": "",
-    "published_display": "unknown",
-    "feed_url": "https://developers.googleblog.com/feeds/posts/default?alt=rss"
+    "id": "https://shopify.engineering/shopify-engineering-internship-guide",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Get an Engineering Internship at Shopify: A Complete Guide",
+    "link": "https://shopify.engineering/shopify-engineering-internship-guide",
+    "summary": "",
+    "published_iso": "2022-02-18T18:30:00+00:00",
+    "published_display": "2022-02-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/changing-polymorphic-type-rails",
+    "blog_name": "Shopify Engineering",
+    "title": "Changing a polymorphic_type in Rails",
+    "link": "https://shopify.engineering/changing-polymorphic-type-rails",
+    "summary": "",
+    "published_iso": "2022-02-18T16:57:47+00:00",
+    "published_display": "2022-02-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-engineering-blog-survey",
+    "blog_name": "Shopify Engineering",
+    "title": "We Want Your Feedback for the Shopify Engineering Blog",
+    "link": "https://shopify.engineering/shopify-engineering-blog-survey",
+    "summary": "",
+    "published_iso": "2022-02-14T18:00:00+00:00",
+    "published_display": "2022-02-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-playbook-scaling-machine-learning",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify's Playbook for Scaling Machine Learning",
+    "link": "https://shopify.engineering/shopify-playbook-scaling-machine-learning",
+    "summary": "",
+    "published_iso": "2022-02-11T19:30:01+00:00",
+    "published_display": "2022-02-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts",
+    "blog_name": "Shopify Engineering",
+    "title": "Hydrogen & Tailwind: The Perfect Match for Building Beautiful Storefronts",
+    "link": "https://shopify.engineering/hydrogen-tailwind-building-beautiful-storefronts",
+    "summary": "",
+    "published_iso": "2022-02-11T16:15:00+00:00",
+    "published_display": "2022-02-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/react-server-components-best-practices-hydrogen",
+    "blog_name": "Shopify Engineering",
+    "title": "React Server Components Best Practices You Can Use with Hydrogen",
+    "link": "https://shopify.engineering/react-server-components-best-practices-hydrogen",
+    "summary": "",
+    "published_iso": "2022-02-04T17:30:00+00:00",
+    "published_display": "2022-02-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/rapid-development-hydrogen-building-product-page",
+    "blog_name": "Shopify Engineering",
+    "title": "Rapid Development with Hydrogen: Building a Product Page",
+    "link": "https://shopify.engineering/rapid-development-hydrogen-building-product-page",
+    "summary": "",
+    "published_iso": "2022-02-02T15:30:01+00:00",
+    "published_display": "2022-02-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/fixing-dependency-confusion-ruby-applications",
+    "blog_name": "Shopify Engineering",
+    "title": "How We Fixed the Dependency Confusion Vulnerability in Over 600 Ruby Applications",
+    "link": "https://shopify.engineering/fixing-dependency-confusion-ruby-applications",
+    "summary": "",
+    "published_iso": "2022-01-27T15:42:25+00:00",
+    "published_display": "2022-01-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/cloud-load-modular-code-shopify-2022",
+    "blog_name": "Shopify Engineering",
+    "title": "Cloud, Load, and Modular Code: What 2022 Looks Like for Shopify",
+    "link": "https://shopify.engineering/cloud-load-modular-code-shopify-2022",
+    "summary": "",
+    "published_iso": "2022-01-20T23:24:21+00:00",
+    "published_display": "2022-01-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/search-at-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Search at Shopify—Range in Data and Engineering is the Future",
+    "link": "https://shopify.engineering/search-at-shopify",
+    "summary": "",
+    "published_iso": "2022-01-14T17:30:01+00:00",
+    "published_display": "2022-01-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/that-old-certificate-expired-and-started-an-outage-this-is-what-happened-next",
+    "blog_name": "Shopify Engineering",
+    "title": "That Old Certificate Expired and Started an Outage. This is What Happened Next",
+    "link": "https://shopify.engineering/that-old-certificate-expired-and-started-an-outage-this-is-what-happened-next",
+    "summary": "",
+    "published_iso": "2022-01-12T15:30:02+00:00",
+    "published_display": "2022-01-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/10-favorite-posts-2021",
+    "blog_name": "Shopify Engineering",
+    "title": "Nerd Out on 10 of Our Favorite Posts From 2021",
+    "link": "https://shopify.engineering/10-favorite-posts-2021",
+    "summary": "",
+    "published_iso": "2021-12-29T15:00:00+00:00",
+    "published_display": "2021-12-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-unique-data-science-hierarchy-of-needs",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify’s Unique Data Science Hierarchy Of Needs",
+    "link": "https://shopify.engineering/shopify-unique-data-science-hierarchy-of-needs",
+    "summary": "",
+    "published_iso": "2021-12-21T18:32:40+00:00",
+    "published_display": "2021-12-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/real-time-buyer-signal-data-pipeline-shopify-inbox",
+    "blog_name": "Shopify Engineering",
+    "title": "Building a Real-time Buyer Signal Data Pipeline for Shopify Inbox",
+    "link": "https://shopify.engineering/real-time-buyer-signal-data-pipeline-shopify-inbox",
+    "summary": "",
+    "published_iso": "2021-12-13T21:24:33+00:00",
+    "published_display": "2021-12-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/bfcm-live-map-2021-apache-flink-redesign",
+    "blog_name": "Shopify Engineering",
+    "title": "Scaling Shopify's BFCM Live Map: An Apache Flink Redesign",
+    "link": "https://shopify.engineering/bfcm-live-map-2021-apache-flink-redesign",
+    "summary": "",
+    "published_iso": "2021-12-10T19:00:00+00:00",
+    "published_display": "2021-12-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/upgrading-mysql-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Upgrading MySQL at Shopify",
+    "link": "https://shopify.engineering/upgrading-mysql-shopify",
+    "summary": "",
+    "published_iso": "2021-12-02T17:30:00+00:00",
+    "published_display": "2021-12-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/remote-rendering-ui-extensibility",
+    "blog_name": "Shopify Engineering",
+    "title": "Remote rendering: Shopify’s take on extensible UI",
+    "link": "https://shopify.engineering/remote-rendering-ui-extensibility",
+    "summary": "A deep dive into the latest generation of our technology that allows developers to extend Shopify’s UI.",
+    "published_iso": "2021-12-01T16:30:00+00:00",
+    "published_display": "2021-12-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-app-clip-react-native",
+    "blog_name": "Shopify Engineering",
+    "title": "Building an App Clip with React Native",
+    "link": "https://shopify.engineering/building-app-clip-react-native",
+    "summary": "",
+    "published_iso": "2021-11-26T16:39:45+00:00",
+    "published_display": "2021-11-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/five-tips-for-engineer-career-growth",
+    "blog_name": "Shopify Engineering",
+    "title": "Five Tips for Growing Your Engineering Career",
+    "link": "https://shopify.engineering/five-tips-for-engineer-career-growth",
+    "summary": "The beginning stages of a career in engineering can be daunting. You’re trying to make the most of the opportunity at your new job and learning as much as you can, and as a result, it can be hard to find time and energy to focus on growth. Here are five practical tips that can help you grow as you navigate your engineering career.",
+    "published_iso": "2021-11-25T17:54:54+00:00",
+    "published_display": "2021-11-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/propensity-score-matching-shopify-capital",
+    "blog_name": "Shopify Engineering",
+    "title": "Using Propensity Score Matching to Uncover Shopify Capital’s Effect on Business Growth",
+    "link": "https://shopify.engineering/propensity-score-matching-shopify-capital",
+    "summary": "",
+    "published_iso": "2021-11-11T20:45:00+00:00",
+    "published_display": "2021-11-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/high-performance-hydrogen-powered-storefronts",
+    "blog_name": "Shopify Engineering",
+    "title": "Building Blocks of High Performance Hydrogen-powered Storefronts",
+    "link": "https://shopify.engineering/high-performance-hydrogen-powered-storefronts",
+    "summary": "",
+    "published_iso": "2021-11-08T14:00:01+00:00",
+    "published_display": "2021-11-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/core-web-vitals",
+    "blog_name": "Shopify Engineering",
+    "title": "The Vitality of Core Web Vitals",
+    "link": "https://shopify.engineering/core-web-vitals",
+    "summary": "",
+    "published_iso": "2021-11-04T18:30:00+00:00",
+    "published_display": "2021-11-04",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/quarterly-calibration-document",
+    "blog_name": "Shopify Engineering",
+    "title": "Always on Calibration with a Quarterly Summary",
+    "link": "https://shopify.engineering/quarterly-calibration-document",
+    "summary": "",
+    "published_iso": "2021-11-02T13:14:11+00:00",
+    "published_display": "2021-11-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/aware-development-plan",
+    "blog_name": "Shopify Engineering",
+    "title": "The AWARE Development Plan",
+    "link": "https://shopify.engineering/aware-development-plan",
+    "summary": "",
+    "published_iso": "2021-10-28T20:00:01+00:00",
+    "published_display": "2021-10-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/faster-trino-query-execution-verification-benchmarking-profiling",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify's Path to a Faster Trino Query Execution: Custom Verification, Benchmarking, and Profiling Tooling",
+    "link": "https://shopify.engineering/faster-trino-query-execution-verification-benchmarking-profiling",
+    "summary": "",
+    "published_iso": "2021-10-27T18:27:09+00:00",
+    "published_display": "2021-10-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/debugging-systems-cloud-mysql-kubernetes-cgroups",
+    "blog_name": "Shopify Engineering",
+    "title": "Debugging Systems in the Cloud: MySQL, Kubernetes, and Cgroups",
+    "link": "https://shopify.engineering/debugging-systems-cloud-mysql-kubernetes-cgroups",
+    "summary": "",
+    "published_iso": "2021-10-21T17:30:01+00:00",
+    "published_display": "2021-10-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/yjit-benchmarking-harness",
+    "blog_name": "Shopify Engineering",
+    "title": "GitHub Does My Operations Homework: A Ruby Speed Story",
+    "link": "https://shopify.engineering/yjit-benchmarking-harness",
+    "summary": "",
+    "published_iso": "2021-10-19T18:41:07+00:00",
+    "published_display": "2021-10-19",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/yjit-faster-rubying",
+    "blog_name": "Shopify Engineering",
+    "title": "Try Out YJIT for Faster Rubying",
+    "link": "https://shopify.engineering/yjit-faster-rubying",
+    "summary": "",
+    "published_iso": "2021-10-15T18:30:01+00:00",
+    "published_display": "2021-10-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
+    "blog_name": "Shopify Engineering",
+    "title": "YJIT: Building a New JIT Compiler for CRuby",
+    "link": "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
+    "summary": "",
+    "published_iso": "2021-10-14T18:30:00+00:00",
+    "published_display": "2021-10-14",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/travelling-salesperson-problem-ai4tsp",
+    "blog_name": "Shopify Engineering",
+    "title": "Winning AI4TSP: Solving the Travelling Salesperson Problem with Self-programming Machines",
+    "link": "https://shopify.engineering/travelling-salesperson-problem-ai4tsp",
+    "summary": "",
+    "published_iso": "2021-10-06T14:30:00+00:00",
+    "published_display": "2021-10-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/dev-degree-intern-journey",
+    "blog_name": "Shopify Engineering",
+    "title": "Journey Through a Dev Degree Intern’s First Placement",
+    "link": "https://shopify.engineering/dev-degree-intern-journey",
+    "summary": "",
+    "published_iso": "2021-10-01T17:00:01+00:00",
+    "published_display": "2021-10-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/react-native-packages-shopify",
+    "blog_name": "Shopify Engineering",
+    "title": "Reusing Code with React Native Packages at Shopify",
+    "link": "https://shopify.engineering/react-native-packages-shopify",
+    "summary": "",
+    "published_iso": "2021-09-29T14:30:01+00:00",
+    "published_display": "2021-09-29",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/mysql-database-shard-balancing-terabyte-scale",
+    "blog_name": "Shopify Engineering",
+    "title": "Shard Balancing: Moving Shops Confidently with Zero-Downtime at Terabyte-scale",
+    "link": "https://shopify.engineering/mysql-database-shard-balancing-terabyte-scale",
+    "summary": "Moving a shop from one shard to another requires engineering solutions around large, interconnected systems. The flexibility to move shops from shard to shard allows Shopify to provide a stable, well-balanced infrastructure for our merchants. With merchants creating their livelihood on the platform, it’s more important than ever that Shopify remains a sturdy backbone. High-confidence shard rebalancing is simply one of the ways we can do this.",
+    "published_iso": "2021-09-24T20:41:32+00:00",
+    "published_display": "2021-09-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shop-app-custom-caching-solution",
+    "blog_name": "Shopify Engineering",
+    "title": "Making Shopify’s Flagship App 20% Faster in 6 Weeks Using a Novel Caching Solution",
+    "link": "https://shopify.engineering/shop-app-custom-caching-solution",
+    "summary": "",
+    "published_iso": "2021-09-22T17:30:00+00:00",
+    "published_display": "2021-09-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/using-rich-image-text-data-categorize-products",
+    "blog_name": "Shopify Engineering",
+    "title": "Using Rich Image and Text Data to Categorize Products at Scale",
+    "link": "https://shopify.engineering/using-rich-image-text-data-categorize-products",
+    "summary": "",
+    "published_iso": "2021-09-08T14:30:00+00:00",
+    "published_display": "2021-09-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/kotlin-style-copy-function-swift-structs",
+    "blog_name": "Shopify Engineering",
+    "title": "A Kotlin Style .copy Function for Swift Structs",
+    "link": "https://shopify.engineering/kotlin-style-copy-function-swift-structs",
+    "summary": "",
+    "published_iso": "2021-09-02T15:00:02+00:00",
+    "published_display": "2021-09-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-business-machine-learning-models",
+    "blog_name": "Shopify Engineering",
+    "title": "5 Steps for Building Machine Learning Models for Business",
+    "link": "https://shopify.engineering/building-business-machine-learning-models",
+    "summary": "",
+    "published_iso": "2021-08-25T17:30:00+00:00",
+    "published_display": "2021-08-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/dig-fetch-truffleruby",
+    "blog_name": "Shopify Engineering",
+    "title": "Diggin’ and Fetchin’ with TruffleRuby",
+    "link": "https://shopify.engineering/dig-fetch-truffleruby",
+    "summary": "",
+    "published_iso": "2021-08-20T15:00:00+00:00",
+    "published_display": "2021-08-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/modelling-developer-infrastructure-teams",
+    "blog_name": "Shopify Engineering",
+    "title": "Modelling Developer Infrastructure Teams",
+    "link": "https://shopify.engineering/modelling-developer-infrastructure-teams",
+    "summary": "",
+    "published_iso": "2021-08-13T13:00:00+00:00",
+    "published_display": "2021-08-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/bridging-gap-between-developers-and-users",
+    "blog_name": "Shopify Engineering",
+    "title": "Bridging the Gap Between Developers and End Users",
+    "link": "https://shopify.engineering/bridging-gap-between-developers-and-users",
+    "summary": "",
+    "published_iso": "2021-08-11T19:32:38+00:00",
+    "published_display": "2021-08-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/understanding-graphql-for-beginners-part-three",
+    "blog_name": "Shopify Engineering",
+    "title": "Understanding GraphQL for Beginners–Part Three",
+    "link": "https://shopify.engineering/understanding-graphql-for-beginners-part-three",
+    "summary": "",
+    "published_iso": "2021-08-06T15:30:00+00:00",
+    "published_display": "2021-08-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/mob-programming",
+    "blog_name": "Shopify Engineering",
+    "title": "Connecting with Mob Programming",
+    "link": "https://shopify.engineering/mob-programming",
+    "summary": "",
+    "published_iso": "2021-07-30T14:09:14+00:00",
+    "published_display": "2021-07-30",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/running-engineering-program-guide",
+    "blog_name": "Shopify Engineering",
+    "title": "A Guide to Running an Engineering Program",
+    "link": "https://shopify.engineering/running-engineering-program-guide",
+    "summary": "",
+    "published_iso": "2021-07-21T20:00:01+00:00",
+    "published_display": "2021-07-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/react-native-perspectives",
+    "blog_name": "Shopify Engineering",
+    "title": "Perspectives on React Native from Three Shopify Developers",
+    "link": "https://shopify.engineering/react-native-perspectives",
+    "summary": "",
+    "published_iso": "2021-07-16T13:00:00+00:00",
+    "published_display": "2021-07-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-made-patterns-in-our-rails-apps",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify-Made Patterns in Our Rails Apps",
+    "link": "https://shopify.engineering/shopify-made-patterns-in-our-rails-apps",
+    "summary": "",
+    "published_iso": "2021-07-13T17:26:49+00:00",
+    "published_display": "2021-07-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/faster-trino-query-execution-infrastructure",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify's Path to a Faster Trino Query Execution: Infrastructure",
+    "link": "https://shopify.engineering/faster-trino-query-execution-infrastructure",
+    "summary": "",
+    "published_iso": "2021-07-09T14:30:02+00:00",
+    "published_display": "2021-07-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/high-availability-background-jobs",
+    "blog_name": "Shopify Engineering",
+    "title": "High Availability by Offloading Work Into the Background",
+    "link": "https://shopify.engineering/high-availability-background-jobs",
+    "summary": "",
+    "published_iso": "2021-07-08T18:00:01+00:00",
+    "published_display": "2021-07-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/understanding-graphql-beginner-part-two",
+    "blog_name": "Shopify Engineering",
+    "title": "Understanding GraphQL for Beginners–Part Two",
+    "link": "https://shopify.engineering/understanding-graphql-beginner-part-two",
+    "summary": "",
+    "published_iso": "2021-07-02T20:00:43+00:00",
+    "published_display": "2021-07-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/understanding-graphql-beginner-part-one",
+    "blog_name": "Shopify Engineering",
+    "title": "Understanding GraphQL for Beginners–Part One",
+    "link": "https://shopify.engineering/understanding-graphql-beginner-part-one",
+    "summary": "",
+    "published_iso": "2021-07-02T16:36:21+00:00",
+    "published_display": "2021-07-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/securing-shopify-domains-letsencrypt",
+    "blog_name": "Shopify Engineering",
+    "title": "Let’s Encrypt x Shopify: Securing the Web 4.5 Million Domains at a Time",
+    "link": "https://shopify.engineering/securing-shopify-domains-letsencrypt",
+    "summary": "",
+    "published_iso": "2021-06-24T18:30:02+00:00",
+    "published_display": "2021-06-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/rate-limiting-graphql-apis-calculating-query-complexity",
+    "blog_name": "Shopify Engineering",
+    "title": "Rate Limiting GraphQL APIs by Calculating Query Complexity",
+    "link": "https://shopify.engineering/rate-limiting-graphql-apis-calculating-query-complexity",
+    "summary": "",
+    "published_iso": "2021-06-22T18:30:02+00:00",
+    "published_display": "2021-06-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/lessons-learned-online-experiments",
+    "blog_name": "Shopify Engineering",
+    "title": "10 Lessons Learned From Online Experiments",
+    "link": "https://shopify.engineering/lessons-learned-online-experiments",
+    "summary": "",
+    "published_iso": "2021-06-17T18:15:21+00:00",
+    "published_display": "2021-06-17",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/querying-strategies-graphql-clients",
+    "blog_name": "Shopify Engineering",
+    "title": "Querying Strategies for GraphQL Clients",
+    "link": "https://shopify.engineering/querying-strategies-graphql-clients",
+    "summary": "",
+    "published_iso": "2021-06-15T16:30:29+00:00",
+    "published_display": "2021-06-15",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/managing-pii-shopify-scale",
+    "blog_name": "Shopify Engineering",
+    "title": "Schematizing Deletion at Scale",
+    "link": "https://shopify.engineering/managing-pii-shopify-scale",
+    "summary": "",
+    "published_iso": "2021-06-10T15:30:00+00:00",
+    "published_display": "2021-06-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/updating-illustrations-shopify-scale",
+    "blog_name": "Shopify Engineering",
+    "title": "Updating Illustrations at Scale",
+    "link": "https://shopify.engineering/updating-illustrations-shopify-scale",
+    "summary": "The Polaris team creates tools, education and documentation that helps unite teams across Shopify to build better experiences. We created Polaris, our design system, and continue to maintain it. We are a multidisciplinary team with a range of experience. Some people have been at Shopify for over 6 years and others, like me, are a part of our Dev Degree program.",
+    "published_iso": "2021-06-03T20:48:53+00:00",
+    "published_display": "2021-06-03",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shipit-writing-react-native-apps",
+    "blog_name": "Shopify Engineering",
+    "title": "Shipit! Presents: How We Write React Native Apps",
+    "link": "https://shopify.engineering/shipit-writing-react-native-apps",
+    "summary": "",
+    "published_iso": "2021-05-27T15:31:44+00:00",
+    "published_display": "2021-05-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-in-context-analytics",
+    "blog_name": "Shopify Engineering",
+    "title": "How Shopify Built An In-Context Analytics Experience",
+    "link": "https://shopify.engineering/shopify-in-context-analytics",
+    "summary": "",
+    "published_iso": "2021-05-25T19:30:00+00:00",
+    "published_display": "2021-05-25",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/other-driven-developments",
+    "blog_name": "Shopify Engineering",
+    "title": "Other Driven Developments",
+    "link": "https://shopify.engineering/other-driven-developments",
+    "summary": "Mental models within an industry, company, or even a person, change constantly. As methodologies mature, we see the long term effects our choices have wrought and can adjust accordingly. As a team or company grows, methodologies that worked well for five people may not work as well for 40 people. If all employees could keep an entire app in their head, we’d need fewer rules and checks and balances on our development, but that is not the case. As a result, we summarize things we notice have been ",
+    "published_iso": "2021-05-21T17:30:00+00:00",
+    "published_display": "2021-05-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/sharing-developer-context",
+    "blog_name": "Shopify Engineering",
+    "title": "Three Ways We Share Context at Shopify Engineering",
+    "link": "https://shopify.engineering/sharing-developer-context",
+    "summary": "",
+    "published_iso": "2021-05-13T16:30:00+00:00",
+    "published_display": "2021-05-13",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/define-boundaries-prevent-burnout",
+    "blog_name": "Shopify Engineering",
+    "title": "How I Define My Boundaries to Prevent Burnout",
+    "link": "https://shopify.engineering/define-boundaries-prevent-burnout",
+    "summary": "There’s a way to build a model for your life and the other demands on you. It doesn’t have to be 100 hours a week. It might not even be 40 hours a week. Whatever sustainable model you come up with, prioritize fiercely and communicate expectations accordingly. I’ve worked this way for three decades through different phases of my life. The hours have changed, but the basic model and principles remain the same: Define the time, prioritize the work, and communicate those two effectively.",
+    "published_iso": "2021-05-06T15:15:54+00:00",
+    "published_display": "2021-05-06",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/conducting-exploratory-data-analysis",
+    "blog_name": "Shopify Engineering",
+    "title": "A Five-Step Guide for Conducting Exploratory Data Analysis",
+    "link": "https://shopify.engineering/conducting-exploratory-data-analysis",
+    "summary": "",
+    "published_iso": "2021-04-28T19:43:52+00:00",
+    "published_display": "2021-04-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/dynamic-proxysql-query-rules",
+    "blog_name": "Shopify Engineering",
+    "title": "Dynamic ProxySQL Query Rules",
+    "link": "https://shopify.engineering/dynamic-proxysql-query-rules",
+    "summary": "ProxySQL comes with a powerful feature called query rules. The main use of these rules at Shopify is to reroute, rewrite, or reject queries matching a specified regex. However, with great power comes great responsibility. These rules are powerful and can have unexpected consequences if used incorrectly. At Shopify’s scale, we’re running thousands of ProxySQL instances, so applying query rules to each one is a painful and time consuming process, especially during an incident. We’ve built a tool t",
+    "published_iso": "2021-04-20T19:00:00+00:00",
+    "published_display": "2021-04-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/managing-native-code-react-native",
+    "blog_name": "Shopify Engineering",
+    "title": "Management of Native Code and React Native at Shopify",
+    "link": "https://shopify.engineering/managing-native-code-react-native",
+    "summary": "A year ago, we announced our decision to place our bets, and our developer resources, on React Native. As you could expect, the move was met internally with a mix of excitement and apprehension, but a year later, we are still convinced that we made the right decision.",
+    "published_iso": "2021-04-16T14:30:52+00:00",
+    "published_display": "2021-04-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/dynamically-route-storefront-traffic",
+    "blog_name": "Shopify Engineering",
+    "title": "How Shopify Dynamically Routes Storefront Traffic",
+    "link": "https://shopify.engineering/dynamically-route-storefront-traffic",
+    "summary": "",
+    "published_iso": "2021-04-09T20:19:44+00:00",
+    "published_display": "2021-04-09",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/evaluating-search-algorithms",
+    "blog_name": "Shopify Engineering",
+    "title": "Building Smarter Search Products: 3 Steps for Evaluating Search Algorithms",
+    "link": "https://shopify.engineering/evaluating-search-algorithms",
+    "summary": "",
+    "published_iso": "2021-04-01T18:45:00+00:00",
+    "published_display": "2021-04-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/building-web-app-ruby-rails",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Build a Web App with and without Rails Libraries",
+    "link": "https://shopify.engineering/building-web-app-ruby-rails",
+    "summary": "How would we build a web application only using the standard Ruby libraries? In this article, I’ll break down the key foundational concepts of how a web application works while building one from the ground up. If we can build a web application only using Ruby libraries, why would we need web server interfaces like Rack and web applications like Ruby on Rails? By the end of this article, you’ll gain a new appreciation for Rails and its magic.",
+    "published_iso": "2021-03-26T16:18:36+00:00",
+    "published_display": "2021-03-26",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/repository-pattern-ruby",
+    "blog_name": "Shopify Engineering",
+    "title": "Remove Circular Dependencies by Using Dependency Injection and the Repository Pattern in Ruby",
+    "link": "https://shopify.engineering/repository-pattern-ruby",
+    "summary": "There are dependencies between gems and the platforms that use them. In scenarios where the platforms have the data and the gem has the knowledge, there is a direct circular dependency between the two and both need to talk to each other. I’ll show you how we used the Repository pattern in Ruby to remove that circular dependency and help us make gems thin and stateless. Plus, I’ll show you how using Sorbet in the implementation made our code typed and cleaner.",
+    "published_iso": "2021-03-19T15:00:00+00:00",
+    "published_display": "2021-03-19",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/capturing-every-change-shopify-sharded-monolith",
+    "blog_name": "Shopify Engineering",
+    "title": "Capturing Every Change From Shopify’s Sharded Monolith",
+    "link": "https://shopify.engineering/capturing-every-change-shopify-sharded-monolith",
+    "summary": "Shopify is moving from existing query-based CDC (Change-Data Capture) tooling (Longboat) to an immutable, append-only, log-based mechanism. This has required a complete re-platforming, involving a shift to new, open source technology such as Kafka Connect and Debezium.",
+    "published_iso": "2021-03-12T18:51:39+00:00",
+    "published_display": "2021-03-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-bug-bounty-updates-2021",
+    "blog_name": "Shopify Engineering",
+    "title": "Updates on Shopify’s Bug Bounty Program",
+    "link": "https://shopify.engineering/shopify-bug-bounty-updates-2021",
+    "summary": "For three years we, Shopify’s Application Security team, have set aside time to reflect on our bug bounty program and share recent insights. This past year has been quite a ride, as our program has been busier than ever! We’re excited to share what we have learned, and share some of the great things we have planned!",
+    "published_iso": "2021-03-11T20:56:28+00:00",
+    "published_display": "2021-03-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shipping-data-products-fast",
+    "blog_name": "Shopify Engineering",
+    "title": "4 Tips for Shipping Data Products Fast",
+    "link": "https://shopify.engineering/shipping-data-products-fast",
+    "summary": "",
+    "published_iso": "2021-03-02T19:00:00+00:00",
+    "published_display": "2021-03-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/faster-shopify-ci",
+    "blog_name": "Shopify Engineering",
+    "title": "Keeping Developers Happy with a Fast CI",
+    "link": "https://shopify.engineering/faster-shopify-ci",
+    "summary": "Slow CI systems are often responsible for making frustrated developers. Keeping these systems fast requires an ongoing effort. However, before jumping into implementing performance tweaks, it's important to set up a solid monitoring system.",
+    "published_iso": "2021-02-24T15:44:31+00:00",
+    "published_display": "2021-02-24",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/read-consistency-database-replicas",
+    "blog_name": "Shopify Engineering",
+    "title": "Read Consistency with Database Replicas",
+    "link": "https://shopify.engineering/read-consistency-database-replicas",
+    "summary": "",
+    "published_iso": "2021-02-22T21:55:03+00:00",
+    "published_display": "2021-02-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/eight-tips-for-hanging-pennies",
+    "blog_name": "Shopify Engineering",
+    "title": "Bound to Round: 8 Tips for Dealing with Hanging Pennies",
+    "link": "https://shopify.engineering/eight-tips-for-hanging-pennies",
+    "summary": "",
+    "published_iso": "2021-02-16T19:45:41+00:00",
+    "published_display": "2021-02-16",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/using-betas-to-deploy-new-features-safely",
+    "blog_name": "Shopify Engineering",
+    "title": "Using Betas to Deploy New Features Safely",
+    "link": "https://shopify.engineering/using-betas-to-deploy-new-features-safely",
+    "summary": "For companies like Shopify that practice continuous deployment, our code is changing multiple times every day. We have to de-risk new features to ship safely and confidently without impacting the million+ merchants using our platform. Beta flags are one approach to feature development that gives us a number of notable advantages.",
+    "published_iso": "2021-02-12T20:10:34+00:00",
+    "published_display": "2021-02-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/technical-mentorship-reimagined",
+    "blog_name": "Shopify Engineering",
+    "title": "Technical Mentorship Reimagined: Time-bound and No Awkward Asks Necessary",
+    "link": "https://shopify.engineering/technical-mentorship-reimagined",
+    "summary": "",
+    "published_iso": "2021-02-10T17:35:22+00:00",
+    "published_display": "2021-02-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/make-dashboards-using-product-thinking-approach",
+    "blog_name": "Shopify Engineering",
+    "title": "How to Make Dashboards Using a Product Thinking Approach",
+    "link": "https://shopify.engineering/make-dashboards-using-product-thinking-approach",
+    "summary": "",
+    "published_iso": "2021-01-28T20:45:00+00:00",
+    "published_display": "2021-01-28",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/managing-google-cloud-platform-project-wide-ssh-keys",
+    "blog_name": "Shopify Engineering",
+    "title": "Managing Google Cloud Platform Project-Wide SSH Keys",
+    "link": "https://shopify.engineering/managing-google-cloud-platform-project-wide-ssh-keys",
+    "summary": "As a member of the Infrastructure Security team, Cailyn set out to create an application to silently and effectively manage SSH keys that persist inside of Shopify's Google Cloud Platform project-wide metadata.",
+    "published_iso": "2021-01-27T16:37:04+00:00",
+    "published_display": "2021-01-27",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/using-graphql-for-high-performing-mobile-applications",
+    "blog_name": "Shopify Engineering",
+    "title": "Using GraphQL for High-Performing Mobile Applications",
+    "link": "https://shopify.engineering/using-graphql-for-high-performing-mobile-applications",
+    "summary": "",
+    "published_iso": "2021-01-22T21:29:18+00:00",
+    "published_display": "2021-01-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/apache-beam-for-search-getting-started-by-hacking-time",
+    "blog_name": "Shopify Engineering",
+    "title": "Apache Beam for Search: Getting Started by Hacking Time",
+    "link": "https://shopify.engineering/apache-beam-for-search-getting-started-by-hacking-time",
+    "summary": "",
+    "published_iso": "2021-01-08T15:00:01+00:00",
+    "published_display": "2021-01-08",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-webassembly",
+    "blog_name": "Shopify Engineering",
+    "title": "How Shopify Uses WebAssembly Outside of the Browser",
+    "link": "https://shopify.engineering/shopify-webassembly",
+    "summary": "",
+    "published_iso": "2020-12-18T16:30:00+00:00",
+    "published_display": "2020-12-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

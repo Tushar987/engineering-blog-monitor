@@ -56,6 +56,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
     "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
     "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
     "https://blog.bytebytego.com/p/background-work-from-cron-jobs-to",
@@ -211,14 +212,15 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
     "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
     "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
     "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
     "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
     "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
     "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
     "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
@@ -413,6 +415,9 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-09-02:An-Accidental-Blackboard",
+    "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "https://martinfowler.com/fragments/2026-09-01.html",
     "tag:martinfowler.com,2026-08-27:Making-Your-Data-Ready-for-Agentic-AI",
     "https://martinfowler.com/fragments/2026-08-24.html",
     "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",

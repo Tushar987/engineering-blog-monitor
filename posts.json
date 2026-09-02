@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
+    "blog_name": "ByteByteGo",
+    "title": "Why Your RAG System Is Only as Good as Its Translator Model",
+    "link": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
+    "summary": "In this article, we&#8217;re going to look at how this embedding model works in an RAG setup and what makes it such a critical part of the system.",
+    "published_iso": "2026-09-02T15:31:12+00:00",
+    "published_display": "2026-09-02",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-09-02:An-Accidental-Blackboard",
+    "blog_name": "Martin Fowler",
+    "title": "An Accidental Blackboard",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+    "summary": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination system inside the git repository. more…",
+    "published_iso": "2026-09-02T14:45:00+00:00",
+    "published_display": "2026-09-02",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "blog_name": "Martin Fowler",
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did. Brian has since written a thoughtful",
+    "published_iso": "2026-09-02T13:32:00+00:00",
+    "published_display": "2026-09-02",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-09-01.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: September  1",
+    "link": "https://martinfowler.com/fragments/2026-09-01.html",
+    "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing . That page points out that: Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from huma",
+    "published_iso": "2026-09-01T19:50:00+00:00",
+    "published_display": "2026-09-01",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
     "blog_name": "ByteByteGo",
     "title": "How to Shrink a Language Model Without Making it Too Dumb",
@@ -870,16 +910,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
-    "blog_name": "ByteByteGo",
-    "title": "LLM Security Basics: The Full Threat Model",
-    "link": "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat",
-    "summary": "In this article, we try to build a map of the full attack surface that threatens an LLM&#8217;s security.",
-    "published_iso": "2026-08-03T15:31:14+00:00",
-    "published_display": "2026-08-03",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/e7607acebde8",
     "blog_name": "Netflix Tech Blog",
     "title": "Modeling Device Capabilities for Analytics",
@@ -1590,26 +1620,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://martinfowler.com/fragments/2026-05-14.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: May 14",
-    "link": "https://martinfowler.com/fragments/2026-05-14.html",
-    "summary": "Last week I spent a day at The Orchard Retreat, hosted by Mechanical Orchard . that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule , so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook. ❄ ❄ One group developed a behavioral clone of G",
-    "published_iso": "2026-05-14T21:52:00+00:00",
-    "published_display": "2026-05-14",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
-    "blog_name": "Martin Fowler",
-    "title": "Bliki: Interrogatory LLM",
-    "link": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
-    "summary": "When we need an LLM to perform a complex task, we often need to feed it a lot of context. Coming up with a design for a new feature requires descriptions of how we want the feature to appear to the user, guidelines on how it should be implemented, information on external systems to consult, and so on. All this can be several pages of markdown. The obvious way to do this is for a human to write this context, but an alternative is to use an LLM to write this context after interviewing a human. The",
-    "published_iso": "2026-05-14T15:04:00+00:00",
-    "published_display": "2026-05-14",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://discord.com/blog/celebrate-discords-11th-birthday-with-an-exclusive-set-of-emoji-and-wallpapers",
     "blog_name": "Discord Engineering",
     "title": "Celebrate Discord’s 11th Birthday with an Exclusive Set of Emoji and Wallpapers",
@@ -1628,16 +1638,6 @@
     "published_iso": "2026-05-12T16:51:53+00:00",
     "published_display": "2026-05-12",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-05-12:What-is-Code",
-    "blog_name": "Martin Fowler",
-    "title": "What is Code",
-    "link": "https://martinfowler.com/articles/what-is-code.html",
-    "summary": "Increasingly humans delegate writing code to agents. Will there even be source code in the future? To wrestle with this question, we have to understand what code is. Unmesh Joshi sees code as having two distinct but intertwined purposes: instructions to a machine and a conceptual model of the problem domain . He explores why it's vital to build a vocabulary to talk to the machine, how programming languages are thinking tools, and how this affects our future as we work with LLMs. more…",
-    "published_iso": "2026-05-12T13:30:00+00:00",
-    "published_display": "2026-05-12",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/nitro-rewards",

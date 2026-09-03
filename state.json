@@ -56,6 +56,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
     "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
     "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
     "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
@@ -378,6 +379,8 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24463",
+    "https://engineering.fb.com/?p=24419",
     "https://engineering.fb.com/?p=24399",
     "https://engineering.fb.com/?p=24394",
     "https://engineering.fb.com/?p=24092",
@@ -415,6 +418,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/bliki/ParacelsusMaxim.html",
     "tag:martinfowler.com,2026-09-02:An-Accidental-Blackboard",
     "https://martinfowler.com/rachels-ramblings/code-review.html",
     "https://martinfowler.com/fragments/2026-09-01.html",
@@ -506,6 +510,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/river-vulnerability-remediation",
     "https://shopify.engineering/gisting",
     "https://shopify.engineering/mobile-e2e-testing",
     "https://shopify.engineering/sidekicks-continual-learning-loop",
@@ -704,8 +709,7 @@
     "https://shopify.engineering/yjit-faster-rubying",
     "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
     "https://shopify.engineering/travelling-salesperson-problem-ai4tsp",
-    "https://shopify.engineering/dev-degree-intern-journey",
-    "https://shopify.engineering/react-native-packages-shopify"
+    "https://shopify.engineering/dev-degree-intern-journey"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

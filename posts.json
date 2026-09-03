@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://engineering.fb.com/?p=24463",
+    "blog_name": "Meta Engineering",
+    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+    "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+    "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. ZippyDB is the most widely used key value store at Meta, backing product metadata, counters, and configuration, and can serve billions [...] Read More... The post ZGateway: Learnings from Putting a Proxy in Front of ZippyDB appeared first on Engineering at Meta .",
+    "published_iso": "2026-09-03T16:00:20+00:00",
+    "published_display": "2026-09-03",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
+    "blog_name": "ByteByteGo",
+    "title": "How Databases Keep Their Sanity with Concurrency Control",
+    "link": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
+    "summary": "So how do we handle such bugs? This is what we are going to try to answer in this article.",
+    "published_iso": "2026-09-03T15:31:17+00:00",
+    "published_display": "2026-09-03",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+    "blog_name": "Martin Fowler",
+    "title": "Bliki: Paracelsus Maxim",
+    "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+    "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good thing sitting in my garden, but not while driving my car. But another variable is dosage: a little pain-killer salves my headache, but too much will kill me. The importance of dosage was noticed by a 16th century Swiss physician called Paracelsus. His quote was originally in Germ",
+    "published_iso": "2026-09-02T22:03:00+00:00",
+    "published_display": "2026-09-02",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://shopify.engineering/river-vulnerability-remediation",
+    "blog_name": "Shopify Engineering",
+    "title": "How River takes security work from a fix to merge",
+    "link": "https://shopify.engineering/river-vulnerability-remediation",
+    "summary": "River, Shopify’s AI agent in Slack, enables autonomous vulnerability remediation, not just detection.",
+    "published_iso": "2026-09-02T16:30:45+00:00",
+    "published_display": "2026-09-02",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
     "blog_name": "ByteByteGo",
     "title": "Why Your RAG System Is Only as Good as Its Translator Model",
@@ -28,6 +68,16 @@
     "published_iso": "2026-09-02T13:32:00+00:00",
     "published_display": "2026-09-02",
     "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24419",
+    "blog_name": "Meta Engineering",
+    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specific agent. Its novelty comes from integrating two layers: A structured, auditable knowledge architecture separates what [...] Read More... The post An Organizational Second Brain: Building an AI That Learns From Experts appeared first on Engineering at Meta .",
+    "published_iso": "2026-09-02T09:00:29+00:00",
+    "published_display": "2026-09-02",
+    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-09-01.html",
@@ -870,16 +920,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
-    "blog_name": "ByteByteGo",
-    "title": "Why An LLM’s Memory Gets Expensive and How to Fix It",
-    "link": "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive",
-    "summary": "In this article, we will learn how LLMs use memory, how it gets expensive, and how to fix it.",
-    "published_iso": "2026-08-04T15:31:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-08-04.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: August  4",
@@ -1208,26 +1248,6 @@
     "published_iso": "2026-07-06T12:53:00+00:00",
     "published_display": "2026-07-06",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24150",
-    "blog_name": "Meta Engineering",
-    "title": "Meta’s AI Storage Blueprint at Scale",
-    "link": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
-    "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...] Read More... The post Meta&#8217;s AI Storage Blueprint at Scale appeared first on Engineering at Meta .",
-    "published_iso": "2026-07-01T16:00:36+00:00",
-    "published_display": "2026-07-01",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24128",
-    "blog_name": "Meta Engineering",
-    "title": "10 Years of Meta’s Commitment to Python",
-    "link": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
-    "summary": "This year marks Meta&#8217;s 10th consecutive year as a sponsor of the Python Software Foundation (PSF), the charitable organization dedicated to advancing, supporting, and protecting the open-source Python programming language and the community that sustains it. Python is one of the world&#8217;s most influential programming languages, and we use it across our engineering stack, from [...] Read More... The post 10 Years of Meta’s Commitment to Python appeared first on Engineering at Meta .",
-    "published_iso": "2026-06-30T16:00:46+00:00",
-    "published_display": "2026-06-30",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
@@ -1598,16 +1618,6 @@
     "published_iso": "2026-05-19T17:01:01+00:00",
     "published_display": "2026-05-19",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-05-19:Maintainability-sensors-for-coding-agents",
-    "blog_name": "Martin Fowler",
-    "title": "Maintainability sensors for coding agents",
-    "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
-    "summary": "In her recent article about harness engineering for coding agent users, Birgitta B&#xf6;ckeler laid out a mental model for expanding a coding agent harness: a system of guides and sensors that increase the probability of good agent outputs and enable self-correction before issues reach human eyes. Birgitta has now started publishing an article where she walks though her experiences using sensors to keep a codebase maintainable. This part looks at static analysis with basic code linting. more…",
-    "published_iso": "2026-05-19T16:38:00+00:00",
-    "published_display": "2026-05-19",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",
@@ -4987,16 +4997,6 @@
     "summary": "",
     "published_iso": "2021-01-08T15:00:01+00:00",
     "published_display": "2021-01-08",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/shopify-webassembly",
-    "blog_name": "Shopify Engineering",
-    "title": "How Shopify Uses WebAssembly Outside of the Browser",
-    "link": "https://shopify.engineering/shopify-webassembly",
-    "summary": "",
-    "published_iso": "2020-12-18T16:30:00+00:00",
-    "published_display": "2020-12-18",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

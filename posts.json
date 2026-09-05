@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
+    "blog_name": "ByteByteGo",
+    "title": "EP224: MCP vs RAG vs AI Agents",
+    "link": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
+    "summary": "An AI agent is kind of an AI system where the agent performs the task autonomously and takes the decisions.",
+    "published_iso": "2026-09-05T15:30:58+00:00",
+    "published_display": "2026-09-05",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M1JE1CN6W3KJCTMCDZ6Y1M59",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
@@ -898,16 +908,6 @@
     "published_iso": "2026-08-05T19:20:20+00:00",
     "published_display": "2026-08-05",
     "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-big-models-teach-small-models",
-    "blog_name": "ByteByteGo",
-    "title": "How Big Models Teach Small Models to Be Smart",
-    "link": "https://blog.bytebytego.com/p/how-big-models-teach-small-models",
-    "summary": "In this article, we will walk through the idea from the ground up.",
-    "published_iso": "2026-08-05T15:30:28+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://shopify.engineering/sidekicks-continual-learning-loop",

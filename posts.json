@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
+    "blog_name": "ByteByteGo",
+    "title": "How to Deal With Errors and Failures in LLM-Powered Applications",
+    "link": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
+    "summary": "Apart from normal processing, the application also sends data to a large language model (LLM). It then uses the model&#8217;s response to carry out a task.",
+    "published_iso": "2026-09-07T15:31:35+00:00",
+    "published_display": "2026-09-07",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
     "blog_name": "ByteByteGo",
     "title": "EP224: MCP vs RAG vs AI Agents",
@@ -868,16 +878,6 @@
     "published_iso": "2026-08-07T13:00:00+00:00",
     "published_display": "2026-08-07",
     "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
-    "blog_name": "ByteByteGo",
-    "title": "The Read Path versus the Write Path: Strategies and Techniques",
-    "link": "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
-    "summary": "In this article, we will look at read path and write path operations and techniques in detail.",
-    "published_iso": "2026-08-06T15:31:50+00:00",
-    "published_display": "2026-08-06",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",

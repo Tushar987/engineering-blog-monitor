@@ -126,6 +126,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M1PVWQ383YJ6PFVFNJM3X122",
     "01M1JE1CN6W3KJCTMCDZ6Y1M59",
     "01M1DAE3EH5FEG7RQMQD63A731",
     "01M15GV7R8AFPM9KDM9HXDKJZ4",
@@ -422,6 +423,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-09-08.html",
+    "tag:martinfowler.com,2026-09-08:Do-you-even-need-a-presentation-",
     "https://martinfowler.com/bliki/ParacelsusMaxim.html",
     "tag:martinfowler.com,2026-09-02:An-Accidental-Blackboard",
     "https://martinfowler.com/rachels-ramblings/code-review.html",
@@ -447,10 +450,10 @@
     "tag:martinfowler.com,2026-06-16:Building-Reliable-Agentic-AI-Systems",
     "https://martinfowler.com/fragments/2026-06-16.html",
     "https://martinfowler.com/fragments/2026-06-02.html",
-    "https://martinfowler.com/fragments/2026-05-27.html",
     "tag:martinfowler.com,2026-05-27:The-test-suite-as-a-regression-sensor",
     "tag:martinfowler.com,2026-05-27:The-VibeSec-Reckoning",
     "https://martinfowler.com/bliki/VibeCoding.html",
+    "https://martinfowler.com/fragments/2026-05-27.html",
     "tag:martinfowler.com,2026-05-20:Three-more-static-code-analysis-sensors",
     "tag:martinfowler.com,2026-05-19:Maintainability-sensors-for-coding-agents",
     "https://martinfowler.com/fragments/2026-05-14.html",

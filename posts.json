@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://martinfowler.com/fragments/2026-09-08.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: September  8",
+    "link": "https://martinfowler.com/fragments/2026-09-08.html",
+    "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them: . This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code. […] The old automation boundary was routine versus n",
+    "published_iso": "2026-09-08T15:22:00+00:00",
+    "published_display": "2026-09-08",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-09-08:Do-you-even-need-a-presentation-",
+    "blog_name": "Martin Fowler",
+    "title": "Do you even need a presentation?",
+    "link": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+    "summary": "Like me, Sumeet Gayathri Moghe is tired of poor presentations with bad slide decks. He's started to write a series of posts on how to avoid these calamities, beginning with a post that questions whether a presentation is needed at all. more…",
+    "published_iso": "2026-09-08T13:42:00+00:00",
+    "published_display": "2026-09-08",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M1PVWQ383YJ6PFVFNJM3X122",
+    "blog_name": "Cloudflare Blog",
+    "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+    "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+    "summary": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it.",
+    "published_iso": "2026-09-08T13:10:00+00:00",
+    "published_display": "2026-09-08",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
     "blog_name": "ByteByteGo",
     "title": "How to Deal With Errors and Failures in LLM-Powered Applications",
@@ -870,16 +900,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01KZCB7QVKW1EKYJAYCVTDKH4K",
-    "blog_name": "Cloudflare Blog",
-    "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
-    "link": "https://blog.cloudflare.com/community-program-refresh/",
-    "summary": "We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.",
-    "published_iso": "2026-08-07T13:00:00+00:00",
-    "published_display": "2026-08-07",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -1550,16 +1570,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://martinfowler.com/fragments/2026-05-27.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: May 27",
-    "link": "https://martinfowler.com/fragments/2026-05-27.html",
-    "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show our frustration that things we’ve been saying for thirty years still need to be said, we say how anything like a manifesto reunion needs to be led by a younger generation, and opine on what junior devel",
-    "published_iso": "2026-05-27T19:40:00+00:00",
-    "published_display": "2026-05-27",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "tag:martinfowler.com,2026-05-27:The-test-suite-as-a-regression-sensor",
     "blog_name": "Martin Fowler",
     "title": "The test suite as a regression sensor",
@@ -1598,16 +1608,6 @@
     "published_iso": "2026-05-21T00:00:00+00:00",
     "published_display": "2026-05-21",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-05-20:Three-more-static-code-analysis-sensors",
-    "blog_name": "Martin Fowler",
-    "title": "Three more static code analysis sensors",
-    "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules",
-    "summary": "Birgitta B&#xf6;ckeler adds discussion of three more sensors for static code analysis, focusing on checking and enforcing better modularity. Computational sensors for dependency checks were good at enforcing rules, but the rules were limited. Building a computational sensor for coupling data proved lackluster. Prompting an inferential sensor to review modularity was more effective. more…",
-    "published_iso": "2026-05-20T14:27:00+00:00",
-    "published_display": "2026-05-20",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://medium.com/p/ebac467b7836",

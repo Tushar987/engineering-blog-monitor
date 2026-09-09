@@ -56,6 +56,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
+    "https://blog.bytebytego.com/p/built-for-reliability-how-american",
     "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
     "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
     "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
@@ -126,6 +128,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M1WCCYXD65TK4WBQW6QVC79V",
     "01M1PVWQ383YJ6PFVFNJM3X122",
     "01M1JE1CN6W3KJCTMCDZ6Y1M59",
     "01M1DAE3EH5FEG7RQMQD63A731",
@@ -217,6 +220,8 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+    "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
     "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
     "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
     "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
@@ -272,6 +277,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-patch-notes-september-8-2026",
     "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
     "https://discord.com/blog/link-world-of-warcraft-with-discord",
     "https://discord.com/blog/discord-update-august-11-2026-changelog",
@@ -423,6 +429,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-09-09:Social-Media-Engagement--summer-2026",
     "https://martinfowler.com/fragments/2026-09-08.html",
     "tag:martinfowler.com,2026-09-08:Do-you-even-need-a-presentation-",
     "https://martinfowler.com/bliki/ParacelsusMaxim.html",

@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "e80ba765852a275e648b3690d469ab3e875ece2e",
+    "a0b33820c0272b6c8f5a55af98ae45e8da62656d",
+    "a407526979b70b94a801af92b401656e5712788d",
     "5ebb77e9f17c34300792188df51307ba3c47c1bb",
     "dad9dac7fb1a93dce9ee9cb3be66334937e8c55f",
     "970a03810729afa5d4975d63cdc0e14eaf52f98f",
@@ -56,6 +59,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/a-guide-to-application-networking",
     "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
     "https://blog.bytebytego.com/p/built-for-reliability-how-american",
     "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
@@ -128,6 +132,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M23Q2R3K11Z1TNGRS35GYWR6",
     "01M1WCCYXD65TK4WBQW6QVC79V",
     "01M1PVWQ383YJ6PFVFNJM3X122",
     "01M1JE1CN6W3KJCTMCDZ6Y1M59",
@@ -524,6 +529,8 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/shop-app-migration",
+    "https://shopify.engineering/back-to-native",
     "https://shopify.engineering/river-vulnerability-remediation",
     "https://shopify.engineering/gisting",
     "https://shopify.engineering/mobile-e2e-testing",
@@ -721,9 +728,7 @@
     "https://shopify.engineering/debugging-systems-cloud-mysql-kubernetes-cgroups",
     "https://shopify.engineering/yjit-benchmarking-harness",
     "https://shopify.engineering/yjit-faster-rubying",
-    "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
-    "https://shopify.engineering/travelling-salesperson-problem-ai4tsp",
-    "https://shopify.engineering/dev-degree-intern-journey"
+    "https://shopify.engineering/yjit-just-in-time-compiler-cruby"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

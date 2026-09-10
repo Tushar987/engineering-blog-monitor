@@ -1,5 +1,75 @@
 [
   {
+    "id": "e80ba765852a275e648b3690d469ab3e875ece2e",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
+    "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/",
+    "summary": "Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet management system on Amazon ECS and AWS Fargate that uses Amazon DynamoDB conditional writes as a distributed lease to track ownership, fail over automatically, and deploy with low downtime.",
+    "published_iso": "2026-09-10T16:14:22+00:00",
+    "published_display": "2026-09-10",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/a-guide-to-application-networking",
+    "blog_name": "ByteByteGo",
+    "title": "A Guide to Application Networking Basics",
+    "link": "https://blog.bytebytego.com/p/a-guide-to-application-networking",
+    "summary": "In this article, we will look at the various aspects of networking in detail.",
+    "published_iso": "2026-09-10T15:31:28+00:00",
+    "published_display": "2026-09-10",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M23Q2R3K11Z1TNGRS35GYWR6",
+    "blog_name": "Cloudflare Blog",
+    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+    "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+    "summary": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+    "published_iso": "2026-09-10T13:00:00+00:00",
+    "published_display": "2026-09-10",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/shop-app-migration",
+    "blog_name": "Shopify Engineering",
+    "title": "Migrating Shop app from React Native to native",
+    "link": "https://shopify.engineering/shop-app-migration",
+    "summary": "We migrated the Shop app from React Native to Swift and Kotlin. Assisted by AI, the team was able to go from a proof of concept to a fully rebuilt native app published in the app stores in just 12 weeks.",
+    "published_iso": "2026-09-10T12:27:06+00:00",
+    "published_display": "2026-09-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://shopify.engineering/back-to-native",
+    "blog_name": "Shopify Engineering",
+    "title": "Native is now the future of mobile at Shopify",
+    "link": "https://shopify.engineering/back-to-native",
+    "summary": "Coding agents changed what it costs to build mobile apps twice. Here’s why Shopify is moving from React Native back to Swift and Kotlin.",
+    "published_iso": "2026-09-10T12:25:28+00:00",
+    "published_display": "2026-09-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "a0b33820c0272b6c8f5a55af98ae45e8da62656d",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
+    "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/",
+    "summary": "Learn how to use AWS Fault Injection Service and AWS Systems Manager Automation to run progressive chaos experiments against Amazon SQS queues. Validate that your retry logic, circuit breakers, and dead-letter queues actually work under failure before a real outage hits production.",
+    "published_iso": "2026-09-09T21:33:59+00:00",
+    "published_display": "2026-09-09",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "a407526979b70b94a801af92b401656e5712788d",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
+    "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/",
+    "summary": "Learn how AWS, HashiCorp, and Athenahealth designed and chaos-tested a multi-Region disaster recovery strategy for Terraform Enterprise on AWS. This post walks through three-phase AWS Fault Injection Service experiments across Amazon EC2, Aurora, and Amazon S3, the 12-14 minute recovery times achieved, and the state file dependency pitfall to avoid.",
+    "published_iso": "2026-09-09T21:05:02+00:00",
+    "published_display": "2026-09-09",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "tag:martinfowler.com,2026-09-09:Social-Media-Engagement--summer-2026",
     "blog_name": "Martin Fowler",
     "title": "Social Media Engagement: summer 2026",
@@ -800,16 +870,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
-    "blog_name": "ByteByteGo",
-    "title": "GitHub vs Vercel vs Replit: What Dev Platforms Do When AI Code Is Cheap",
-    "link": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
-    "summary": "AI models have solved the writing code part of software development to a great extent.",
-    "published_iso": "2026-08-12T15:30:02+00:00",
-    "published_display": "2026-08-12",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24092",
     "blog_name": "Meta Engineering",
     "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
@@ -908,16 +968,6 @@
     "published_iso": "2026-08-07T16:01:02+00:00",
     "published_display": "2026-08-07",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "01KZCHBWNB93JTTPTBKQZF0SG9",
-    "blog_name": "Cloudflare Blog",
-    "title": "Unveiling good and bad behaviors on the Agentic Internet",
-    "link": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
-    "summary": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out our Precursor Trace simulation to see how your own cursor movements would be assessed as human or bot.",
-    "published_iso": "2026-08-07T13:01:00+00:00",
-    "published_display": "2026-08-07",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
@@ -1078,36 +1128,6 @@
     "published_iso": "2026-07-28T12:32:00+00:00",
     "published_display": "2026-07-28",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "79195fa586925a9b62c134acc83bb06b7b67a778",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
-    "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/",
-    "summary": "Healthcare organizations face a critical scaling challenge – how to maintain deeply personalized patient interactions as member bases grow, without overwhelming care teams or compromising quality. At Pelago, a digital health company specializing in substance use disorder support, the engineering team found a way to build an AI-powered solution to address this challenge using AWS […]",
-    "published_iso": "2026-07-22T17:12:27+00:00",
-    "published_display": "2026-07-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "2ac6e65cb0d7a530a176ef1746c2b0715abf2231",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building multi-Region resiliency for AWS CloudFormation custom resource deployment",
-    "link": "https://aws.amazon.com/blogs/architecture/building-multi-region-resiliency-for-aws-cloudformation-custom-resource-deployment/",
-    "summary": "AWS CloudFormation is the foundational tool of infrastructure-as-code for thousands of organizations running workloads on AWS. But as teams push the boundaries of what CloudFormation can do natively, custom resources have emerged as a powerful extension mechanism that unlocks a broad range of possibilities. Yet, when it comes to building resilient, multi-Region deployments with custom […]",
-    "published_iso": "2026-07-22T14:25:09+00:00",
-    "published_display": "2026-07-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "36baf26c54fe304725040010bfa7f4187708c5c9",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Architecting offline-first generative AI applications for edge deployments using AWS services",
-    "link": "https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services/",
-    "summary": "According to Siemens’ 2024 report The True Cost of Downtime, Fortune 500 companies lose an estimated $1.4 trillion annually because of unplanned downtime. This downtime is often worsened by a lack of skills to detect and resolve issues quickly. Generative AI offers a promising path to address this, but deploying these capabilities in industrial environments […]",
-    "published_iso": "2026-07-22T13:32:57+00:00",
-    "published_display": "2026-07-22",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/bcefd1915624",
@@ -4977,26 +4997,6 @@
     "summary": "As a member of the Infrastructure Security team, Cailyn set out to create an application to silently and effectively manage SSH keys that persist inside of Shopify's Google Cloud Platform project-wide metadata.",
     "published_iso": "2021-01-27T16:37:04+00:00",
     "published_display": "2021-01-27",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/using-graphql-for-high-performing-mobile-applications",
-    "blog_name": "Shopify Engineering",
-    "title": "Using GraphQL for High-Performing Mobile Applications",
-    "link": "https://shopify.engineering/using-graphql-for-high-performing-mobile-applications",
-    "summary": "",
-    "published_iso": "2021-01-22T21:29:18+00:00",
-    "published_display": "2021-01-22",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/apache-beam-for-search-getting-started-by-hacking-time",
-    "blog_name": "Shopify Engineering",
-    "title": "Apache Beam for Search: Getting Started by Hacking Time",
-    "link": "https://shopify.engineering/apache-beam-for-search-getting-started-by-hacking-time",
-    "summary": "",
-    "published_iso": "2021-01-08T15:00:01+00:00",
-    "published_display": "2021-01-08",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

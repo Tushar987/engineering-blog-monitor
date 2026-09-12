@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
+    "blog_name": "ByteByteGo",
+    "title": "EP225: Why Does Git Revert Cause Conflicts?",
+    "link": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
+    "summary": "git revert looks straightforward until it throws a conflict",
+    "published_iso": "2026-09-12T15:30:46+00:00",
+    "published_display": "2026-09-12",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
+    "blog_name": "ByteByteGo",
+    "title": "Learn Claude Code, evals, AI systems, and more: ByteByteGo Live is here",
+    "link": "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
+    "summary": "Most online courses never get finished (~4% completion). Live cohorts get ~40%, roughly 10x higher. Live courses are the only courses people actually finish. So we&#8217;re launching ByteByteGo Live.",
+    "published_iso": "2026-09-11T15:32:16+00:00",
+    "published_display": "2026-09-11",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "b3d811007dba109422cf57f9148a494b3144ee73",
+    "blog_name": "AWS Architecture Blog",
+    "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/",
+    "summary": "Combine zero-shot forecasting with Amazon Chronos2 and multi-agent orchestration on Amazon Bedrock AgentCore to turn demand forecasts into validated purchase orders. No per-product model training, with business rules, auditability, and cost that scales to zero.",
+    "published_iso": "2026-09-11T14:08:01+00:00",
+    "published_display": "2026-09-11",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01M283KZX4CC68X1GXQMAR2KMN",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing automatic remediation policies with Cloudflare CASB",
+    "link": "https://blog.cloudflare.com/casb-policies/",
+    "summary": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention.",
+    "published_iso": "2026-09-11T13:00:00+00:00",
+    "published_display": "2026-09-11",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "e80ba765852a275e648b3690d469ab3e875ece2e",
     "blog_name": "AWS Architecture Blog",
     "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
@@ -740,16 +780,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
-    "blog_name": "ByteByteGo",
-    "title": "EP222: What is Google’s TPU?",
-    "link": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
-    "summary": "A TPU (Tensor Processing Unit) is Google&#8217;s custom AI chip, designed from scratch for the giant matrix multiplications that modern models live on. GPUs were built for graphics first.",
-    "published_iso": "2026-08-15T15:30:49+00:00",
-    "published_display": "2026-08-15",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "01M005AFBW9P2YGZT4HH64D2BQ",
     "blog_name": "Cloudflare Blog",
     "title": "How Cloudflare detects MCP traffic and helps secure it",
@@ -798,16 +828,6 @@
     "published_iso": "2026-08-13T15:59:39+00:00",
     "published_display": "2026-08-13",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
-    "blog_name": "ByteByteGo",
-    "title": "A Detailed Guide to API Composition Techniques",
-    "link": "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
-    "summary": "In this article, we are going to dive deep into the area of the API composition problem and the patterns associated with it.",
-    "published_iso": "2026-08-13T15:30:27+00:00",
-    "published_display": "2026-08-13",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
@@ -880,16 +900,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "0706b8b494465b7b3b950573fddf1af92f4b7a12",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
-    "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/",
-    "summary": "Learn how to coordinate AI agents through shared state in Amazon S3 instead of a central orchestrator. Deploy and observe self-organizing agent clusters on Amazon EC2 with the open-source kiro-flock reference implementation.",
-    "published_iso": "2026-08-11T21:17:02+00:00",
-    "published_display": "2026-08-11",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "01KZQNDKFVX2ZXMBEHCJJHFH8N",
     "blog_name": "Cloudflare Blog",
     "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
@@ -946,16 +956,6 @@
     "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
     "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.",
     "published_iso": "2026-08-10T18:34:10+00:00",
-    "published_display": "2026-08-10",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "2qQZuefCfPJvVRRFrHQgKC",
-    "blog_name": "Cloudflare Blog",
-    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
-    "link": "https://blog.cloudflare.com/fedramp-class-d-certification/",
-    "summary": "Cloudflare for Government achieves FedRAMP Class D (High) Certified status. We also announce our commitment to pursue DoD IL4 authorization. Cloudflare brings world-class security, performance, and developer products to the public sector.",
-    "published_iso": "2026-08-10T13:00:00+00:00",
     "published_display": "2026-08-10",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },

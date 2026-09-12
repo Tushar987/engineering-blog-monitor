@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "b3d811007dba109422cf57f9148a494b3144ee73",
     "e80ba765852a275e648b3690d469ab3e875ece2e",
     "a0b33820c0272b6c8f5a55af98ae45e8da62656d",
     "a407526979b70b94a801af92b401656e5712788d",
@@ -59,6 +60,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
+    "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
     "https://blog.bytebytego.com/p/a-guide-to-application-networking",
     "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
     "https://blog.bytebytego.com/p/built-for-reliability-how-american",
@@ -132,6 +135,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M283KZX4CC68X1GXQMAR2KMN",
     "01M23Q2R3K11Z1TNGRS35GYWR6",
     "01M1WCCYXD65TK4WBQW6QVC79V",
     "01M1PVWQ383YJ6PFVFNJM3X122",
@@ -225,6 +229,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
     "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
     "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
     "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",

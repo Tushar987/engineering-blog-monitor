@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://medium.com/p/371316d43261",
+    "blog_name": "Airbnb Engineering",
+    "title": "Beyond the Model: Engineering AI Infra with Scientific Judgement",
+    "link": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+    "summary": "How Airbnb’s agent harness transforms unstructured data exploration by encoding scientific methodology into scalable, reproducible, and audit-ready infrastructure. Wren Dougherty Ask a coding agent to analyze 100,000 customer support conversations and within minutes you’ll have a polished taxonomy, precise prevalence numbers, and an executive-ready summary. What you can’t see is the investigation that produced them: the methods it chose, the evidence it weighed, how much to trust it, or whether ",
+    "published_iso": "2026-09-15T17:06:18+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
+    "blog_name": "ByteByteGo",
+    "title": "Do LLMs Have the Memory of a Goldfish?",
+    "link": "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
+    "summary": "In this article, we will learn how LLMs handle memory so that they are useful to end users in performing complex tasks that require conversation and holding context.",
+    "published_iso": "2026-09-15T15:31:12+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-09-15:Nail-the-Narrative",
+    "blog_name": "Martin Fowler",
+    "title": "Nail the Narrative",
+    "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+    "summary": "Sumeet Gayathri Moghe finds many folks building presentations get tangled in building slides without a coherent narrative. He advises distilling the big idea, visualizing the audience, and building a structured storyline. more…",
+    "published_iso": "2026-09-15T15:11:00+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M2H31EJKJWKFGC30ER2V5R9F",
+    "blog_name": "Cloudflare Blog",
+    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "summary": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+    "published_iso": "2026-09-15T13:00:00+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M2FPAD7MK0F8D9W7Z5HXH3MF",
+    "blog_name": "Cloudflare Blog",
+    "title": "Give every teammate and agent the right level of access to your Workers",
+    "link": "https://blog.cloudflare.com/workers-granular-authorization/",
+    "summary": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+    "published_iso": "2026-09-15T13:00:00+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
+    "blog_name": "Stripe Engineering",
+    "title": "What Stripe data shows about fraud at AI startups",
+    "link": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
+    "summary": "We analyzed attempted fraud rates and customer abuse patterns on Stripe over the past year and found that AI companies faced 4.3x more fraud attempts than startups overall in Q3 2025.",
+    "published_iso": "2026-09-15T00:00:00+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your",
+    "blog_name": "ByteByteGo",
+    "title": "LLMs as a Judge: How to Know if Your LLM is Healthy",
+    "link": "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your",
+    "summary": "In this article, we are going to look at the process of LLM evaluation in detail.",
+    "published_iso": "2026-09-14T15:31:02+00:00",
+    "published_display": "2026-09-14",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
     "blog_name": "ByteByteGo",
     "title": "EP225: Why Does Git Revert Cause Conflicts?",
@@ -542,7 +612,7 @@
   {
     "id": "01M0GEDGHWE8A801RQP25T1R91",
     "blog_name": "Cloudflare Blog",
-    "title": "Say it once: Introducing Bot Preference Sync",
+    "title": "Say it once: introducing Bot Preference Sync",
     "link": "https://blog.cloudflare.com/bot-preference-sync/",
     "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
     "published_iso": "2026-08-21T23:19:57+00:00",
@@ -710,16 +780,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
-    "blog_name": "ByteByteGo",
-    "title": "The New American AI Model Designed to be Customized",
-    "link": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
-    "summary": "In this article, we will work through the various choices Thinking Machines made while building Inkling.",
-    "published_iso": "2026-08-18T15:30:36+00:00",
-    "published_display": "2026-08-18",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "01M0ANY0TKGXDWAN9C58T3A1HR",
     "blog_name": "Cloudflare Blog",
     "title": "BGP Role model: tracking the adoption of RFC 9234",
@@ -748,16 +808,6 @@
     "published_iso": "2026-08-18T11:13:20+00:00",
     "published_display": "2026-08-18",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
-    "blog_name": "ByteByteGo",
-    "title": "Waymo vs Tesla: Two Ways to Build Self-Driving Cars",
-    "link": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
-    "summary": "In this article, we will take a look at both approaches.",
-    "published_iso": "2026-08-17T15:30:56+00:00",
-    "published_display": "2026-08-17",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
@@ -900,16 +950,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "01KZQNDKFVX2ZXMBEHCJJHFH8N",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
-    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
-    "summary": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts reshaped the global cyber threat landscape.",
-    "published_iso": "2026-08-11T13:00:00+00:00",
-    "published_display": "2026-08-11",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
     "blog_name": "Martin Fowler",
     "title": "TDD inside the agent loop - theater or actual value?",
@@ -948,16 +988,6 @@
     "published_iso": "2026-08-11T00:00:00+00:00",
     "published_display": "2026-08-11",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "01KZEF237MMZ9CHJ8RTKBA8G7A",
-    "blog_name": "Cloudflare Blog",
-    "title": "Everything we launched during Agents Week",
-    "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
-    "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.",
-    "published_iso": "2026-08-10T18:34:10+00:00",
-    "published_display": "2026-08-10",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/0f3468349607",
@@ -1540,16 +1570,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH",
-    "blog_name": "Stripe Engineering",
-    "title": "The future of agentic commerce is here",
-    "link": "https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH",
-    "summary": "Explore how AI agents are transforming commerce at Stripe’s Agentic Commerce Next roadshow. Reserve your spot in Seattle.",
-    "published_iso": "2026-06-04T00:00:00+00:00",
-    "published_display": "2026-06-04",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-june-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: June 4, 2026",
@@ -1620,16 +1640,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "tag:martinfowler.com,2026-05-27:The-VibeSec-Reckoning",
-    "blog_name": "Martin Fowler",
-    "title": "The VibeSec Reckoning",
-    "link": "https://martinfowler.com/articles/vibesec-reckoning.html",
-    "summary": "Vibe coding has significantly accelerated software prototyping but AI agents frequently recommend insecure configurations, creating security problems. Gautam Koul, Lucian Moss, Neil Drew-Lopez, and Daberechi Ruth Edeokoh share their experience while building applications for Thoughtworks's global marketing. They learned that to combat this we need to write a security context file to guide the AI, be cautious with AI permission requests, create a daily security intelligence feed, and provide buil",
-    "published_iso": "2026-05-27T14:03:00+00:00",
-    "published_display": "2026-05-27",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://discord.com/blog/making-it-easier-than-ever-to-connect-with-friends-in-league-val",
     "blog_name": "Discord Engineering",
     "title": "Making It Easier Than Ever to Connect with Friends in League & VAL!",
@@ -1638,16 +1648,6 @@
     "published_iso": "2026-05-21T00:00:00+00:00",
     "published_display": "2026-05-21",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/ebac467b7836",
-    "blog_name": "Airbnb Engineering",
-    "title": "Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure",
-    "link": "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb shifts from PaaS to an internal knowledge graph infrastructure at scale. By: Lucen Zhao , Shukun Yang , Ashish Jain Knowledge graphs offer a natural and powerful way to represent relationships between entities. Many real-world systems are fundamentally about connections. Airbnb’s identity graph captures relationships between users in a graph database. The identity graph serves aggregated insights that enable user identity resolution and relationship understanding. These capabilities s",
-    "published_iso": "2026-05-19T17:01:01+00:00",
-    "published_display": "2026-05-19",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",

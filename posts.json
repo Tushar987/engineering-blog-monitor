@@ -1,10 +1,30 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
+    "blog_name": "ByteByteGo",
+    "title": "How LLMs Can Find a Needle in a Haystack",
+    "link": "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
+    "summary": "In this article, we are going to look at how LLMs can find a needle in a haystack.",
+    "published_iso": "2026-09-16T15:31:42+00:00",
+    "published_display": "2026-09-16",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
+    "blog_name": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: Build with Claude Code",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
+    "summary": "We&#8217;re relaunching Build with Claude Code, a 2-day intensive cohort-based course taught by John Kim, who has trained hundreds of engineers at Meta to use Claude Code in real production workflows.",
+    "published_iso": "2026-09-15T19:31:01+00:00",
+    "published_display": "2026-09-15",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://medium.com/p/371316d43261",
     "blog_name": "Airbnb Engineering",
-    "title": "Beyond the Model: Engineering AI Infra with Scientific Judgement",
+    "title": "Beyond the model: Engineering AI infra with scientific judgement",
     "link": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb’s agent harness transforms unstructured data exploration by encoding scientific methodology into scalable, reproducible, and audit-ready infrastructure. Wren Dougherty Ask a coding agent to analyze 100,000 customer support conversations and within minutes you’ll have a polished taxonomy, precise prevalence numbers, and an executive-ready summary. What you can’t see is the investigation that produced them: the methods it chose, the evidence it weighed, how much to trust it, or whether ",
+    "summary": "How Airbnb’s agent harness transforms unstructured data exploration by encoding scientific methodology into scalable, reproducible, and audit-ready infrastructure. By : Wren Dougherty Ask a coding agent to analyze 100,000 customer support conversations and within minutes you’ll have a polished taxonomy, precise prevalence numbers, and an executive-ready summary. What you can’t see is the investigation that produced them: the methods it chose, the evidence it weighed, how much to trust it, or whe",
     "published_iso": "2026-09-15T17:06:18+00:00",
     "published_display": "2026-09-15",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
@@ -660,16 +680,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
-    "blog_name": "ByteByteGo",
-    "title": "Schema Evolution: Changing the Contract Without Breaking What Runs",
-    "link": "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
-    "summary": "In this article, we will look at schema evolution and strategies for the same.",
-    "published_iso": "2026-08-20T15:32:18+00:00",
-    "published_display": "2026-08-20",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "2f4c96e8ba05ad7c022ccf6b821c106a84683886",
     "blog_name": "AWS Architecture Blog",
     "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1",
@@ -728,16 +738,6 @@
     "published_iso": "2026-08-19T16:00:28+00:00",
     "published_display": "2026-08-19",
     "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
-    "blog_name": "ByteByteGo",
-    "title": "GraphRAG: How AI Answers Questions Hidden Across Many Documents",
-    "link": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
-    "summary": "GraphRAG was designed to handle the second kind of questions, and we are going to learn more about it in this article.",
-    "published_iso": "2026-08-19T15:31:18+00:00",
-    "published_display": "2026-08-19",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://shopify.engineering/gisting",

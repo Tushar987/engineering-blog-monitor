@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "18fb31673e9a618596a70ed20c79c1252c09e569",
+    "da8e6c6920600acd716de621ffe6449fd824abc7",
     "b3d811007dba109422cf57f9148a494b3144ee73",
     "e80ba765852a275e648b3690d469ab3e875ece2e",
     "a0b33820c0272b6c8f5a55af98ae45e8da62656d",
@@ -60,6 +62,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
     "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
     "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
@@ -139,6 +142,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M2KNF1C55YJDSSWYFA6ES3B6",
     "01M2H31EJKJWKFGC30ER2V5R9F",
     "01M2FPAD7MK0F8D9W7Z5HXH3MF",
     "01M283KZX4CC68X1GXQMAR2KMN",
@@ -235,6 +239,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
     "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
     "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
     "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
@@ -294,6 +299,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
     "https://discord.com/blog/discord-patch-notes-september-8-2026",
     "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
     "https://discord.com/blog/link-world-of-warcraft-with-discord",
@@ -446,6 +452,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "https://martinfowler.com/fragments/2026-09-16.html",
     "tag:martinfowler.com,2026-09-15:Nail-the-Narrative",
     "tag:martinfowler.com,2026-09-09:Social-Media-Engagement--summer-2026",
     "https://martinfowler.com/fragments/2026-09-08.html",
@@ -504,6 +512,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/8f1582578553",
     "https://medium.com/p/371316d43261",
     "https://medium.com/p/74f8b26653fb",
     "https://medium.com/p/c606b9bdb0ab",
@@ -756,6 +765,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
     "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
     "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
     "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",

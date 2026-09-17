@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://medium.com/p/8f1582578553",
+    "blog_name": "Airbnb Engineering",
+    "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
+    "link": "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+    "summary": "How two new Chronon capabilities, Push Mode and NRT Model Transform, allows us to provide more relevant search results instantly as a guest explores, rather than waiting for the next batch run. By : Pengyu Hou , Yuli Han , Daochen Zha , Haozhen Ding , Xin Liu , Sophie Wang , Pallavi Adusumilli , Sherry Li , Henry Saputra , Chun How Tan , Huiji Gao , Yan Zhang , Stephanie Moyerman , Yi Li , and Sanjeev Katariya A guest’s interaction with Airbnb doesn’t pause to wait for a nightly batch job. Someo",
+    "published_iso": "2026-09-17T17:01:02+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
+    "blog_name": "ByteByteGo",
+    "title": "Migrations at Scale: Changing the Application Engine at 30,000 Feet",
+    "link": "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
+    "summary": "In this article, we will look at how migrations work at scale and the key strategies that can help make it as efficient as possible.",
+    "published_iso": "2026-09-17T15:31:04+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "18fb31673e9a618596a70ed20c79c1252c09e569",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Building cloud-native PACS on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
+    "summary": "A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cross-facility interoperability, and use Amazon S3 storage tiers to manage cost and retention at scale.",
+    "published_iso": "2026-09-17T15:21:06+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "da8e6c6920600acd716de621ffe6449fd824abc7",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
+    "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/",
+    "summary": "Learn how DHI Group partnered with AWS to move generative AI workloads from idea to production using a structured hackathon. This post covers the Hackathon Acceleration Package, the winning ClearanceJobs and AgileATS agentic architecture on Amazon Bedrock AgentCore, and the principles that make hackathons a repeatable path to production.",
+    "published_iso": "2026-09-17T15:13:42+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "blog_name": "Martin Fowler",
+    "title": "I don't like LLMs",
+    "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand, I’m fearful of the damage AI might cause: agent swarms taking over our virtual and physical infrastructure, designing bio weapons. But, back on my first hand, LLMs might also design miracle cures, and come up with clever ways to raise our prosperity. Fundamentally I don’t think",
+    "published_iso": "2026-09-17T13:50:00+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
+    "blog_name": "Stripe Engineering",
+    "title": "SaaS platforms are surging despite the SaaSpocalypse",
+    "link": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
+    "summary": "The SaaSpocalypse was a useful warning for the software industry, but SaaS platforms that help businesses run core operations are more deeply embedded. New platform businesses on Stripe are up 182% year over year.",
+    "published_iso": "2026-09-17T00:00:00+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "01M2KNF1C55YJDSSWYFA6ES3B6",
+    "blog_name": "Cloudflare Blog",
+    "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+    "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+    "summary": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
+    "published_iso": "2026-09-16T20:06:17+00:00",
+    "published_display": "2026-09-16",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-09-16.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: September 16",
+    "link": "https://martinfowler.com/fragments/2026-09-16.html",
+    "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previously attacked RubyGems. They knew about the attack on RubyGems and made the decision not to reach out to the RubyGems team about it. Both of these are bad! Given this incident, the Hugging Face situa",
+    "published_iso": "2026-09-16T20:05:00+00:00",
+    "published_display": "2026-09-16",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
     "blog_name": "ByteByteGo",
     "title": "How LLMs Can Find a Needle in a Haystack",
@@ -8,6 +88,16 @@
     "published_iso": "2026-09-16T15:31:42+00:00",
     "published_display": "2026-09-16",
     "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
+    "blog_name": "Discord Engineering",
+    "title": "Adding the Discord Updates YOU Want to See",
+    "link": "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
+    "summary": "For Discord’s birthday, we wanted to celebrate YOU, so we asked you what you wanted to see… and we cooked up new things that you all asked for!",
+    "published_iso": "2026-09-16T00:00:00+00:00",
+    "published_display": "2026-09-16",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
@@ -620,16 +710,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
-    "blog_name": "ByteByteGo",
-    "title": "EP223: Ollama vs vLLM vs SGLang",
-    "link": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
-    "summary": "To use open-weight models on your machine, you have three main options: Ollama, vLLM, and SGLang. But each engine handles requests differently.",
-    "published_iso": "2026-08-22T15:31:34+00:00",
-    "published_display": "2026-08-22",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "01M0GEDGHWE8A801RQP25T1R91",
     "blog_name": "Cloudflare Blog",
     "title": "Say it once: introducing Bot Preference Sync",
@@ -886,36 +966,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/",
     "summary": "Learn three strategies for achieving disaster recovery while meeting data residency requirements. Ranging from encryption-based controls on multi-Region replication to fully in-country architectures, these patterns help you balance recovery objectives with regulatory constraints.",
     "published_iso": "2026-08-13T14:05:39+00:00",
-    "published_display": "2026-08-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01KZQPY0C41XKPVZ5HRG3E1ZK3",
-    "blog_name": "Cloudflare Blog",
-    "title": "Certificate Transparency Monitoring is now generally available",
-    "link": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
-    "summary": "Cloudflare's Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it's worth a look.",
-    "published_iso": "2026-08-13T13:00:00+00:00",
-    "published_display": "2026-08-13",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "8a7d04cae66e4cde2c7aba45db9d4c60b5230e93",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Reducing Text2SQL latency with parameterized query templates",
-    "link": "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates/",
-    "summary": "Learn how parameterized query templates reduced Text2SQL latency by 80% and cut token consumption by over 50%. This post covers the architecture behind an intelligent caching layer that uses semantic similarity to match user questions to SQL templates, bypassing expensive LLM calls.",
-    "published_iso": "2026-08-13T00:40:32+00:00",
-    "published_display": "2026-08-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "67bab42fa08b0b21ed88fba69f07f953ea642f5f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
-    "link": "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus/",
-    "summary": "Learn how Adobe Firefly achieved 28x faster GPU metric queries by migrating from self-managed Prometheus to Amazon Managed Service for Prometheus, with improvements in query performance, infrastructure reliability, and operational efficiency.",
-    "published_iso": "2026-08-13T00:14:19+00:00",
     "published_display": "2026-08-13",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
@@ -1560,16 +1610,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue",
-    "blog_name": "Stripe Engineering",
-    "title": "New ways to turn global demand into revenue",
-    "link": "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue",
-    "summary": "At Sessions 2026, Stripe unveiled dozens of products and capabilities to help businesses turn global demand into revenue. See how to go global faster with localized checkout and Adaptive Pricing, smarter fraud tools, multicurrency treasury support, and automated tax compliance.",
-    "published_iso": "2026-06-04T00:00:00+00:00",
-    "published_display": "2026-06-04",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-june-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: June 4, 2026",
@@ -1578,26 +1618,6 @@
     "published_iso": "2026-06-04T00:00:00+00:00",
     "published_display": "2026-06-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/915a72b91b5c",
-    "blog_name": "Airbnb Engineering",
-    "title": "When history fails you, borrow from geography",
-    "link": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb used sequential geographic recovery signals and prior propagation to generate reliable corridor-level forecasts when local data was scarce. By: Harrison Katz The problem with unprecedented shocks Almost every forecasting system is built on the same implicit assumption: the future will resemble the past. You train on historical data, you validate on holdout periods, and you trust that past patterns will at least roughly indicate future performance. When this assumption breaks, the mode",
-    "published_iso": "2026-06-02T17:01:04+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-06-02.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: June  2",
-    "link": "https://martinfowler.com/fragments/2026-06-02.html",
-    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity , any metrics are ",
-    "published_iso": "2026-06-02T15:21:00+00:00",
-    "published_display": "2026-06-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://slack.engineering/?p=17812",
@@ -1628,16 +1648,6 @@
     "published_iso": "2026-05-28T00:00:00+00:00",
     "published_display": "2026-05-28",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-05-27:The-test-suite-as-a-regression-sensor",
-    "blog_name": "Martin Fowler",
-    "title": "The test suite as a regression sensor",
-    "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
-    "summary": "Birgitta B&#xf6;ckeler finishes her post on sensors for coding agents by examining the role of a test suite as a regression sensor, focusing on the role mutation testing can play. more…",
-    "published_iso": "2026-05-27T15:01:00+00:00",
-    "published_display": "2026-05-27",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/making-it-easier-than-ever-to-connect-with-friends-in-league-val",
@@ -2767,16 +2777,6 @@
     "summary": "With all the new video game adaptations coming out in April, we’re asking Veronica, Cody, and Emi what their favorite ones have been so far and which games deserve a great adaptation that has yet to come.",
     "published_iso": "2025-04-02T00:00:00+00:00",
     "published_display": "2025-04-02",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/the-last-meadow",
-    "blog_name": "Discord Engineering",
-    "title": "MAJOR NEWS: DISCORD ANNOUNCES ITS FIRST IN-HOUSE AAAA VIDEO GAME, “THE LAST MEADOW”",
-    "link": "https://discord.com/blog/the-last-meadow",
-    "summary": "Discord’s new in-house studio Big Wump Games announces its first release: The Last Meadow. Available from April 1 to April 7, 2025 exclusively on Discord.",
-    "published_iso": "2025-04-01T00:00:00+00:00",
-    "published_display": "2025-04-01",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

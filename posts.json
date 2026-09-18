@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://medium.com/p/67a85b15b6be",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Leave the Class Path in the Rearview Mirror",
+    "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+    "summary": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier than ever to start a Java program and evolve it using the full language and platform. At the end of that on-ramp lies Java’s mature build and dependency management ecosystem, capable of carrying software to enormous scale and complexity. That ecosystem reached its maturity by deve",
+    "published_iso": "2026-09-18T16:01:02+00:00",
+    "published_display": "2026-09-18",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "b39eaaf3888a3d0bda8d6b3ca86f328b3e6e56af",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/",
+    "summary": "Learn how researchers at CSIRO, Australia's national science agency, built Serverless Beacon (sBeacon), a scalable serverless solution for securely querying genomic variant data on AWS. sBeacon implements the GA4GH Beacon standard using Amazon S3, AWS Lambda, Amazon DynamoDB, and Amazon Athena to support production-scale clinical and research applications.",
+    "published_iso": "2026-09-18T14:35:42+00:00",
+    "published_display": "2026-09-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
+    "blog_name": "Stripe Engineering",
+    "title": "Analyzing rising fraud attempts among travel and leisure businesses on Stripe",
+    "link": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
+    "summary": "Last year, Stripe data shows fraud attempts against travel and leisure businesses hit a four-year high. We analyzed payment activity from more than 200,000 active travel and leisure businesses on Stripe to understand where fraud is rising, how effectively it’s being blocked, and what businesses can do in response.",
+    "published_iso": "2026-09-18T00:00:00+00:00",
+    "published_display": "2026-09-18",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "abde72628d20a0fb06d89f38a8faa222bb07078f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
+    "summary": "Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its self-managed Kubernetes environment. Learn how a multi-account North Star architecture centralized governance and shared services, delivering 4x faster deployments and 40% less operational overhead.",
+    "published_iso": "2026-09-17T18:00:56+00:00",
+    "published_display": "2026-09-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://medium.com/p/8f1582578553",
     "blog_name": "Airbnb Engineering",
     "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
@@ -950,26 +990,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "e822b084e9cc7b47a22fb7752cbf000178be53f4",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Track generative AI costs with Amazon Bedrock inference profiles",
-    "link": "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/",
-    "summary": "Learn how to track generative AI costs by department using Amazon Bedrock application inference profiles and AWS cost allocation tags. Create tagged profiles for each team and view per-department cost breakdowns in AWS Cost Explorer.",
-    "published_iso": "2026-08-13T15:59:39+00:00",
-    "published_display": "2026-08-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "ed65227b16072aeb250a95acd37bde6bbfe2be7e",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Recovery strategies to meet data residency requirements",
-    "link": "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/",
-    "summary": "Learn three strategies for achieving disaster recovery while meeting data residency requirements. Ranging from encryption-based controls on multi-Region replication to fully in-country architectures, these patterns help you balance recovery objectives with regulatory constraints.",
-    "published_iso": "2026-08-13T14:05:39+00:00",
-    "published_display": "2026-08-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://shopify.engineering/mobile-e2e-testing",
     "blog_name": "Shopify Engineering",
     "title": "How we raised mobile end-to-end test stability to 98%",
@@ -1450,16 +1470,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://medium.com/p/87860682629c",
-    "blog_name": "Netflix Tech Blog",
-    "title": "How Netflix Simplified Batch Compute with Kueue",
-    "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
-    "summary": "By Alvin Bao , Alex Petrov , Jennifer Lai , Aidan Sherr , and Samartha Chandrashekar As a part of the journey to transition Netflix’s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the Kubernetes ecosystem into our container platform Titus . One example of this is our use of Kueue , a cloud-native job queueing system for batch workloads, which has largely replaced the custom queuing and scheduling logic in our homegrown managed batch soluti",
-    "published_iso": "2026-06-22T21:35:01+00:00",
-    "published_display": "2026-06-22",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
     "blog_name": "Stripe Engineering",
     "title": "What Link data tells us about AI spending",
@@ -1528,16 +1538,6 @@
     "published_iso": "2026-06-11T14:15:28+00:00",
     "published_display": "2026-06-11",
     "feed_url": "https://slack.engineering/feed/"
-  },
-  {
-    "id": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
-    "blog_name": "Stripe Engineering",
-    "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
-    "link": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
-    "summary": "Our data shows that agents are now fully capable of independently writing code and integrating with APIs like Stripe’s. And yet, many of the steps adjacent to writing code are still too hard for agents to do on their own. We’re expanding Stripe Projects to solve this.",
-    "published_iso": "2026-06-11T00:00:00+00:00",
-    "published_display": "2026-06-11",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://shopify.engineering/quick",

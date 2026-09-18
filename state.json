@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "b39eaaf3888a3d0bda8d6b3ca86f328b3e6e56af",
+    "abde72628d20a0fb06d89f38a8faa222bb07078f",
     "18fb31673e9a618596a70ed20c79c1252c09e569",
     "da8e6c6920600acd716de621ffe6449fd824abc7",
     "b3d811007dba109422cf57f9148a494b3144ee73",
@@ -239,11 +241,12 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
     "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
     "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
     "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
-    "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
     "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+    "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
     "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
     "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
     "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
@@ -532,6 +535,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/67a85b15b6be",
     "https://medium.com/p/32f96320785e",
     "https://medium.com/p/e9f6a1b1492b",
     "https://medium.com/p/0f3468349607",
@@ -765,6 +769,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
     "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
     "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
     "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",

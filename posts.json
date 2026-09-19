@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
+    "blog_name": "ByteByteGo",
+    "title": "EP226: API Concepts Every Software Engineer Should Know",
+    "link": "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
+    "summary": "Sending a request and reading JSON is one thing. Designing an API that other people can rely on is something where things get complicated.",
+    "published_iso": "2026-09-19T15:31:06+00:00",
+    "published_display": "2026-09-19",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "5cff745f1ebd06700755b840670b97f00bff9d5b",
+    "blog_name": "AWS Architecture Blog",
+    "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/",
+    "summary": "ReadyOn runs a multi-tenant platform on Amazon EKS that handles highly sensitive enterprise data. This post describes their Four Walls model: four independent layers of tenant isolation combining Kubernetes namespaces, Karpenter node pools, Amazon VPC security groups, and per-tenant Amazon Aurora databases for zero-trust defense in depth.",
+    "published_iso": "2026-09-18T21:33:13+00:00",
+    "published_display": "2026-09-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01M2PG0CV1HQN5RRFVQ49YYMWY",
+    "blog_name": "Cloudflare Blog",
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "summary": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.",
+    "published_iso": "2026-09-18T17:23:58+00:00",
+    "published_display": "2026-09-18",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://medium.com/p/67a85b15b6be",
     "blog_name": "Netflix Tech Blog",
     "title": "Leave the Class Path in the Rearview Mirror",
@@ -720,16 +750,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
-    "blog_name": "ByteByteGo",
-    "title": "Why Code Verification Matters More Than Ever in the Age of AI",
-    "link": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
-    "summary": "In this article, we will look at how code verification works, why the rise of AI-generated code puts more pressure on it, along with the extremely useful insights from Andrea on what the future may look like.",
-    "published_iso": "2026-08-24T15:31:01+00:00",
-    "published_display": "2026-08-24",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-08-24.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: August 24",
@@ -967,26 +987,6 @@
     "summary": "Introducing Cloudflare Access for Workers. Attach an Access policy directly to a Worker and it applies everywhere that Worker runs — routes, custom domains, workers.dev, and previews — automatically.",
     "published_iso": "2026-08-14T13:00:00+00:00",
     "published_display": "2026-08-14",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "8aedd5f999cd02a2d1d7d07ca7fdf572137781cf",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Serverless vehicle tracking at scale: Bosch L.OS on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws/",
-    "summary": "Learn how Bosch Mobility Platform Solutions built L.OS, a serverless vehicle tracking platform on AWS that unifies India's fragmented spot logistics market into a single real-time visibility layer using Amazon ECS, AWS Lambda, and Amazon MSK.",
-    "published_iso": "2026-08-14T10:02:13+00:00",
-    "published_display": "2026-08-14",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01KZY9EY62FCNTTQG8TX7R4GWK",
-    "blog_name": "Cloudflare Blog",
-    "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
-    "link": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
-    "summary": "Cloudflare's data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.",
-    "published_iso": "2026-08-13T19:58:01+00:00",
-    "published_display": "2026-08-13",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {

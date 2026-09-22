@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
+    "blog_name": "ByteByteGo",
+    "title": "How OpenAI Built GPT-Live",
+    "link": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
+    "summary": "To understand how it all works end to end, we met with engineers on the GPT Voice team, Zahan Malkani and Justin Uberti (who created WebRTC).",
+    "published_iso": "2026-09-22T15:32:06+00:00",
+    "published_display": "2026-09-22",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M34JJ73CQHS91WGFD6NM0X09",
+    "blog_name": "Cloudflare Blog",
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "link": "https://blog.cloudflare.com/vary-support/",
+    "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
+    "published_iso": "2026-09-22T14:04:31+00:00",
+    "published_display": "2026-09-22",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M31X3A04MPGJV1GB3JFSSSYM",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+    "link": "https://blog.cloudflare.com/worker-previews/",
+    "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
+    "published_iso": "2026-09-22T13:00:00+00:00",
+    "published_display": "2026-09-22",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
+    "blog_name": "Stripe Engineering",
+    "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
+    "link": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
+    "summary": "We analyzed billions of transactions on Stripe from January 2022 to March 2026 to understand how card fraud patterns differ by region and country, what's driving those differences, and how businesses can respond.",
+    "published_iso": "2026-09-22T00:00:00+00:00",
+    "published_display": "2026-09-22",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://shopify.engineering/helix",
+    "blog_name": "Shopify Engineering",
+    "title": "Helix: The internal tool powering our Shopify app's native migration",
+    "link": "https://shopify.engineering/helix",
+    "summary": "We built Helix to help LLMs rebuild the Shopify app in Swift and Kotlin, using small checkpoints and strict quality gates to keep the code shippable.",
+    "published_iso": "2026-09-21T21:12:33+00:00",
+    "published_display": "2026-09-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "https://engineering.fb.com/?p=24447",
     "blog_name": "Meta Engineering",
     "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
@@ -730,16 +780,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
-    "blog_name": "ByteByteGo",
-    "title": "How to Make LLMs 3X Faster",
-    "link": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
-    "summary": "In this article, we will look at how speculative decoding works.",
-    "published_iso": "2026-08-26T15:30:34+00:00",
-    "published_display": "2026-08-26",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/74f8b26653fb",
     "blog_name": "Airbnb Engineering",
     "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
@@ -950,16 +990,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "01M0ANY0TKGXDWAN9C58T3A1HR",
-    "blog_name": "Cloudflare Blog",
-    "title": "BGP Role model: tracking the adoption of RFC 9234",
-    "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
-    "summary": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
-    "published_iso": "2026-08-18T15:21:32+00:00",
-    "published_display": "2026-08-18",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-08-18.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: August 18",
@@ -998,16 +1028,6 @@
     "published_iso": "2026-08-17T00:00:00+00:00",
     "published_display": "2026-08-17",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "01M005AFBW9P2YGZT4HH64D2BQ",
-    "blog_name": "Cloudflare Blog",
-    "title": "How Cloudflare detects MCP traffic and helps secure it",
-    "link": "https://blog.cloudflare.com/mcp-security-updates/",
-    "summary": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network paths.",
-    "published_iso": "2026-08-14T13:12:12+00:00",
-    "published_display": "2026-08-14",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://shopify.engineering/mobile-e2e-testing",
@@ -1467,16 +1487,6 @@
     "summary": "More than 6,000 hospitality executives and operators gathered in San Antonio last week for the HITEC conference. The big topic: whether the industry’s AI investment is actually working. Across four days and over 50 meetings, four trends stood out.",
     "published_iso": "2026-06-23T00:00:00+00:00",
     "published_display": "2026-06-23",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
-    "blog_name": "Stripe Engineering",
-    "title": "What Link data tells us about AI spending",
-    "link": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
-    "summary": "We analyzed spending patterns across the 250 million customers paying with Link. We found that Link customers are spending more on AI than they were three months prior, investing heavily in platforms that let them build with AI.",
-    "published_iso": "2026-06-18T00:00:00+00:00",
-    "published_display": "2026-06-18",
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
@@ -4987,16 +4997,6 @@
     "summary": "",
     "published_iso": "2021-01-28T20:45:00+00:00",
     "published_display": "2021-01-28",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/managing-google-cloud-platform-project-wide-ssh-keys",
-    "blog_name": "Shopify Engineering",
-    "title": "Managing Google Cloud Platform Project-Wide SSH Keys",
-    "link": "https://shopify.engineering/managing-google-cloud-platform-project-wide-ssh-keys",
-    "summary": "As a member of the Infrastructure Security team, Cailyn set out to create an application to silently and effectively manage SSH keys that persist inside of Shopify's Google Cloud Platform project-wide metadata.",
-    "published_iso": "2021-01-27T16:37:04+00:00",
-    "published_display": "2021-01-27",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

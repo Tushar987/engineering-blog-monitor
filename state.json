@@ -65,6 +65,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
     "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
     "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
     "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
@@ -147,6 +148,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M34JJ73CQHS91WGFD6NM0X09",
+    "01M31X3A04MPGJV1GB3JFSSSYM",
     "01M2V3682PGT0BQZV5H15J7FSE",
     "01M2PG0CV1HQN5RRFVQ49YYMWY",
     "01M2KNF1C55YJDSSWYFA6ES3B6",
@@ -563,6 +566,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/helix",
     "https://shopify.engineering/shop-app-migration",
     "https://shopify.engineering/back-to-native",
     "https://shopify.engineering/river-vulnerability-remediation",
@@ -761,8 +765,7 @@
     "https://shopify.engineering/faster-trino-query-execution-verification-benchmarking-profiling",
     "https://shopify.engineering/debugging-systems-cloud-mysql-kubernetes-cgroups",
     "https://shopify.engineering/yjit-benchmarking-harness",
-    "https://shopify.engineering/yjit-faster-rubying",
-    "https://shopify.engineering/yjit-just-in-time-compiler-cruby"
+    "https://shopify.engineering/yjit-faster-rubying"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",
@@ -776,6 +779,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
     "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
     "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
     "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",

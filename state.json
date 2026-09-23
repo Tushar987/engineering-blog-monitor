@@ -65,6 +65,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
     "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
     "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
     "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
@@ -249,12 +250,14 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+    "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
     "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
     "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
     "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
     "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
-    "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
     "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+    "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
     "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
     "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
     "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
@@ -310,6 +313,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
     "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
     "https://discord.com/blog/discord-patch-notes-september-8-2026",
     "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",

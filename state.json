@@ -65,6 +65,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to",
     "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
     "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
     "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
@@ -149,6 +150,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M38DRFS3KYJZFDF0GNHZHXGF",
     "01M34JJ73CQHS91WGFD6NM0X09",
     "01M31X3A04MPGJV1GB3JFSSSYM",
     "01M2V3682PGT0BQZV5H15J7FSE",
@@ -250,6 +252,8 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+    "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
     "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
     "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
     "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
@@ -428,6 +432,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24499",
     "https://engineering.fb.com/?p=24447",
     "https://engineering.fb.com/?p=24485",
     "https://engineering.fb.com/?p=24463",
@@ -469,6 +474,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-09-24.html",
+    "tag:martinfowler.com,2026-09-24:Healthy-Feedback",
     "https://martinfowler.com/articles/2026-dont-like-llms.html",
     "https://martinfowler.com/fragments/2026-09-16.html",
     "tag:martinfowler.com,2026-09-15:Nail-the-Narrative",

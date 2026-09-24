@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://martinfowler.com/fragments/2026-09-24.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: September 24",
+    "link": "https://martinfowler.com/fragments/2026-09-24.html",
+    "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast. Cyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology. Too o",
+    "published_iso": "2026-09-24T15:35:00+00:00",
+    "published_display": "2026-09-24",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to",
+    "blog_name": "ByteByteGo",
+    "title": "The Life of Data: From Creation to Deletion",
+    "link": "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to",
+    "summary": "In this article, we are going to look at the entire data lifecycle from creation to deletion and the decisions that need to be taken at each step.",
+    "published_iso": "2026-09-24T15:31:06+00:00",
+    "published_display": "2026-09-24",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M38DRFS3KYJZFDF0GNHZHXGF",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "link": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+    "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.",
+    "published_iso": "2026-09-24T15:00:00+00:00",
+    "published_display": "2026-09-24",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-09-24:Healthy-Feedback",
+    "blog_name": "Martin Fowler",
+    "title": "Healthy Feedback",
+    "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+    "summary": "Human collaboration, like most things, improves with feedback. But it's not obvious how to make feedback effective. Anuja Karnik and Sumeet Gayathri Moghe pass on a bevy of tips for healthy feedback, based on the principle that both praise and criticism should be seen as positive. more…",
+    "published_iso": "2026-09-24T14:10:00+00:00",
+    "published_display": "2026-09-24",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24499",
+    "blog_name": "Meta Engineering",
+    "title": "Bringing Private Processing to Meta AI Glasses",
+    "link": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+    "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone. Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and [...] Read More... The post Bringing Private Processing to Meta AI Glasses appeared first on Engineering at Meta .",
+    "published_iso": "2026-09-24T00:00:00+00:00",
+    "published_display": "2026-09-24",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
     "blog_name": "ByteByteGo",
     "title": "How to Customize a Model to Learn New Tricks",
@@ -710,16 +760,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
-    "blog_name": "ByteByteGo",
-    "title": "What Happens Inside an AI Chatbot Between Enter and the First Word?",
-    "link": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
-    "summary": "In this article, we are going to look at this entire journey in detail.",
-    "published_iso": "2026-08-31T15:31:20+00:00",
-    "published_display": "2026-08-31",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "01M15GV7R8AFPM9KDM9HXDKJZ4",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
@@ -950,16 +990,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "01M00Y54SDH5EBZBFJ1FQZ2BX9",
-    "blog_name": "Cloudflare Blog",
-    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
-    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-    "summary": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare Workers.",
-    "published_iso": "2026-08-19T16:00:28+00:00",
-    "published_display": "2026-08-19",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/gisting",
     "blog_name": "Shopify Engineering",
     "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
@@ -1178,16 +1208,6 @@
     "published_iso": "2026-08-04T00:00:00+00:00",
     "published_display": "2026-08-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24167",
-    "blog_name": "Meta Engineering",
-    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
-    "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-    "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The post GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model appea",
-    "published_iso": "2026-08-03T18:00:17+00:00",
-    "published_display": "2026-08-03",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://medium.com/p/e7607acebde8",
@@ -1518,26 +1538,6 @@
     "published_iso": "2026-06-17T16:54:51+00:00",
     "published_display": "2026-06-17",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-06-16.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: June 16",
-    "link": "https://martinfowler.com/fragments/2026-06-16.html",
-    "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration sudde",
-    "published_iso": "2026-06-16T12:44:00+00:00",
-    "published_display": "2026-06-16",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-06-16:Building-Reliable-Agentic-AI-Systems",
-    "blog_name": "Martin Fowler",
-    "title": "Building Reliable Agentic AI Systems",
-    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "summary": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang Sanjay Kulkarni describes its evolution from keyword-based search to an intelligent research assistant capable of answering complex questions and drafting regulatory documents. more…",
-    "published_iso": "2026-06-16T12:11:00+00:00",
-    "published_display": "2026-06-16",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://shopify.engineering/sidekick-curation",

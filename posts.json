@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://medium.com/p/516d5a29b252",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+    "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+    "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your internal services actually check when they decide whether to answer a request. On infrastructure you build yourself, you can bootstrap your own identity however you like. On managed compute you cannot. The provider hands your process a cloud identi",
+    "published_iso": "2026-09-25T16:01:03+00:00",
+    "published_display": "2026-09-25",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
+    "blog_name": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: Rebuild YouTube with AI",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
+    "summary": "Rebuild YouTube with AI, taught by a former YouTube engineer, kicks off on Saturday, September 26. Enrollment closes in 24 hours.",
+    "published_iso": "2026-09-25T15:02:53+00:00",
+    "published_display": "2026-09-25",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M39NRWHQ3A97HJ70DRJS7VGM",
+    "blog_name": "Cloudflare Blog",
+    "title": "Agents can now set up your website’s security with Turnstile Spin",
+    "link": "https://blog.cloudflare.com/turnstile-spin/",
+    "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+    "published_iso": "2026-09-25T13:00:00+00:00",
+    "published_display": "2026-09-25",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://discord.com/blog/discord-update-september-25-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Update: September 25, 2026",
+    "link": "https://discord.com/blog/discord-update-september-25-2026",
+    "summary": "Here's the Discord Changelog from September 25, 2026, so you can stay informed on what’s new in recent app updates!",
+    "published_iso": "2026-09-25T00:00:00+00:00",
+    "published_display": "2026-09-25",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://martinfowler.com/fragments/2026-09-24.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: September 24",
@@ -720,16 +760,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
-    "blog_name": "ByteByteGo",
-    "title": "How to Shrink a Language Model Without Making it Too Dumb",
-    "link": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
-    "summary": "Models have grown roughly 100-fold in a few years, while consumer graphics memory has roughly doubled. It&#8217;s not just a matter of tightening things up to make them fit.",
-    "published_iso": "2026-09-01T15:30:41+00:00",
-    "published_display": "2026-09-01",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "5ebb77e9f17c34300792188df51307ba3c47c1bb",
     "blog_name": "AWS Architecture Blog",
     "title": "Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS",
@@ -928,16 +958,6 @@
     "published_iso": "2026-08-21T10:01:18+00:00",
     "published_display": "2026-08-21",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M0E1JC8D74SDDVJCVBVX8EFA",
-    "blog_name": "Cloudflare Blog",
-    "title": "From all-or-nothing to task-based OAuth consent",
-    "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
-    "summary": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
-    "published_iso": "2026-08-20T17:03:03+00:00",
-    "published_display": "2026-08-20",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "2f4c96e8ba05ad7c022ccf6b821c106a84683886",
@@ -1498,16 +1518,6 @@
     "published_iso": "2026-06-25T00:00:00+00:00",
     "published_display": "2026-06-25",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/eb8160ed60a2",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
-    "link": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
-    "summary": "By Zhuoning Yuan , Ta-Ying Cheng , Benjamin Klein , Bahareh Azarnoush Introduction At Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love. To connect stories with diverse audiences around the world, we produce promotional assets, including trailers, teasers, and social short‑form videos, that build on and elevate the original footage. Through close collaboration with the teams crafting these assets, we identifi",
-    "published_iso": "2026-06-23T00:31:01+00:00",
-    "published_display": "2026-06-23",
-    "feed_url": "https://netflixtechblog.com/feed"
   },
   {
     "id": "https://stripe.com/blog/trends-from-hitec",
@@ -2777,16 +2787,6 @@
     "summary": "First-of-its-kind gaming platform, World Reborn, launches an 8-week limited run to empower players toward real-life impact through brand-led missions.",
     "published_iso": "2025-04-08T00:00:00+00:00",
     "published_display": "2025-04-08",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/discord-patch-notes-april-3-2025",
-    "blog_name": "Discord Engineering",
-    "title": "Discord Patch Notes: April 3, 2025",
-    "link": "https://discord.com/blog/discord-patch-notes-april-3-2025",
-    "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
-    "published_iso": "2025-04-03T00:00:00+00:00",
-    "published_display": "2025-04-03",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

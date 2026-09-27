@@ -1,5 +1,15 @@
 [
   {
+    "id": "01M3G3YZB5SBBFF13TYNNPJ62E",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+    "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+    "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, sustainable future for the web.",
+    "published_iso": "2026-09-27T17:00:00+00:00",
+    "published_display": "2026-09-27",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev",
     "blog_name": "ByteByteGo",
     "title": "EP227: Top 9 Places to Use Jev",
@@ -918,16 +928,6 @@
     "published_iso": "2026-08-24T15:23:21+00:00",
     "published_display": "2026-08-24",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M0GEDGHWE8A801RQP25T1R91",
-    "blog_name": "Cloudflare Blog",
-    "title": "Say it once: introducing Bot Preference Sync",
-    "link": "https://blog.cloudflare.com/bot-preference-sync/",
-    "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
-    "published_iso": "2026-08-21T23:19:57+00:00",
-    "published_display": "2026-08-21",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "092b963484bd12ba804720ad012fb2e297b29bb7",

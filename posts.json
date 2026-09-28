@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
+    "blog_name": "ByteByteGo",
+    "title": "AI Agents Can Think. Now They Can Pay.",
+    "link": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
+    "summary": "I attended a MPP event at Stripe HQ, where I spoke with Emily Sands and Matt Schulman from Stripe, along with Brendan Ryan from Tempo.",
+    "published_iso": "2026-09-28T15:31:11+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M3AZRN7QXCG8CS98YQVRRM60",
+    "blog_name": "Cloudflare Blog",
+    "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+    "link": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+    "summary": "Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline.",
+    "published_iso": "2026-09-28T14:51:57+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3KR05M9ZET98RWX42EJ7YMG",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.",
+    "published_iso": "2026-09-28T14:50:37+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3CW0C8PVD170DBSKBTM8666",
+    "blog_name": "Cloudflare Blog",
+    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+    "link": "https://blog.cloudflare.com/how-fast-is-the-web/",
+    "summary": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance breakdowns across browsers and regions.",
+    "published_iso": "2026-09-28T14:43:05+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3JF3DKKQ5XNFGNAX8ZFJ833",
+    "blog_name": "Cloudflare Blog",
+    "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+    "link": "https://blog.cloudflare.com/voidzero-update/",
+    "summary": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here’s how we are building faster tools for developers and AI agents.",
+    "published_iso": "2026-09-28T13:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3J4F24CZJFAYS930VMKY6WH",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+    "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+    "summary": "Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync.",
+    "published_iso": "2026-09-28T13:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3D84K773S7FMQR5NBJQNFWC",
+    "blog_name": "Cloudflare Blog",
+    "title": "The road to the agentic browser: A Kitesurf update",
+    "link": "https://blog.cloudflare.com/kitesurf-update/",
+    "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster.",
+    "published_iso": "2026-09-28T13:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3D7BYYAG8E9BRD4A78X2A11",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
+    "link": "https://blog.cloudflare.com/introducing-the-cold-start/",
+    "summary": "Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to our VIP speakers dinner.",
+    "published_iso": "2026-09-28T13:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3D0TCHNJ5AZAV6G5YWHXSBZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+    "link": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+    "summary": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control.",
+    "published_iso": "2026-09-28T13:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3AJJ8KD2XWQ7A10RS71WEQ4",
+    "blog_name": "Cloudflare Blog",
+    "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+    "link": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
+    "summary": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming support for Tokio async.",
+    "published_iso": "2026-09-28T13:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
+    "blog_name": "Stripe Engineering",
+    "title": "Travel’s AI dilemma at Skift Global Forum",
+    "link": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
+    "summary": "At the “great recalibration”-themed travel conference, Airbnb CEO Brian Chesky called AI “an existential risk” to his company and “literally the best thing to ever happen” to it in the same discussion. That sums up many travel leaders’ push-and-pull relationship with AI.",
+    "published_iso": "2026-09-28T00:00:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
     "id": "01M3G3YZB5SBBFF13TYNNPJ62E",
     "blog_name": "Cloudflare Blog",
     "title": "Cloudflare’s 2026 Annual Founders’ Letter",
@@ -530,16 +640,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M23Q2R3K11Z1TNGRS35GYWR6",
-    "blog_name": "Cloudflare Blog",
-    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-    "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-    "summary": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
-    "published_iso": "2026-09-10T13:00:00+00:00",
-    "published_display": "2026-09-10",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/shop-app-migration",
     "blog_name": "Shopify Engineering",
     "title": "Migrating Shop app from React Native to native",
@@ -600,16 +700,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M1WCCYXD65TK4WBQW6QVC79V",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
-    "link": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
-    "summary": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.",
-    "published_iso": "2026-09-09T13:00:00+00:00",
-    "published_display": "2026-09-09",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
     "blog_name": "ByteByteGo",
     "title": "Built for Reliability: How American Express Processes Payments at Scale",
@@ -638,16 +728,6 @@
     "published_iso": "2026-09-08T13:42:00+00:00",
     "published_display": "2026-09-08",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "01M1PVWQ383YJ6PFVFNJM3X122",
-    "blog_name": "Cloudflare Blog",
-    "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-    "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-    "summary": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it.",
-    "published_iso": "2026-09-08T13:10:00+00:00",
-    "published_display": "2026-09-08",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-september-8-2026",
@@ -680,16 +760,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M1JE1CN6W3KJCTMCDZ6Y1M59",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
-    "link": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
-    "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
-    "published_iso": "2026-09-03T21:03:02+00:00",
-    "published_display": "2026-09-03",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24463",
     "blog_name": "Meta Engineering",
     "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
@@ -698,16 +768,6 @@
     "published_iso": "2026-09-03T16:00:20+00:00",
     "published_display": "2026-09-03",
     "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
-    "blog_name": "ByteByteGo",
-    "title": "How Databases Keep Their Sanity with Concurrency Control",
-    "link": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
-    "summary": "So how do we handle such bugs? This is what we are going to try to answer in this article.",
-    "published_iso": "2026-09-03T15:31:17+00:00",
-    "published_display": "2026-09-03",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
@@ -790,26 +850,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "01M1DAE3EH5FEG7RQMQD63A731",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
-    "link": "https://blog.cloudflare.com/cache-transcoding/",
-    "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
-    "published_iso": "2026-09-01T12:59:00+00:00",
-    "published_display": "2026-09-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M15GV7R8AFPM9KDM9HXDKJZ4",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
-    "link": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
-    "summary": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the meta-signals of live traffic and deploying disposable rules, making automated attacks too expensive to sustain.",
-    "published_iso": "2026-08-31T12:59:00+00:00",
-    "published_display": "2026-08-31",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://medium.com/p/32f96320785e",
     "blog_name": "Netflix Tech Blog",
     "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
@@ -818,26 +858,6 @@
     "published_iso": "2026-08-28T16:01:02+00:00",
     "published_display": "2026-08-28",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "01M0GDENDTZTAJ4BWXRH29NYBZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
-    "link": "https://blog.cloudflare.com/botbase-for-operators/",
-    "summary": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
-    "published_iso": "2026-08-28T12:59:44+00:00",
-    "published_display": "2026-08-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M11810QJGXPR0NHE510EFS6F",
-    "blog_name": "Cloudflare Blog",
-    "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-    "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-    "summary": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
-    "published_iso": "2026-08-27T17:02:35+00:00",
-    "published_display": "2026-08-27",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "tag:martinfowler.com,2026-08-27:Making-Your-Data-Ready-for-Agentic-AI",
@@ -878,16 +898,6 @@
     "published_iso": "2026-08-25T17:01:02+00:00",
     "published_display": "2026-08-25",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "01M0TDEVJZ66N7RGSKFA27M2WZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "The Cloudflare Blog — brought to you by EmDash",
-    "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
-    "summary": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
-    "published_iso": "2026-08-24T19:00:00+00:00",
-    "published_display": "2026-08-24",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://engineering.fb.com/?p=24399",
@@ -1518,16 +1528,6 @@
     "published_iso": "2026-06-25T00:00:00+00:00",
     "published_display": "2026-06-25",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://stripe.com/blog/trends-from-hitec",
-    "blog_name": "Stripe Engineering",
-    "title": "Four travel and hospitality trends from HITEC 2026",
-    "link": "https://stripe.com/blog/trends-from-hitec",
-    "summary": "More than 6,000 hospitality executives and operators gathered in San Antonio last week for the HITEC conference. The big topic: whether the industry’s AI investment is actually working. Across four days and over 50 meetings, four trends stood out.",
-    "published_iso": "2026-06-23T00:00:00+00:00",
-    "published_display": "2026-06-23",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://discord.com/blog/how-to-manage-your-discord-desktop-notifications",

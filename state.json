@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "2d4f20949930ea8c42f1d0725ce3a7ab8a17574e",
     "5cff745f1ebd06700755b840670b97f00bff9d5b",
     "b39eaaf3888a3d0bda8d6b3ca86f328b3e6e56af",
     "abde72628d20a0fb06d89f38a8faa222bb07078f",
@@ -65,6 +66,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-do-llms-lie",
     "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
     "https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
@@ -153,8 +155,17 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
-    "01M3AZRN7QXCG8CS98YQVRRM60",
+    "01M3NESWHMHMZYRDST3MNM46GJ",
+    "01M3NDPTPSCDWFTMFBHE9JAF51",
+    "01M3N44EM60WP9JA2PGE4ZS5YX",
+    "01M3MX1WMY7FQZXQH4QK6575ZF",
+    "01M3MTBRK8BVPBQW7H8PYZ32D4",
+    "01M3MS7574S6W13H4PAB4XT834",
+    "01M3MRVFZ0YWJMY67Q1E65J979",
+    "01M3B05E9MPC89J9MR8JZ7NDE2",
+    "01KXDH1HXQQK6WKDPTP4HR9A2V",
     "01M3KR05M9ZET98RWX42EJ7YMG",
+    "01M3AZRN7QXCG8CS98YQVRRM60",
     "01M3CW0C8PVD170DBSKBTM8666",
     "01M3JF3DKKQ5XNFGNAX8ZFJ833",
     "01M3J4F24CZJFAYS930VMKY6WH",
@@ -489,6 +500,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/bliki/SensibleDefault.html",
+    "https://martinfowler.com/fragments/2026-09-29.html",
     "https://martinfowler.com/fragments/2026-09-24.html",
     "tag:martinfowler.com,2026-09-24:Healthy-Feedback",
     "https://martinfowler.com/articles/2026-dont-like-llms.html",
@@ -551,6 +564,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/8e7891a1d486",
     "https://medium.com/p/8f1582578553",
     "https://medium.com/p/371316d43261",
     "https://medium.com/p/74f8b26653fb",
@@ -806,6 +820,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
     "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
     "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
     "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",

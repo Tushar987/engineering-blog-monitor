@@ -1,5 +1,165 @@
 [
   {
+    "id": "https://medium.com/p/8e7891a1d486",
+    "blog_name": "Airbnb Engineering",
+    "title": "Personalization without user identity",
+    "link": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+    "summary": "How Airbnb uses proximity signals to personalize without relying on individual user history. By : Wei Jiang , Bin Xu , Bharathi Thangamani , Weiwei Guo , Sundar Srinivasavaradhan , Tracy Yu , Huiji Gao , Swapnil Ghike , Michael Kinoti Great personalization starts with knowing your user. But what happens when the user is a stranger? A significant share of Airbnb users arrive without a login, without a recent search history, or without any prior booking — especially those landing from paid adverti",
+    "published_iso": "2026-09-29T17:01:01+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-do-llms-lie",
+    "blog_name": "ByteByteGo",
+    "title": "Why Do LLMs Lie?",
+    "link": "https://blog.bytebytego.com/p/why-do-llms-lie",
+    "summary": "In this article, we will look at why this problem of hallucinations happens with LLMs and the techniques that can help make LLMs more dependable for answering.",
+    "published_iso": "2026-09-29T15:31:36+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "2d4f20949930ea8c42f1d0725ce3a7ab8a17574e",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/",
+    "summary": "Learn how to build AI interfaces that automatically adapt to your agents' variable outputs, using the AG-UI protocol for dynamic UI generation, the Strands Agents SDK swarm pattern for explainable multi-agent collaboration, and Amazon Nova Act to integrate legacy systems that lack APIs.",
+    "published_iso": "2026-09-29T13:44:23+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://martinfowler.com/bliki/SensibleDefault.html",
+    "blog_name": "Martin Fowler",
+    "title": "Bliki: Sensible Default",
+    "link": "https://martinfowler.com/bliki/SensibleDefault.html",
+    "summary": "A Sensible Default is a practice that, absent some overriding context, should be used when carrying out a certain kind of task. In software development such sensible defaults might include things like “use version control”, “separate UI logic from domain logic”, “automate deployment pipelines”. The term “sensible default” is a deliberate contrast to “best practice”. Folks dislike calling things “best practice” because that term implies a general presumption that the best practice is something we",
+    "published_iso": "2026-09-29T13:43:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M3NESWHMHMZYRDST3MNM46GJ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Using AI to chart a course for our post-quantum migration",
+    "link": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+    "summary": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3NDPTPSCDWFTMFBHE9JAF51",
+    "blog_name": "Cloudflare Blog",
+    "title": "Building a certificate authority for the whole Internet",
+    "link": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+    "summary": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3N44EM60WP9JA2PGE4ZS5YX",
+    "blog_name": "Cloudflare Blog",
+    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+    "link": "https://blog.cloudflare.com/ai-era-framework/",
+    "summary": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3MX1WMY7FQZXQH4QK6575ZF",
+    "blog_name": "Cloudflare Blog",
+    "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+    "link": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+    "summary": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance at scale.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3MTBRK8BVPBQW7H8PYZ32D4",
+    "blog_name": "Cloudflare Blog",
+    "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+    "link": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+    "summary": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discovered detection gaps worth fixing. Here’s how the loop worked, what got through, and what we did about it.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3MS7574S6W13H4PAB4XT834",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+    "link": "https://blog.cloudflare.com/threat-signals/",
+    "summary": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3MRVFZ0YWJMY67Q1E65J979",
+    "blog_name": "Cloudflare Blog",
+    "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
+    "link": "https://blog.cloudflare.com/post-quantum-visibility/",
+    "summary": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3B05E9MPC89J9MR8JZ7NDE2",
+    "blog_name": "Cloudflare Blog",
+    "title": "Enforce positive security with Cloudflare Application Profiles",
+    "link": "https://blog.cloudflare.com/application-profiles/",
+    "summary": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KXDH1HXQQK6WKDPTP4HR9A2V",
+    "blog_name": "Cloudflare Blog",
+    "title": "Preventing quantum downgrade attacks against IPsec",
+    "link": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
+    "summary": "A sophisticated attacker with a quantum computer can exploit a protocol design flaw to downgrade post-quantum IPsec tunnels to classical crypto. We helped the IETF develop a transcript authentication extension to prevent these attacks.",
+    "published_iso": "2026-09-29T13:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-09-29.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: September 29",
+    "link": "https://martinfowler.com/fragments/2026-09-29.html",
+    "summary": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not easy to lea",
+    "published_iso": "2026-09-29T12:41:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
+    "blog_name": "Stripe Engineering",
+    "title": "Helping personal agents shop more intelligently and reliably with Link",
+    "link": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
+    "summary": "As agents take on more purchases, agent builders have increasingly asked us to help agents navigate checkout and earn consumer trust. Today, we’re sharing three major improvements to support this broader set of needs.",
+    "published_iso": "2026-09-29T00:00:00+00:00",
+    "published_display": "2026-09-29",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "01M3KR05M9ZET98RWX42EJ7YMG",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.",
+    "published_iso": "2026-09-28T15:50:00+00:00",
+    "published_display": "2026-09-28",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
     "blog_name": "ByteByteGo",
     "title": "AI Agents Can Think. Now They Can Pay.",
@@ -16,16 +176,6 @@
     "link": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
     "summary": "Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline.",
     "published_iso": "2026-09-28T14:51:57+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3KR05M9ZET98RWX42EJ7YMG",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-    "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.",
-    "published_iso": "2026-09-28T14:50:37+00:00",
     "published_display": "2026-09-28",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -190,16 +340,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M38DRFS3KYJZFDF0GNHZHXGF",
-    "blog_name": "Cloudflare Blog",
-    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-    "link": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-    "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.",
-    "published_iso": "2026-09-24T15:00:00+00:00",
-    "published_display": "2026-09-24",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-09-24:Healthy-Feedback",
     "blog_name": "Martin Fowler",
     "title": "Healthy Feedback",
@@ -238,26 +378,6 @@
     "published_iso": "2026-09-22T15:32:06+00:00",
     "published_display": "2026-09-22",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01M34JJ73CQHS91WGFD6NM0X09",
-    "blog_name": "Cloudflare Blog",
-    "title": "We just shipped support for the ugliest part of HTTP: Vary",
-    "link": "https://blog.cloudflare.com/vary-support/",
-    "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
-    "published_iso": "2026-09-22T14:04:31+00:00",
-    "published_display": "2026-09-22",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M31X3A04MPGJV1GB3JFSSSYM",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
-    "link": "https://blog.cloudflare.com/worker-previews/",
-    "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
-    "published_iso": "2026-09-22T13:00:00+00:00",
-    "published_display": "2026-09-22",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
@@ -310,16 +430,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M2V3682PGT0BQZV5H15J7FSE",
-    "blog_name": "Cloudflare Blog",
-    "title": "Python Workers are now generally available",
-    "link": "https://blog.cloudflare.com/python-workers-ga/",
-    "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code.",
-    "published_iso": "2026-09-21T13:00:00+00:00",
-    "published_display": "2026-09-21",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24485",
     "blog_name": "Meta Engineering",
     "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
@@ -348,16 +458,6 @@
     "published_iso": "2026-09-18T21:33:13+00:00",
     "published_display": "2026-09-18",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M2PG0CV1HQN5RRFVQ49YYMWY",
-    "blog_name": "Cloudflare Blog",
-    "title": "Saving another 100TB of RAM with math (and Rust)",
-    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "summary": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.",
-    "published_iso": "2026-09-18T17:23:58+00:00",
-    "published_display": "2026-09-18",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/67a85b15b6be",
@@ -460,16 +560,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "01M2KNF1C55YJDSSWYFA6ES3B6",
-    "blog_name": "Cloudflare Blog",
-    "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
-    "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
-    "summary": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
-    "published_iso": "2026-09-16T20:06:17+00:00",
-    "published_display": "2026-09-16",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-09-16.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: September 16",
@@ -540,26 +630,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "01M2H31EJKJWKFGC30ER2V5R9F",
-    "blog_name": "Cloudflare Blog",
-    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-    "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-    "summary": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
-    "published_iso": "2026-09-15T13:00:00+00:00",
-    "published_display": "2026-09-15",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M2FPAD7MK0F8D9W7Z5HXH3MF",
-    "blog_name": "Cloudflare Blog",
-    "title": "Give every teammate and agent the right level of access to your Workers",
-    "link": "https://blog.cloudflare.com/workers-granular-authorization/",
-    "summary": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
-    "published_iso": "2026-09-15T13:00:00+00:00",
-    "published_display": "2026-09-15",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
     "blog_name": "Stripe Engineering",
     "title": "What Stripe data shows about fraud at AI startups",
@@ -608,16 +678,6 @@
     "published_iso": "2026-09-11T14:08:01+00:00",
     "published_display": "2026-09-11",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M283KZX4CC68X1GXQMAR2KMN",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing automatic remediation policies with Cloudflare CASB",
-    "link": "https://blog.cloudflare.com/casb-policies/",
-    "summary": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention.",
-    "published_iso": "2026-09-11T13:00:00+00:00",
-    "published_display": "2026-09-11",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "e80ba765852a275e648b3690d469ab3e875ece2e",
@@ -747,16 +807,6 @@
     "summary": "Apart from normal processing, the application also sends data to a large language model (LLM). It then uses the model&#8217;s response to carry out a task.",
     "published_iso": "2026-09-07T15:31:35+00:00",
     "published_display": "2026-09-07",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
-    "blog_name": "ByteByteGo",
-    "title": "EP224: MCP vs RAG vs AI Agents",
-    "link": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
-    "summary": "An AI agent is kind of an AI system where the agent performs the task autonomously and takes the decisions.",
-    "published_iso": "2026-09-05T15:30:58+00:00",
-    "published_display": "2026-09-05",
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
@@ -1070,16 +1120,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "7849f6dd4756b52e47e36f73e05ce3d50161e20f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Consistency is the new latency: AI at the data layer",
-    "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/",
-    "summary": "As AI agents move from chatbots to taking action, their reliability depends on the consistency of the data layer beneath them. This post examines how replication lag poisons an agent's context and shows how to match Amazon Aurora, Amazon DynamoDB, and Amazon Keyspaces replication models to each task's consistency requirements.",
-    "published_iso": "2026-08-18T11:13:20+00:00",
-    "published_display": "2026-08-18",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
     "blog_name": "Stripe Engineering",
     "title": "New currency capabilities for global businesses to cut FX costs",
@@ -1350,16 +1390,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
-    "blog_name": "Stripe Engineering",
-    "title": "Analyzing the evidence that helps businesses win “product not received” disputes",
-    "link": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
-    "summary": "To understand what can influence win rates, we analyzed evidence packets from one million disputes over a 16-week period. Here’s what the data shows and what it means for how you mitigate disputes.",
-    "published_iso": "2026-07-21T00:00:00+00:00",
-    "published_display": "2026-07-21",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://medium.com/p/a5a8e799ea2c",
     "blog_name": "Netflix Tech Blog",
     "title": "In-House LLM Serving at Netflix",
@@ -1460,16 +1490,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "tag:martinfowler.com,2026-07-07:Viability-of-local-models-for-coding",
-    "blog_name": "Martin Fowler",
-    "title": "Viability of local models for coding",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
-    "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
-    "published_iso": "2026-07-07T12:34:00+00:00",
-    "published_display": "2026-07-07",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-july-7-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: July 7, 2026",
@@ -1478,16 +1498,6 @@
     "published_iso": "2026-07-07T00:00:00+00:00",
     "published_display": "2026-07-07",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-07-06.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: July  6",
-    "link": "https://martinfowler.com/fragments/2026-07-06.html",
-    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat , this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I could, at best, only attend ⅕ of sessions. This isn’t an event that forms conclusions, rather one that allows those exploring to share what they’ve found, and their visions for the future. The bliki post lists all the writing I’ve run into on this, by myself and others. I’ll be upda",
-    "published_iso": "2026-07-06T12:53:00+00:00",
-    "published_display": "2026-07-06",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr",
@@ -1628,16 +1638,6 @@
     "published_iso": "2026-06-08T00:00:00+00:00",
     "published_display": "2026-06-08",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/b7e00c152068",
-    "blog_name": "Airbnb Engineering",
-    "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
-    "link": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb built a Kubernetes sidecar to deliver dynamic configuration reliably at scale. By : Bo Teng , Cosmo Qiu , Siyuan Zhou , Ankur Soni , Xin Huang , Willis Harvey Introduction In our previous post , we explored Airbnb’s dynamic configuration system, Sitar, with a focus on service architecture and configuration change safety. Now for the harder question: once a config change is committed, which happens several times each minute, how does it actually reach the thousands of Airbnb’s service ",
-    "published_iso": "2026-06-04T17:01:04+00:00",
-    "published_display": "2026-06-04",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-june-4-2026",

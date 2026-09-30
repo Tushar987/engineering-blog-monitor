@@ -66,6 +66,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
     "https://blog.bytebytego.com/p/why-do-llms-lie",
     "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
     "https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev",
@@ -155,6 +156,15 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M3RVQ97H21055GVJRNRSNH97",
+    "01M3QZKAM72WCF4RKVH06BKQYZ",
+    "01M3QYT7CXBGJWT89M2NJE3DPH",
+    "01M3QWRKWVNFA0DF9FYY3RTFKV",
+    "01M3QKBTCVGSPDD7VHVA777Q74",
+    "01M3Q8WH85THBJED6145W6NR6Y",
+    "01M3AZ7A42599J7AVPSGKJKD04",
+    "01M3RXHW8HAZ70SW0D1ANC4CVT",
+    "01M3Q403X7R4RSZ8DY9C27CPWB",
     "01M3NESWHMHMZYRDST3MNM46GJ",
     "01M3NDPTPSCDWFTMFBHE9JAF51",
     "01M3N44EM60WP9JA2PGE4ZS5YX",
@@ -277,8 +287,9 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+    "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
     "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+    "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
     "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
     "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
     "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
@@ -500,6 +511,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
     "https://martinfowler.com/bliki/SensibleDefault.html",
     "https://martinfowler.com/fragments/2026-09-29.html",
     "https://martinfowler.com/fragments/2026-09-24.html",
@@ -820,6 +832,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/ousd-now-live-on-stripe",
     "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
     "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
     "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",

@@ -1,5 +1,125 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
+    "blog_name": "ByteByteGo",
+    "title": "How DoorDash Built a Toolbox for AI Agents",
+    "link": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
+    "summary": "In this article, we will look at how the DoorDash engineering team built this gateway and the decisions they made.",
+    "published_iso": "2026-09-30T15:31:13+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
+    "blog_name": "Martin Fowler",
+    "title": "Principles for effective slides",
+    "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+    "summary": "Not every presentation needs slides, but when they earn their place, they work as a visual channel that complements the speaker rather than replacing them. Sumeet Gayathri Moghe sets out the principles that follow from that idea &#x2014; control over the rate of knowledge exposition, tight coupling between slides and speaker, minimalism by default, visuals that say more than words can, and never sending your slides out in advance. more…",
+    "published_iso": "2026-09-30T14:14:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M3RVQ97H21055GVJRNRSNH97",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare Impact reaches $100 million in donations",
+    "link": "https://blog.cloudflare.com/100-million-donations/",
+    "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks.",
+    "published_iso": "2026-09-30T13:01:55+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3QZKAM72WCF4RKVH06BKQYZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cut your AI spend with AI Gateway's Auto Router",
+    "link": "https://blog.cloudflare.com/auto-router/",
+    "summary": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut AI spend while maintaining performance.",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3QYT7CXBGJWT89M2NJE3DPH",
+    "blog_name": "Cloudflare Blog",
+    "title": "Detect and send production issues straight to your agent",
+    "link": "https://blog.cloudflare.com/real-time-issue-detection/",
+    "summary": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3QWRKWVNFA0DF9FYY3RTFKV",
+    "blog_name": "Cloudflare Blog",
+    "title": "Simplifying domains for people and agents",
+    "link": "https://blog.cloudflare.com/simplifying-domains/",
+    "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3QKBTCVGSPDD7VHVA777Q74",
+    "blog_name": "Cloudflare Blog",
+    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+    "link": "https://blog.cloudflare.com/monetization-gateway-beta/",
+    "summary": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3Q8WH85THBJED6145W6NR6Y",
+    "blog_name": "Cloudflare Blog",
+    "title": "Pay Per Use: when AI uses your work, you should get paid",
+    "link": "https://blog.cloudflare.com/pay-per-use/",
+    "summary": "Pay Per Use is now in beta. AI companies report when they use publishers’ content, and Cloudflare handles billing, payouts, and reporting, so our customers are paid according to use.",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3AZ7A42599J7AVPSGKJKD04",
+    "blog_name": "Cloudflare Blog",
+    "title": "Identify AI model overuse with User Insights",
+    "link": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+    "summary": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users.",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3RXHW8HAZ70SW0D1ANC4CVT",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+    "link": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+    "summary": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object.",
+    "published_iso": "2026-09-30T12:58:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3Q403X7R4RSZ8DY9C27CPWB",
+    "blog_name": "Cloudflare Blog",
+    "title": "The Internet has a second audience",
+    "link": "https://blog.cloudflare.com/agentic-web/",
+    "summary": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access.",
+    "published_iso": "2026-09-30T12:58:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/ousd-now-live-on-stripe",
+    "blog_name": "Stripe Engineering",
+    "title": "OUSD is now the default stablecoin on Stripe",
+    "link": "https://stripe.com/blog/ousd-now-live-on-stripe",
+    "summary": "Open USD (OUSD), a stablecoin built for global money movement, is now available across Stripe. Businesses can use OUSD to manage funds, make payments, and offer new financial services.",
+    "published_iso": "2026-09-30T00:00:00+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
     "id": "https://medium.com/p/8e7891a1d486",
     "blog_name": "Airbnb Engineering",
     "title": "Personalization without user identity",
@@ -180,76 +300,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3CW0C8PVD170DBSKBTM8666",
-    "blog_name": "Cloudflare Blog",
-    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
-    "link": "https://blog.cloudflare.com/how-fast-is-the-web/",
-    "summary": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance breakdowns across browsers and regions.",
-    "published_iso": "2026-09-28T14:43:05+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3JF3DKKQ5XNFGNAX8ZFJ833",
-    "blog_name": "Cloudflare Blog",
-    "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
-    "link": "https://blog.cloudflare.com/voidzero-update/",
-    "summary": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here’s how we are building faster tools for developers and AI agents.",
-    "published_iso": "2026-09-28T13:00:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3J4F24CZJFAYS930VMKY6WH",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
-    "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
-    "summary": "Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync.",
-    "published_iso": "2026-09-28T13:00:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3D84K773S7FMQR5NBJQNFWC",
-    "blog_name": "Cloudflare Blog",
-    "title": "The road to the agentic browser: A Kitesurf update",
-    "link": "https://blog.cloudflare.com/kitesurf-update/",
-    "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster.",
-    "published_iso": "2026-09-28T13:00:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3D7BYYAG8E9BRD4A78X2A11",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
-    "link": "https://blog.cloudflare.com/introducing-the-cold-start/",
-    "summary": "Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to our VIP speakers dinner.",
-    "published_iso": "2026-09-28T13:00:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3D0TCHNJ5AZAV6G5YWHXSBZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
-    "link": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
-    "summary": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control.",
-    "published_iso": "2026-09-28T13:00:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3AJJ8KD2XWQ7A10RS71WEQ4",
-    "blog_name": "Cloudflare Blog",
-    "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-    "link": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
-    "summary": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming support for Tokio async.",
-    "published_iso": "2026-09-28T13:00:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
     "blog_name": "Stripe Engineering",
     "title": "Travel’s AI dilemma at Skift Global Forum",
@@ -258,16 +308,6 @@
     "published_iso": "2026-09-28T00:00:00+00:00",
     "published_display": "2026-09-28",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "01M3G3YZB5SBBFF13TYNNPJ62E",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare’s 2026 Annual Founders’ Letter",
-    "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
-    "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, sustainable future for the web.",
-    "published_iso": "2026-09-27T17:00:00+00:00",
-    "published_display": "2026-09-27",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev",
@@ -298,16 +338,6 @@
     "published_iso": "2026-09-25T15:02:53+00:00",
     "published_display": "2026-09-25",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01M39NRWHQ3A97HJ70DRJS7VGM",
-    "blog_name": "Cloudflare Blog",
-    "title": "Agents can now set up your website’s security with Turnstile Spin",
-    "link": "https://blog.cloudflare.com/turnstile-spin/",
-    "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
-    "published_iso": "2026-09-25T13:00:00+00:00",
-    "published_display": "2026-09-25",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://discord.com/blog/discord-update-september-25-2026",
@@ -800,16 +830,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
-    "blog_name": "ByteByteGo",
-    "title": "How to Deal With Errors and Failures in LLM-Powered Applications",
-    "link": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
-    "summary": "Apart from normal processing, the application also sends data to a large language model (LLM). It then uses the model&#8217;s response to carry out a task.",
-    "published_iso": "2026-09-07T15:31:35+00:00",
-    "published_display": "2026-09-07",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24463",
     "blog_name": "Meta Engineering",
     "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
@@ -1180,16 +1200,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://stripe.com/blog/mapping-the-ai-economy",
-    "blog_name": "Stripe Engineering",
-    "title": "Mapping the AI economy",
-    "link": "https://stripe.com/blog/mapping-the-ai-economy",
-    "summary": "AI companies are undergoing rapid global expansion while achieving unprecedented rates of growth. We analyzed Stripe data to understand where global demand is the strongest, and how companies can build to best capture that demand.",
-    "published_iso": "2026-08-11T00:00:00+00:00",
-    "published_display": "2026-08-11",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://discord.com/blog/link-world-of-warcraft-with-discord",
     "blog_name": "Discord Engineering",
     "title": "Link Discord and WoW to Keep the Guild Chatting Wherever You Are",
@@ -1477,16 +1487,6 @@
     "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat . When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering . This time we had a whole session on it. When comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o",
     "published_iso": "2026-07-13T12:51:00+00:00",
     "published_display": "2026-07-13",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-07-08:Experiences-with-local-models-for-coding",
-    "blog_name": "Martin Fowler",
-    "title": "Experiences with local models for coding",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
-    "summary": "Birgitta B&#xf6;ckeler now reports on her recent experiences trying local LLMs for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
-    "published_iso": "2026-07-08T11:57:00+00:00",
-    "published_display": "2026-07-08",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {

@@ -1,5 +1,145 @@
 [
   {
+    "id": "https://shopify.engineering/shopgym",
+    "blog_name": "Shopify Engineering",
+    "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
+    "link": "https://shopify.engineering/shopgym",
+    "summary": "ShopGym creates realistic online stores and generates shopping tasks based on each store’s products and features. Developers can then repeatedly test shopping agents under consistent conditions.",
+    "published_iso": "2026-10-01T16:23:24+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "da0dcfed154cb1682b806a3eba0a2f408ff94a2f",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
+    "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
+    "summary": "Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibility. Learn how they migrated a core reservation component from EJB/Java 8 to Spring Boot/Java 21, built a secure CI/CD pipeline, added observability, and integrated agentic AI.",
+    "published_iso": "2026-10-01T15:37:06+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01M3TJPSZAN4TKGKX6HWSNQWEP",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+    "link": "https://blog.cloudflare.com/clef-decision-models/",
+    "summary": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
+    "published_iso": "2026-10-01T15:34:02+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
+    "blog_name": "ByteByteGo",
+    "title": "Why State is the Hardest Thing in Software Design",
+    "link": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
+    "summary": "In this article, we will look at why state is the hardest thing in software development and the multiple strategies that developers can use to manage it.",
+    "published_iso": "2026-10-01T15:31:21+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M3TESBKM9T71XXXK1XMDP4PZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "One year later: Sovereign AI and the fight for choice",
+    "link": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+    "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
+    "published_iso": "2026-10-01T13:04:19+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3VEGEH98DJT6FTGDT1MHP5M",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Workers KV Instant — powered by Quicksilver",
+    "link": "https://blog.cloudflare.com/workers-kv-instant/",
+    "summary": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API.",
+    "published_iso": "2026-10-01T13:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3T6X21KEDC6DH8GGSGV13HR",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+    "link": "https://blog.cloudflare.com/managed-cloudflare-os/",
+    "summary": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few clicks.",
+    "published_iso": "2026-10-01T13:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3SXWQS68A0MY0GS33S6DJQJ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Announcing Cloudflare K2: serverless event streams",
+    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+    "summary": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log streams without the operational overhead of traditional broker clusters.",
+    "published_iso": "2026-10-01T13:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3SQCB0ZE7ZPK6M13HGY41T3",
+    "blog_name": "Cloudflare Blog",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "summary": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.",
+    "published_iso": "2026-10-01T13:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3SPF7C022M529Q6GGNRYHHJ",
+    "blog_name": "Cloudflare Blog",
+    "title": "AI Search is now generally available",
+    "link": "https://blog.cloudflare.com/ai-search-ga/",
+    "summary": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. Here's what's new and how pricing works.",
+    "published_iso": "2026-10-01T13:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01KYQH5JZFJAX4F7Z4J5171FGK",
+    "blog_name": "Cloudflare Blog",
+    "title": "Support for modern cryptographic algorithms in Workers",
+    "link": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+    "summary": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
+    "published_iso": "2026-10-01T13:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3TBHQBCAF29FWFHNMHF9J6E",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
+    "link": "https://blog.cloudflare.com/cloudflare-basin/",
+    "summary": "Cloudflare Basin is built on Apache Iceberg and R2 Object Storage. With general availability, developers can ingest, manage, and query large datasets at scale without paying data egress fees.",
+    "published_iso": "2026-10-01T12:58:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "eafa004de10b258a63bf0ae35dc149f097898c20",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
+    "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
+    "summary": "Prove your multi-AZ architecture can sustain a real impairment. This post shows how to run a multi-day (48-72 hour) Availability Zone evacuation drill with ARC Zonal Shift across Amazon ECS, Amazon EKS, Amazon RDS for PostgreSQL, and Amazon Aurora PostgreSQL, with step-by-step CLI commands, prerequisites, observability metrics, and restore procedures.",
+    "published_iso": "2026-09-30T19:01:57+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "4c510a6f068512612d9307256be3c1a6048e172c",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
+    "summary": "MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven patterns. It reduced manual medical review effort by 90% and cut new AI feature deployment from months to weeks. Learn how MHK architected this reusable, multi-tenant orchestrator for healthcare AI.",
+    "published_iso": "2026-09-30T18:30:24+00:00",
+    "published_display": "2026-09-30",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
     "blog_name": "ByteByteGo",
     "title": "How DoorDash Built a Toolbox for AI Agents",
@@ -180,76 +320,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3N44EM60WP9JA2PGE4ZS5YX",
-    "blog_name": "Cloudflare Blog",
-    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-    "link": "https://blog.cloudflare.com/ai-era-framework/",
-    "summary": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3MX1WMY7FQZXQH4QK6575ZF",
-    "blog_name": "Cloudflare Blog",
-    "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-    "link": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-    "summary": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance at scale.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3MTBRK8BVPBQW7H8PYZ32D4",
-    "blog_name": "Cloudflare Blog",
-    "title": "We tested our own WAF with frontier AI models. Here’s what we found",
-    "link": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
-    "summary": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discovered detection gaps worth fixing. Here’s how the loop worked, what got through, and what we did about it.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3MS7574S6W13H4PAB4XT834",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
-    "link": "https://blog.cloudflare.com/threat-signals/",
-    "summary": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3MRVFZ0YWJMY67Q1E65J979",
-    "blog_name": "Cloudflare Blog",
-    "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
-    "link": "https://blog.cloudflare.com/post-quantum-visibility/",
-    "summary": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3B05E9MPC89J9MR8JZ7NDE2",
-    "blog_name": "Cloudflare Blog",
-    "title": "Enforce positive security with Cloudflare Application Profiles",
-    "link": "https://blog.cloudflare.com/application-profiles/",
-    "summary": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KXDH1HXQQK6WKDPTP4HR9A2V",
-    "blog_name": "Cloudflare Blog",
-    "title": "Preventing quantum downgrade attacks against IPsec",
-    "link": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
-    "summary": "A sophisticated attacker with a quantum computer can exploit a protocol design flaw to downgrade post-quantum IPsec tunnels to classical crypto. We helped the IETF develop a transcript authentication extension to prevent these attacks.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-09-29.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: September 29",
@@ -270,16 +340,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "01M3KR05M9ZET98RWX42EJ7YMG",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-    "summary": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.",
-    "published_iso": "2026-09-28T15:50:00+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
     "blog_name": "ByteByteGo",
     "title": "AI Agents Can Think. Now They Can Pay.",
@@ -288,16 +348,6 @@
     "published_iso": "2026-09-28T15:31:11+00:00",
     "published_display": "2026-09-28",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01M3AZRN7QXCG8CS98YQVRRM60",
-    "blog_name": "Cloudflare Blog",
-    "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
-    "link": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
-    "summary": "Vinext 1.0 graduates from an AI experiment to a production-ready framework, letting developers run Next.js apps on Vite. This release brings advanced cache warming, broader compatibility, and an automated testing pipeline.",
-    "published_iso": "2026-09-28T14:51:57+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
@@ -790,16 +840,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
-    "blog_name": "ByteByteGo",
-    "title": "Built for Reliability: How American Express Processes Payments at Scale",
-    "link": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
-    "summary": "In this article, we will try to understand how the transaction runs through such a cell-based architecture and how the payments are processed even when some services are failing.",
-    "published_iso": "2026-09-08T18:31:03+00:00",
-    "published_display": "2026-09-08",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-09-08.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: September  8",
@@ -1040,16 +1080,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "2f4c96e8ba05ad7c022ccf6b821c106a84683886",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1",
-    "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/",
-    "summary": "Learn how AgentFlo built always-on AI sales agents on Amazon Bedrock AgentCore and the Strands Agents SDK. Part 1 covers three pillars of production-grade agents—velocity, standardization, and scalability—including recipe-based deployment, tool routing through AgentCore Gateway, and elastic, stateful commerce conversations.",
-    "published_iso": "2026-08-20T00:32:52+00:00",
-    "published_display": "2026-08-20",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
     "blog_name": "Stripe Engineering",
     "title": "Five monetization trends from global pricing leaders",
@@ -1098,26 +1128,6 @@
     "published_iso": "2026-08-19T14:32:58+00:00",
     "published_display": "2026-08-19",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "69190b7f78d35ed0650fb5ce280c677f75f54775",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock/",
-    "summary": "Clario, part of Thermo Fisher Scientific, uses Amazon Bedrock and Amazon Textract to automatically detect protected health information (PHI) and personally identifiable information (PII) across thousands of DICOM image slices in clinical trials, covering both metadata tags and text burned into the image pixels.",
-    "published_iso": "2026-08-19T14:29:31+00:00",
-    "published_display": "2026-08-19",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "e9a8c491bf79e0fec6ae5aa7d30d2f08bbe7ab84",
-    "blog_name": "AWS Architecture Blog",
-    "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/",
-    "summary": "AI agents built on Amazon Bedrock AgentCore help clinical trial teams make fast, accurate enrollment decisions while keeping clinicians in control. This post shows how to architect an eligibility and safety screening agent using AWS HealthLake, AgentCore, and AgentCore Evaluations.",
-    "published_iso": "2026-08-19T13:11:51+00:00",
-    "published_display": "2026-08-19",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
@@ -4987,16 +4997,6 @@
     "summary": "",
     "published_iso": "2021-02-10T17:35:22+00:00",
     "published_display": "2021-02-10",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/make-dashboards-using-product-thinking-approach",
-    "blog_name": "Shopify Engineering",
-    "title": "How to Make Dashboards Using a Product Thinking Approach",
-    "link": "https://shopify.engineering/make-dashboards-using-product-thinking-approach",
-    "summary": "",
-    "published_iso": "2021-01-28T20:45:00+00:00",
-    "published_display": "2021-01-28",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

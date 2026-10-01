@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "da0dcfed154cb1682b806a3eba0a2f408ff94a2f",
+    "eafa004de10b258a63bf0ae35dc149f097898c20",
+    "4c510a6f068512612d9307256be3c1a6048e172c",
     "2d4f20949930ea8c42f1d0725ce3a7ab8a17574e",
     "5cff745f1ebd06700755b840670b97f00bff9d5b",
     "b39eaaf3888a3d0bda8d6b3ca86f328b3e6e56af",
@@ -66,6 +69,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
     "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
     "https://blog.bytebytego.com/p/why-do-llms-lie",
     "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
@@ -156,6 +160,15 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M3TJPSZAN4TKGKX6HWSNQWEP",
+    "01M3TESBKM9T71XXXK1XMDP4PZ",
+    "01M3VEGEH98DJT6FTGDT1MHP5M",
+    "01M3T6X21KEDC6DH8GGSGV13HR",
+    "01M3SXWQS68A0MY0GS33S6DJQJ",
+    "01M3SQCB0ZE7ZPK6M13HGY41T3",
+    "01M3SPF7C022M529Q6GGNRYHHJ",
+    "01KYQH5JZFJAX4F7Z4J5171FGK",
+    "01M3TBHQBCAF29FWFHNMHF9J6E",
     "01M3RVQ97H21055GVJRNRSNH97",
     "01M3QZKAM72WCF4RKVH06BKQYZ",
     "01M3QYT7CXBGJWT89M2NJE3DPH",
@@ -619,6 +632,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/shopgym",
     "https://shopify.engineering/helix",
     "https://shopify.engineering/shop-app-migration",
     "https://shopify.engineering/back-to-native",
@@ -817,8 +831,7 @@
     "https://shopify.engineering/aware-development-plan",
     "https://shopify.engineering/faster-trino-query-execution-verification-benchmarking-profiling",
     "https://shopify.engineering/debugging-systems-cloud-mysql-kubernetes-cgroups",
-    "https://shopify.engineering/yjit-benchmarking-harness",
-    "https://shopify.engineering/yjit-faster-rubying"
+    "https://shopify.engineering/yjit-benchmarking-harness"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

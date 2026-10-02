@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "7a57e88e8494b509df8ed41d9262cd07afd2d993",
+    "5f1dd9f2813fb7a47d9f87475e6ac0e1297ada91",
+    "cbe15ece3906624c625eaa03c8397538ddd51d2a",
     "da0dcfed154cb1682b806a3eba0a2f408ff94a2f",
     "eafa004de10b258a63bf0ae35dc149f097898c20",
     "4c510a6f068512612d9307256be3c1a6048e172c",
@@ -160,6 +163,16 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M3XKBJCTDTMBBCNNHA141F04",
+    "01M3XM9KVCRB6JKE07Q88EPGD2",
+    "01M3XHCB64KZ1NTN3N83GY590B",
+    "01M3XE7G2V6JJXPKX92B1D4080",
+    "01M3XD0M307DCDJ5QYA2RFTW87",
+    "01M3WRXHGNF2ZH02N0GWY6FHVV",
+    "01M3WNK9KTV3615MEM25RN3E4H",
+    "01M3WEQR3N79CDBSMHD5V067HA",
+    "01M3W899F5N6P98MYP180WJMS4",
+    "01M3T5GMDCTRDCS7CFJSMSJ2TS",
     "01M3TJPSZAN4TKGKX6HWSNQWEP",
     "01M3TESBKM9T71XXXK1XMDP4PZ",
     "01M3VEGEH98DJT6FTGDT1MHP5M",
@@ -366,6 +379,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/halloween-2026",
     "https://discord.com/blog/discord-update-september-25-2026",
     "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
     "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
@@ -845,6 +859,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/where-pricing-is-headed",
     "https://stripe.com/blog/ousd-now-live-on-stripe",
     "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
     "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",

@@ -1,5 +1,135 @@
 [
   {
+    "id": "7a57e88e8494b509df8ed41d9262cd07afd2d993",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
+    "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/",
+    "summary": "This post provides step-by-step procedures to deploy Oracle Database on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP as NFS datastore storage. You provision storage volumes, mount NFS datastores, install Oracle, and configure SnapMirror replication for cross-region disaster recovery.",
+    "published_iso": "2026-10-02T17:57:15+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "5f1dd9f2813fb7a47d9f87475e6ac0e1297ada91",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
+    "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
+    "summary": "Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. This post covers EC2 bare metal instance selection, vSAN and FSx storage tiering, NSX networking, and SnapMirror cross-region disaster recovery for enterprises preserving their VMware operational tooling.",
+    "published_iso": "2026-10-02T17:57:01+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "cbe15ece3906624c625eaa03c8397538ddd51d2a",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Deploy open source Regional availability tools in your VPC",
+    "link": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/",
+    "summary": "Deploy AWS Regional availability data as infrastructure you own. Capability Insights for AWS runs a self-hosted dashboard in your VPC that auto-refreshes daily, and Workload Analysis narrows the catalog to the services your account actually runs, so your Regional expansion gap analysis focuses only on what you deploy.",
+    "published_iso": "2026-10-02T17:50:56+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01M3XKBJCTDTMBBCNNHA141F04",
+    "blog_name": "Cloudflare Blog",
+    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+    "link": "https://blog.cloudflare.com/streamline/",
+    "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+    "published_iso": "2026-10-02T16:13:45+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3XM9KVCRB6JKE07Q88EPGD2",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Web Search API via AI Gateway",
+    "link": "https://blog.cloudflare.com/introducing-web-search-api/",
+    "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
+    "published_iso": "2026-10-02T13:28:10+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3XHCB64KZ1NTN3N83GY590B",
+    "blog_name": "Cloudflare Blog",
+    "title": "8 major updates to Cloudflare Observability",
+    "link": "https://blog.cloudflare.com/one-observability-platform/",
+    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3XE7G2V6JJXPKX92B1D4080",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+    "link": "https://blog.cloudflare.com/cloudflare-tracing/",
+    "summary": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3XD0M307DCDJ5QYA2RFTW87",
+    "blog_name": "Cloudflare Blog",
+    "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+    "link": "https://blog.cloudflare.com/enterprise-for-all-update/",
+    "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3WRXHGNF2ZH02N0GWY6FHVV",
+    "blog_name": "Cloudflare Blog",
+    "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3WNK9KTV3615MEM25RN3E4H",
+    "blog_name": "Cloudflare Blog",
+    "title": "Follow the thread: a new dashboard to investigate account abuse",
+    "link": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+    "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3WEQR3N79CDBSMHD5V067HA",
+    "blog_name": "Cloudflare Blog",
+    "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+    "link": "https://blog.cloudflare.com/protected-quick-tunnels/",
+    "summary": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3W899F5N6P98MYP180WJMS4",
+    "blog_name": "Cloudflare Blog",
+    "title": "Building for good: How civil society organizations are automating on Cloudflare",
+    "link": "https://blog.cloudflare.com/civil-society-automation/",
+    "summary": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M3T5GMDCTRDCS7CFJSMSJ2TS",
+    "blog_name": "Cloudflare Blog",
+    "title": "2026 Birthday week: network performance update",
+    "link": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+    "summary": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy.",
+    "published_iso": "2026-10-02T13:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://shopify.engineering/shopgym",
     "blog_name": "Shopify Engineering",
     "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
@@ -120,6 +250,26 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
+    "id": "https://stripe.com/blog/where-pricing-is-headed",
+    "blog_name": "Stripe Engineering",
+    "title": "Why I tried to kill token billing (and why we kept it)",
+    "link": "https://stripe.com/blog/where-pricing-is-headed",
+    "summary": "Token billing is useful infrastructure, but usually a bad customer-facing pricing model. Your invoice should define the value your product delivers, not break down what it cost you to create it.",
+    "published_iso": "2026-10-01T00:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/halloween-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Cauldron Bubble w/o the Trouble? It’s Discord Halloween, Witches",
+    "link": "https://discord.com/blog/halloween-2026",
+    "summary": "A cold wind whistles, a chill sets in. It’s Discord Halloween: Cauldron Chaos edition! We’ve got frights, we’ve got delights, and we’ve even got some spooky surprises up our sleeve…",
+    "published_iso": "2026-10-01T00:00:00+00:00",
+    "published_display": "2026-10-01",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "eafa004de10b258a63bf0ae35dc149f097898c20",
     "blog_name": "AWS Architecture Blog",
     "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
@@ -166,86 +316,6 @@
     "link": "https://blog.cloudflare.com/100-million-donations/",
     "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks.",
     "published_iso": "2026-09-30T13:01:55+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3QZKAM72WCF4RKVH06BKQYZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cut your AI spend with AI Gateway's Auto Router",
-    "link": "https://blog.cloudflare.com/auto-router/",
-    "summary": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut AI spend while maintaining performance.",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3QYT7CXBGJWT89M2NJE3DPH",
-    "blog_name": "Cloudflare Blog",
-    "title": "Detect and send production issues straight to your agent",
-    "link": "https://blog.cloudflare.com/real-time-issue-detection/",
-    "summary": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3QWRKWVNFA0DF9FYY3RTFKV",
-    "blog_name": "Cloudflare Blog",
-    "title": "Simplifying domains for people and agents",
-    "link": "https://blog.cloudflare.com/simplifying-domains/",
-    "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3QKBTCVGSPDD7VHVA777Q74",
-    "blog_name": "Cloudflare Blog",
-    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-    "link": "https://blog.cloudflare.com/monetization-gateway-beta/",
-    "summary": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3Q8WH85THBJED6145W6NR6Y",
-    "blog_name": "Cloudflare Blog",
-    "title": "Pay Per Use: when AI uses your work, you should get paid",
-    "link": "https://blog.cloudflare.com/pay-per-use/",
-    "summary": "Pay Per Use is now in beta. AI companies report when they use publishers’ content, and Cloudflare handles billing, payouts, and reporting, so our customers are paid according to use.",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3AZ7A42599J7AVPSGKJKD04",
-    "blog_name": "Cloudflare Blog",
-    "title": "Identify AI model overuse with User Insights",
-    "link": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
-    "summary": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users.",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3RXHW8HAZ70SW0D1ANC4CVT",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
-    "link": "https://blog.cloudflare.com/faster-agent-sandboxes/",
-    "summary": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object.",
-    "published_iso": "2026-09-30T12:58:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3Q403X7R4RSZ8DY9C27CPWB",
-    "blog_name": "Cloudflare Blog",
-    "title": "The Internet has a second audience",
-    "link": "https://blog.cloudflare.com/agentic-web/",
-    "summary": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access.",
-    "published_iso": "2026-09-30T12:58:00+00:00",
     "published_display": "2026-09-30",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -298,26 +368,6 @@
     "published_iso": "2026-09-29T13:43:00+00:00",
     "published_display": "2026-09-29",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "01M3NESWHMHMZYRDST3MNM46GJ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Using AI to chart a course for our post-quantum migration",
-    "link": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-    "summary": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3NDPTPSCDWFTMFBHE9JAF51",
-    "blog_name": "Cloudflare Blog",
-    "title": "Building a certificate authority for the whole Internet",
-    "link": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-    "summary": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web.",
-    "published_iso": "2026-09-29T13:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-09-29.html",
@@ -1040,26 +1090,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "8f373005181e55a96d79518e8fa48db9eb211175",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration",
-    "link": "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration/",
-    "summary": "When AWS accounts move between organizations, organization-bound AWS RAM resource shares break and control-plane access is lost. Learn how a global payment processor used temporary bridge shares to preserve AWS Lake Formation permissions across a 382-account AWS Organizations migration, then restored the original shares as the durable source of truth.",
-    "published_iso": "2026-08-24T15:23:21+00:00",
-    "published_display": "2026-08-24",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "092b963484bd12ba804720ad012fb2e297b29bb7",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Build a unified AI agent architecture with DynamoDB and Bedrock",
-    "link": "https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/",
-    "summary": "With native vector search in Amazon DynamoDB, you can store vector embeddings alongside your operational data in a single table. This post shows how to build a unified AI agent architecture where an Amazon Bedrock agent uses one DynamoDB table for both structured lookups and semantic search, with a DynamoDB Streams pipeline that keeps embeddings in sync.",
-    "published_iso": "2026-08-21T18:19:23+00:00",
-    "published_display": "2026-08-21",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://medium.com/p/e9f6a1b1492b",
     "blog_name": "Netflix Tech Blog",
     "title": "A Tale of Two Flink Autoscalers",
@@ -1068,16 +1098,6 @@
     "published_iso": "2026-08-21T16:01:01+00:00",
     "published_display": "2026-08-21",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "ee6c512a34563af74e3691ed78021d5071e6ef4b",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2",
-    "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2/",
-    "summary": "Part 2: how AgentFlo built trusted, reliable AI sales agents on Amazon Bedrock AgentCore and AWS serverless architecture. Learn the three-layer guardrails, grounded data foundation, and end-to-end observability behind a +12% net revenue uplift, plus what's next for real-time voice and server-side tool execution.",
-    "published_iso": "2026-08-21T10:01:18+00:00",
-    "published_display": "2026-08-21",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
@@ -1148,16 +1168,6 @@
     "published_iso": "2026-08-18T15:04:00+00:00",
     "published_display": "2026-08-18",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
-    "blog_name": "Stripe Engineering",
-    "title": "New currency capabilities for global businesses to cut FX costs",
-    "link": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
-    "summary": "Two product upgrades make it easy for global businesses to manage FX entirely on Stripe. We’re expanding multicurrency settlement to more markets and currencies, and we’re introducing the ability to convert currencies instantly—all on Stripe.",
-    "published_iso": "2026-08-17T00:00:00+00:00",
-    "published_display": "2026-08-17",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
@@ -2787,16 +2797,6 @@
     "summary": "Explore how Discord supercharged dbt with a tailored solution designed for performance, developer productivity, and data quality.",
     "published_iso": "2025-04-09T00:00:00+00:00",
     "published_display": "2025-04-09",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/wicked-saints-turns-players-into-irl-superheroes-with-e-l-f-beauty-and-discord",
-    "blog_name": "Discord Engineering",
-    "title": "Wicked Saints Turns Players into IRL Superheroes  with the Help of e.l.f. Beauty and Discord",
-    "link": "https://discord.com/blog/wicked-saints-turns-players-into-irl-superheroes-with-e-l-f-beauty-and-discord",
-    "summary": "First-of-its-kind gaming platform, World Reborn, launches an 8-week limited run to empower players toward real-life impact through brand-led missions.",
-    "published_iso": "2025-04-08T00:00:00+00:00",
-    "published_display": "2025-04-08",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

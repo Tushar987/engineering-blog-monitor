@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
+    "blog_name": "ByteByteGo",
+    "title": "EP228: How SSH Works",
+    "link": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
+    "summary": "Secure shell is a method to access a remote machine securely over an unsecured network. It starts with a TCP connection from the SSH client to the remote machine (SSH server).",
+    "published_iso": "2026-10-03T15:30:39+00:00",
+    "published_display": "2026-10-03",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "7a57e88e8494b509df8ed41d9262cd07afd2d993",
     "blog_name": "AWS Architecture Blog",
     "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
@@ -878,16 +888,6 @@
     "published_iso": "2026-09-09T16:21:00+00:00",
     "published_display": "2026-09-09",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
-    "blog_name": "ByteByteGo",
-    "title": "How Smart Model Routing Can Cut LLM Costs by 10X",
-    "link": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
-    "summary": "Cost reduction isn&#8217;t a given. It also depends on the types of requests the application receives, the price difference between models, and how well the routing system performs. In this article, we are going to look at various aspects",
-    "published_iso": "2026-09-09T15:30:26+00:00",
-    "published_display": "2026-09-09",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-09-08.html",

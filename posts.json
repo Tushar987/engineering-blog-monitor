@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
+    "blog_name": "ByteByteGo",
+    "title": "Last 3 days: AI Evals, October cohort",
+    "link": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
+    "summary": "Secure your spot in AI Evals in Practice. Enrollment closes in just 3 days! If you&#8217;ve been thinking about joining, now&#8217;s the time.",
+    "published_iso": "2026-10-04T15:57:40+00:00",
+    "published_display": "2026-10-04",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
     "blog_name": "ByteByteGo",
     "title": "EP228: How SSH Works",
@@ -828,16 +838,6 @@
     "published_iso": "2026-09-10T16:14:22+00:00",
     "published_display": "2026-09-10",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/a-guide-to-application-networking",
-    "blog_name": "ByteByteGo",
-    "title": "A Guide to Application Networking Basics",
-    "link": "https://blog.bytebytego.com/p/a-guide-to-application-networking",
-    "summary": "In this article, we will look at the various aspects of networking in detail.",
-    "published_iso": "2026-09-10T15:31:28+00:00",
-    "published_display": "2026-09-10",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://shopify.engineering/shop-app-migration",

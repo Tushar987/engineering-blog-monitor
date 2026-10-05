@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "aebc24bf9a1d048ba16980d4b7fa9ef45aa8d896",
     "7a57e88e8494b509df8ed41d9262cd07afd2d993",
     "5f1dd9f2813fb7a47d9f87475e6ac0e1297ada91",
     "cbe15ece3906624c625eaa03c8397538ddd51d2a",
@@ -72,6 +73,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
     "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
     "https://blog.bytebytego.com/p/ep228-how-ssh-works",
     "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
@@ -165,9 +167,11 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M45M6M9H2C1A45G0S8EC3KW9",
+    "01M40C00BDZBKANZ5QVXW0AD7X",
+    "01M3XHCB64KZ1NTN3N83GY590B",
     "01M3XKBJCTDTMBBCNNHA141F04",
     "01M3XM9KVCRB6JKE07Q88EPGD2",
-    "01M3XHCB64KZ1NTN3N83GY590B",
     "01M3XE7G2V6JJXPKX92B1D4080",
     "01M3XD0M307DCDJ5QYA2RFTW87",
     "01M3WRXHGNF2ZH02N0GWY6FHVV",
@@ -540,6 +544,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-10-04.html",
     "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
     "https://martinfowler.com/bliki/SensibleDefault.html",
     "https://martinfowler.com/fragments/2026-09-29.html",

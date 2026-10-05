@@ -1,5 +1,55 @@
 [
   {
+    "id": "aebc24bf9a1d048ba16980d4b7fa9ef45aa8d896",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+    "summary": "October 2026: This post was reviewed and updated for accuracy. Today we’re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens providing customers with extended guidance for designing, building, and operating sovereign workloads on AWS. Customers tell us that digital sovereignty brings a unique set of challenges that existing architecture guidance doesn’t fully address. […]",
+    "published_iso": "2026-10-05T17:54:56+00:00",
+    "published_display": "2026-10-05",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+    "blog_name": "ByteByteGo",
+    "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
+    "link": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+    "summary": "In this article, we&#8217;ll look at why LLMs have this bias against middle information.",
+    "published_iso": "2026-10-05T15:30:51+00:00",
+    "published_display": "2026-10-05",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M45M6M9H2C1A45G0S8EC3KW9",
+    "blog_name": "Cloudflare Blog",
+    "title": "Everything we launched during Birthday Week 2026",
+    "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+    "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.",
+    "published_iso": "2026-10-05T13:00:00+00:00",
+    "published_display": "2026-10-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M40C00BDZBKANZ5QVXW0AD7X",
+    "blog_name": "Cloudflare Blog",
+    "title": "One year later: the power of 1.1.1.1 interns",
+    "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+    "summary": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it.",
+    "published_iso": "2026-10-05T13:00:00+00:00",
+    "published_display": "2026-10-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-10-04.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: October  4",
+    "link": "https://martinfowler.com/fragments/2026-10-04.html",
+    "summary": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied : we shipped the id and forgot the superego. classic software lifecycle. I don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, going bac",
+    "published_iso": "2026-10-05T04:28:00+00:00",
+    "published_display": "2026-10-05",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
     "blog_name": "ByteByteGo",
     "title": "Last 3 days: AI Evals, October cohort",
@@ -18,6 +68,16 @@
     "published_iso": "2026-10-03T15:30:39+00:00",
     "published_display": "2026-10-03",
     "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M3XHCB64KZ1NTN3N83GY590B",
+    "blog_name": "Cloudflare Blog",
+    "title": "8 major updates to Cloudflare Observability",
+    "link": "https://blog.cloudflare.com/one-observability-platform/",
+    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+    "published_iso": "2026-10-02T18:00:00+00:00",
+    "published_display": "2026-10-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "7a57e88e8494b509df8ed41d9262cd07afd2d993",
@@ -66,16 +126,6 @@
     "link": "https://blog.cloudflare.com/introducing-web-search-api/",
     "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
     "published_iso": "2026-10-02T13:28:10+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3XHCB64KZ1NTN3N83GY590B",
-    "blog_name": "Cloudflare Blog",
-    "title": "8 major updates to Cloudflare Observability",
-    "link": "https://blog.cloudflare.com/one-observability-platform/",
-    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
     "published_display": "2026-10-02",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
@@ -260,16 +310,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3TBHQBCAF29FWFHNMHF9J6E",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
-    "link": "https://blog.cloudflare.com/cloudflare-basin/",
-    "summary": "Cloudflare Basin is built on Apache Iceberg and R2 Object Storage. With general availability, developers can ingest, manage, and query large datasets at scale without paying data egress fees.",
-    "published_iso": "2026-10-01T12:58:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/where-pricing-is-headed",
     "blog_name": "Stripe Engineering",
     "title": "Why I tried to kill token billing (and why we kept it)",
@@ -328,16 +368,6 @@
     "published_iso": "2026-09-30T14:14:00+00:00",
     "published_display": "2026-09-30",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "01M3RVQ97H21055GVJRNRSNH97",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare Impact reaches $100 million in donations",
-    "link": "https://blog.cloudflare.com/100-million-donations/",
-    "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks.",
-    "published_iso": "2026-09-30T13:01:55+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://stripe.com/blog/ousd-now-live-on-stripe",
@@ -810,16 +840,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
-    "blog_name": "ByteByteGo",
-    "title": "Learn Claude Code, evals, AI systems, and more: ByteByteGo Live is here",
-    "link": "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
-    "summary": "Most online courses never get finished (~4% completion). Live cohorts get ~40%, roughly 10x higher. Live courses are the only courses people actually finish. So we&#8217;re launching ByteByteGo Live.",
-    "published_iso": "2026-09-11T15:32:16+00:00",
-    "published_display": "2026-09-11",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "b3d811007dba109422cf57f9148a494b3144ee73",
     "blog_name": "AWS Architecture Blog",
     "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
@@ -1036,16 +1056,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/",
     "summary": "Gallup transformed 90 years of workplace science into Gallup AI, a generative AI assistant powered by Amazon Bedrock that delivers real-time, personalized coaching to leaders directly within the Gallup Access application.",
     "published_iso": "2026-08-26T17:36:23+00:00",
-    "published_display": "2026-08-26",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "1912616f6e192c0ce0ab5843018f7a88936eac21",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Closing the AI agent trust gap with graduated autonomy",
-    "link": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/",
-    "summary": "Most teams give AI agents either full access or read-only, leaving value unused or risk unmanaged. This post describes graduated autonomy, an architectural pattern in which agents earn expanded permissions through sustained reliability and lose them when performance degrades, built on Amazon Bedrock AgentCore, Amazon DynamoDB, and AWS CodePipeline.",
-    "published_iso": "2026-08-26T17:33:03+00:00",
     "published_display": "2026-08-26",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
@@ -1498,16 +1508,6 @@
     "published_iso": "2026-07-13T22:44:11+00:00",
     "published_display": "2026-07-13",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-07-13.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: July 13",
-    "link": "https://martinfowler.com/fragments/2026-07-13.html",
-    "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat . When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering . This time we had a whole session on it. When comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o",
-    "published_iso": "2026-07-13T12:51:00+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/discord-patch-notes-july-7-2026",

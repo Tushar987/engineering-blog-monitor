@@ -73,6 +73,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
     "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
     "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
     "https://blog.bytebytego.com/p/ep228-how-ssh-works",
@@ -167,6 +168,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M490D3EE2TBV2NFMN6FXMMQ8",
     "01M45M6M9H2C1A45G0S8EC3KW9",
     "01M40C00BDZBKANZ5QVXW0AD7X",
     "01M3XHCB64KZ1NTN3N83GY590B",
@@ -319,6 +321,8 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+    "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
     "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
     "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
     "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
@@ -385,6 +389,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-patch-notes-october-6-2026",
     "https://discord.com/blog/halloween-2026",
     "https://discord.com/blog/discord-update-september-25-2026",
     "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
@@ -502,6 +507,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24581",
     "https://engineering.fb.com/?p=24499",
     "https://engineering.fb.com/?p=24447",
     "https://engineering.fb.com/?p=24485",
@@ -610,6 +616,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/cea7ee9b1ab2",
     "https://medium.com/p/8e7891a1d486",
     "https://medium.com/p/8f1582578553",
     "https://medium.com/p/371316d43261",

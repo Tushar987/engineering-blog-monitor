@@ -1,5 +1,55 @@
 [
   {
+    "id": "01M490D3EE2TBV2NFMN6FXMMQ8",
+    "blog_name": "Cloudflare Blog",
+    "title": "The keys to the Internet change on October 11. Are you ready?",
+    "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+    "summary": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
+    "published_iso": "2026-10-06T17:50:11+00:00",
+    "published_display": "2026-10-06",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://medium.com/p/cea7ee9b1ab2",
+    "blog_name": "Airbnb Engineering",
+    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "link": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+    "summary": "How we capture real production database traffic at Airbnb and replay it offline to load-test, plan capacity, and de-risk upgrades. By: Zuofei Wang , Erluo Li Introduction At Airbnb, MySQL-compatible databases are a critical backbone of our online database infrastructure: a fleet of hundreds of clusters supporting thousands of use cases at millions of queries per second (QPS). Operating databases at scale brings hard problems, including sizing clusters for future growth, keeping behavior consiste",
+    "published_iso": "2026-10-06T17:01:04+00:00",
+    "published_display": "2026-10-06",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24581",
+    "blog_name": "Meta Engineering",
+    "title": "NTS: Authenticated Time at Meta",
+    "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+    "summary": "Meta’s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way. Our NTS servers hold no per-client state. Cookie keys are derived, not stored and not replicated. We’ve open sourced everything, including [...] Read More... The post NTS: Authenticated Time at Meta appeared first on Engineering at Meta .",
+    "published_iso": "2026-10-06T16:00:06+00:00",
+    "published_display": "2026-10-06",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
+    "blog_name": "ByteByteGo",
+    "title": "Why LLMs Agree With You Even When You’re Wrong",
+    "link": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
+    "summary": "When LLMs sometimes agree with incorrect claims, it is mostly because their training rewards such behaviour. This reward system is built on several things at once, such as accuracy, helpfulness, politeness, and responses that people like.",
+    "published_iso": "2026-10-06T15:31:18+00:00",
+    "published_display": "2026-10-06",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://discord.com/blog/discord-patch-notes-october-6-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Patch Notes: October 6, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-october-6-2026",
+    "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "published_iso": "2026-10-06T00:00:00+00:00",
+    "published_display": "2026-10-06",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "aebc24bf9a1d048ba16980d4b7fa9ef45aa8d896",
     "blog_name": "AWS Architecture Blog",
     "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
@@ -295,16 +345,6 @@
     "title": "AI Search is now generally available",
     "link": "https://blog.cloudflare.com/ai-search-ga/",
     "summary": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. Here's what's new and how pricing works.",
-    "published_iso": "2026-10-01T13:00:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01KYQH5JZFJAX4F7Z4J5171FGK",
-    "blog_name": "Cloudflare Blog",
-    "title": "Support for modern cryptographic algorithms in Workers",
-    "link": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
-    "summary": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
     "published_iso": "2026-10-01T13:00:00+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -830,16 +870,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
-    "blog_name": "ByteByteGo",
-    "title": "EP225: Why Does Git Revert Cause Conflicts?",
-    "link": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
-    "summary": "git revert looks straightforward until it throws a conflict",
-    "published_iso": "2026-09-12T15:30:46+00:00",
-    "published_display": "2026-09-12",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "b3d811007dba109422cf57f9148a494b3144ee73",
     "blog_name": "AWS Architecture Blog",
     "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
@@ -1280,16 +1310,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://engineering.fb.com/?p=23996",
-    "blog_name": "Meta Engineering",
-    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
-    "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
-    "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on sequence learning for ads recommendations, we showed how modeling the order and timing of user actions (rather than relying on static, manually engineered sparse features) [...] Read More... The post From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranki",
-    "published_iso": "2026-08-05T19:20:20+00:00",
-    "published_display": "2026-08-05",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://shopify.engineering/sidekicks-continual-learning-loop",
     "blog_name": "Shopify Engineering",
     "title": "Sidekick's continual learning loop",
@@ -1628,16 +1648,6 @@
     "published_iso": "2026-06-10T00:00:00+00:00",
     "published_display": "2026-06-10",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/6125645d470c",
-    "blog_name": "Airbnb Engineering",
-    "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
-    "link": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb’s data engineers and analytics engineers built a consistent and flexible data modeling framework to support the expansion into Homes, Experiences, and Services. By : Patrick Lam , Namrata Lamba , Jamie Stober With the May 2025 Summer Release, Airbnb redesigned its app, relaunched Experiences, and debuted Services, pushing us beyond our traditional Homes focus. For the data teams, this meant rapidly evolving a decade-old infrastructure to integrate two brand-new product pillars. Our da",
-    "published_iso": "2026-06-09T17:01:02+00:00",
-    "published_display": "2026-06-09",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge",
@@ -2787,16 +2797,6 @@
     "summary": "Discord’s In-Game Overlay lets you join voice and video calls, see who’s talkin’, and stream your gameplay without ever having to alt-tab out of your current match! Learn how it works and how you can customize it to your liking.",
     "published_iso": "2025-04-10T00:00:00+00:00",
     "published_display": "2025-04-10",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data",
-    "blog_name": "Discord Engineering",
-    "title": "Overclocking dbt: Discord's Custom Solution in Processing Petabytes of Data",
-    "link": "https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data",
-    "summary": "Explore how Discord supercharged dbt with a tailored solution designed for performance, developer productivity, and data quality.",
-    "published_iso": "2025-04-09T00:00:00+00:00",
-    "published_display": "2025-04-09",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

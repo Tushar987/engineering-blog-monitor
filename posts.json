@@ -1,5 +1,25 @@
 [
   {
+    "id": "01M49SJF5QT2EPN5CTQ3C99EZW",
+    "blog_name": "Cloudflare Blog",
+    "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+    "link": "https://blog.cloudflare.com/agentic-security-operations/",
+    "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts.",
+    "published_iso": "2026-10-07T16:30:36+00:00",
+    "published_display": "2026-10-07",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+    "blog_name": "ByteByteGo",
+    "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
+    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+    "summary": "In this article, we will look at how GenRec was built.",
+    "published_iso": "2026-10-07T15:31:48+00:00",
+    "published_display": "2026-10-07",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M490D3EE2TBV2NFMN6FXMMQ8",
     "blog_name": "Cloudflare Blog",
     "title": "The keys to the Internet change on October 11. Are you ready?",
@@ -335,16 +355,6 @@
     "title": "We want you to build the next Git platform on Cloudflare",
     "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
     "summary": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.",
-    "published_iso": "2026-10-01T13:00:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3SPF7C022M529Q6GGNRYHHJ",
-    "blog_name": "Cloudflare Blog",
-    "title": "AI Search is now generally available",
-    "link": "https://blog.cloudflare.com/ai-search-ga/",
-    "summary": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. Here's what's new and how pricing works.",
     "published_iso": "2026-10-01T13:00:00+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -858,16 +868,6 @@
     "published_iso": "2026-09-15T00:00:00+00:00",
     "published_display": "2026-09-15",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your",
-    "blog_name": "ByteByteGo",
-    "title": "LLMs as a Judge: How to Know if Your LLM is Healthy",
-    "link": "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your",
-    "summary": "In this article, we are going to look at the process of LLM evaluation in detail.",
-    "published_iso": "2026-09-14T15:31:02+00:00",
-    "published_display": "2026-09-14",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "b3d811007dba109422cf57f9148a494b3144ee73",

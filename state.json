@@ -73,6 +73,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
     "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
     "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
@@ -169,6 +170,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M4ATYPWQETFZA4EZJ5AJYSFT",
     "01M49SJF5QT2EPN5CTQ3C99EZW",
     "01M490D3EE2TBV2NFMN6FXMMQ8",
     "01M45M6M9H2C1A45G0S8EC3KW9",
@@ -323,11 +325,14 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+    "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+    "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
     "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
     "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
     "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
-    "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
     "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+    "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
     "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
     "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
     "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",

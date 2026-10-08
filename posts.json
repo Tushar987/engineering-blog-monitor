@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
+    "blog_name": "ByteByteGo",
+    "title": "How Software Boundaries Are The Most Important Skill for Developers",
+    "link": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
+    "summary": "In this article, we&#8217;ll learn some key strategies that can help a developer make the right boundary-related decisions for the systems they are working on.",
+    "published_iso": "2026-10-08T15:31:01+00:00",
+    "published_display": "2026-10-08",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M4ATYPWQETFZA4EZJ5AJYSFT",
+    "blog_name": "Cloudflare Blog",
+    "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+    "link": "https://blog.cloudflare.com/radar-redesign/",
+    "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth.",
+    "published_iso": "2026-10-08T13:00:00+00:00",
+    "published_display": "2026-10-08",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "01M49SJF5QT2EPN5CTQ3C99EZW",
     "blog_name": "Cloudflare Blog",
     "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
@@ -345,16 +365,6 @@
     "title": "Announcing Cloudflare K2: serverless event streams",
     "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
     "summary": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log streams without the operational overhead of traditional broker clusters.",
-    "published_iso": "2026-10-01T13:00:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3SQCB0ZE7ZPK6M13HGY41T3",
-    "blog_name": "Cloudflare Blog",
-    "title": "We want you to build the next Git platform on Cloudflare",
-    "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-    "summary": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.",
     "published_iso": "2026-10-01T13:00:00+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://blog.cloudflare.com/rss/"
@@ -838,16 +848,6 @@
     "published_iso": "2026-09-15T17:06:18+00:00",
     "published_display": "2026-09-15",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
-    "blog_name": "ByteByteGo",
-    "title": "Do LLMs Have the Memory of a Goldfish?",
-    "link": "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
-    "summary": "In this article, we will learn how LLMs handle memory so that they are useful to end users in performing complex tasks that require conversation and holding context.",
-    "published_iso": "2026-09-15T15:31:12+00:00",
-    "published_display": "2026-09-15",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-09-15:Nail-the-Narrative",

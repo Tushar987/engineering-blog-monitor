@@ -1,5 +1,35 @@
 [
   {
+    "id": "01M4GV0DTKYJTCM5GPYBCME1T4",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+    "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+    "summary": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x.",
+    "published_iso": "2026-10-09T18:27:34+00:00",
+    "published_display": "2026-10-09",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M497Y0BQ6DVED6YT05KTNA6W",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+    "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+    "summary": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks.",
+    "published_iso": "2026-10-09T13:00:00+00:00",
+    "published_display": "2026-10-09",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M4EHZFCN5RWBFJJ8WEERWAYZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "Deno is joining Cloudflare",
+    "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+    "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places.",
+    "published_iso": "2026-10-09T12:50:00+00:00",
+    "published_display": "2026-10-09",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "blog_name": "ByteByteGo",
     "title": "How Software Boundaries Are The Most Important Skill for Developers",
@@ -336,36 +366,6 @@
     "link": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
     "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
     "published_iso": "2026-10-01T13:04:19+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3VEGEH98DJT6FTGDT1MHP5M",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Workers KV Instant — powered by Quicksilver",
-    "link": "https://blog.cloudflare.com/workers-kv-instant/",
-    "summary": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API.",
-    "published_iso": "2026-10-01T13:00:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3T6X21KEDC6DH8GGSGV13HR",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare OS: your company’s agent workspace, managed for you",
-    "link": "https://blog.cloudflare.com/managed-cloudflare-os/",
-    "summary": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few clicks.",
-    "published_iso": "2026-10-01T13:00:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3SXWQS68A0MY0GS33S6DJQJ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Announcing Cloudflare K2: serverless event streams",
-    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-    "summary": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log streams without the operational overhead of traditional broker clusters.",
-    "published_iso": "2026-10-01T13:00:00+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },

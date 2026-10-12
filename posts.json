@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://engineering.fb.com/?p=24657",
+    "blog_name": "Meta Engineering",
+    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+    "link": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+    "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs connect to the network MetaRoCE, our open-source AI transport protocol. Launching [...] Read More... The post OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale",
+    "published_iso": "2026-10-12T21:19:18+00:00",
+    "published_display": "2026-10-12",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24625",
+    "blog_name": "Meta Engineering",
+    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+    "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+    "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We’re sharing how we shipped MoQ on Instagram Live ingest, and what the future looks like from here. [...] Read More... The post Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest appeared first on Engineering at Meta .",
+    "published_iso": "2026-10-12T16:01:32+00:00",
+    "published_display": "2026-10-12",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24593",
+    "blog_name": "Meta Engineering",
+    "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+    "link": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+    "summary": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromising baseline performance. This post describes how we designed and now operate the system at Meta&#8217;s scale and how it drives [...] Read More... The post Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations appeared first on Engineeri",
+    "published_iso": "2026-10-12T16:00:50+00:00",
+    "published_display": "2026-10-12",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+    "blog_name": "ByteByteGo",
+    "title": "How to Build Models Without Language, with Logical Intelligence",
+    "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+    "summary": "Something unusual happened in a public Sudoku experiment early this year.",
+    "published_iso": "2026-10-12T15:00:45+00:00",
+    "published_display": "2026-10-12",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M4HA4SBV0ANTH6C2775H4SSY",
+    "blog_name": "Cloudflare Blog",
+    "title": "Filter, reshape, and redact logs before export with Transformers",
+    "link": "https://blog.cloudflare.com/transformers-on-logpush/",
+    "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination.",
+    "published_iso": "2026-10-12T14:44:59+00:00",
+    "published_display": "2026-10-12",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "1e67d99ee2ecea1713256087c55f2a9e733aa9e1",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
+    "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so researchers can ask questions without writing bioinformatics code or SQL.",
+    "published_iso": "2026-10-12T14:34:57+00:00",
+    "published_display": "2026-10-12",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "01M4GV0DTKYJTCM5GPYBCME1T4",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
@@ -360,16 +420,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M3TESBKM9T71XXXK1XMDP4PZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "One year later: Sovereign AI and the fight for choice",
-    "link": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
-    "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
-    "published_iso": "2026-10-01T13:04:19+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/where-pricing-is-headed",
     "blog_name": "Stripe Engineering",
     "title": "Why I tried to kill token billing (and why we kept it)",
@@ -484,7 +534,7 @@
     "blog_name": "Martin Fowler",
     "title": "Fragments: September 29",
     "link": "https://martinfowler.com/fragments/2026-09-29.html",
-    "summary": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not easy to lea",
+    "summary": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic engineering relies on more sophisticated techniques - and these are not easy to lea",
     "published_iso": "2026-09-29T12:41:00+00:00",
     "published_display": "2026-09-29",
     "feed_url": "https://martinfowler.com/feed.atom"
@@ -830,16 +880,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
-    "blog_name": "ByteByteGo",
-    "title": "LAST CALL FOR ENROLLMENT: Build with Claude Code",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
-    "summary": "We&#8217;re relaunching Build with Claude Code, a 2-day intensive cohort-based course taught by John Kim, who has trained hundreds of engineers at Meta to use Claude Code in real production workflows.",
-    "published_iso": "2026-09-15T19:31:01+00:00",
-    "published_display": "2026-09-15",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/371316d43261",
     "blog_name": "Airbnb Engineering",
     "title": "Beyond the model: Engineering AI infra with scientific judgement",
@@ -1080,16 +1120,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "970a03810729afa5d4975d63cdc0e14eaf52f98f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/",
-    "summary": "Gallup transformed 90 years of workplace science into Gallup AI, a generative AI assistant powered by Amazon Bedrock that delivers real-time, personalized coaching to leaders directly within the Gallup Access application.",
-    "published_iso": "2026-08-26T17:36:23+00:00",
-    "published_display": "2026-08-26",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://medium.com/p/74f8b26653fb",
     "blog_name": "Airbnb Engineering",
     "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
@@ -1098,26 +1128,6 @@
     "published_iso": "2026-08-25T17:01:02+00:00",
     "published_display": "2026-08-25",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24399",
-    "blog_name": "Meta Engineering",
-    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-    "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet. We&#8217;re releasing the MetaRoCE specification, a reference software implementation and a compliance test [...] Read More... The post MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet appeared first on En",
-    "published_iso": "2026-08-24T18:02:29+00:00",
-    "published_display": "2026-08-24",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24394",
-    "blog_name": "Meta Engineering",
-    "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
-    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
-    "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs. By co-designing MTIA’s communication library, HCCL, alongside the [...] Read More... The post MTIA 300: Meta&#8217;s First Training Chip with Built-in NICs and Com",
-    "published_iso": "2026-08-24T17:45:52+00:00",
-    "published_display": "2026-08-24",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-08-24.html",
@@ -1238,16 +1248,6 @@
     "published_iso": "2026-08-12T17:01:04+00:00",
     "published_display": "2026-08-12",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24092",
-    "blog_name": "Meta Engineering",
-    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
-    "link": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
-    "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we&#8217;re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we&#8217;re sharing an early [...] Read More... The post How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guara",
-    "published_iso": "2026-08-12T13:00:28+00:00",
-    "published_display": "2026-08-12",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",

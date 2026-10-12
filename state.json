@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "1e67d99ee2ecea1713256087c55f2a9e733aa9e1",
     "aebc24bf9a1d048ba16980d4b7fa9ef45aa8d896",
     "7a57e88e8494b509df8ed41d9262cd07afd2d993",
     "5f1dd9f2813fb7a47d9f87475e6ac0e1297ada91",
@@ -73,6 +74,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-to-build-models-without-language",
     "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
     "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
@@ -170,6 +172,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M4HA4SBV0ANTH6C2775H4SSY",
     "01M4GV0DTKYJTCM5GPYBCME1T4",
     "01M497Y0BQ6DVED6YT05KTNA6W",
     "01M4EHZFCN5RWBFJJ8WEERWAYZ",
@@ -517,6 +520,9 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24657",
+    "https://engineering.fb.com/?p=24625",
+    "https://engineering.fb.com/?p=24593",
     "https://engineering.fb.com/?p=24581",
     "https://engineering.fb.com/?p=24499",
     "https://engineering.fb.com/?p=24447",

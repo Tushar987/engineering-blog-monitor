@@ -1,5 +1,105 @@
 [
   {
+    "id": "https://medium.com/p/3818ef8b4828",
+    "blog_name": "Airbnb Engineering",
+    "title": "CASTLE: training natural language search before the first real query",
+    "link": "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4",
+    "summary": "How we addressed the cold-start problem for Airbnb’s natural language search by jointly generating synthetic training data — queries and relevance labels — from de-identified booking and search signals. By : Wendy Ran Wei , Hao Li , Weiwei Guo , Xiaowei Liu , Xueyin Chen , Chun How Tan , Malay Haldar , Soumyadip Banerjee , Kedar Bellare , Huiji Gao , Sanjeev Katariya , and Stephanie Moyerman Introduction Natural language search lets guests express intent in their own words, such as “romantic cab",
+    "published_iso": "2026-10-13T17:01:02+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "01M4TZM0P3VSCZHV70ZGX58319",
+    "blog_name": "Cloudflare Blog",
+    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+    "link": "https://blog.cloudflare.com/d1-control-plane/",
+    "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.",
+    "published_iso": "2026-10-13T16:20:18+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24641",
+    "blog_name": "Meta Engineering",
+    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+    "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+    "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta&#8217;s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, our next goal is to further scale both compute and intelligence transfer with next-generation hardware, and expand this capability across Meta’s entire ads ecosystem. This [...] Read More... The post Meta’s Generative Ads Model (GEM): Scaling the Central ",
+    "published_iso": "2026-10-13T16:01:00+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "01M4RYTJWRQG5ZF619XNRPYAZB",
+    "blog_name": "Cloudflare Blog",
+    "title": "Rewinding the exponential: How we keep hardware usage down",
+    "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
+    "summary": "Our strategies to optimize our data pipeline throughput without compromising data quality.",
+    "published_iso": "2026-10-13T15:51:41+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
+    "blog_name": "ByteByteGo",
+    "title": "How the Math Used in 19th-Century Heat Physics Helps LLMs Understand Sentences",
+    "link": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
+    "summary": "In this article, we are going to understand how this connection works and why a model needs help understanding the order of the words even when the words already arrive in an ordered list.",
+    "published_iso": "2026-10-13T15:30:44+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "9e273fde0d61b89a663d187dcffb4022564cf6c2",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/",
+    "summary": "Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses machine learning and a serverless architecture on Amazon ECS, Amazon SQS, and Amazon S3 to detect and block sophisticated email impersonation in real time, without MX record changes.",
+    "published_iso": "2026-10-13T14:32:42+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "e381b31bf47d3e5f3b0713ff33d8fc92224c2605",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
+    "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
+    "summary": "In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit while working with DynamoDB and AWS Glue. Consider it a travel guide for anyone building their own bulk tooling on AWS Glue.",
+    "published_iso": "2026-10-13T14:23:33+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
+    "blog_name": "Martin Fowler",
+    "title": "The Craft of Practitioner Voice",
+    "link": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+    "summary": "A couple of months ago Jim Highsmith explained how practitioners writing for each other forms a distinct style of writing. He now adds a section to the article with more detail on the craft of how we write in this style. How the writer shows up in the prose, its four principles, the role of story, how to sensibly use AI, three levels of editing, and clarity of the audience. more…",
+    "published_iso": "2026-10-13T14:06:00+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-10-13:Are-Harnesses-Worth-the-Cost-",
+    "blog_name": "Martin Fowler",
+    "title": "Are Harnesses Worth the Cost?",
+    "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+    "summary": "Naresh Jain compares coding agents building the same API service with and without a behavioral harness. A frontier model, GPT-6 Sol, passed every external evaluation either way. But a cost-optimized model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10 with the harness. While adding the harness increased token usage and runtime for Luna, the harnessed Luna runs achieved the same 10-for-10 reliability as GPT-6 Sol while costing 33% less per run ($0.273 vs $0.406). This experime",
+    "published_iso": "2026-10-13T13:35:00+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://stripe.com/blog/economics-of-ai-monetization",
+    "blog_name": "Stripe Engineering",
+    "title": "The “alien” economics of AI monetization",
+    "link": "https://stripe.com/blog/economics-of-ai-monetization",
+    "summary": "As usage, costs, and customer expectations change, AI companies are moving beyond traditional SaaS pricing. Leaders at Monetize 2026 shared how they’re combining subscriptions with usage-based billing, building spend controls into products, adapting packaging and value metrics, and making pricing readable for both human and AI buyers.",
+    "published_iso": "2026-10-13T00:00:00+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
     "id": "https://engineering.fb.com/?p=24657",
     "blog_name": "Meta Engineering",
     "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
@@ -370,16 +470,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3T5GMDCTRDCS7CFJSMSJ2TS",
-    "blog_name": "Cloudflare Blog",
-    "title": "2026 Birthday week: network performance update",
-    "link": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
-    "summary": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/shopgym",
     "blog_name": "Shopify Engineering",
     "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
@@ -398,16 +488,6 @@
     "published_iso": "2026-10-01T15:37:06+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M3TJPSZAN4TKGKX6HWSNQWEP",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-    "link": "https://blog.cloudflare.com/clef-decision-models/",
-    "summary": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
-    "published_iso": "2026-10-01T15:34:02+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
@@ -860,16 +940,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
-    "blog_name": "ByteByteGo",
-    "title": "How LLMs Can Find a Needle in a Haystack",
-    "link": "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
-    "summary": "In this article, we are going to look at how LLMs can find a needle in a haystack.",
-    "published_iso": "2026-09-16T15:31:42+00:00",
-    "published_display": "2026-09-16",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
     "blog_name": "Discord Engineering",
     "title": "Adding the Discord Updates YOU Want to See",
@@ -1060,16 +1130,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://engineering.fb.com/?p=24419",
-    "blog_name": "Meta Engineering",
-    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
-    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-    "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specific agent. Its novelty comes from integrating two layers: A structured, auditable knowledge architecture separates what [...] Read More... The post An Organizational Second Brain: Building an AI That Learns From Experts appeared first on Engineering at Meta .",
-    "published_iso": "2026-09-02T09:00:29+00:00",
-    "published_display": "2026-09-02",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-09-01.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: September  1",
@@ -1078,26 +1138,6 @@
     "published_iso": "2026-09-01T19:50:00+00:00",
     "published_display": "2026-09-01",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "5ebb77e9f17c34300792188df51307ba3c47c1bb",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws/",
-    "summary": "Learn how to build a hybrid cloud orchestration solution that manages distributed on-premises infrastructure at scale using AWS serverless technologies and Amazon EKS Anywhere. Part 1 covers the core event-driven architecture patterns for automating server lifecycle and cluster management across hundreds of sites.",
-    "published_iso": "2026-09-01T14:01:10+00:00",
-    "published_display": "2026-09-01",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "dad9dac7fb1a93dce9ee9cb3be66334937e8c55f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
-    "link": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/",
-    "summary": "On July 28, 2026, MCP made its protocol core stateless, removing the initialize handshake and session header. This post maps the MCP 2026-07-28 specification to the AWS Well-Architected Agentic AI Lens, pillar by pillar, and shows why the stateless design lets you delete the sticky sessions and session stores your MCP servers needed on AWS.",
-    "published_iso": "2026-09-01T13:09:19+00:00",
-    "published_display": "2026-09-01",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/32f96320785e",
@@ -1198,16 +1238,6 @@
     "published_iso": "2026-08-19T14:32:58+00:00",
     "published_display": "2026-08-19",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
-    "blog_name": "Stripe Engineering",
-    "title": "Why global workers are driving demand for stablecoin payouts",
-    "link": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
-    "summary": "Platforms like DoorDash, Meta, and Deel already enable stablecoin payouts for global workers. We surveyed 2,300 workers in 20 countries to see what's driving stablecoin demand, where the opportunity is highest, and how other platforms can adapt.",
-    "published_iso": "2026-08-19T00:00:00+00:00",
-    "published_display": "2026-08-19",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-08-18.html",
@@ -1470,26 +1500,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
-    "blog_name": "Martin Fowler",
-    "title": "The Archaeologist’s Copilot",
-    "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
-    "summary": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. His early use of LLMs gave plausible answers that did not hold up in the codebase. Progress came when he grounded the process in evidence, using AI to support analysis, validation in a stable Docker environment, and gradual refactoring protected by tests. The main takeaway is pra",
-    "published_iso": "2026-07-16T13:25:00+00:00",
-    "published_display": "2026-07-16",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://medium.com/p/14e2d35198b4",
-    "blog_name": "Airbnb Engineering",
-    "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
-    "link": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
-    "summary": "Training an LLM is the easy part. The hard part is designing experiments and evaluations that you can trust enough to know whether the new model is actually an improvement. By : Baharak Saberidokht Introduction Shipping a production LLM system means iterating fast on improvements to something that is, by construction, non-deterministic. Models drift, judges disagree with themselves, references regenerate as different strings, and bugs may persist until the next release, because retraining takes ",
-    "published_iso": "2026-07-14T17:01:03+00:00",
-    "published_display": "2026-07-14",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
     "id": "https://slack.engineering/?p=17832",
     "blog_name": "Slack Engineering",
     "title": "Shipyard: How We Built Slack’s Next-Generation EC2 Platform",
@@ -1508,16 +1518,6 @@
     "published_iso": "2026-07-14T13:55:57+00:00",
     "published_display": "2026-07-14",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs",
-    "blog_name": "Martin Fowler",
-    "title": "DSLs Enable Reliable Use of LLMs",
-    "link": "https://martinfowler.com/articles/llm-and-dsls.html",
-    "summary": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from the start. Unmesh Joshi describes how the example of Tickloom - a domain model and DSL for illustrating distributed system behavior - shows how we can use an LLM as a partner to iteratively build a DSL and as a natural language interface to use it. Such a DSL can act as the key ",
-    "published_iso": "2026-07-14T12:51:00+00:00",
-    "published_display": "2026-07-14",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://medium.com/p/f4b792f3f0d8",

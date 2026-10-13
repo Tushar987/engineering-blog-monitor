@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "9e273fde0d61b89a663d187dcffb4022564cf6c2",
+    "e381b31bf47d3e5f3b0713ff33d8fc92224c2605",
     "1e67d99ee2ecea1713256087c55f2a9e733aa9e1",
     "aebc24bf9a1d048ba16980d4b7fa9ef45aa8d896",
     "7a57e88e8494b509df8ed41d9262cd07afd2d993",
@@ -74,6 +76,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
     "https://blog.bytebytego.com/p/how-to-build-models-without-language",
     "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
@@ -172,6 +175,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M4TZM0P3VSCZHV70ZGX58319",
+    "01M4RYTJWRQG5ZF619XNRPYAZB",
     "01M4HA4SBV0ANTH6C2775H4SSY",
     "01M4GV0DTKYJTCM5GPYBCME1T4",
     "01M497Y0BQ6DVED6YT05KTNA6W",
@@ -331,11 +336,13 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
     "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
     "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
     "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
-    "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
     "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+    "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
     "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
     "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
     "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
@@ -520,6 +527,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24641",
     "https://engineering.fb.com/?p=24657",
     "https://engineering.fb.com/?p=24625",
     "https://engineering.fb.com/?p=24593",
@@ -566,6 +574,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
+    "tag:martinfowler.com,2026-10-13:Are-Harnesses-Worth-the-Cost-",
     "https://martinfowler.com/fragments/2026-10-04.html",
     "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
     "https://martinfowler.com/bliki/SensibleDefault.html",
@@ -632,6 +642,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/3818ef8b4828",
     "https://medium.com/p/cea7ee9b1ab2",
     "https://medium.com/p/8e7891a1d486",
     "https://medium.com/p/8f1582578553",
@@ -889,6 +900,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/economics-of-ai-monetization",
     "https://stripe.com/blog/where-pricing-is-headed",
     "https://stripe.com/blog/ousd-now-live-on-stripe",
     "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",

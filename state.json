@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "9eaef3f4c88a47112b8c04ad1e33d9aa757e2f27",
+    "fdcab64740ec60846f6bf1edfbd9ccd18472404e",
+    "db08c5ad829da95b5a7c4c6bbfdacbbb57fe4dc9",
     "9e273fde0d61b89a663d187dcffb4022564cf6c2",
     "e381b31bf47d3e5f3b0713ff33d8fc92224c2605",
     "1e67d99ee2ecea1713256087c55f2a9e733aa9e1",
@@ -76,6 +79,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
     "https://blog.bytebytego.com/p/how-to-build-models-without-language",
     "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
@@ -175,6 +179,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M4VK1MXKAPMWG5QXYBFK222G",
     "01M4TZM0P3VSCZHV70ZGX58319",
     "01M4RYTJWRQG5ZF619XNRPYAZB",
     "01M4HA4SBV0ANTH6C2775H4SSY",
@@ -336,6 +341,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
     "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
     "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
@@ -574,6 +580,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
     "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
     "tag:martinfowler.com,2026-10-13:Are-Harnesses-Worth-the-Cost-",
     "https://martinfowler.com/fragments/2026-10-04.html",

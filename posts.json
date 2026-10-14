@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
+    "blog_name": "ByteByteGo",
+    "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
+    "link": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
+    "summary": "To understand why this happens, we need to connect three ideas: how models learn, how they generalize beyond their examples, and how they exhibit different kinds of behavior.",
+    "published_iso": "2026-10-14T15:30:42+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "9eaef3f4c88a47112b8c04ad1e33d9aa757e2f27",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
+    "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/",
+    "summary": "Learn how to build multi-region disaster recovery for Amazon API Gateway WebSocket APIs. This design pattern combines Amazon Route 53 DNS failover, Amazon DynamoDB Global Tables, a canary health probe, and client-side reconnection logic to reconnect clients and restore session state automatically during a regional failover.",
+    "published_iso": "2026-10-14T14:31:55+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "fdcab64740ec60846f6bf1edfbd9ccd18472404e",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How UTS established a modern curriculum data services foundation on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/",
+    "summary": "The University of Technology Sydney built a modern curriculum data services foundation on AWS that treats curriculum data as a governed, reusable product, available through APIs, graph traversal, semantic search, and event delivery, while leaving the source Curriculum Management System authoritative. One engineer now operates the domain.",
+    "published_iso": "2026-10-14T14:29:10+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
+    "blog_name": "Martin Fowler",
+    "title": "Build your slide template",
+    "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
+    "summary": "Building a slide template starts with three foundational choices &#x2014; colours, fonts and layouts. Sumeet Gayathri Moghe covers the basics of color theory and how to build a reusable palette, the essentials of typography, including serif, sans-serif, handwritten and monospace fonts, plus the finer points of kerning and leading, and why a near-blank layout might serve you better than the prescribed layouts that ship with your slideware. more…",
+    "published_iso": "2026-10-14T14:20:00+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M4VK1MXKAPMWG5QXYBFK222G",
+    "blog_name": "Cloudflare Blog",
+    "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+    "link": "https://blog.cloudflare.com/hyperdrive-mysql/",
+    "summary": "While adding MySQL support to Hyperdrive, we found a subtle protocol bug when caching query results. Here is how we tracked down a 0.001% rate error and made Hyperdrive MySQL generally available.",
+    "published_iso": "2026-10-14T13:00:00+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "db08c5ad829da95b5a7c4c6bbfdacbbb57fe4dc9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
+    "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
+    "summary": "The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environment: Amazon EKS label support for service input sources, generative AI-powered Dependency Insights, and resilience policy sharing through AWS Organizations.",
+    "published_iso": "2026-10-13T21:30:10+00:00",
+    "published_display": "2026-10-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://medium.com/p/3818ef8b4828",
     "blog_name": "Airbnb Engineering",
     "title": "CASTLE: training natural language search before the first real query",
@@ -460,16 +520,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3W899F5N6P98MYP180WJMS4",
-    "blog_name": "Cloudflare Blog",
-    "title": "Building for good: How civil society organizations are automating on Cloudflare",
-    "link": "https://blog.cloudflare.com/civil-society-automation/",
-    "summary": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/shopgym",
     "blog_name": "Shopify Engineering",
     "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
@@ -880,16 +930,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
-    "blog_name": "ByteByteGo",
-    "title": "Migrations at Scale: Changing the Application Engine at 30,000 Feet",
-    "link": "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
-    "summary": "In this article, we will look at how migrations work at scale and the key strategies that can help make it as efficient as possible.",
-    "published_iso": "2026-09-17T15:31:04+00:00",
-    "published_display": "2026-09-17",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "18fb31673e9a618596a70ed20c79c1252c09e569",
     "blog_name": "AWS Architecture Blog",
     "title": "Building cloud-native PACS on AWS",
@@ -990,16 +1030,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "e80ba765852a275e648b3690d469ab3e875ece2e",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
-    "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/",
-    "summary": "Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet management system on Amazon ECS and AWS Fargate that uses Amazon DynamoDB conditional writes as a distributed lease to track ownership, fail over automatically, and deploy with low downtime.",
-    "published_iso": "2026-09-10T16:14:22+00:00",
-    "published_display": "2026-09-10",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://shopify.engineering/shop-app-migration",
     "blog_name": "Shopify Engineering",
     "title": "Migrating Shop app from React Native to native",
@@ -1018,26 +1048,6 @@
     "published_iso": "2026-09-10T12:25:28+00:00",
     "published_display": "2026-09-10",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "a0b33820c0272b6c8f5a55af98ae45e8da62656d",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
-    "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/",
-    "summary": "Learn how to use AWS Fault Injection Service and AWS Systems Manager Automation to run progressive chaos experiments against Amazon SQS queues. Validate that your retry logic, circuit breakers, and dead-letter queues actually work under failure before a real outage hits production.",
-    "published_iso": "2026-09-09T21:33:59+00:00",
-    "published_display": "2026-09-09",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "a407526979b70b94a801af92b401656e5712788d",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
-    "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/",
-    "summary": "Learn how AWS, HashiCorp, and Athenahealth designed and chaos-tested a multi-Region disaster recovery strategy for Terraform Enterprise on AWS. This post walks through three-phase AWS Fault Injection Service experiments across Amazon EC2, Aurora, and Amazon S3, the 12-14 minute recovery times achieved, and the state file dependency pitfall to avoid.",
-    "published_iso": "2026-09-09T21:05:02+00:00",
-    "published_display": "2026-09-09",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-09-09:Social-Media-Engagement--summer-2026",
@@ -1468,16 +1478,6 @@
     "published_iso": "2026-07-21T17:01:04+00:00",
     "published_display": "2026-07-21",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-07-21.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: July 21",
-    "link": "https://martinfowler.com/fragments/2026-07-21.html",
-    "summary": "With this post, I’ll wrap up my notes from the second Future of Software Development Retreat . But before I do, I should note that the full Thoughtworks report on the retreat is now available . They have five headline findings: Code generation is no longer the bottleneck — verification is. ‘Harness engineering’ is emerging as a distinct, ownable discipline. Organizations are colliding with a real apprenticeship crisis. The executive/engineer expectation gap is a bigger risk than any technical li",
-    "published_iso": "2026-07-21T13:13:00+00:00",
-    "published_display": "2026-07-21",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://medium.com/p/a5a8e799ea2c",

@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "21a23b98402575816e22bf3073209ef99bface3d",
     "9eaef3f4c88a47112b8c04ad1e33d9aa757e2f27",
     "fdcab64740ec60846f6bf1edfbd9ccd18472404e",
     "db08c5ad829da95b5a7c4c6bbfdacbbb57fe4dc9",
@@ -79,6 +80,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-to-design-for-failures",
     "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
     "https://blog.bytebytego.com/p/how-to-build-models-without-language",
@@ -179,6 +181,10 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M5072CXFWQ88M9NCXZBSPAF2",
+    "01M4EX2BRJ7RNGAPQTBRXWRYT1",
+    "01M4YQC31GRHMR5V2624TPHTH7",
+    "01M4Y1477Z7DBJHXRZDP6MM2FN",
     "01M4VK1MXKAPMWG5QXYBFK222G",
     "01M4TZM0P3VSCZHV70ZGX58319",
     "01M4RYTJWRQG5ZF619XNRPYAZB",
@@ -341,14 +347,16 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
     "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
     "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
-    "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
     "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+    "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
     "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
-    "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
     "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+    "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
     "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
     "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
     "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
@@ -533,6 +541,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24721",
     "https://engineering.fb.com/?p=24641",
     "https://engineering.fb.com/?p=24657",
     "https://engineering.fb.com/?p=24625",
@@ -580,6 +589,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
     "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
     "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
     "tag:martinfowler.com,2026-10-13:Are-Harnesses-Worth-the-Cost-",
@@ -672,6 +682,16 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/cf176b5860eb",
+    "https://medium.com/p/92af926b40a5",
+    "https://medium.com/p/4c26be3a4d96",
+    "https://medium.com/p/e59d597c9d60",
+    "https://medium.com/p/826ebf9ad9fb",
+    "https://medium.com/p/41ad21067649",
+    "https://medium.com/p/588816b6b5f8",
+    "https://medium.com/p/c95bd8283508",
+    "https://medium.com/p/ddf9aa68a801",
+    "https://medium.com/p/d62b03a96d7a",
     "https://medium.com/p/516d5a29b252",
     "https://medium.com/p/67a85b15b6be",
     "https://medium.com/p/32f96320785e",
@@ -907,6 +927,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/real-time-stripe-data-postgres",
     "https://stripe.com/blog/economics-of-ai-monetization",
     "https://stripe.com/blog/where-pricing-is-headed",
     "https://stripe.com/blog/ousd-now-live-on-stripe",

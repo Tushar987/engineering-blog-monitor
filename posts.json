@@ -1,5 +1,195 @@
 [
   {
+    "id": "01M5072CXFWQ88M9NCXZBSPAF2",
+    "blog_name": "Cloudflare Blog",
+    "title": "A fully programmable secure web gateway",
+    "link": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+    "summary": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.",
+    "published_iso": "2026-10-15T17:11:12+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24721",
+    "blog_name": "Meta Engineering",
+    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
+    "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
+    "summary": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, “Sapienz: multi-objective automated testing for Android applications.” The recognition celebrates a decade of impact from work that began at University College London and went [...] Read More... The post Sapienz Receives ISSTA 2026 Impact Paper Award appeared first on Engineering at Meta .",
+    "published_iso": "2026-10-15T16:00:59+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "21a23b98402575816e22bf3073209ef99bface3d",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
+    "link": "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/",
+    "summary": "Dynata reimagined its development lifecycle with AI, moving from AI-assisted coding to the AI-Driven Development Lifecycle (AI-DLC) methodology with Kiro IDE. Learn how the company reduced the development phase of full-stack features from three to four sprints to roughly one, with every team aligned from the start.",
+    "published_iso": "2026-10-15T15:50:31+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-to-design-for-failures",
+    "blog_name": "ByteByteGo",
+    "title": "How to Design for Failures",
+    "link": "https://blog.bytebytego.com/p/how-to-design-for-failures",
+    "summary": "In this article, we&#8217;ll look at the various strategies that can help developers deal with failures in their systems.",
+    "published_iso": "2026-10-15T15:31:01+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M4EX2BRJ7RNGAPQTBRXWRYT1",
+    "blog_name": "Cloudflare Blog",
+    "title": "Deploy with Void",
+    "link": "https://blog.cloudflare.com/deploy-with-void/",
+    "summary": "Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.",
+    "published_iso": "2026-10-15T14:00:00+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
+    "blog_name": "Martin Fowler",
+    "title": "When Software Meets Hardware",
+    "link": "https://martinfowler.com/articles/software-meets-hardware.html",
+    "summary": "When software meets hardware, engineering principles remain largely the same, but the sensible defaults often change. Kuldeep Singh describes our experience modernizing a large IoT fleet of battery-powered sensors. Our familiar principles remained important; what changed was how we applied them. These practices emerged through experiments, failures, and operational experience&#x2014;each challenge helping us replace a reasonable assumption with a more sensible default. more…",
+    "published_iso": "2026-10-15T13:25:00+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M4YQC31GRHMR5V2624TPHTH7",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+    "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+    "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.",
+    "published_iso": "2026-10-15T13:00:00+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/real-time-stripe-data-postgres",
+    "blog_name": "Stripe Engineering",
+    "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline",
+    "link": "https://stripe.com/blog/real-time-stripe-data-postgres",
+    "summary": "Applications rely on current Stripe data to fulfill orders, update customer accounts, and manage access to paid features. Until now, developers have had to build and maintain custom integrations to keep application databases in sync with Stripe. We’re introducing real-time sync to Postgres for Stripe Data Pipeline, which lets them keep databases current without having to build custom integrations.",
+    "published_iso": "2026-10-15T00:00:00+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "01M4Y1477Z7DBJHXRZDP6MM2FN",
+    "blog_name": "Cloudflare Blog",
+    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
+    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
+    "published_iso": "2026-10-14T20:24:19+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://medium.com/p/cf176b5860eb",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+    "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+    "summary": "Authors: Divya Gadde , Ko-Jen Hsiao , Dhaval Patel and Moumita Bhattacharya The motivation for building the Netflix Foundation Model for personalization was laid out in this previous blog post. The Netflix homepage is powered by several specialized models and it requires significant time and resources to maintain and continue innovating on these individual models. Therefore, we decided to centralize member preference learning and have one powerful model learned from comprehensive user interactio",
+    "published_iso": "2026-10-14T20:02:22+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/92af926b40a5",
+    "blog_name": "Netflix Tech Blog",
+    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+    "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+    "summary": "by Olek Gorajek , Samuel Redai , Yian Shang Intro Our Netflix journey from data to dashboards, particularly within the space of the experimentation platform, always presented a unique set of challenges. This blog post aims to illuminate these hurdles and explain how an innovative open-source metric platform became instrumental in overcoming some of them. We’ll showcase the critical role that DataJunction played in streamlining our data workflows and enhancing our ability to derive meaningful ins",
+    "published_iso": "2026-10-14T19:59:08+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/4c26be3a4d96",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Measuring the Impact of Personalized Recommendations",
+    "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+    "summary": "By Kevin Zielnicki, Guy Aridor, Aurélien Bibaut, Allen Tran, Winston Chou, and Nathan Kallus Introduction Personalization is everywhere on the internet. It shapes the products we discover, the stories we read, the music we hear, and the movies and TV shows we watch. At Netflix, personalization has been central to the member experience for decades — from the Netflix Prize to our modern recommender system that helps members navigate a large and constantly changing catalog. But personalization is n",
+    "published_iso": "2026-10-14T19:57:43+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/e59d597c9d60",
+    "blog_name": "Netflix Tech Blog",
+    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+    "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+    "summary": "By Oleksii Tkachuk , Rajiv Shringi , Chris Lohfink , Abe Ratnofsky , Kartik Sathyanarayanan Introduction In an earlier post , we introduced the TimeSeries Abstraction, our high-throughput, low-latency platform designed to store and query temporal event data at scale. It has since become the operational backbone for Netflix’s largest datasets, which now span multiple petabytes. However, managing such large datasets in hot storage, tuned for low-millisecond latency access , is not cheap. At Netfli",
+    "published_iso": "2026-10-14T19:56:08+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/826ebf9ad9fb",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+    "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+    "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract. The result was Ads Event Publisher, the system that collects ad telemetry from client devices, enriches it with the context of the ad that was actually served, and publishes a single, unified stream of ad events to every downstream consumer:",
+    "published_iso": "2026-10-14T19:51:35+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/41ad21067649",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Netflix Conductor: The Next Chapter",
+    "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+    "summary": "Netflix Conductor : The Next Chapter by Aravindan Ramkumar on behalf of the Conductor team Conductor is the workflow orchestration engine Netflix uses to stitch micro-services into reliable, observable business processes. If you’ve followed Conductor from the outside, the last thing you heard was probably the note on its GitHub repository : Netflix discontinued maintenance of Conductor OSS to refocus its resources on the internal fork. That announcement marked the end of the open-source chapter,",
+    "published_iso": "2026-10-14T19:50:17+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/588816b6b5f8",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
+    "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+    "summary": "By Prashanth Gedde Narayanaswamy As one of Netflix’s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual viewing sessions per profile. A quick two-week tuning effort spiraled into two months when standard approaches hit a wall. Because the failures only happened at full production scale, each test took hours, limiting me to just three or four attempts daily. The t",
+    "published_iso": "2026-10-14T19:49:11+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/c95bd8283508",
+    "blog_name": "Netflix Tech Blog",
+    "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
+    "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+    "summary": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale hits the same problem. You cannot evaluate everything manually. You don't know which outputs are great, which are mediocre, and which are harmful, because you simply cannot read them all. The standard solution is LLM-as-a-Judge , a second model that scores the first model’s output",
+    "published_iso": "2026-10-14T19:48:49+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/ddf9aa68a801",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
+    "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+    "summary": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix’s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads — including encoding, packaging, inspection, and quality scoring — behind playback, advertising, studio workflows, AI embeddings, and more. Engineers develop Stratum functions by packaging application code and OS dependencies into OCI images. Stratum then schedules",
+    "published_iso": "2026-10-14T19:48:20+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/d62b03a96d7a",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Reliable GPU compute for large training & inference jobs",
+    "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+    "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home screen is assembled for you: which rows appear, the order they appear in, the titles within them, and the artwork for each title are chosen by machine learning models trained on how hundreds of millions of members watch. Personalization is one of the most widely used things we build",
+    "published_iso": "2026-10-14T19:47:42+00:00",
+    "published_display": "2026-10-14",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "blog_name": "ByteByteGo",
     "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
@@ -480,46 +670,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3XD0M307DCDJ5QYA2RFTW87",
-    "blog_name": "Cloudflare Blog",
-    "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
-    "link": "https://blog.cloudflare.com/enterprise-for-all-update/",
-    "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3WRXHGNF2ZH02N0GWY6FHVV",
-    "blog_name": "Cloudflare Blog",
-    "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
-    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-    "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3WNK9KTV3615MEM25RN3E4H",
-    "blog_name": "Cloudflare Blog",
-    "title": "Follow the thread: a new dashboard to investigate account abuse",
-    "link": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
-    "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3WEQR3N79CDBSMHD5V067HA",
-    "blog_name": "Cloudflare Blog",
-    "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
-    "link": "https://blog.cloudflare.com/protected-quick-tunnels/",
-    "summary": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/shopgym",
     "blog_name": "Shopify Engineering",
     "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
@@ -710,16 +860,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://medium.com/p/516d5a29b252",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
-    "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-    "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your internal services actually check when they decide whether to answer a request. On infrastructure you build yourself, you can bootstrap your own identity however you like. On managed compute you cannot. The provider hands your process a cloud identi",
-    "published_iso": "2026-09-25T16:01:03+00:00",
-    "published_display": "2026-09-25",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
     "blog_name": "ByteByteGo",
     "title": "LAST CALL FOR ENROLLMENT: Rebuild YouTube with AI",
@@ -860,16 +1000,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
-    "blog_name": "ByteByteGo",
-    "title": "EP226: API Concepts Every Software Engineer Should Know",
-    "link": "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
-    "summary": "Sending a request and reading JSON is one thing. Designing an API that other people can rely on is something where things get complicated.",
-    "published_iso": "2026-09-19T15:31:06+00:00",
-    "published_display": "2026-09-19",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "5cff745f1ebd06700755b840670b97f00bff9d5b",
     "blog_name": "AWS Architecture Blog",
     "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
@@ -878,16 +1008,6 @@
     "published_iso": "2026-09-18T21:33:13+00:00",
     "published_display": "2026-09-18",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://medium.com/p/67a85b15b6be",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Leave the Class Path in the Rearview Mirror",
-    "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-    "summary": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier than ever to start a Java program and evolve it using the full language and platform. At the end of that on-ramp lies Java’s mature build and dependency management ecosystem, capable of carrying software to enormous scale and complexity. That ecosystem reached its maturity by deve",
-    "published_iso": "2026-09-18T16:01:02+00:00",
-    "published_display": "2026-09-18",
-    "feed_url": "https://netflixtechblog.com/feed"
   },
   {
     "id": "b39eaaf3888a3d0bda8d6b3ca86f328b3e6e56af",
@@ -1020,16 +1140,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "b3d811007dba109422cf57f9148a494b3144ee73",
-    "blog_name": "AWS Architecture Blog",
-    "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/",
-    "summary": "Combine zero-shot forecasting with Amazon Chronos2 and multi-agent orchestration on Amazon Bedrock AgentCore to turn demand forecasts into validated purchase orders. No per-product model training, with business rules, auditability, and cost that scales to zero.",
-    "published_iso": "2026-09-11T14:08:01+00:00",
-    "published_display": "2026-09-11",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://shopify.engineering/shop-app-migration",
     "blog_name": "Shopify Engineering",
     "title": "Migrating Shop app from React Native to native",
@@ -1090,16 +1200,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://engineering.fb.com/?p=24463",
-    "blog_name": "Meta Engineering",
-    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
-    "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
-    "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. ZippyDB is the most widely used key value store at Meta, backing product metadata, counters, and configuration, and can serve billions [...] Read More... The post ZGateway: Learnings from Putting a Proxy in Front of ZippyDB appeared first on Engineering at Meta .",
-    "published_iso": "2026-09-03T16:00:20+00:00",
-    "published_display": "2026-09-03",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
     "blog_name": "Martin Fowler",
     "title": "Bliki: Paracelsus Maxim",
@@ -1150,16 +1250,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://medium.com/p/32f96320785e",
-    "blog_name": "Netflix Tech Blog",
-    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-    "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-    "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the video previews that autoplay while you browse, is there to connect you with a story you will love. We call these visual cues assets , and choosing the right one for each member is a personalization problem of its own. But which image or video preview of Squid",
-    "published_iso": "2026-08-28T16:01:02+00:00",
-    "published_display": "2026-08-28",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "tag:martinfowler.com,2026-08-27:Making-Your-Data-Ready-for-Agentic-AI",
     "blog_name": "Martin Fowler",
     "title": "Making Your Data Ready for Agentic AI",
@@ -1188,26 +1278,6 @@
     "published_iso": "2026-08-24T15:29:00+00:00",
     "published_display": "2026-08-24",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://medium.com/p/e9f6a1b1492b",
-    "blog_name": "Netflix Tech Blog",
-    "title": "A Tale of Two Flink Autoscalers",
-    "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-    "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for. We now run both in production and are steadily converging on the open-source one. Along the way we learned some hard lessons about metrics, cost",
-    "published_iso": "2026-08-21T16:01:01+00:00",
-    "published_display": "2026-08-21",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
-    "blog_name": "Stripe Engineering",
-    "title": "Five monetization trends from global pricing leaders",
-    "link": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
-    "summary": "As AI transforms software economics, the standard revenue playbook is breaking down. Learn how leaders around the world are preparing for agent buyers, updating processes for faster pricing iteration, and building more flexible infrastructure.",
-    "published_iso": "2026-08-20T00:00:00+00:00",
-    "published_display": "2026-08-20",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
@@ -1320,16 +1390,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://medium.com/p/0f3468349607",
-    "blog_name": "Netflix Tech Blog",
-    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-    "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-    "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1 , we discussed the motivation for creating the RDG and the architecture of the data processing pipeline that populates it. In Part 2 , we discussed how we designed the storage layer to handle billions of nodes and edges while maint",
-    "published_iso": "2026-08-07T16:01:02+00:00",
-    "published_display": "2026-08-07",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-august-4-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: August 4, 2026",
@@ -1380,16 +1440,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://medium.com/p/e7607acebde8",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Modeling Device Capabilities for Analytics",
-    "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-    "summary": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud gaming, across a diverse ecosystem of devices. However, not all devices are created equal. Hardware limitations such as available RAM, CPU cores, display capabilities, or platform support mean that some features cannot be supported on certain device models. To ensure the best pos",
-    "published_iso": "2026-07-31T16:01:02+00:00",
-    "published_display": "2026-07-31",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
     "blog_name": "Martin Fowler",
     "title": "The Conductor Developer",
@@ -1398,16 +1448,6 @@
     "published_iso": "2026-07-31T13:48:00+00:00",
     "published_display": "2026-07-31",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://medium.com/p/f20be6f643e3",
-    "blog_name": "Netflix Tech Blog",
-    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-    "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
-    "summary": "Authors: Ying Li , Arjun Rao , Shradha Sehgal Introduction Recommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand‑crafted features over users, items, and interactions, along with specialized architectures for sequence modeling, feature interactions, and multi‑task objectives. This stack has evolved over many years to support diverse content types (movies, series, games, live, podcasts) and product surfaces, but its complexity makes it ",
-    "published_iso": "2026-07-30T20:10:15+00:00",
-    "published_display": "2026-07-30",
-    "feed_url": "https://netflixtechblog.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
@@ -1460,16 +1500,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://martinfowler.com/rachels-ramblings/intro.html",
-    "blog_name": "Martin Fowler",
-    "title": "Why I’m Writing Rachel’s Ramblings",
-    "link": "https://martinfowler.com/rachels-ramblings/intro.html",
-    "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization: I have my own. Not just opinions. Actual patterns. Hypotheses. Things I’m seeing across clien",
-    "published_iso": "2026-07-28T12:32:00+00:00",
-    "published_display": "2026-07-28",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://medium.com/p/bcefd1915624",
     "blog_name": "Airbnb Engineering",
     "title": "Personalizing Airbnb search by learning from the guest journey",
@@ -1478,16 +1508,6 @@
     "published_iso": "2026-07-21T17:01:04+00:00",
     "published_display": "2026-07-21",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://medium.com/p/a5a8e799ea2c",
-    "blog_name": "Netflix Tech Blog",
-    "title": "In-House LLM Serving at Netflix",
-    "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
-    "summary": "By AI Platform’s Model Runtime team and Inference team Introduction Most organizations consume LLMs through hosted APIs. Netflix went further — we run the full stack ourselves, from model deployment through inference, inside our existing production environment rather than a separate ML silo. Some of those decisions weren’t obvious, and a few revealed their trade-offs only under production load. This post focuses on the choices where alternatives were seriously considered: engine selection, model",
-    "published_iso": "2026-07-17T21:32:39+00:00",
-    "published_display": "2026-07-17",
-    "feed_url": "https://netflixtechblog.com/feed"
   },
   {
     "id": "https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components",
@@ -1520,16 +1540,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://medium.com/p/f4b792f3f0d8",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-    "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
-    "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva &amp; Nathan Fisher A deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that made it work. Introduction In our first post , we introduced the problem: engineers at Netflix needed a unified, real-time view of service dependencies to troubleshoot faster, understand bl",
-    "published_iso": "2026-07-13T22:44:11+00:00",
-    "published_display": "2026-07-13",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://discord.com/blog/discord-patch-notes-july-7-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Patch Notes: July 7, 2026",
@@ -1558,16 +1568,6 @@
     "published_iso": "2026-06-30T00:00:00+00:00",
     "published_display": "2026-06-30",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/77146fba8a08",
-    "blog_name": "Netflix Tech Blog",
-    "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
-    "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
-    "summary": "Authors: Lequn Wang , J iangwei Pan , and Linas Baltrunas Figure 1. Autoregressive homepage generation. GenPage builds a Netflix homepage one row or entity at a time, each one conditioned on what’s already on the page and the user’s context. Introduction The Netflix homepage is the first thing users see when they open the app and the primary way they discover content to enjoy. Almost every part of it is personalized, including which rows appear, which entities show up within those rows, and how ",
-    "published_iso": "2026-06-29T13:01:02+00:00",
-    "published_display": "2026-06-29",
-    "feed_url": "https://netflixtechblog.com/feed"
   },
   {
     "id": "https://discord.com/blog/discord-update-june-25-2026-changelog",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://medium.com/p/421392cf5adf",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "summary": "Prasanna Vijayanathan , Renzo Sanchez-Silva When Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure takes in more than 2 billion requests and handles upwards of 38 million real-time logging events every second. At that scale, the whole picture doesn’t fit into a single engineering team’s head or onto a single dashboard. With more Live content, Podcasts and real-time streams, our n",
+    "published_iso": "2026-10-16T16:01:02+00:00",
+    "published_display": "2026-10-16",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "01M510YDY2PS6BYR03DF8HHG2D",
+    "blog_name": "Cloudflare Blog",
+    "title": "Continuous accountability for Verified bots",
+    "link": "https://blog.cloudflare.com/verified-bots-accountability/",
+    "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
+    "published_iso": "2026-10-16T13:00:00+00:00",
+    "published_display": "2026-10-16",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24709",
+    "blog_name": "Meta Engineering",
+    "title": "How Meta Built Forum With AI-Native Engineering",
+    "link": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+    "summary": "Meta&#8217;s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We&#8217;re sharing insights into what it took to build Forum with agentic AI: how we [...] Read More... The post How Meta Built Forum With AI-Native Engineering appeared first on Engineering at Meta .",
+    "published_iso": "2026-10-15T19:00:03+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24735",
+    "blog_name": "Meta Engineering",
+    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+    "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+    "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of everything we’ve built — but none are bigger than the quadrennial [...] Read More... The post 2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale appeared first on Engineering at Meta .",
+    "published_iso": "2026-10-15T18:30:29+00:00",
+    "published_display": "2026-10-15",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
     "id": "01M5072CXFWQ88M9NCXZBSPAF2",
     "blog_name": "Cloudflare Blog",
     "title": "A fully programmable secure web gateway",
@@ -62,7 +102,7 @@
   {
     "id": "01M4YQC31GRHMR5V2624TPHTH7",
     "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+    "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
     "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
     "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.",
     "published_iso": "2026-10-15T13:00:00+00:00",
@@ -176,16 +216,6 @@
     "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
     "summary": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix’s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads — including encoding, packaging, inspection, and quality scoring — behind playback, advertising, studio workflows, AI embeddings, and more. Engineers develop Stratum functions by packaging application code and OS dependencies into OCI images. Stratum then schedules",
     "published_iso": "2026-10-14T19:48:20+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/d62b03a96d7a",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Reliable GPU compute for large training & inference jobs",
-    "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-    "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home screen is assembled for you: which rows appear, the order they appear in, the titles within them, and the artwork for each title are chosen by machine learning models trained on how hundreds of millions of members watch. Personalization is one of the most widely used things we build",
-    "published_iso": "2026-10-14T19:47:42+00:00",
     "published_display": "2026-10-14",
     "feed_url": "https://netflixtechblog.com/feed"
   },
@@ -660,16 +690,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M3XE7G2V6JJXPKX92B1D4080",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
-    "link": "https://blog.cloudflare.com/cloudflare-tracing/",
-    "summary": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
-    "published_iso": "2026-10-02T13:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/shopgym",
     "blog_name": "Shopify Engineering",
     "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
@@ -970,16 +990,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://engineering.fb.com/?p=24447",
-    "blog_name": "Meta Engineering",
-    "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
-    "link": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
-    "summary": "We&#8217;re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related concerns: how to specify an assignment problem, how to store it efficiently in memory, how to solve it, and how to debug it. This separation of concerns is crucial to [...] Read More... The post Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems appeared fir",
-    "published_iso": "2026-09-21T16:00:37+00:00",
-    "published_display": "2026-09-21",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
     "blog_name": "ByteByteGo",
     "title": "How to Run a Big Model on Cheap Hardware?",
@@ -988,16 +998,6 @@
     "published_iso": "2026-09-21T15:32:11+00:00",
     "published_display": "2026-09-21",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24485",
-    "blog_name": "Meta Engineering",
-    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
-    "link": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
-    "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter service in 2029, it will be the first subsea cable system to deploy multi-core fiber technology at scale, doubling [...] Read More... The post Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable appeared first on Engineering at Meta .",
-    "published_iso": "2026-09-21T12:00:00+00:00",
-    "published_display": "2026-09-21",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "5cff745f1ebd06700755b840670b97f00bff9d5b",

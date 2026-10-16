@@ -181,6 +181,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M510YDY2PS6BYR03DF8HHG2D",
     "01M5072CXFWQ88M9NCXZBSPAF2",
     "01M4EX2BRJ7RNGAPQTBRXWRYT1",
     "01M4YQC31GRHMR5V2624TPHTH7",
@@ -347,16 +348,17 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
     "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
     "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
     "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
     "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
     "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
-    "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
     "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+    "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
     "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
     "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
     "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
@@ -541,6 +543,8 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24709",
+    "https://engineering.fb.com/?p=24735",
     "https://engineering.fb.com/?p=24721",
     "https://engineering.fb.com/?p=24641",
     "https://engineering.fb.com/?p=24657",
@@ -682,6 +686,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/421392cf5adf",
     "https://medium.com/p/cf176b5860eb",
     "https://medium.com/p/92af926b40a5",
     "https://medium.com/p/4c26be3a4d96",

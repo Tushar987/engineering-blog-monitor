@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+    "blog_name": "ByteByteGo",
+    "title": "EP229: 8 Chunking strategies for RAG-based agents",
+    "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+    "summary": "Which chunking strategy are you running in production?",
+    "published_iso": "2026-10-17T15:30:51+00:00",
+    "published_display": "2026-10-17",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://medium.com/p/421392cf5adf",
     "blog_name": "Netflix Tech Blog",
     "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
@@ -18,6 +28,16 @@
     "published_iso": "2026-10-16T13:00:00+00:00",
     "published_display": "2026-10-16",
     "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+    "blog_name": "Stripe Engineering",
+    "title": "New ways for fintechs to move money and expand globally",
+    "link": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+    "summary": "We’re introducing three updates to help fintechs launch products and grow internationally more easily: simpler payout management with Stripe Global Payouts, support for stablecoin cards in more countries, and unified APIs for building global financial products.",
+    "published_iso": "2026-10-16T00:00:00+00:00",
+    "published_display": "2026-10-16",
+    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://engineering.fb.com/?p=24709",
@@ -990,16 +1010,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
-    "blog_name": "ByteByteGo",
-    "title": "How to Run a Big Model on Cheap Hardware?",
-    "link": "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
-    "summary": "A large AI model can run on modest hardware only by reducing the memory it occupies, reducing the calculations it performs, or moving some work to slower hardware.",
-    "published_iso": "2026-09-21T15:32:11+00:00",
-    "published_display": "2026-09-21",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "5cff745f1ebd06700755b840670b97f00bff9d5b",
     "blog_name": "AWS Architecture Blog",
     "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
@@ -1128,16 +1138,6 @@
     "published_iso": "2026-09-15T15:11:00+00:00",
     "published_display": "2026-09-15",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
-    "blog_name": "Stripe Engineering",
-    "title": "What Stripe data shows about fraud at AI startups",
-    "link": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
-    "summary": "We analyzed attempted fraud rates and customer abuse patterns on Stripe over the past year and found that AI companies faced 4.3x more fraud attempts than startups overall in Q3 2025.",
-    "published_iso": "2026-09-15T00:00:00+00:00",
-    "published_display": "2026-09-15",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://shopify.engineering/shop-app-migration",

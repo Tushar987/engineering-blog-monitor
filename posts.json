@@ -1,5 +1,85 @@
 [
   {
+    "id": "01M58NMKW6A1DQJNZXH37VZ9JH",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+    "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
+    "published_iso": "2026-10-19T19:12:53+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M5AKCKW0449M3Q6FW10XB4K3",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "link": "https://blog.cloudflare.com/clairic-extraction-model/",
+    "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.",
+    "published_iso": "2026-10-19T17:48:26+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24783",
+    "blog_name": "Meta Engineering",
+    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+    "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+    "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers. GenRecs Tokenization is the foundational data representation that [...] Read More... The post GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model",
+    "published_iso": "2026-10-19T16:00:47+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+    "blog_name": "ByteByteGo",
+    "title": "How Uber Built a Genie to Answer Questions Correctly",
+    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+    "summary": "In this article, we will understand how Genie prepares knowledge, retrieves it, and generates answers.",
+    "published_iso": "2026-10-19T15:31:03+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24724",
+    "blog_name": "Meta Engineering",
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+    "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we&#8217;ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning. We’re sharing our own [...] Read More... The post The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do appeared first on ",
+    "published_iso": "2026-10-19T15:30:37+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24763",
+    "blog_name": "Meta Engineering",
+    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scaling it to comprise ~1 million GPUs. Prometheus also features technologies like closed-loop liquid cooling [...] Read More... The post Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster appeared first on Engineering at Meta .",
+    "published_iso": "2026-10-19T13:00:10+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "01M537RHECVHNJPV12N2E54ZR7",
+    "blog_name": "Cloudflare Blog",
+    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+    "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
+    "published_iso": "2026-10-19T13:00:00+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+    "blog_name": "Stripe Engineering",
+    "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
+    "link": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+    "summary": "AI is creating more SaaS competition, and platforms are feeling the pressure. A Stripe survey of 200 platform leaders shows how they plan to evolve pricing, grow revenue, and retain customers.",
+    "published_iso": "2026-10-19T00:00:00+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
     "blog_name": "ByteByteGo",
     "title": "EP229: 8 Chunking strategies for RAG-based agents",
@@ -420,16 +500,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://engineering.fb.com/?p=24593",
-    "blog_name": "Meta Engineering",
-    "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
-    "link": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
-    "summary": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromising baseline performance. This post describes how we designed and now operate the system at Meta&#8217;s scale and how it drives [...] Read More... The post Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations appeared first on Engineeri",
-    "published_iso": "2026-10-12T16:00:50+00:00",
-    "published_display": "2026-10-12",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
     "blog_name": "ByteByteGo",
     "title": "How to Build Models Without Language, with Logical Intelligence",
@@ -550,16 +620,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "https://engineering.fb.com/?p=24581",
-    "blog_name": "Meta Engineering",
-    "title": "NTS: Authenticated Time at Meta",
-    "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-    "summary": "Meta’s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way. Our NTS servers hold no per-client state. Cookie keys are derived, not stored and not replicated. We’ve open sourced everything, including [...] Read More... The post NTS: Authenticated Time at Meta appeared first on Engineering at Meta .",
-    "published_iso": "2026-10-06T16:00:06+00:00",
-    "published_display": "2026-10-06",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
     "blog_name": "ByteByteGo",
     "title": "Why LLMs Agree With You Even When You’re Wrong",
@@ -650,16 +710,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M3XHCB64KZ1NTN3N83GY590B",
-    "blog_name": "Cloudflare Blog",
-    "title": "8 major updates to Cloudflare Observability",
-    "link": "https://blog.cloudflare.com/one-observability-platform/",
-    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
-    "published_iso": "2026-10-02T18:00:00+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "7a57e88e8494b509df8ed41d9262cd07afd2d993",
     "blog_name": "AWS Architecture Blog",
     "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
@@ -688,26 +738,6 @@
     "published_iso": "2026-10-02T17:50:56+00:00",
     "published_display": "2026-10-02",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M3XKBJCTDTMBBCNNHA141F04",
-    "blog_name": "Cloudflare Blog",
-    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-    "link": "https://blog.cloudflare.com/streamline/",
-    "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
-    "published_iso": "2026-10-02T16:13:45+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M3XM9KVCRB6JKE07Q88EPGD2",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Web Search API via AI Gateway",
-    "link": "https://blog.cloudflare.com/introducing-web-search-api/",
-    "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
-    "published_iso": "2026-10-02T13:28:10+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://shopify.engineering/shopgym",
@@ -950,16 +980,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://engineering.fb.com/?p=24499",
-    "blog_name": "Meta Engineering",
-    "title": "Bringing Private Processing to Meta AI Glasses",
-    "link": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
-    "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone. Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and [...] Read More... The post Bringing Private Processing to Meta AI Glasses appeared first on Engineering at Meta .",
-    "published_iso": "2026-09-24T00:00:00+00:00",
-    "published_display": "2026-09-24",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
     "blog_name": "ByteByteGo",
     "title": "How to Customize a Model to Learn New Tricks",
@@ -967,16 +987,6 @@
     "summary": "In this article, we are going to look at the various strategies to customize and fine-tune a model.",
     "published_iso": "2026-09-23T15:30:40+00:00",
     "published_display": "2026-09-23",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
-    "blog_name": "ByteByteGo",
-    "title": "How OpenAI Built GPT-Live",
-    "link": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
-    "summary": "To understand how it all works end to end, we met with engineers on the GPT Voice team, Zahan Malkani and Justin Uberti (who created WebRTC).",
-    "published_iso": "2026-09-22T15:32:06+00:00",
-    "published_display": "2026-09-22",
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
@@ -1088,16 +1098,6 @@
     "published_iso": "2026-09-17T13:50:00+00:00",
     "published_display": "2026-09-17",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
-    "blog_name": "Stripe Engineering",
-    "title": "SaaS platforms are surging despite the SaaSpocalypse",
-    "link": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
-    "summary": "The SaaSpocalypse was a useful warning for the software industry, but SaaS platforms that help businesses run core operations are more deeply embedded. New platform businesses on Stripe are up 182% year over year.",
-    "published_iso": "2026-09-17T00:00:00+00:00",
-    "published_display": "2026-09-17",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-09-16.html",

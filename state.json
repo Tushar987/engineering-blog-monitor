@@ -80,6 +80,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
     "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
     "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
     "https://blog.bytebytego.com/p/how-to-design-for-failures",
@@ -183,6 +184,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M5C833HV3W30PBZZYVMCVRR6",
     "01M58NMKW6A1DQJNZXH37VZ9JH",
     "01M5AKCKW0449M3Q6FW10XB4K3",
     "01M537RHECVHNJPV12N2E54ZR7",
@@ -353,11 +355,15 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+    "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+    "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
     "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
-    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
     "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
@@ -729,6 +735,8 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/catalog-clustering-part-ii",
+    "https://shopify.engineering/overexposed",
     "https://shopify.engineering/shopgym",
     "https://shopify.engineering/helix",
     "https://shopify.engineering/shop-app-migration",
@@ -926,9 +934,7 @@
     "https://shopify.engineering/core-web-vitals",
     "https://shopify.engineering/quarterly-calibration-document",
     "https://shopify.engineering/aware-development-plan",
-    "https://shopify.engineering/faster-trino-query-execution-verification-benchmarking-profiling",
-    "https://shopify.engineering/debugging-systems-cloud-mysql-kubernetes-cgroups",
-    "https://shopify.engineering/yjit-benchmarking-harness"
+    "https://shopify.engineering/faster-trino-query-execution-verification-benchmarking-profiling"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

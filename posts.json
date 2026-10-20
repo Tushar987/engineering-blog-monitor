@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
+    "blog_name": "ByteByteGo",
+    "title": "Why Shopify Migrated From React Native",
+    "link": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
+    "summary": "In this article, we&#8217;ll look at how Shopify decided to move out of React Native and how they migrated to native mobile development.",
+    "published_iso": "2026-10-20T15:31:07+00:00",
+    "published_display": "2026-10-20",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://shopify.engineering/catalog-clustering-part-ii",
+    "blog_name": "Shopify Engineering",
+    "title": "Cross-store product clustering across millions of stores",
+    "link": "https://shopify.engineering/catalog-clustering-part-ii",
+    "summary": "How we group product listings across millions of stores using tiered matching models, graph partitioning, and learned cluster merge decisions.",
+    "published_iso": "2026-10-20T13:48:59+00:00",
+    "published_display": "2026-10-20",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "01M5C833HV3W30PBZZYVMCVRR6",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing tsrs: A port of TypeScript to Rust",
+    "link": "https://blog.cloudflare.com/typescript-rust-port/",
+    "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
+    "published_iso": "2026-10-20T13:00:00+00:00",
+    "published_display": "2026-10-20",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/overexposed",
+    "blog_name": "Shopify Engineering",
+    "title": "Building Overexposed: understanding application exposure",
+    "link": "https://shopify.engineering/overexposed",
+    "summary": "Our first scanner read config files and missed what was running. We rebuilt it with the cloud inventory, a careful probe, and honest results.",
+    "published_iso": "2026-10-19T21:54:14+00:00",
+    "published_display": "2026-10-19",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
     "id": "01M58NMKW6A1DQJNZXH37VZ9JH",
     "blog_name": "Cloudflare Blog",
     "title": "Cutting our inference bill by 68% by being obsessive about optimization",
@@ -670,16 +710,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M40C00BDZBKANZ5QVXW0AD7X",
-    "blog_name": "Cloudflare Blog",
-    "title": "One year later: the power of 1.1.1.1 interns",
-    "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
-    "summary": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it.",
-    "published_iso": "2026-10-05T13:00:00+00:00",
-    "published_display": "2026-10-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-10-04.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: October  4",
@@ -978,16 +1008,6 @@
     "published_iso": "2026-09-24T14:10:00+00:00",
     "published_display": "2026-09-24",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
-    "blog_name": "ByteByteGo",
-    "title": "How to Customize a Model to Learn New Tricks",
-    "link": "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
-    "summary": "In this article, we are going to look at the various strategies to customize and fine-tune a model.",
-    "published_iso": "2026-09-23T15:30:40+00:00",
-    "published_display": "2026-09-23",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
@@ -4977,26 +4997,6 @@
     "summary": "",
     "published_iso": "2021-02-16T19:45:41+00:00",
     "published_display": "2021-02-16",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/using-betas-to-deploy-new-features-safely",
-    "blog_name": "Shopify Engineering",
-    "title": "Using Betas to Deploy New Features Safely",
-    "link": "https://shopify.engineering/using-betas-to-deploy-new-features-safely",
-    "summary": "For companies like Shopify that practice continuous deployment, our code is changing multiple times every day. We have to de-risk new features to ship safely and confidently without impacting the million+ merchants using our platform. Beta flags are one approach to feature development that gives us a number of notable advantages.",
-    "published_iso": "2021-02-12T20:10:34+00:00",
-    "published_display": "2021-02-12",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/technical-mentorship-reimagined",
-    "blog_name": "Shopify Engineering",
-    "title": "Technical Mentorship Reimagined: Time-bound and No Awkward Asks Necessary",
-    "link": "https://shopify.engineering/technical-mentorship-reimagined",
-    "summary": "",
-    "published_iso": "2021-02-10T17:35:22+00:00",
-    "published_display": "2021-02-10",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

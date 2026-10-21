@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
+    "blog_name": "ByteByteGo",
+    "title": "LLM Prompt Caching Versus Semantic Caching",
+    "link": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
+    "summary": "In this article, we&#8217;ll look at how LLM caching works in detail.",
+    "published_iso": "2026-10-21T15:31:08+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M5E1HXVZGTKAKEYZ0KMZQ65Q",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing full transaction detection for Cloudflare WAF",
+    "link": "https://blog.cloudflare.com/full-transaction-waf/",
+    "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss.",
+    "published_iso": "2026-10-21T14:10:42+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M5FBPW0VHJGHYHGS7CWWKGSP",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare deploys protections against php2shell vulnerability",
+    "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.",
+    "published_iso": "2026-10-21T13:56:45+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M5AYSGXBWG00KS9KC299XDR8",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+    "link": "https://blog.cloudflare.com/webmcp-commerce/",
+    "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
+    "published_iso": "2026-10-21T13:00:00+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-10-21.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: October 21",
+    "link": "https://martinfowler.com/fragments/2026-10-21.html",
+    "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you So when ",
+    "published_iso": "2026-10-21T10:51:00+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://shopify.engineering/open-model-task-experts",
+    "blog_name": "Shopify Engineering",
+    "title": "How Shopify turns open models into task experts",
+    "link": "https://shopify.engineering/open-model-task-experts",
+    "summary": "Sidekick’s frontier model hands its most token-heavy work to open models that Shopify post-trains and serves itself. Here’s the loop we use to build them, and where NVIDIA’s models, software, and GPUs make each turn faster and cheaper.",
+    "published_iso": "2026-10-21T02:12:40+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "01M5DK5J81T0VC8YTBR2FKD8A3",
+    "blog_name": "Cloudflare Blog",
+    "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+    "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+    "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
+    "published_iso": "2026-10-20T22:20:16+00:00",
+    "published_display": "2026-10-20",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
     "blog_name": "ByteByteGo",
     "title": "Why Shopify Migrated From React Native",
@@ -610,26 +680,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M4ATYPWQETFZA4EZJ5AJYSFT",
-    "blog_name": "Cloudflare Blog",
-    "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-    "link": "https://blog.cloudflare.com/radar-redesign/",
-    "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth.",
-    "published_iso": "2026-10-08T13:00:00+00:00",
-    "published_display": "2026-10-08",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M49SJF5QT2EPN5CTQ3C99EZW",
-    "blog_name": "Cloudflare Blog",
-    "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-    "link": "https://blog.cloudflare.com/agentic-security-operations/",
-    "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded recommendations to Managed Defense Analysts.",
-    "published_iso": "2026-10-07T16:30:36+00:00",
-    "published_display": "2026-10-07",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
     "blog_name": "ByteByteGo",
     "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
@@ -638,16 +688,6 @@
     "published_iso": "2026-10-07T15:31:48+00:00",
     "published_display": "2026-10-07",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01M490D3EE2TBV2NFMN6FXMMQ8",
-    "blog_name": "Cloudflare Blog",
-    "title": "The keys to the Internet change on October 11. Are you ready?",
-    "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
-    "summary": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
-    "published_iso": "2026-10-06T17:50:11+00:00",
-    "published_display": "2026-10-06",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/cea7ee9b1ab2",
@@ -698,16 +738,6 @@
     "published_iso": "2026-10-05T15:30:51+00:00",
     "published_display": "2026-10-05",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01M45M6M9H2C1A45G0S8EC3KW9",
-    "blog_name": "Cloudflare Blog",
-    "title": "Everything we launched during Birthday Week 2026",
-    "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-    "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.",
-    "published_iso": "2026-10-05T13:00:00+00:00",
-    "published_display": "2026-10-05",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-10-04.html",
@@ -988,16 +1018,6 @@
     "published_iso": "2026-09-24T15:35:00+00:00",
     "published_display": "2026-09-24",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to",
-    "blog_name": "ByteByteGo",
-    "title": "The Life of Data: From Creation to Deletion",
-    "link": "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to",
-    "summary": "In this article, we are going to look at the entire data lifecycle from creation to deletion and the decisions that need to be taken at each step.",
-    "published_iso": "2026-09-24T15:31:06+00:00",
-    "published_display": "2026-09-24",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-09-24:Healthy-Feedback",
@@ -1508,16 +1528,6 @@
     "published_iso": "2026-07-28T17:01:03+00:00",
     "published_display": "2026-07-28",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
-    "blog_name": "Martin Fowler",
-    "title": "The Orchestrator's Tax",
-    "link": "https://martinfowler.com/articles/orchestrator-tax.html",
-    "summary": "Subagents get justified by time saved and parallel execution, but Rahul Garg explains that's not what matters most. Every token in the orchestrator's context is competing for its attention, and the real value of a subagent is what it keeps out of that context. Subagents should be treated as a tool for protecting the orchestrator's working memory, offloading reasoning it doesn't need to hold onto. Doing this well means giving the orchestrator explicit ground rules for when and how to delegate. mo",
-    "published_iso": "2026-07-28T13:10:00+00:00",
-    "published_display": "2026-07-28",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://medium.com/p/bcefd1915624",
@@ -4987,16 +4997,6 @@
     "summary": "",
     "published_iso": "2021-02-22T21:55:03+00:00",
     "published_display": "2021-02-22",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/eight-tips-for-hanging-pennies",
-    "blog_name": "Shopify Engineering",
-    "title": "Bound to Round: 8 Tips for Dealing with Hanging Pennies",
-    "link": "https://shopify.engineering/eight-tips-for-hanging-pennies",
-    "summary": "",
-    "published_iso": "2021-02-16T19:45:41+00:00",
-    "published_display": "2021-02-16",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

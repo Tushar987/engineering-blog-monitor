@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "3083d22d003e22c7c2b210ab8e5f770650dfef5b",
     "21a23b98402575816e22bf3073209ef99bface3d",
     "9eaef3f4c88a47112b8c04ad1e33d9aa757e2f27",
     "fdcab64740ec60846f6bf1edfbd9ccd18472404e",
@@ -80,6 +81,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
     "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
     "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
     "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
@@ -185,6 +187,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M5FTVN0D8MSEXMF36ZM9WWD4",
     "01M5E1HXVZGTKAKEYZ0KMZQ65Q",
     "01M5FBPW0VHJGHYHGS7CWWKGSP",
     "01M5AYSGXBWG00KS9KC299XDR8",
@@ -360,16 +363,18 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+    "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
     "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
-    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-    "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+    "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
     "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
-    "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
     "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
     "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
@@ -742,6 +747,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/remote-dev",
     "https://shopify.engineering/open-model-task-experts",
     "https://shopify.engineering/catalog-clustering-part-ii",
     "https://shopify.engineering/overexposed",
@@ -940,8 +946,7 @@
     "https://shopify.engineering/propensity-score-matching-shopify-capital",
     "https://shopify.engineering/high-performance-hydrogen-powered-storefronts",
     "https://shopify.engineering/core-web-vitals",
-    "https://shopify.engineering/quarterly-calibration-document",
-    "https://shopify.engineering/aware-development-plan"
+    "https://shopify.engineering/quarterly-calibration-document"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",
@@ -955,6 +960,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
     "https://stripe.com/blog/saas-platform-trends-in-AI-era",
     "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
     "https://stripe.com/blog/real-time-stripe-data-postgres",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
+    "blog_name": "ByteByteGo",
+    "title": "Why Distributed Systems Prefer Independence over Coordination",
+    "link": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
+    "summary": "In this article, we&#8217;ll look at why coordination is a challenge for distributed systems.",
+    "published_iso": "2026-10-22T15:30:47+00:00",
+    "published_display": "2026-10-22",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M5FTVN0D8MSEXMF36ZM9WWD4",
+    "blog_name": "Cloudflare Blog",
+    "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+    "link": "https://blog.cloudflare.com/k-isms/",
+    "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
+    "published_iso": "2026-10-22T13:00:00+00:00",
+    "published_display": "2026-10-22",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://shopify.engineering/remote-dev",
+    "blog_name": "Shopify Engineering",
+    "title": "We gave AI agents a mobile dev environment",
+    "link": "https://shopify.engineering/remote-dev",
+    "summary": "We built Remote Dev so AI agents can build and test apps in parallel, without maxing out developers’ laptops.",
+    "published_iso": "2026-10-22T12:56:38+00:00",
+    "published_display": "2026-10-22",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
+    "blog_name": "Stripe Engineering",
+    "title": "Trends from Money20/20 2026: The rise of “hidden” financial services",
+    "link": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
+    "summary": "As fintech products become increasingly capable, the infrastructure behind them fades into the background. Three trends from Money20/20 show how stablecoins, agents, and always-on money are changing financial services.",
+    "published_iso": "2026-10-22T00:00:00+00:00",
+    "published_display": "2026-10-22",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "3083d22d003e22c7c2b210ab8e5f770650dfef5b",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
+    "summary": "Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. This medical coding workflow escalates cheapest-first: a safety block-list, then exact matching, then an AI agent only for terms that need judgment, keeping every routing decision auditable.",
+    "published_iso": "2026-10-21T21:26:23+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
     "blog_name": "ByteByteGo",
     "title": "LLM Prompt Caching Versus Semantic Caching",
@@ -660,16 +710,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M4EHZFCN5RWBFJJ8WEERWAYZ",
-    "blog_name": "Cloudflare Blog",
-    "title": "Deno is joining Cloudflare",
-    "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
-    "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places.",
-    "published_iso": "2026-10-09T12:50:00+00:00",
-    "published_display": "2026-10-09",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "blog_name": "ByteByteGo",
     "title": "How Software Boundaries Are The Most Important Skill for Developers",
@@ -990,16 +1030,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
-    "blog_name": "ByteByteGo",
-    "title": "LAST CALL FOR ENROLLMENT: Rebuild YouTube with AI",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
-    "summary": "Rebuild YouTube with AI, taught by a former YouTube engineer, kicks off on Saturday, September 26. Enrollment closes in 24 hours.",
-    "published_iso": "2026-09-25T15:02:53+00:00",
-    "published_display": "2026-09-25",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://discord.com/blog/discord-update-september-25-2026",
     "blog_name": "Discord Engineering",
     "title": "Discord Update: September 25, 2026",
@@ -1080,16 +1110,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
-    "blog_name": "Stripe Engineering",
-    "title": "Analyzing rising fraud attempts among travel and leisure businesses on Stripe",
-    "link": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
-    "summary": "Last year, Stripe data shows fraud attempts against travel and leisure businesses hit a four-year high. We analyzed payment activity from more than 200,000 active travel and leisure businesses on Stripe to understand where fraud is rising, how effectively it’s being blocked, and what businesses can do in response.",
-    "published_iso": "2026-09-18T00:00:00+00:00",
-    "published_display": "2026-09-18",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "abde72628d20a0fb06d89f38a8faa222bb07078f",
     "blog_name": "AWS Architecture Blog",
     "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
@@ -1116,16 +1136,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
     "summary": "A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cross-facility interoperability, and use Amazon S3 storage tiers to manage cost and retention at scale.",
     "published_iso": "2026-09-17T15:21:06+00:00",
-    "published_display": "2026-09-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "da8e6c6920600acd716de621ffe6449fd824abc7",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
-    "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/",
-    "summary": "Learn how DHI Group partnered with AWS to move generative AI workloads from idea to production using a structured hackathon. This post covers the Hackathon Acceleration Package, the winning ClearanceJobs and AgileATS agentic architecture on Amazon Bedrock AgentCore, and the principles that make hackathons a repeatable path to production.",
-    "published_iso": "2026-09-17T15:13:42+00:00",
     "published_display": "2026-09-17",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
@@ -4987,16 +4997,6 @@
     "summary": "Slow CI systems are often responsible for making frustrated developers. Keeping these systems fast requires an ongoing effort. However, before jumping into implementing performance tweaks, it's important to set up a solid monitoring system.",
     "published_iso": "2021-02-24T15:44:31+00:00",
     "published_display": "2021-02-24",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/read-consistency-database-replicas",
-    "blog_name": "Shopify Engineering",
-    "title": "Read Consistency with Database Replicas",
-    "link": "https://shopify.engineering/read-consistency-database-replicas",
-    "summary": "",
-    "published_iso": "2021-02-22T21:55:03+00:00",
-    "published_display": "2021-02-22",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://medium.com/p/6d8b1909d163",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+    "summary": "Samartha Chandrashekar &amp; Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container hosting platform: we keep both the control plane and the data plane (the container hosts that actually run containers) patched and up to date, so application teams get a consistent and reliable container experience. They hand us a containe",
+    "published_iso": "2026-10-22T22:19:12+00:00",
+    "published_display": "2026-10-22",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
     "blog_name": "ByteByteGo",
     "title": "Why Distributed Systems Prefer Independence over Coordination",
@@ -38,6 +48,16 @@
     "published_iso": "2026-10-22T00:00:00+00:00",
     "published_display": "2026-10-22",
     "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/discord-update-october-22-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Update: October 22, 2026",
+    "link": "https://discord.com/blog/discord-update-october-22-2026",
+    "summary": "Here's the Discord Changelog from October 22, 2026, so you can stay informed on what’s new in recent app updates!",
+    "published_iso": "2026-10-22T00:00:00+00:00",
+    "published_display": "2026-10-22",
+    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "3083d22d003e22c7c2b210ab8e5f770650dfef5b",
@@ -466,16 +486,6 @@
     "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
     "summary": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale hits the same problem. You cannot evaluate everything manually. You don't know which outputs are great, which are mediocre, and which are harmful, because you simply cannot read them all. The standard solution is LLM-as-a-Judge , a second model that scores the first model’s output",
     "published_iso": "2026-10-14T19:48:49+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/ddf9aa68a801",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
-    "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
-    "summary": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix’s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads — including encoding, packaging, inspection, and quality scoring — behind playback, advertising, studio workflows, AI embeddings, and more. Engineers develop Stratum functions by packaging application code and OS dependencies into OCI images. Stratum then schedules",
-    "published_iso": "2026-10-14T19:48:20+00:00",
     "published_display": "2026-10-14",
     "feed_url": "https://netflixtechblog.com/feed"
   },
@@ -2827,16 +2837,6 @@
     "summary": "With Nitro, your Quest rewards don’t fade—hold onto exclusive decorations long after the adventure ends.",
     "published_iso": "2025-04-14T00:00:00+00:00",
     "published_display": "2025-04-14",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/how-to-use-discords-in-game-overlay-to-talk-while-playing-on-pc",
-    "blog_name": "Discord Engineering",
-    "title": "How to Use Discord’s In-Game Overlay to Talk While Playing on PC",
-    "link": "https://discord.com/blog/how-to-use-discords-in-game-overlay-to-talk-while-playing-on-pc",
-    "summary": "Discord’s In-Game Overlay lets you join voice and video calls, see who’s talkin’, and stream your gameplay without ever having to alt-tab out of your current match! Learn how it works and how you can customize it to your liking.",
-    "published_iso": "2025-04-10T00:00:00+00:00",
-    "published_display": "2025-04-10",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
+    "blog_name": "ByteByteGo",
+    "title": "EP230: RAG vs Agentic RAG",
+    "link": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
+    "summary": "Here's how RAG and agentic RAG typically work.",
+    "published_iso": "2026-10-24T15:30:37+00:00",
+    "published_display": "2026-10-24",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/9474f2fd4f90",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+    "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem. A library change begins in one repository, but its impact can reach many others. Producers can see the API diff in front of them. What they often cannot see is who still depends on the sy",
+    "published_iso": "2026-10-23T18:32:51+00:00",
+    "published_display": "2026-10-23",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "01M5MZPETYH27RS72QV5V85YZ8",
+    "blog_name": "Cloudflare Blog",
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "link": "https://blog.cloudflare.com/origin-range-requests/",
+    "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+    "published_iso": "2026-10-23T18:22:59+00:00",
+    "published_display": "2026-10-23",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M5MYFG0SHDEYME96N0A4Z6PH",
+    "blog_name": "Cloudflare Blog",
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
+    "published_iso": "2026-10-23T18:06:56+00:00",
+    "published_display": "2026-10-23",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://medium.com/p/6d8b1909d163",
     "blog_name": "Netflix Tech Blog",
     "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
@@ -480,16 +520,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://medium.com/p/c95bd8283508",
-    "blog_name": "Netflix Tech Blog",
-    "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
-    "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
-    "summary": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale hits the same problem. You cannot evaluate everything manually. You don't know which outputs are great, which are mediocre, and which are harmful, because you simply cannot read them all. The standard solution is LLM-as-a-Judge , a second model that scores the first model’s output",
-    "published_iso": "2026-10-14T19:48:49+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "blog_name": "ByteByteGo",
     "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
@@ -698,26 +728,6 @@
     "published_iso": "2026-10-12T14:34:57+00:00",
     "published_display": "2026-10-12",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "01M4GV0DTKYJTCM5GPYBCME1T4",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-    "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
-    "summary": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x.",
-    "published_iso": "2026-10-09T18:27:34+00:00",
-    "published_display": "2026-10-09",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M497Y0BQ6DVED6YT05KTNA6W",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
-    "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
-    "summary": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks.",
-    "published_iso": "2026-10-09T13:00:00+00:00",
-    "published_display": "2026-10-09",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
@@ -1028,16 +1038,6 @@
     "published_iso": "2026-09-28T00:00:00+00:00",
     "published_display": "2026-09-28",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev",
-    "blog_name": "ByteByteGo",
-    "title": "EP227: Top 9 Places to Use Jev",
-    "link": "https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev",
-    "summary": "Jev is TypeSafe AI&#8217;s first System One Model. It is 100x faster and cheaper than frontier LLMs.",
-    "published_iso": "2026-09-26T14:31:13+00:00",
-    "published_display": "2026-09-26",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://discord.com/blog/discord-update-september-25-2026",

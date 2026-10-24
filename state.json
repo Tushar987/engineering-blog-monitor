@@ -81,6 +81,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
     "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
     "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
     "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
@@ -187,6 +188,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M5MZPETYH27RS72QV5V85YZ8",
+    "01M5MYFG0SHDEYME96N0A4Z6PH",
     "01M5FTVN0D8MSEXMF36ZM9WWD4",
     "01M5E1HXVZGTKAKEYZ0KMZQ65Q",
     "01M5FBPW0VHJGHYHGS7CWWKGSP",
@@ -715,6 +718,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/9474f2fd4f90",
     "https://medium.com/p/6d8b1909d163",
     "https://medium.com/p/421392cf5adf",
     "https://medium.com/p/cf176b5860eb",

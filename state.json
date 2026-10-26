@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "7f6a312a6b22d087b062dc75877241a3e91011c4",
+    "fc1365bab1417ad5250481028146d57ec2027f39",
     "3083d22d003e22c7c2b210ab8e5f770650dfef5b",
     "21a23b98402575816e22bf3073209ef99bface3d",
     "9eaef3f4c88a47112b8c04ad1e33d9aa757e2f27",
@@ -81,6 +83,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
     "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
     "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
     "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
@@ -366,15 +369,16 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+    "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
     "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+    "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
     "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
     "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
     "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
-    "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
     "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
     "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
     "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
@@ -571,6 +575,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24816",
     "https://engineering.fb.com/?p=24783",
     "https://engineering.fb.com/?p=24724",
     "https://engineering.fb.com/?p=24763",
@@ -718,6 +723,8 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/6b0811a1c015",
+    "https://medium.com/p/2e6b42810f49",
     "https://medium.com/p/9474f2fd4f90",
     "https://medium.com/p/6d8b1909d163",
     "https://medium.com/p/421392cf5adf",

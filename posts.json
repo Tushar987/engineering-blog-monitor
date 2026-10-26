@@ -1,5 +1,65 @@
 [
   {
+    "id": "7f6a312a6b22d087b062dc75877241a3e91011c4",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Data governance with annotations in Amazon S3",
+    "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/",
+    "summary": "Attach governance context such as classification, retention, residency, and PII flags directly to your Amazon S3 objects with S3 annotations. This post walks through the end-to-end pattern and the handful of S3 behaviors that decide whether your governance design is correct.",
+    "published_iso": "2026-10-26T18:00:26+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "fc1365bab1417ad5250481028146d57ec2027f39",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
+    "link": "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/",
+    "summary": "The next generation of AWS Resilience Hub introduces recommended resilience testing: four pre-configured, AWS FIS-powered tests that validate how your service detects and recovers from failures across Availability Zones, dependencies, and Regions, turning your resilience policy into evidence-backed pass or fail results.",
+    "published_iso": "2026-10-26T17:35:01+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://medium.com/p/6b0811a1c015",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+    "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark, Trino, and Druid. On peak days, roughly 100,000 workloads fail. When workloads fail, the failure itself is only the beginning. Someone still needs to find the useful signal in several logs, decide whether the cause sits in their code or the",
+    "published_iso": "2026-10-26T17:04:57+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://medium.com/p/2e6b42810f49",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+    "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+    "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe , Sanford Holsapple Introduction Clips in the Netflix mobile app. At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device. Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our soc",
+    "published_iso": "2026-10-26T16:01:02+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24816",
+    "blog_name": "Meta Engineering",
+    "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+    "link": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+    "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IcePack &#38; IceCube: Meta&#8217;s first liquid-cooled network rack with 102.4T switch blades (128×800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running [...] Read More... The post Meta Networking at the 2026 OCP Global Summit: Open Innovation for S",
+    "published_iso": "2026-10-26T16:00:07+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
+    "blog_name": "ByteByteGo",
+    "title": "A Deep Dive into Salesforce’s Agent Tech Stack",
+    "link": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
+    "summary": "Salesforce moved to a new design, a multi-layer system that combines deterministic code with reasoning models for maximum reliability.",
+    "published_iso": "2026-10-26T15:30:38+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
     "blog_name": "ByteByteGo",
     "title": "EP230: RAG vs Agentic RAG",
@@ -500,26 +560,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://medium.com/p/41ad21067649",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Netflix Conductor: The Next Chapter",
-    "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
-    "summary": "Netflix Conductor : The Next Chapter by Aravindan Ramkumar on behalf of the Conductor team Conductor is the workflow orchestration engine Netflix uses to stitch micro-services into reliable, observable business processes. If you’ve followed Conductor from the outside, the last thing you heard was probably the note on its GitHub repository : Netflix discontinued maintenance of Conductor OSS to refocus its resources on the internal fork. That announcement marked the end of the open-source chapter,",
-    "published_iso": "2026-10-14T19:50:17+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/588816b6b5f8",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
-    "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
-    "summary": "By Prashanth Gedde Narayanaswamy As one of Netflix’s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual viewing sessions per profile. A quick two-week tuning effort spiraled into two months when standard approaches hit a wall. Because the failures only happened at full production scale, each test took hours, limiting me to just three or four attempts daily. The t",
-    "published_iso": "2026-10-14T19:49:11+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "blog_name": "ByteByteGo",
     "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
@@ -686,16 +726,6 @@
     "link": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
     "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs connect to the network MetaRoCE, our open-source AI transport protocol. Launching [...] Read More... The post OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale",
     "published_iso": "2026-10-12T21:19:18+00:00",
-    "published_display": "2026-10-12",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24625",
-    "blog_name": "Meta Engineering",
-    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
-    "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
-    "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We’re sharing how we shipped MoQ on Instagram Live ingest, and what the future looks like from here. [...] Read More... The post Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest appeared first on Engineering at Meta .",
-    "published_iso": "2026-10-12T16:01:32+00:00",
     "published_display": "2026-10-12",
     "feed_url": "https://engineering.fb.com/feed/"
   },
@@ -1020,16 +1050,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
-    "blog_name": "ByteByteGo",
-    "title": "AI Agents Can Think. Now They Can Pay.",
-    "link": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
-    "summary": "I attended a MPP event at Stripe HQ, where I spoke with Emily Sands and Matt Schulman from Stripe, along with Brendan Ryan from Tempo.",
-    "published_iso": "2026-09-28T15:31:11+00:00",
-    "published_display": "2026-09-28",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
     "blog_name": "Stripe Engineering",
     "title": "Travel’s AI dilemma at Skift Global Forum",
@@ -1120,16 +1140,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "abde72628d20a0fb06d89f38a8faa222bb07078f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
-    "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
-    "summary": "Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its self-managed Kubernetes environment. Learn how a multi-account North Star architecture centralized governance and shared services, delivering 4x faster deployments and 40% less operational overhead.",
-    "published_iso": "2026-09-17T18:00:56+00:00",
-    "published_display": "2026-09-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://medium.com/p/8f1582578553",
     "blog_name": "Airbnb Engineering",
     "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
@@ -1138,16 +1148,6 @@
     "published_iso": "2026-09-17T17:01:02+00:00",
     "published_display": "2026-09-17",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "18fb31673e9a618596a70ed20c79c1252c09e569",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Building cloud-native PACS on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
-    "summary": "A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cross-facility interoperability, and use Amazon S3 storage tiers to manage cost and retention at scale.",
-    "published_iso": "2026-09-17T15:21:06+00:00",
-    "published_display": "2026-09-17",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://martinfowler.com/articles/2026-dont-like-llms.html",

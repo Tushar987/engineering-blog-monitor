@@ -1,5 +1,125 @@
 [
   {
+    "id": "644bfb8c6ef932df30dfaa7f8a8e2abd2134ed01",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+    "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
+    "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into compliant SCORM packages that are ready to upload to a learning management system (LMS).",
+    "published_iso": "2026-10-27T17:23:23+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "80bd9c10bc47f0c51d261c7793bed51ada46e7aa",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
+    "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training machine learning models on each vessel's own operational history. Learn how Manta delivers vessel-specific voyage optimization on AWS to help shipowners reduce fuel consumption and improve voyage efficiency.",
+    "published_iso": "2026-10-27T17:14:32+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "f413b7c2a217297655ef9310f383a082afd64b46",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
+    "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
+    "summary": "Anchorage Digital and Turnkey built verifiable infrastructure on AWS Nitro Enclaves so crypto wallets can cryptographically verify which code parsed a transaction. This post covers the architecture, the attestation-gated access pattern, and how it extends to any high-trust workflow beyond blockchain.",
+    "published_iso": "2026-10-27T17:10:35+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24851",
+    "blog_name": "Meta Engineering",
+    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+    "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+    "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta&#8217;s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement logic separately in each system. PrivacyLib replaces this with a common library that runs inside [...] Read More... The post PrivacyLib: Privacy Controls at the Data Access Boundary appeared first on Engineering at M",
+    "published_iso": "2026-10-27T16:00:12+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24841",
+    "blog_name": "Meta Engineering",
+    "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+    "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+    "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty. For the third consecutive year, we asked Python developers how they [...] Read More... The post Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape appeared first on Engineering at Me",
+    "published_iso": "2026-10-27T15:59:24+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+    "blog_name": "ByteByteGo",
+    "title": "How Apple Fits an LLM on Your iPhone",
+    "link": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+    "summary": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
+    "published_iso": "2026-10-27T15:31:04+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M5YGNW60G1XYREPZQ9W8PSTD",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+    "link": "https://blog.cloudflare.com/php-ctf/",
+    "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
+    "published_iso": "2026-10-27T13:00:00+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M5G72REK3978980FNZCPDBRR",
+    "blog_name": "Cloudflare Blog",
+    "title": "What took the Internet offline in Q3 2026",
+    "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+    "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
+    "published_iso": "2026-10-27T13:00:00+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+    "blog_name": "Stripe Engineering",
+    "title": "How the fastest-growing enterprises on Stripe scale globally",
+    "link": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+    "summary": "Despite slower global economic growth and greater geopolitical fragmentation, the fastest-growing enterprises continue to look beyond their home markets and are investing in tools and workflows that make expansion faster and more repeatable.",
+    "published_iso": "2026-10-27T00:00:00+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "blog_name": "Discord Engineering",
+    "title": "Making Content from Discoverable Servers Easier to Discover",
+    "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "summary": "Starting on November 16, 2026, conversations in Discoverable Servers will be easier to find for people searching the web. Admins can choose which channels are surfaced on the web. Private servers, DMs, and GDMs are not included.",
+    "published_iso": "2026-10-27T00:00:00+00:00",
+    "published_display": "2026-10-27",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "01M5X2P6CQYMNAESRJ922DG5J3",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "summary": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
+    "published_iso": "2026-10-26T22:01:23+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
+    "blog_name": "ByteByteGo",
+    "title": "Last chance to get every live course in one membership",
+    "link": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
+    "summary": "We&#8217;ll stop selling ByteByteGo Live annual memberships on October 28 at 2 PM PT. After that, courses will be sold individually.",
+    "published_iso": "2026-10-26T20:24:39+00:00",
+    "published_display": "2026-10-26",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "7f6a312a6b22d087b062dc75877241a3e91011c4",
     "blog_name": "AWS Architecture Blog",
     "title": "Data governance with annotations in Amazon S3",
@@ -34,7 +154,7 @@
     "blog_name": "Netflix Tech Blog",
     "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
     "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
-    "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe , Sanford Holsapple Introduction Clips in the Netflix mobile app. At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device. Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our soc",
+    "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe , Sanford Holsapple , Ranjith Kumar Shetty Introduction Clips in the Netflix mobile app. At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device. Vertical formats are increasingly important for Netflix, as we have 1.2B f",
     "published_iso": "2026-10-26T16:01:02+00:00",
     "published_display": "2026-10-26",
     "feed_url": "https://netflixtechblog.com/feed"
@@ -630,36 +750,6 @@
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
-    "id": "01M4TZM0P3VSCZHV70ZGX58319",
-    "blog_name": "Cloudflare Blog",
-    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
-    "link": "https://blog.cloudflare.com/d1-control-plane/",
-    "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.",
-    "published_iso": "2026-10-13T16:20:18+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24641",
-    "blog_name": "Meta Engineering",
-    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
-    "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
-    "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta&#8217;s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, our next goal is to further scale both compute and intelligence transfer with next-generation hardware, and expand this capability across Meta’s entire ads ecosystem. This [...] Read More... The post Meta’s Generative Ads Model (GEM): Scaling the Central ",
-    "published_iso": "2026-10-13T16:01:00+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "01M4RYTJWRQG5ZF619XNRPYAZB",
-    "blog_name": "Cloudflare Blog",
-    "title": "Rewinding the exponential: How we keep hardware usage down",
-    "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
-    "summary": "Our strategies to optimize our data pipeline throughput without compromising data quality.",
-    "published_iso": "2026-10-13T15:51:41+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
     "blog_name": "ByteByteGo",
     "title": "How the Math Used in 19th-Century Heat Physics Helps LLMs Understand Sentences",
@@ -720,16 +810,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://engineering.fb.com/?p=24657",
-    "blog_name": "Meta Engineering",
-    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
-    "link": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
-    "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs connect to the network MetaRoCE, our open-source AI transport protocol. Launching [...] Read More... The post OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale",
-    "published_iso": "2026-10-12T21:19:18+00:00",
-    "published_display": "2026-10-12",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
     "blog_name": "ByteByteGo",
     "title": "How to Build Models Without Language, with Logical Intelligence",
@@ -738,16 +818,6 @@
     "published_iso": "2026-10-12T15:00:45+00:00",
     "published_display": "2026-10-12",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "01M4HA4SBV0ANTH6C2775H4SSY",
-    "blog_name": "Cloudflare Blog",
-    "title": "Filter, reshape, and redact logs before export with Transformers",
-    "link": "https://blog.cloudflare.com/transformers-on-logpush/",
-    "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination.",
-    "published_iso": "2026-10-12T14:44:59+00:00",
-    "published_display": "2026-10-12",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "1e67d99ee2ecea1713256087c55f2a9e733aa9e1",
@@ -960,16 +1030,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
-    "blog_name": "ByteByteGo",
-    "title": "How DoorDash Built a Toolbox for AI Agents",
-    "link": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
-    "summary": "In this article, we will look at how the DoorDash engineering team built this gateway and the decisions they made.",
-    "published_iso": "2026-09-30T15:31:13+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
     "blog_name": "Martin Fowler",
     "title": "Principles for effective slides",
@@ -998,26 +1058,6 @@
     "published_iso": "2026-09-29T17:01:01+00:00",
     "published_display": "2026-09-29",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/why-do-llms-lie",
-    "blog_name": "ByteByteGo",
-    "title": "Why Do LLMs Lie?",
-    "link": "https://blog.bytebytego.com/p/why-do-llms-lie",
-    "summary": "In this article, we will look at why this problem of hallucinations happens with LLMs and the techniques that can help make LLMs more dependable for answering.",
-    "published_iso": "2026-09-29T15:31:36+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "2d4f20949930ea8c42f1d0725ce3a7ab8a17574e",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/",
-    "summary": "Learn how to build AI interfaces that automatically adapt to your agents' variable outputs, using the AG-UI protocol for dynamic UI generation, the Strands Agents SDK swarm pattern for explainable multi-agent collaboration, and Amazon Nova Act to integrate legacy systems that lack APIs.",
-    "published_iso": "2026-09-29T13:44:23+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://martinfowler.com/bliki/SensibleDefault.html",
@@ -1090,16 +1130,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
-    "blog_name": "Stripe Engineering",
-    "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
-    "link": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
-    "summary": "We analyzed billions of transactions on Stripe from January 2022 to March 2026 to understand how card fraud patterns differ by region and country, what's driving those differences, and how businesses can respond.",
-    "published_iso": "2026-09-22T00:00:00+00:00",
-    "published_display": "2026-09-22",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
     "blog_name": "Discord Engineering",
     "title": "Safer for Teens, Same Discord for Adults",
@@ -1118,26 +1148,6 @@
     "published_iso": "2026-09-21T21:12:33+00:00",
     "published_display": "2026-09-21",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "5cff745f1ebd06700755b840670b97f00bff9d5b",
-    "blog_name": "AWS Architecture Blog",
-    "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
-    "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/",
-    "summary": "ReadyOn runs a multi-tenant platform on Amazon EKS that handles highly sensitive enterprise data. This post describes their Four Walls model: four independent layers of tenant isolation combining Kubernetes namespaces, Karpenter node pools, Amazon VPC security groups, and per-tenant Amazon Aurora databases for zero-trust defense in depth.",
-    "published_iso": "2026-09-18T21:33:13+00:00",
-    "published_display": "2026-09-18",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "b39eaaf3888a3d0bda8d6b3ca86f328b3e6e56af",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/",
-    "summary": "Learn how researchers at CSIRO, Australia's national science agency, built Serverless Beacon (sBeacon), a scalable serverless solution for securely querying genomic variant data on AWS. sBeacon implements the GA4GH Beacon standard using Amazon S3, AWS Lambda, Amazon DynamoDB, and Amazon Athena to support production-scale clinical and research applications.",
-    "published_iso": "2026-09-18T14:35:42+00:00",
-    "published_display": "2026-09-18",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/8f1582578553",
@@ -2827,16 +2837,6 @@
     "summary": "Today, we’re announcing a brand new way to express yourself: Nameplates. Add a pop of personality to your display name when it’s shown in your favorite chat channels. Read on to see how they work!",
     "published_iso": "2025-04-22T00:00:00+00:00",
     "published_display": "2025-04-22",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/nitro-members-keep-quest-rewards-longer",
-    "blog_name": "Discord Engineering",
-    "title": "Make More Closet Space! Nitro Members Can Now Keep Avatar Decoration Quest Rewards for Longer",
-    "link": "https://discord.com/blog/nitro-members-keep-quest-rewards-longer",
-    "summary": "With Nitro, your Quest rewards don’t fade—hold onto exclusive decorations long after the adventure ends.",
-    "published_iso": "2025-04-14T00:00:00+00:00",
-    "published_display": "2025-04-14",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

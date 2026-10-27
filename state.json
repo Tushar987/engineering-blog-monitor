@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "644bfb8c6ef932df30dfaa7f8a8e2abd2134ed01",
+    "80bd9c10bc47f0c51d261c7793bed51ada46e7aa",
+    "f413b7c2a217297655ef9310f383a082afd64b46",
     "7f6a312a6b22d087b062dc75877241a3e91011c4",
     "fc1365bab1417ad5250481028146d57ec2027f39",
     "3083d22d003e22c7c2b210ab8e5f770650dfef5b",
@@ -83,6 +86,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+    "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
     "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
     "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
     "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
@@ -191,6 +196,9 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M5YGNW60G1XYREPZQ9W8PSTD",
+    "01M5G72REK3978980FNZCPDBRR",
+    "01M5X2P6CQYMNAESRJ922DG5J3",
     "01M5MZPETYH27RS72QV5V85YZ8",
     "01M5MYFG0SHDEYME96N0A4Z6PH",
     "01M5FTVN0D8MSEXMF36ZM9WWD4",
@@ -369,19 +377,21 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/fast-reliable-a2ui/",
+    "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
     "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
     "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-    "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
-    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+    "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
     "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
     "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
-    "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
-    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+    "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
     "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
@@ -456,6 +466,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
     "https://discord.com/blog/discord-update-october-22-2026",
     "https://discord.com/blog/discord-patch-notes-october-6-2026",
     "https://discord.com/blog/halloween-2026",
@@ -575,6 +586,8 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24851",
+    "https://engineering.fb.com/?p=24841",
     "https://engineering.fb.com/?p=24816",
     "https://engineering.fb.com/?p=24783",
     "https://engineering.fb.com/?p=24724",
@@ -973,6 +986,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
     "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
     "https://stripe.com/blog/saas-platform-trends-in-AI-era",
     "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",

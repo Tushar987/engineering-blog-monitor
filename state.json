@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
+    "5f13b977bdac3d51616a12867a9a5c1c5bbd0968",
     "644bfb8c6ef932df30dfaa7f8a8e2abd2134ed01",
     "80bd9c10bc47f0c51d261c7793bed51ada46e7aa",
     "f413b7c2a217297655ef9310f383a082afd64b46",
@@ -86,6 +88,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
     "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
     "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
     "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
@@ -377,11 +380,12 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
     "https://developers.googleblog.com/fast-reliable-a2ui/",
     "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
     "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
-    "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+    "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
     "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
     "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
@@ -586,6 +590,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24890",
     "https://engineering.fb.com/?p=24851",
     "https://engineering.fb.com/?p=24841",
     "https://engineering.fb.com/?p=24816",
@@ -642,6 +647,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-10-28.html",
     "https://martinfowler.com/fragments/2026-10-21.html",
     "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
     "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
@@ -669,9 +675,9 @@
     "tag:martinfowler.com,2026-08-19:Practitioner-Voice--The-Writing-Category-Nobody-has-Named-Yet",
     "https://martinfowler.com/fragments/2026-08-18.html",
     "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
-    "https://martinfowler.com/fragments/2026-08-04.html",
     "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
     "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
+    "https://martinfowler.com/fragments/2026-08-04.html",
     "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
     "https://martinfowler.com/rachels-ramblings/intro.html",
     "https://martinfowler.com/fragments/2026-07-21.html",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+    "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
+    "summary": "Accelerating API adoption while reducing operational overhead is a challenge that every growing organization faces. For Revinate, a hospitality provider serving over 12,500 hotels worldwide and powering more than 1.25 billion guest profiles, Amazon API Gateway became the foundation of their solution. Revinate empowers hoteliers to connect directly with guests at every touchpoint, driving $24 […]",
+    "published_iso": "2026-10-28T18:32:34+00:00",
+    "published_display": "2026-10-28",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "5f13b977bdac3d51616a12867a9a5c1c5bbd0968",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
+    "summary": "Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload. Because the lens is not yet selectable in the console, the team encoded it as a Claude skill that assessed all 150 best practices against the workload's GitHub repository and produced an evidence-backed review workbook in hours instead of days.",
+    "published_iso": "2026-10-28T18:25:50+00:00",
+    "published_display": "2026-10-28",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24890",
+    "blog_name": "Meta Engineering",
+    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+    "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+    "summary": "This post describes the next generation of Meta Andromeda, Meta&#8217;s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval scale and surfaces the top candidates at over one [...] Read More... The post Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design appear",
+    "published_iso": "2026-10-28T16:00:01+00:00",
+    "published_display": "2026-10-28",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+    "blog_name": "ByteByteGo",
+    "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+    "link": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+    "summary": "In this article, we&#8217;ll look at how Uber built this gateway in detail.",
+    "published_iso": "2026-10-28T15:31:05+00:00",
+    "published_display": "2026-10-28",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-10-28.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: October 28",
+    "link": "https://martinfowler.com/fragments/2026-10-28.html",
+    "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time. Many of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s not wh",
+    "published_iso": "2026-10-28T12:55:00+00:00",
+    "published_display": "2026-10-28",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "644bfb8c6ef932df30dfaa7f8a8e2abd2134ed01",
     "blog_name": "AWS Architecture Blog",
     "title": "Publishing LMS courses with a Kiro SCORM pipeline",
@@ -290,6 +340,16 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
+    "id": "https://martinfowler.com/fragments/2026-10-21.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: October 21",
+    "link": "https://martinfowler.com/fragments/2026-10-21.html",
+    "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you So when ",
+    "published_iso": "2026-10-21T16:51:00+00:00",
+    "published_display": "2026-10-21",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
     "blog_name": "ByteByteGo",
     "title": "LLM Prompt Caching Versus Semantic Caching",
@@ -328,16 +388,6 @@
     "published_iso": "2026-10-21T13:00:00+00:00",
     "published_display": "2026-10-21",
     "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-10-21.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: October 21",
-    "link": "https://martinfowler.com/fragments/2026-10-21.html",
-    "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you So when ",
-    "published_iso": "2026-10-21T10:51:00+00:00",
-    "published_display": "2026-10-21",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://shopify.engineering/open-model-task-experts",
@@ -548,16 +598,6 @@
     "published_iso": "2026-10-15T17:11:12+00:00",
     "published_display": "2026-10-15",
     "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24721",
-    "blog_name": "Meta Engineering",
-    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
-    "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
-    "summary": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, “Sapienz: multi-objective automated testing for Android applications.” The recognition celebrates a decade of impact from work that began at University College London and went [...] Read More... The post Sapienz Receives ISSTA 2026 Impact Paper Award appeared first on Engineering at Meta .",
-    "published_iso": "2026-10-15T16:00:59+00:00",
-    "published_display": "2026-10-15",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "21a23b98402575816e22bf3073209ef99bface3d",
@@ -980,16 +1020,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
-    "blog_name": "ByteByteGo",
-    "title": "Why State is the Hardest Thing in Software Design",
-    "link": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
-    "summary": "In this article, we will look at why state is the hardest thing in software development and the multiple strategies that developers can use to manage it.",
-    "published_iso": "2026-10-01T15:31:21+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://stripe.com/blog/where-pricing-is-headed",
     "blog_name": "Stripe Engineering",
     "title": "Why I tried to kill token billing (and why we kept it)",
@@ -1008,26 +1038,6 @@
     "published_iso": "2026-10-01T00:00:00+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "eafa004de10b258a63bf0ae35dc149f097898c20",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
-    "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
-    "summary": "Prove your multi-AZ architecture can sustain a real impairment. This post shows how to run a multi-day (48-72 hour) Availability Zone evacuation drill with ARC Zonal Shift across Amazon ECS, Amazon EKS, Amazon RDS for PostgreSQL, and Amazon Aurora PostgreSQL, with step-by-step CLI commands, prerequisites, observability metrics, and restore procedures.",
-    "published_iso": "2026-09-30T19:01:57+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "4c510a6f068512612d9307256be3c1a6048e172c",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
-    "summary": "MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven patterns. It reduced manual medical review effort by 90% and cut new AI feature deployment from months to weeks. Learn how MHK architected this reusable, multi-tenant orchestrator for healthcare AI.",
-    "published_iso": "2026-09-30T18:30:24+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
@@ -1488,16 +1498,6 @@
     "published_iso": "2026-08-05T14:52:54+00:00",
     "published_display": "2026-08-05",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-08-04.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: August  4",
-    "link": "https://martinfowler.com/fragments/2026-08-04.html",
-    "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face . This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incidents where models had gained unauthorized access to data in other organizations. Simon Wilison concluded : It’s abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. Every AI lab needs to pay attention to this. Keeping a clo",
-    "published_iso": "2026-08-04T12:08:00+00:00",
-    "published_display": "2026-08-04",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing",

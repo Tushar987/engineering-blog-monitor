@@ -1,5 +1,65 @@
 [
   {
+    "id": "33198c11d42658bd0f7e628bbd694ad37985d7c7",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
+    "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective.",
+    "published_iso": "2026-10-29T18:16:38+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24907",
+    "blog_name": "Meta Engineering",
+    "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+    "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "summary": "Over the last year we&#8217;ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we&#8217;re sharing the results and positive impact we&#8217;ve seen with Catching JiTTests deployed into production. Our paper, “Just-in-Time Catching Test Generation at Meta,” fully details [...] Read More... The post Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale appeared fi",
+    "published_iso": "2026-10-29T16:00:12+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+    "blog_name": "ByteByteGo",
+    "title": "Data Movement Strategies In System Design",
+    "link": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+    "summary": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it.",
+    "published_iso": "2026-10-29T15:31:02+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "blog_name": "Martin Fowler",
+    "title": "Bliki: LLM Voice",
+    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to the point of revulsion There are tools out there that claim to be able to tell the difference between LLM-written prose and the old-fashioned biological product. I'm wary of them, partly due skeptism about their accurac",
+    "published_iso": "2026-10-29T14:28:00+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+    "blog_name": "Martin Fowler",
+    "title": "Why are good developers so wary of agentic development?",
+    "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+    "summary": "TL;DR Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone else and in many cases invent new tools and practices that support building the application well. So why have we had so much reluctance? The easy (lazy?) answer is that they love writing code, or they’r",
+    "published_iso": "2026-10-29T13:50:00+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M6254V6WN4EZTWVH0BF1748Y",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+    "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
+    "published_iso": "2026-10-29T12:55:00+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
     "blog_name": "AWS Architecture Blog",
     "title": "How Revinate accelerated API adoption with Amazon API Gateway",
@@ -580,16 +640,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://engineering.fb.com/?p=24735",
-    "blog_name": "Meta Engineering",
-    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
-    "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
-    "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of everything we’ve built — but none are bigger than the quadrennial [...] Read More... The post 2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale appeared first on Engineering at Meta .",
-    "published_iso": "2026-10-15T18:30:29+00:00",
-    "published_display": "2026-10-15",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "01M5072CXFWQ88M9NCXZBSPAF2",
     "blog_name": "Cloudflare Blog",
     "title": "A fully programmable secure web gateway",
@@ -758,16 +808,6 @@
     "published_iso": "2026-10-14T14:20:00+00:00",
     "published_display": "2026-10-14",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "01M4VK1MXKAPMWG5QXYBFK222G",
-    "blog_name": "Cloudflare Blog",
-    "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
-    "link": "https://blog.cloudflare.com/hyperdrive-mysql/",
-    "summary": "While adding MySQL support to Hyperdrive, we found a subtle protocol bug when caching query results. Here is how we tracked down a 0.001% rate error and made Hyperdrive MySQL generally available.",
-    "published_iso": "2026-10-14T13:00:00+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "db08c5ad829da95b5a7c4c6bbfdacbbb57fe4dc9",
@@ -960,16 +1000,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
-    "blog_name": "ByteByteGo",
-    "title": "EP228: How SSH Works",
-    "link": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
-    "summary": "Secure shell is a method to access a remote machine securely over an unsecured network. It starts with a TCP connection from the SSH client to the remote machine (SSH server).",
-    "published_iso": "2026-10-03T15:30:39+00:00",
-    "published_display": "2026-10-03",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "7a57e88e8494b509df8ed41d9262cd07afd2d993",
     "blog_name": "AWS Architecture Blog",
     "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
@@ -1008,16 +1038,6 @@
     "published_iso": "2026-10-01T16:23:24+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "da0dcfed154cb1682b806a3eba0a2f408ff94a2f",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
-    "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
-    "summary": "Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibility. Learn how they migrated a core reservation component from EJB/Java 8 to Spring Boot/Java 21, built a secure CI/CD pipeline, added observability, and integrated agentic AI.",
-    "published_iso": "2026-10-01T15:37:06+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://stripe.com/blog/where-pricing-is-headed",
@@ -1508,26 +1528,6 @@
     "published_iso": "2026-08-04T00:00:00+00:00",
     "published_display": "2026-08-04",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-    "blog_name": "Martin Fowler",
-    "title": "The Conductor Developer",
-    "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-    "summary": "TL;DR Why I think software development is starting to feel a little more like conducting an orchestra. There’s a shift happening in software development that I don’t think we’re talking about clearly enough. For the last couple of years we’ve framed AI as a productivity tool. How much faster can it write code? How many more features can we ship? How much cheaper can we build software? I think that’s the wrong question, but I understand why. The first thing AI became good at was writing code, so ",
-    "published_iso": "2026-07-31T13:48:00+00:00",
-    "published_display": "2026-07-31",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
-    "blog_name": "Martin Fowler",
-    "title": "The Economic Benefit of Refactoring",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-    "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a large function helps reduce token costs, suggesting that is may now be possible to measure the economic benefit of refactoring more…",
-    "published_iso": "2026-07-30T13:04:00+00:00",
-    "published_display": "2026-07-30",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://shopify.engineering/building-an-agentic-harness-that-outlasts-the-model",

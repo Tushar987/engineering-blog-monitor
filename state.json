@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "33198c11d42658bd0f7e628bbd694ad37985d7c7",
     "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
     "5f13b977bdac3d51616a12867a9a5c1c5bbd0968",
     "644bfb8c6ef932df30dfaa7f8a8e2abd2134ed01",
@@ -88,6 +89,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
     "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
     "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
     "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
@@ -199,6 +201,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M6254V6WN4EZTWVH0BF1748Y",
     "01M5YGNW60G1XYREPZQ9W8PSTD",
     "01M5G72REK3978980FNZCPDBRR",
     "01M5X2P6CQYMNAESRJ922DG5J3",
@@ -380,17 +383,19 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+    "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
     "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
     "https://developers.googleblog.com/fast-reliable-a2ui/",
     "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
     "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
-    "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
     "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+    "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
     "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
     "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
-    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
     "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
     "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
@@ -590,6 +595,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24907",
     "https://engineering.fb.com/?p=24890",
     "https://engineering.fb.com/?p=24851",
     "https://engineering.fb.com/?p=24841",
@@ -647,6 +653,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/bliki/LLM-Voice.html",
+    "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
     "https://martinfowler.com/fragments/2026-10-28.html",
     "https://martinfowler.com/fragments/2026-10-21.html",
     "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",

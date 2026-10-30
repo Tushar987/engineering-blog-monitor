@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "1bba751f546476a4c71e3c9ad8177dbf258e30d5",
     "33198c11d42658bd0f7e628bbd694ad37985d7c7",
     "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
     "5f13b977bdac3d51616a12867a9a5c1c5bbd0968",
@@ -201,6 +202,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M66XYRNK559YY01V2P37EBD7",
+    "01M64V2TDYZYSS8RE60T3MWKSM",
     "01M6254V6WN4EZTWVH0BF1748Y",
     "01M5YGNW60G1XYREPZQ9W8PSTD",
     "01M5G72REK3978980FNZCPDBRR",
@@ -383,6 +386,7 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/devfest-is-back/",
     "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
     "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
     "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
@@ -394,8 +398,8 @@
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
     "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
     "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
     "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",

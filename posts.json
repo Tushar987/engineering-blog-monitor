@@ -1,5 +1,35 @@
 [
   {
+    "id": "01M66XYRNK559YY01V2P37EBD7",
+    "blog_name": "Cloudflare Blog",
+    "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+    "link": "https://blog.cloudflare.com/emudhra-patching/",
+    "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed.",
+    "published_iso": "2026-10-30T17:38:50+00:00",
+    "published_display": "2026-10-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M64V2TDYZYSS8RE60T3MWKSM",
+    "blog_name": "Cloudflare Blog",
+    "title": "Cloudflare services for private origins is now generally available",
+    "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
+    "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
+    "published_iso": "2026-10-30T14:23:43+00:00",
+    "published_display": "2026-10-30",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "1bba751f546476a4c71e3c9ad8177dbf258e30d5",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+    "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
+    "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Graviton-based CI/CD runners, the team moved workloads without disruption, cutting NGINX ingress CPU by about 57 percent and delivering about 40 percent better price-performance.",
+    "published_iso": "2026-10-29T20:11:14+00:00",
+    "published_display": "2026-10-29",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "33198c11d42658bd0f7e628bbd694ad37985d7c7",
     "blog_name": "AWS Architecture Blog",
     "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
@@ -690,16 +720,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "01M4YQC31GRHMR5V2624TPHTH7",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
-    "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-    "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.",
-    "published_iso": "2026-10-15T13:00:00+00:00",
-    "published_display": "2026-10-15",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/real-time-stripe-data-postgres",
     "blog_name": "Stripe Engineering",
     "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline",
@@ -708,16 +728,6 @@
     "published_iso": "2026-10-15T00:00:00+00:00",
     "published_display": "2026-10-15",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "01M4Y1477Z7DBJHXRZDP6MM2FN",
-    "blog_name": "Cloudflare Blog",
-    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-    "link": "https://blog.cloudflare.com/yandex-outage/",
-    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
-    "published_iso": "2026-10-14T20:24:19+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/cf176b5860eb",
@@ -1016,16 +1026,6 @@
     "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
     "summary": "Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. This post covers EC2 bare metal instance selection, vSAN and FSx storage tiering, NSX networking, and SnapMirror cross-region disaster recovery for enterprises preserving their VMware operational tooling.",
     "published_iso": "2026-10-02T17:57:01+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "cbe15ece3906624c625eaa03c8397538ddd51d2a",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Deploy open source Regional availability tools in your VPC",
-    "link": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/",
-    "summary": "Deploy AWS Regional availability data as infrastructure you own. Capability Insights for AWS runs a self-hosted dashboard in your VPC that auto-refreshes daily, and Workload Analysis narrows the catalog to the services your account actually runs, so your Regional expansion gap analysis focuses only on what you deploy.",
-    "published_iso": "2026-10-02T17:50:56+00:00",
     "published_display": "2026-10-02",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },

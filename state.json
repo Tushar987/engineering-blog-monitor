@@ -90,6 +90,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
     "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
     "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
     "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
@@ -1004,6 +1005,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
     "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
     "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
     "https://stripe.com/blog/saas-platform-trends-in-AI-era",

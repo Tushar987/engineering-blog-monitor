@@ -1,5 +1,75 @@
 [
   {
+    "id": "9fe42959d47f73e681e9e8fdb985f693467e82bd",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How to run a DR readiness engagement",
+    "link": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/",
+    "summary": "This final post turns the DR framework into a repeatable engagement: a five-step sequence from kickoff and gap assessment through progressive validation to an updated recovery commitment, with a real before-and-after example and ways to compress the timeline from months to weeks. Part 3 of a three-part series.",
+    "published_iso": "2026-11-02T17:26:49+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "83a09926a03424a2dc1fff6fbe2589a84bd1b3f8",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Validating your DR commitment: From controlled test to real-world readiness",
+    "link": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/",
+    "summary": "After you define your DR targets, testing tells you whether they hold. This post walks through a four-level progressive validation model (tabletop, planned failover, surprise drill, and game day) and shows how each level surfaces a different class of recovery gap that feeds back into your commitment. Part 2 of a three-part series.",
+    "published_iso": "2026-11-02T17:26:33+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "e13fe514d28666fe270c34695b0f527b45ed2ca4",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Three business decisions that define your DR success",
+    "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/",
+    "summary": "A disaster recovery strategy is only as strong as the business decisions behind it. Before you choose an architecture pattern, three decisions shape whether recovery succeeds: what you're actually recovering, what the business needs from that recovery, and what your dependencies allow you to commit to. Part 1 of a three-part series.",
+    "published_iso": "2026-11-02T17:26:26+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "16d062176d7800eeade829d2deacabd73788e224",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
+    "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/",
+    "summary": "Keeping a large Amazon EC2 fleet continuously recoverable with AWS Elastic Disaster Recovery is a lifecycle challenge. This post shows how to automate the full DRS agent lifecycle (install, heal, and offboard) using AWS Systems Manager Automation and Amazon EventBridge, driven by a single EC2 tag and no Lambda functions.",
+    "published_iso": "2026-11-02T17:21:29+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
+    "blog_name": "ByteByteGo",
+    "title": "How Nvidia's New Nemotron Model Works",
+    "link": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
+    "summary": "In this article, we&#8217;ll look at how Nemotron works and the various techniques used by Nvidia while building it.",
+    "published_iso": "2026-11-02T16:31:02+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M5J4YTFMTRT7PG1Y8HAPNPYG",
+    "blog_name": "Cloudflare Blog",
+    "title": "How we halved DNS build delay and cut memory use by 85%",
+    "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+    "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay.",
+    "published_iso": "2026-11-02T14:00:00+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
+    "blog_name": "Discord Engineering",
+    "title": "Modernizing the Video Playback Experience at Discord",
+    "link": "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
+    "summary": "This is the story of how we assessed and refactored two video players into one, cut the player code each product maintained by up to 94%, and swapped to the new player without disruption to any users.",
+    "published_iso": "2026-11-02T00:00:00+00:00",
+    "published_display": "2026-11-02",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
     "blog_name": "ByteByteGo",
     "title": "EP231: AI Terms You Need to Know",
@@ -720,16 +790,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "01M4EX2BRJ7RNGAPQTBRXWRYT1",
-    "blog_name": "Cloudflare Blog",
-    "title": "Deploy with Void",
-    "link": "https://blog.cloudflare.com/deploy-with-void/",
-    "summary": "Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.",
-    "published_iso": "2026-10-15T14:00:00+00:00",
-    "published_display": "2026-10-15",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
     "blog_name": "Martin Fowler",
     "title": "When Software Meets Hardware",
@@ -930,16 +990,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "1e67d99ee2ecea1713256087c55f2a9e733aa9e1",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
-    "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so researchers can ask questions without writing bioinformatics code or SQL.",
-    "published_iso": "2026-10-12T14:34:57+00:00",
-    "published_display": "2026-10-12",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "blog_name": "ByteByteGo",
     "title": "How Software Boundaries Are The Most Important Skill for Developers",
@@ -990,26 +1040,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "aebc24bf9a1d048ba16980d4b7fa9ef45aa8d896",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
-    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
-    "summary": "October 2026: This post was reviewed and updated for accuracy. Today we’re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens providing customers with extended guidance for designing, building, and operating sovereign workloads on AWS. Customers tell us that digital sovereignty brings a unique set of challenges that existing architecture guidance doesn’t fully address. […]",
-    "published_iso": "2026-10-05T17:54:56+00:00",
-    "published_display": "2026-10-05",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
-    "blog_name": "ByteByteGo",
-    "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
-    "link": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
-    "summary": "In this article, we&#8217;ll look at why LLMs have this bias against middle information.",
-    "published_iso": "2026-10-05T15:30:51+00:00",
-    "published_display": "2026-10-05",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-10-04.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: October  4",
@@ -1018,26 +1048,6 @@
     "published_iso": "2026-10-05T04:28:00+00:00",
     "published_display": "2026-10-05",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "7a57e88e8494b509df8ed41d9262cd07afd2d993",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
-    "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/",
-    "summary": "This post provides step-by-step procedures to deploy Oracle Database on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP as NFS datastore storage. You provision storage volumes, mount NFS datastores, install Oracle, and configure SnapMirror replication for cross-region disaster recovery.",
-    "published_iso": "2026-10-02T17:57:15+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "5f1dd9f2813fb7a47d9f87475e6ac0e1297ada91",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
-    "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
-    "summary": "Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. This post covers EC2 bare metal instance selection, vSAN and FSx storage tiering, NSX networking, and SnapMirror cross-region disaster recovery for enterprises preserving their VMware operational tooling.",
-    "published_iso": "2026-10-02T17:57:01+00:00",
-    "published_display": "2026-10-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://shopify.engineering/shopgym",
@@ -2827,16 +2837,6 @@
     "summary": "Read the message sent to Discord employees from CEO Jason Citron sharing his decision to transition out of the role and appoint Humam Sakhnini as the company's new chief executive.",
     "published_iso": "2025-04-23T00:00:00+00:00",
     "published_display": "2025-04-23",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/nameplates-land-in-the-shop",
-    "blog_name": "Discord Engineering",
-    "title": "Worthy of a Plaque: Nameplates Land in the Shop",
-    "link": "https://discord.com/blog/nameplates-land-in-the-shop",
-    "summary": "Today, we’re announcing a brand new way to express yourself: Nameplates. Add a pop of personality to your display name when it’s shown in your favorite chat channels. Read on to see how they work!",
-    "published_iso": "2025-04-22T00:00:00+00:00",
-    "published_display": "2025-04-22",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

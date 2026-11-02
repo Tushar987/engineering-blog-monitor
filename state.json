@@ -1,5 +1,9 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "9fe42959d47f73e681e9e8fdb985f693467e82bd",
+    "83a09926a03424a2dc1fff6fbe2589a84bd1b3f8",
+    "e13fe514d28666fe270c34695b0f527b45ed2ca4",
+    "16d062176d7800eeade829d2deacabd73788e224",
     "1bba751f546476a4c71e3c9ad8177dbf258e30d5",
     "33198c11d42658bd0f7e628bbd694ad37985d7c7",
     "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
@@ -90,6 +94,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
     "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
     "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
     "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
@@ -203,6 +208,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M5J4YTFMTRT7PG1Y8HAPNPYG",
     "01M66XYRNK559YY01V2P37EBD7",
     "01M64V2TDYZYSS8RE60T3MWKSM",
     "01M6254V6WN4EZTWVH0BF1748Y",
@@ -480,6 +486,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
     "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
     "https://discord.com/blog/discord-update-october-22-2026",
     "https://discord.com/blog/discord-patch-notes-october-6-2026",

@@ -94,6 +94,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
     "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
     "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
     "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
@@ -208,6 +209,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M6GJ3RNQ17SDPWXJVW49JAFW",
     "01M5J4YTFMTRT7PG1Y8HAPNPYG",
     "01M66XYRNK559YY01V2P37EBD7",
     "01M64V2TDYZYSS8RE60T3MWKSM",
@@ -393,12 +395,13 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
     "https://developers.googleblog.com/devfest-is-back/",
     "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
     "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
     "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-    "https://developers.googleblog.com/fast-reliable-a2ui/",
     "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+    "https://developers.googleblog.com/fast-reliable-a2ui/",
     "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
     "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
@@ -486,6 +489,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
     "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
     "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
     "https://discord.com/blog/discord-update-october-22-2026",
@@ -607,6 +611,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24926",
     "https://engineering.fb.com/?p=24907",
     "https://engineering.fb.com/?p=24890",
     "https://engineering.fb.com/?p=24851",

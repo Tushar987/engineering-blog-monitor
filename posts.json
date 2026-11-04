@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+    "blog_name": "ByteByteGo",
+    "title": "How Anthropic Redesigned Source Control",
+    "link": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+    "summary": "In this article, we&#8217;ll look at the architecture behind Scion.",
+    "published_iso": "2026-11-04T16:30:59+00:00",
+    "published_display": "2026-11-04",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M6HZ245M2MBZAF7ZQXKC85X6",
+    "blog_name": "Cloudflare Blog",
+    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+    "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+    "published_iso": "2026-11-04T14:00:00+00:00",
+    "published_display": "2026-11-04",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://engineering.fb.com/?p=24926",
     "blog_name": "Meta Engineering",
     "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
@@ -770,16 +790,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "01M510YDY2PS6BYR03DF8HHG2D",
-    "blog_name": "Cloudflare Blog",
-    "title": "Continuous accountability for Verified bots",
-    "link": "https://blog.cloudflare.com/verified-bots-accountability/",
-    "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
-    "published_iso": "2026-10-16T13:00:00+00:00",
-    "published_display": "2026-10-16",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
     "blog_name": "Stripe Engineering",
     "title": "New ways for fintechs to move money and expand globally",
@@ -1017,16 +1027,6 @@
     "summary": "In this article, we&#8217;ll learn some key strategies that can help a developer make the right boundary-related decisions for the systems they are working on.",
     "published_iso": "2026-10-08T15:31:01+00:00",
     "published_display": "2026-10-08",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
-    "blog_name": "ByteByteGo",
-    "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
-    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
-    "summary": "In this article, we will look at how GenRec was built.",
-    "published_iso": "2026-10-07T15:31:48+00:00",
-    "published_display": "2026-10-07",
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {

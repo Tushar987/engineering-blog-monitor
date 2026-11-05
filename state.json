@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "c53a9f27de6a8c56c80b5e62d50ac123ff3f9488",
     "9fe42959d47f73e681e9e8fdb985f693467e82bd",
     "83a09926a03424a2dc1fff6fbe2589a84bd1b3f8",
     "e13fe514d28666fe270c34695b0f527b45ed2ca4",
@@ -94,6 +95,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
     "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
     "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
     "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
@@ -210,6 +212,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M6HXVSQY6XGPSH12AFMB81B9",
     "01M6HZ245M2MBZAF7ZQXKC85X6",
     "01M6GJ3RNQ17SDPWXJVW49JAFW",
     "01M5J4YTFMTRT7PG1Y8HAPNPYG",
@@ -491,6 +494,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
     "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
     "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
     "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
@@ -672,6 +676,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-11-05:The-Data-Product-Platform-Navigator",
     "https://martinfowler.com/bliki/LLM-Voice.html",
     "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
     "https://martinfowler.com/fragments/2026-10-28.html",
@@ -806,6 +811,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/reflex",
     "https://shopify.engineering/remote-dev",
     "https://shopify.engineering/open-model-task-experts",
     "https://shopify.engineering/catalog-clustering-part-ii",
@@ -1004,8 +1010,7 @@
     "https://shopify.engineering/five-tips-for-engineer-career-growth",
     "https://shopify.engineering/propensity-score-matching-shopify-capital",
     "https://shopify.engineering/high-performance-hydrogen-powered-storefronts",
-    "https://shopify.engineering/core-web-vitals",
-    "https://shopify.engineering/quarterly-calibration-document"
+    "https://shopify.engineering/core-web-vitals"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",
@@ -1019,6 +1024,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
     "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
     "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
     "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",

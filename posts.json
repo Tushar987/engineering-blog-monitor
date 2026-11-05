@@ -1,5 +1,75 @@
 [
   {
+    "id": "c53a9f27de6a8c56c80b5e62d50ac123ff3f9488",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
+    "summary": "Learn how TUI, the world's leading tourism group, built an AI-powered threat modeling system on Amazon Bedrock and Amazon Bedrock AgentCore to scale security assessments across more than 100 product teams, cutting threat modeling time by up to 70% while applying security standards consistently.",
+    "published_iso": "2026-11-05T18:45:07+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "01M6HXVSQY6XGPSH12AFMB81B9",
+    "blog_name": "Cloudflare Blog",
+    "title": "Agents aren’t humans (but they kinda are)",
+    "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+    "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+    "published_iso": "2026-11-05T17:03:04+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+    "blog_name": "ByteByteGo",
+    "title": "The Hidden Work Behind Every Database Request",
+    "link": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+    "summary": "Read amplification, write amplification, and space amplification show the differences between logical work and physical cost.",
+    "published_iso": "2026-11-05T16:31:07+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://shopify.engineering/reflex",
+    "blog_name": "Shopify Engineering",
+    "title": "Reflex: an architecture for building mobile apps with agents",
+    "link": "https://shopify.engineering/reflex",
+    "summary": "Our architecture lets agents test mobile app behavior without an emulator and use one test suite to keep iOS and Android in sync.",
+    "published_iso": "2026-11-05T15:41:40+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-11-05:The-Data-Product-Platform-Navigator",
+    "blog_name": "Martin Fowler",
+    "title": "The Data Product Platform Navigator",
+    "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
+    "summary": "Many organizations adopting data mesh and data products face a common challenge. They may be tasked with building a self-service platform for data products and data mesh from scratch, or they may have an existing platform that suffers from low adoption, preventing their data mesh from scaling. This article provides a platform navigator, based on the CNCF's Platform Engineering Maturity Model, to help you reason about your current situation and determine the next steps for your platform. more…",
+    "published_iso": "2026-11-05T14:11:00+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
+    "blog_name": "Stripe Engineering",
+    "title": "Analyze your Stripe data directly with your agent",
+    "link": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
+    "summary": "You can now use natural language to create an investor slide deck highlighting where your business outperformed in the previous quarter, or build a custom dashboard to understand why your Stripe revenue changed.",
+    "published_iso": "2026-11-05T00:00:00+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Nitro’s Biggest Year Yet: A Look Back at 2026",
+    "link": "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
+    "summary": "Nitro had a big year. Catch up on everything Nitro added in 2026, from new in-app perks like 1GB file uploads and Display Name Styles, to partner rewards like access to 50 games with XBOX Game Pass.",
+    "published_iso": "2026-11-05T00:00:00+00:00",
+    "published_display": "2026-11-05",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
     "blog_name": "ByteByteGo",
     "title": "How Anthropic Redesigned Source Control",
@@ -750,16 +820,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "01M537RHECVHNJPV12N2E54ZR7",
-    "blog_name": "Cloudflare Blog",
-    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-    "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
-    "published_iso": "2026-10-19T13:00:00+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
     "blog_name": "Stripe Engineering",
     "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
@@ -970,16 +1030,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "e381b31bf47d3e5f3b0713ff33d8fc92224c2605",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
-    "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
-    "summary": "In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit while working with DynamoDB and AWS Glue. Consider it a travel guide for anyone building their own bulk tooling on AWS Glue.",
-    "published_iso": "2026-10-13T14:23:33+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
     "blog_name": "Martin Fowler",
     "title": "The Craft of Practitioner Voice",
@@ -1017,16 +1067,6 @@
     "summary": "Something unusual happened in a public Sudoku experiment early this year.",
     "published_iso": "2026-10-12T15:00:45+00:00",
     "published_display": "2026-10-12",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
-    "blog_name": "ByteByteGo",
-    "title": "How Software Boundaries Are The Most Important Skill for Developers",
-    "link": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
-    "summary": "In this article, we&#8217;ll learn some key strategies that can help a developer make the right boundary-related decisions for the systems they are working on.",
-    "published_iso": "2026-10-08T15:31:01+00:00",
-    "published_display": "2026-10-08",
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
@@ -1138,16 +1178,6 @@
     "published_iso": "2026-09-29T12:41:00+00:00",
     "published_display": "2026-09-29",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
-    "blog_name": "Stripe Engineering",
-    "title": "Helping personal agents shop more intelligently and reliably with Link",
-    "link": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
-    "summary": "As agents take on more purchases, agent builders have increasingly asked us to help agents navigate checkout and earn consumer trust. Today, we’re sharing three major improvements to support this broader set of needs.",
-    "published_iso": "2026-09-29T00:00:00+00:00",
-    "published_display": "2026-09-29",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://discord.com/blog/discord-update-september-25-2026",
@@ -1478,16 +1508,6 @@
     "published_iso": "2026-08-12T17:01:04+00:00",
     "published_display": "2026-08-12",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
-    "blog_name": "Martin Fowler",
-    "title": "TDD inside the agent loop - theater or actual value?",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
-    "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta B&#xf6;ckeler was curious if this really makes a difference, so conducted a few experiments . more…",
-    "published_iso": "2026-08-11T11:39:00+00:00",
-    "published_display": "2026-08-11",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/link-world-of-warcraft-with-discord",
@@ -2827,16 +2847,6 @@
     "summary": "Learn how Discord scaled its search infrastructure to index trillions of messages and unlock new features.",
     "published_iso": "2025-04-24T00:00:00+00:00",
     "published_display": "2025-04-24",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini",
-    "blog_name": "Discord Engineering",
-    "title": "Discord Appoints Humam Sakhnini as Chief Executive Officer",
-    "link": "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini",
-    "summary": "Discord names Humam Sakhnini as the company’s new CEO as co-founder Jason Citron remains on the board and transitions to CEO advisor.",
-    "published_iso": "2025-04-23T00:00:00+00:00",
-    "published_display": "2025-04-23",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
@@ -4987,16 +4997,6 @@
     "summary": "",
     "published_iso": "2021-03-02T19:00:00+00:00",
     "published_display": "2021-03-02",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/faster-shopify-ci",
-    "blog_name": "Shopify Engineering",
-    "title": "Keeping Developers Happy with a Fast CI",
-    "link": "https://shopify.engineering/faster-shopify-ci",
-    "summary": "Slow CI systems are often responsible for making frustrated developers. Keeping these systems fast requires an ongoing effort. However, before jumping into implementing performance tweaks, it's important to set up a solid monitoring system.",
-    "published_iso": "2021-02-24T15:44:31+00:00",
-    "published_display": "2021-02-24",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

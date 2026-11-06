@@ -1,5 +1,25 @@
 [
   {
+    "id": "01M6PDR60R01B25PZF6REB72W3",
+    "blog_name": "Cloudflare Blog",
+    "title": "The post-quantum future of web privacy",
+    "link": "https://blog.cloudflare.com/vole-mole/",
+    "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+    "published_iso": "2026-11-06T14:00:00+00:00",
+    "published_display": "2026-11-06",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "e9cebe410ee846061537dbbffb133b4878afc216",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How OrderServ achieved up to 64% cost savings with multi-tenant ECS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/",
+    "summary": "See how Cognizant and AWS Professional Services transformed the OrderServ food-ordering platform into a multi-tenant SaaS offering on shared Amazon ECS, cutting compute costs up to 64%, reducing scaling time from minutes to seconds, and lowering authentication costs by 80%.",
+    "published_iso": "2026-11-06T00:09:41+00:00",
+    "published_display": "2026-11-06",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "c53a9f27de6a8c56c80b5e62d50ac123ff3f9488",
     "blog_name": "AWS Architecture Blog",
     "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
@@ -770,16 +790,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M5AKCKW0449M3Q6FW10XB4K3",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing Clairic, a new System One class of extraction models",
-    "link": "https://blog.cloudflare.com/clairic-extraction-model/",
-    "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.",
-    "published_iso": "2026-10-19T17:48:26+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24783",
     "blog_name": "Meta Engineering",
     "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
@@ -1018,16 +1028,6 @@
     "published_iso": "2026-10-13T15:30:44+00:00",
     "published_display": "2026-10-13",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "9e273fde0d61b89a663d187dcffb4022564cf6c2",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/",
-    "summary": "Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses machine learning and a serverless architecture on Amazon ECS, Amazon SQS, and Amazon S3 to detect and block sophisticated email impersonation in real time, without MX record changes.",
-    "published_iso": "2026-10-13T14:32:42+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",

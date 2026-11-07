@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+    "blog_name": "ByteByteGo",
+    "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
+    "link": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+    "summary": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
+    "published_iso": "2026-11-07T16:30:58+00:00",
+    "published_display": "2026-11-07",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M6PDR60R01B25PZF6REB72W3",
     "blog_name": "Cloudflare Blog",
     "title": "The post-quantum future of web privacy",
@@ -1058,16 +1068,6 @@
     "published_iso": "2026-10-13T00:00:00+00:00",
     "published_display": "2026-10-13",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
-    "blog_name": "ByteByteGo",
-    "title": "How to Build Models Without Language, with Logical Intelligence",
-    "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
-    "summary": "Something unusual happened in a public Sudoku experiment early this year.",
-    "published_iso": "2026-10-12T15:00:45+00:00",
-    "published_display": "2026-10-12",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://medium.com/p/cea7ee9b1ab2",

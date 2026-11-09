@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "27a2686e2e42734176b93a5e5b1aab32fef27ce6",
+    "9dddc34ae33c0911687c69b7212f5eb67610c51d",
     "e9cebe410ee846061537dbbffb133b4878afc216",
     "c53a9f27de6a8c56c80b5e62d50ac123ff3f9488",
     "9fe42959d47f73e681e9e8fdb985f693467e82bd",
@@ -96,6 +98,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
     "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
     "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
     "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
@@ -214,6 +217,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M6SMASVYY5EVPJPHFF7WNPFG",
     "01M6PDR60R01B25PZF6REB72W3",
     "01M6HXVSQY6XGPSH12AFMB81B9",
     "01M6HZ245M2MBZAF7ZQXKC85X6",
@@ -403,6 +407,9 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+    "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
     "https://developers.googleblog.com/agent-distraction/",
     "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
     "https://developers.googleblog.com/devfest-is-back/",
@@ -498,6 +505,8 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-patch-notes-november-9-2026",
+    "https://discord.com/blog/unlock-level-up-flex-discord-profile-badges-got-an-upgrade",
     "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
     "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
     "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
@@ -621,6 +630,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24955",
     "https://engineering.fb.com/?p=24926",
     "https://engineering.fb.com/?p=24907",
     "https://engineering.fb.com/?p=24890",
@@ -778,6 +788,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/d7d85859d808",
     "https://medium.com/p/6b0811a1c015",
     "https://medium.com/p/2e6b42810f49",
     "https://medium.com/p/9474f2fd4f90",

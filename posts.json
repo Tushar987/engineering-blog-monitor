@@ -1,5 +1,85 @@
 [
   {
+    "id": "27a2686e2e42734176b93a5e5b1aab32fef27ce6",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
+    "link": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
+    "summary": "Learn how Novus Hi-Tech, with the AWS Prototyping and AI Customer Engineering (PACE) team, built FleetGPT, an agentic AI solution on Amazon Bedrock that turns fleet IoT data into real-time safety interventions through natural language querying, automated investigation, and AI-powered driver voice calls, cutting road-behavior violations by 46% and drowsiness alerts by 55%.",
+    "published_iso": "2026-11-09T20:34:35+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "9dddc34ae33c0911687c69b7212f5eb67610c51d",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How DeepL keeps closest-exit routing during maintenance with AWS Cloud WAN",
+    "link": "https://aws.amazon.com/blogs/architecture/how-deepl-keeps-closest-exit-routing-during-maintenance-with-aws-cloud-wan/",
+    "summary": "DeepL runs a multi-Region hybrid network across multiple AWS Regions and AWS Direct Connect locations. See how DeepL drains a single Direct Connect link for planned maintenance without packet loss or cross-Region rerouting, using AWS Cloud WAN and an on-premises AS_PATH prepend so every other Region keeps its closest-exit routing.",
+    "published_iso": "2026-11-09T20:15:09+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://medium.com/p/d7d85859d808",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+    "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+    "summary": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein . Introduction Picture this — you’re home after a long day at work and can’t wait to catch up on Bridgerton. You log on to Netflix, search for “Bridgerton” and land on this screen: If this sounds familiar, you already know what a synopsis is — it’s a short glimpse into what a viewer can expect to see in a show. We see two types of synopses here: a series-level synopsis describing the overarching plot, and multipl",
+    "published_iso": "2026-11-09T17:01:02+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24955",
+    "blog_name": "Meta Engineering",
+    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+    "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+    "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU and GPU as separate debugger processes while presenting them in one debugging session. Modern AI applications rarely execute in one place. A workload can [...] Read More... The post Extending LLDB to Debug Applications That Span CPUs and GPUs appeared first on E",
+    "published_iso": "2026-11-09T17:00:12+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
+    "blog_name": "ByteByteGo",
+    "title": "How LinkedIn Uses AI to Review 40,000 Pull Requests a Week",
+    "link": "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
+    "summary": "Most of its reviews are posted before the first human reviewer even opens the PR",
+    "published_iso": "2026-11-09T16:30:44+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M6SMASVYY5EVPJPHFF7WNPFG",
+    "blog_name": "Cloudflare Blog",
+    "title": "Launching the Vite Ecosystem Fund",
+    "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+    "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
+    "published_iso": "2026-11-09T13:00:00+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://discord.com/blog/discord-patch-notes-november-9-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Patch Notes: November 9, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-november-9-2026",
+    "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "published_iso": "2026-11-09T00:00:00+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://discord.com/blog/unlock-level-up-flex-discord-profile-badges-got-an-upgrade",
+    "blog_name": "Discord Engineering",
+    "title": "Unlock, Level Up, Flex: Discord Profile Badges Got an Upgrade",
+    "link": "https://discord.com/blog/unlock-level-up-flex-discord-profile-badges-got-an-upgrade",
+    "summary": "Meet the new badge directory: one spot to browse every badge on Discord, including 4 shiny new ones to unlock, level up, and flex.",
+    "published_iso": "2026-11-09T00:00:00+00:00",
+    "published_display": "2026-11-09",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
     "blog_name": "ByteByteGo",
     "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
@@ -112,7 +192,7 @@
   {
     "id": "01M6HZ245M2MBZAF7ZQXKC85X6",
     "blog_name": "Cloudflare Blog",
-    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "title": "See the agents, set the terms: New visibility and control for personal agents",
     "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
     "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
     "published_iso": "2026-11-04T14:00:00+00:00",
@@ -632,7 +712,7 @@
   {
     "id": "01M5FTVN0D8MSEXMF36ZM9WWD4",
     "blog_name": "Cloudflare Blog",
-    "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+    "title": "Localizing compliance at scale: Achieving South Korea’s ISMS certification",
     "link": "https://blog.cloudflare.com/k-isms/",
     "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
     "published_iso": "2026-10-22T13:00:00+00:00",
@@ -790,16 +870,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "01M58NMKW6A1DQJNZXH37VZ9JH",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-    "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
-    "published_iso": "2026-10-19T19:12:53+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24783",
     "blog_name": "Meta Engineering",
     "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
@@ -826,16 +896,6 @@
     "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
     "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we&#8217;ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning. We’re sharing our own [...] Read More... The post The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do appeared first on ",
     "published_iso": "2026-10-19T15:30:37+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24763",
-    "blog_name": "Meta Engineering",
-    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-    "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scaling it to comprise ~1 million GPUs. Prometheus also features technologies like closed-loop liquid cooling [...] Read More... The post Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster appeared first on Engineering at Meta .",
-    "published_iso": "2026-10-19T13:00:10+00:00",
     "published_display": "2026-10-19",
     "feed_url": "https://engineering.fb.com/feed/"
   },
@@ -960,16 +1020,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://medium.com/p/826ebf9ad9fb",
-    "blog_name": "Netflix Tech Blog",
-    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
-    "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
-    "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract. The result was Ads Event Publisher, the system that collects ad telemetry from client devices, enriches it with the context of the ad that was actually served, and publishes a single, unified stream of ad events to every downstream consumer:",
-    "published_iso": "2026-10-14T19:51:35+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "blog_name": "ByteByteGo",
     "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
@@ -990,16 +1040,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "fdcab64740ec60846f6bf1edfbd9ccd18472404e",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How UTS established a modern curriculum data services foundation on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/",
-    "summary": "The University of Technology Sydney built a modern curriculum data services foundation on AWS that treats curriculum data as a governed, reusable product, available through APIs, graph traversal, semantic search, and event delivery, while leaving the source Curriculum Management System authoritative. One engineer now operates the domain.",
-    "published_iso": "2026-10-14T14:29:10+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
     "blog_name": "Martin Fowler",
     "title": "Build your slide template",
@@ -1010,16 +1050,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "db08c5ad829da95b5a7c4c6bbfdacbbb57fe4dc9",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
-    "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
-    "summary": "The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environment: Amazon EKS label support for service input sources, generative AI-powered Dependency Insights, and resilience policy sharing through AWS Organizations.",
-    "published_iso": "2026-10-13T21:30:10+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://medium.com/p/3818ef8b4828",
     "blog_name": "Airbnb Engineering",
     "title": "CASTLE: training natural language search before the first real query",
@@ -1028,16 +1058,6 @@
     "published_iso": "2026-10-13T17:01:02+00:00",
     "published_display": "2026-10-13",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
-    "blog_name": "ByteByteGo",
-    "title": "How the Math Used in 19th-Century Heat Physics Helps LLMs Understand Sentences",
-    "link": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
-    "summary": "In this article, we are going to understand how this connection works and why a model needs help understanding the order of the words even when the words already arrive in an ordered list.",
-    "published_iso": "2026-10-13T15:30:44+00:00",
-    "published_display": "2026-10-13",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
@@ -2820,16 +2840,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "https://discord.com/blog/discord-patch-notes-may-1-2025",
-    "blog_name": "Discord Engineering",
-    "title": "Discord Patch Notes: May 1, 2025",
-    "link": "https://discord.com/blog/discord-patch-notes-may-1-2025",
-    "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
-    "published_iso": "2025-05-01T00:00:00+00:00",
-    "published_display": "2025-05-01",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
     "id": "https://shopify.engineering/mobilebridge-native-webviews",
     "blog_name": "Shopify Engineering",
     "title": "Mobile Bridge: Making WebViews Feel Native",
@@ -2838,16 +2848,6 @@
     "published_iso": "2025-04-25T14:12:00+00:00",
     "published_display": "2025-04-25",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
-    "blog_name": "Discord Engineering",
-    "title": "How Discord Indexes Trillions of Messages",
-    "link": "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
-    "summary": "Learn how Discord scaled its search infrastructure to index trillions of messages and unlock new features.",
-    "published_iso": "2025-04-24T00:00:00+00:00",
-    "published_display": "2025-04-24",
-    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "https://shopify.engineering/five-years-of-react-native-at-shopify",

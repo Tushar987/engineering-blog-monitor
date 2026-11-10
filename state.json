@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "f6a9f56d5db460e2fbdd27c136c5cb5b1ae0fe52",
     "27a2686e2e42734176b93a5e5b1aab32fef27ce6",
     "9dddc34ae33c0911687c69b7212f5eb67610c51d",
     "e9cebe410ee846061537dbbffb133b4878afc216",
@@ -98,6 +99,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
     "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
     "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
     "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
@@ -407,8 +409,9 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+    "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
     "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
     "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
     "https://developers.googleblog.com/agent-distraction/",
     "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
@@ -422,10 +425,10 @@
     "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
     "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
     "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
     "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
-    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
     "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
     "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
     "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
@@ -630,6 +633,8 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=24976",
+    "https://engineering.fb.com/?p=24984",
     "https://engineering.fb.com/?p=24955",
     "https://engineering.fb.com/?p=24926",
     "https://engineering.fb.com/?p=24907",
@@ -690,6 +695,8 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-11-10.html",
+    "tag:martinfowler.com,2026-11-10:Long-horizon-agents-and-durable-execution",
     "tag:martinfowler.com,2026-11-05:The-Data-Product-Platform-Navigator",
     "https://martinfowler.com/bliki/LLM-Voice.html",
     "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
@@ -765,6 +772,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/78dd354f472b",
     "https://medium.com/p/3818ef8b4828",
     "https://medium.com/p/cea7ee9b1ab2",
     "https://medium.com/p/8e7891a1d486",
@@ -826,6 +834,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/shopify-app-rebuild",
     "https://shopify.engineering/reflex",
     "https://shopify.engineering/remote-dev",
     "https://shopify.engineering/open-model-task-experts",
@@ -1024,8 +1033,7 @@
     "https://shopify.engineering/building-app-clip-react-native",
     "https://shopify.engineering/five-tips-for-engineer-career-growth",
     "https://shopify.engineering/propensity-score-matching-shopify-capital",
-    "https://shopify.engineering/high-performance-hydrogen-powered-storefronts",
-    "https://shopify.engineering/core-web-vitals"
+    "https://shopify.engineering/high-performance-hydrogen-powered-storefronts"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

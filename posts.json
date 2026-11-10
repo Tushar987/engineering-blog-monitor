@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://medium.com/p/78dd354f472b",
+    "blog_name": "Airbnb Engineering",
+    "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+    "link": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4",
+    "summary": "Durable workflows, running inside your service with no separate orchestration cluster. By : Ricardo Gamba , Andriy Sergiyenko Skipper , an embedded workflow engine used in production by teams all across Airbnb, is now available to the open source community. Skipper lets you express multi-step business processes as Java or Kotlin classes, persist their progress, and recover from crashes and transient failures. It runs inside your service and reuses its existing dependencies. Skipper is available ",
+    "published_iso": "2026-11-10T18:01:02+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24976",
+    "blog_name": "Meta Engineering",
+    "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+    "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+    "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive recommendations, and how LLMs are tailored to specific tasks within the system. Traditionally, the [...] Read More... The post Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations appeared first",
+    "published_iso": "2026-11-10T17:00:49+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=24984",
+    "blog_name": "Meta Engineering",
+    "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+    "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+    "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton&#8217;s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without sacrificing velocity. TLX has demonstrated performance improvements in RecSys training, RecSys inference, and large-scale LLM pretraining. Modern GPU architectures increasingly [...] Read More... The post",
+    "published_iso": "2026-11-10T16:59:31+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "f6a9f56d5db460e2fbdd27c136c5cb5b1ae0fe52",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
+    "link": "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
+    "summary": "Application teams in regulated enterprises can execute self-service regional failover with Amazon Application Recovery Controller (ARC) Region Switch, even behind centrally managed ingress proxy fleets. Learn how Transit Gateway peering, Route 53 Private Hosted Zones, and VPC Lattice preserve security controls while removing cross-team coordination during DR.",
+    "published_iso": "2026-11-10T16:48:09+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+    "blog_name": "ByteByteGo",
+    "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+    "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+    "summary": "In this article, we&#8217;ll look at how this porting was done and the learnings along the way.",
+    "published_iso": "2026-11-10T16:30:55+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://shopify.engineering/shopify-app-rebuild",
+    "blog_name": "Shopify Engineering",
+    "title": "How we rebuilt the Shopify app in 12 weeks",
+    "link": "https://shopify.engineering/shopify-app-rebuild",
+    "summary": "What changed when agents started writing our mobile code, and how we redesigned our architecture, tooling, and workflow around validation.",
+    "published_iso": "2026-11-10T14:36:23+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-11-10.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: November 10",
+    "link": "https://martinfowler.com/fragments/2026-11-10.html",
+    "summary": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last six months. It’s been a busy half-year, one that again has been dominated by AI, and that’s reflected in the many AI blips on the radar. The mass of blips makes it hard to develop a coherent story around trends, but Chris Ford has done a fine job of the wr",
+    "published_iso": "2026-11-10T14:30:00+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-11-10:Long-horizon-agents-and-durable-execution",
+    "blog_name": "Martin Fowler",
+    "title": "Long-horizon agents and durable execution",
+    "link": "https://martinfowler.com/articles/durable-execution-agents.html",
+    "summary": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. Many things can go wrong during this time, including process crashes, network failures, and unanticipated real-world behavior. Kiran Prakash explains durable execution: an emerging pattern that helps agents recover from these failures and move towards their goal. In this programming model, the runtime keeps a record of the result of each step that in",
+    "published_iso": "2026-11-10T14:10:00+00:00",
+    "published_display": "2026-11-10",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "27a2686e2e42734176b93a5e5b1aab32fef27ce6",
     "blog_name": "AWS Architecture Blog",
     "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
@@ -870,16 +950,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://engineering.fb.com/?p=24783",
-    "blog_name": "Meta Engineering",
-    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-    "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
-    "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers. GenRecs Tokenization is the foundational data representation that [...] Read More... The post GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model",
-    "published_iso": "2026-10-19T16:00:47+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
     "blog_name": "ByteByteGo",
     "title": "How Uber Built a Genie to Answer Questions Correctly",
@@ -888,16 +958,6 @@
     "published_iso": "2026-10-19T15:31:03+00:00",
     "published_display": "2026-10-19",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24724",
-    "blog_name": "Meta Engineering",
-    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-    "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
-    "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we&#8217;ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning. We’re sharing our own [...] Read More... The post The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do appeared first on ",
-    "published_iso": "2026-10-19T15:30:37+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
@@ -1018,26 +1078,6 @@
     "published_iso": "2026-10-14T19:56:08+00:00",
     "published_display": "2026-10-14",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
-    "blog_name": "ByteByteGo",
-    "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
-    "link": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
-    "summary": "To understand why this happens, we need to connect three ideas: how models learn, how they generalize beyond their examples, and how they exhibit different kinds of behavior.",
-    "published_iso": "2026-10-14T15:30:42+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "9eaef3f4c88a47112b8c04ad1e33d9aa757e2f27",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
-    "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/",
-    "summary": "Learn how to build multi-region disaster recovery for Amazon API Gateway WebSocket APIs. This design pattern combines Amazon Route 53 DNS failover, Amazon DynamoDB Global Tables, a canary health probe, and client-side reconnection logic to reconnect clients and restore session state automatically during a regional failover.",
-    "published_iso": "2026-10-14T14:31:55+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
@@ -1460,16 +1500,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "tag:martinfowler.com,2026-08-19:Practitioner-Voice--The-Writing-Category-Nobody-has-Named-Yet",
-    "blog_name": "Martin Fowler",
-    "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
-    "link": "https://martinfowler.com/articles/practitioner-voice.html",
-    "summary": "Jim Highsmith recognizes that effective writing from a practitioner is a style distinct from academic writing or thought-leadership content. It's a style that I advocate, and my contributors mostly follow. Jim decided it was important to give it a name, and identify what makes it distinctive. more…",
-    "published_iso": "2026-08-19T18:15:00+00:00",
-    "published_display": "2026-08-19",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://medium.com/p/c606b9bdb0ab",
     "blog_name": "Airbnb Engineering",
     "title": "How we knew COVID was over (and what our models had to unlearn)",
@@ -1488,16 +1518,6 @@
     "published_iso": "2026-08-19T14:32:58+00:00",
     "published_display": "2026-08-19",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-08-18.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: August 18",
-    "link": "https://martinfowler.com/fragments/2026-08-18.html",
-    "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock , who is the global CTO of Thoughtworks. Not just is she far better than me at r",
-    "published_iso": "2026-08-18T15:04:00+00:00",
-    "published_display": "2026-08-18",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://discord.com/blog/a-letter-to-the-discord-community-in-brazil",
@@ -1617,16 +1637,6 @@
     "summary": "How Airbnb teams build trustworthy Generative AI products by treating evaluation as a first-class engineering discipline; not an afterthought. Nestled into the lush hillside, this stunning modern retreat features striking natural wood architecture, terraced balconies, and a serene landscape. By: Rohit Girme , Dan Miller , Mia Zhao , Lifan Yang , Clint Kelly Introduction Generative AI breaks a lot of the assumptions that used to hold true for software testing. Unlike traditional software, LLM out",
     "published_iso": "2026-07-28T17:01:03+00:00",
     "published_display": "2026-07-28",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://medium.com/p/bcefd1915624",
-    "blog_name": "Airbnb Engineering",
-    "title": "Personalizing Airbnb search by learning from the guest journey",
-    "link": "https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4",
-    "summary": "How we built a Transformer-based sequence model that encodes years of guest behavior to surface the right listings at the right time. By: Daochen Zha , Chun How Tan , Xin Liu , Bin Xu , Han Zhao , Xiaowei Liu , Jun Shi , Tracy Yu , Hui Gao , Huiji Gao , Liwei He , Michael Kinoti , Stephanie Moyerman , and Sanjeev Katariya Introduction Planning a trip on Airbnb rarely happens in a single session. A guest searching for a place to stay in San Francisco might browse dozens of listings over several d",
-    "published_iso": "2026-07-21T17:01:04+00:00",
-    "published_display": "2026-07-21",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
@@ -4987,16 +4997,6 @@
     "summary": "For three years we, Shopify’s Application Security team, have set aside time to reflect on our bug bounty program and share recent insights. This past year has been quite a ride, as our program has been busier than ever! We’re excited to share what we have learned, and share some of the great things we have planned!",
     "published_iso": "2021-03-11T20:56:28+00:00",
     "published_display": "2021-03-11",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/shipping-data-products-fast",
-    "blog_name": "Shopify Engineering",
-    "title": "4 Tips for Shipping Data Products Fast",
-    "link": "https://shopify.engineering/shipping-data-products-fast",
-    "summary": "",
-    "published_iso": "2021-03-02T19:00:00+00:00",
-    "published_display": "2021-03-02",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

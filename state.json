@@ -99,6 +99,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+    "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
     "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
     "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
     "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
@@ -219,6 +221,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M742VWRK37TPYYPMXERSCWKN",
     "01M6SMASVYY5EVPJPHFF7WNPFG",
     "01M6PDR60R01B25PZF6REB72W3",
     "01M6HXVSQY6XGPSH12AFMB81B9",
@@ -409,10 +412,11 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+    "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
     "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
     "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
-    "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
     "https://developers.googleblog.com/agent-distraction/",
     "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
     "https://developers.googleblog.com/devfest-is-back/",
@@ -633,6 +637,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=25010",
     "https://engineering.fb.com/?p=24976",
     "https://engineering.fb.com/?p=24984",
     "https://engineering.fb.com/?p=24955",
@@ -695,6 +700,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-11-11:Tests-as-data--ensuring-AI-generated-code-does-what-we-want",
     "https://martinfowler.com/fragments/2026-11-10.html",
     "tag:martinfowler.com,2026-11-10:Long-horizon-agents-and-durable-execution",
     "tag:martinfowler.com,2026-11-05:The-Data-Product-Platform-Navigator",
@@ -834,6 +840,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/generative-discovery",
     "https://shopify.engineering/shopify-app-rebuild",
     "https://shopify.engineering/reflex",
     "https://shopify.engineering/remote-dev",
@@ -1032,8 +1039,7 @@
     "https://shopify.engineering/remote-rendering-ui-extensibility",
     "https://shopify.engineering/building-app-clip-react-native",
     "https://shopify.engineering/five-tips-for-engineer-career-growth",
-    "https://shopify.engineering/propensity-score-matching-shopify-capital",
-    "https://shopify.engineering/high-performance-hydrogen-powered-storefronts"
+    "https://shopify.engineering/propensity-score-matching-shopify-capital"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

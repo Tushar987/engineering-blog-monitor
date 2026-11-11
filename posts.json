@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+    "blog_name": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+    "summary": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
+    "published_iso": "2026-11-11T19:58:17+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://shopify.engineering/generative-discovery",
+    "blog_name": "Shopify Engineering",
+    "title": "Shopify’s generative discovery model",
+    "link": "https://shopify.engineering/generative-discovery",
+    "summary": "How we train and serve a shared generative model for personalized search and recommendation at Shopify scale.",
+    "published_iso": "2026-11-11T18:27:48+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=25010",
+    "blog_name": "Meta Engineering",
+    "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+    "link": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+    "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it to get the best outcome for the entire system. We built [...] Read More... The post Intelligent Delivery: Making Every Unit of Compute Serve Better Ads appeared first on Engineering at Meta .",
+    "published_iso": "2026-11-11T17:00:38+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
+    "blog_name": "ByteByteGo",
+    "title": "The Roundup by ByteByteGo",
+    "link": "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
+    "summary": "The Roundup covers insights and trends from the world of software development.",
+    "published_iso": "2026-11-11T16:30:53+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-11-11:Tests-as-data--ensuring-AI-generated-code-does-what-we-want",
+    "blog_name": "Martin Fowler",
+    "title": "Tests as data: ensuring AI-generated code does what we want",
+    "link": "https://martinfowler.com/articles/tests-as-data.html",
+    "summary": "Automated testing in the age of AI coding assistants is problematic: when AI agents write both production and test code, developers risk losing the assurance that automated tests protect against functional errors. Matteo Vaccari makes three claims: (1) when AI writes the code, developers become its customers; (2) therefore customer tests, not developer tests, become the primary contract between humans and AI; (3) moving that contract into test data rather than test code makes it easier to protec",
+    "published_iso": "2026-11-11T15:17:00+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M742VWRK37TPYYPMXERSCWKN",
+    "blog_name": "Cloudflare Blog",
+    "title": "Choosing QuePaxa, an unusual consensus algorithm",
+    "link": "https://blog.cloudflare.com/choosing-quepaxa/",
+    "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+    "published_iso": "2026-11-11T14:24:46+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://medium.com/p/78dd354f472b",
     "blog_name": "Airbnb Engineering",
     "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
@@ -710,16 +770,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://engineering.fb.com/?p=24816",
-    "blog_name": "Meta Engineering",
-    "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
-    "link": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
-    "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IcePack &#38; IceCube: Meta&#8217;s first liquid-cooled network rack with 102.4T switch blades (128×800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running [...] Read More... The post Meta Networking at the 2026 OCP Global Summit: Open Innovation for S",
-    "published_iso": "2026-10-26T16:00:07+00:00",
-    "published_display": "2026-10-26",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
     "blog_name": "ByteByteGo",
     "title": "A Deep Dive into Salesforce’s Agent Tech Stack",
@@ -930,16 +980,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "01M5C833HV3W30PBZZYVMCVRR6",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing tsrs: A port of TypeScript to Rust",
-    "link": "https://blog.cloudflare.com/typescript-rust-port/",
-    "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
-    "published_iso": "2026-10-20T13:00:00+00:00",
-    "published_display": "2026-10-20",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/overexposed",
     "blog_name": "Shopify Engineering",
     "title": "Building Overexposed: understanding application exposure",
@@ -970,16 +1010,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
-    "blog_name": "ByteByteGo",
-    "title": "EP229: 8 Chunking strategies for RAG-based agents",
-    "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
-    "summary": "Which chunking strategy are you running in production?",
-    "published_iso": "2026-10-17T15:30:51+00:00",
-    "published_display": "2026-10-17",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/421392cf5adf",
     "blog_name": "Netflix Tech Blog",
     "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
@@ -1008,16 +1038,6 @@
     "published_iso": "2026-10-15T15:50:31+00:00",
     "published_display": "2026-10-15",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-to-design-for-failures",
-    "blog_name": "ByteByteGo",
-    "title": "How to Design for Failures",
-    "link": "https://blog.bytebytego.com/p/how-to-design-for-failures",
-    "summary": "In this article, we&#8217;ll look at the various strategies that can help developers deal with failures in their systems.",
-    "published_iso": "2026-10-15T15:31:01+00:00",
-    "published_display": "2026-10-15",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
@@ -1487,16 +1507,6 @@
     "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human [Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmer",
     "published_iso": "2026-08-24T15:29:00+00:00",
     "published_display": "2026-08-24",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-    "blog_name": "Martin Fowler",
-    "title": "Citizens Build, Agents Execute, Experts Govern",
-    "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-    "summary": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is. The conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingl",
-    "published_iso": "2026-08-19T18:30:00+00:00",
-    "published_display": "2026-08-19",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
@@ -4987,16 +4997,6 @@
     "summary": "Shopify is moving from existing query-based CDC (Change-Data Capture) tooling (Longboat) to an immutable, append-only, log-based mechanism. This has required a complete re-platforming, involving a shift to new, open source technology such as Kafka Connect and Debezium.",
     "published_iso": "2021-03-12T18:51:39+00:00",
     "published_display": "2021-03-12",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/shopify-bug-bounty-updates-2021",
-    "blog_name": "Shopify Engineering",
-    "title": "Updates on Shopify’s Bug Bounty Program",
-    "link": "https://shopify.engineering/shopify-bug-bounty-updates-2021",
-    "summary": "For three years we, Shopify’s Application Security team, have set aside time to reflect on our bug bounty program and share recent insights. This past year has been quite a ride, as our program has been busier than ever! We’re excited to share what we have learned, and share some of the great things we have planned!",
-    "published_iso": "2021-03-11T20:56:28+00:00",
-    "published_display": "2021-03-11",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

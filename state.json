@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "ce76eb437354488a193ae08f901d905b396214f5",
+    "8b9fad4748a4d59131110e00f9e8ed7881e76f6d",
     "f6a9f56d5db460e2fbdd27c136c5cb5b1ae0fe52",
     "27a2686e2e42734176b93a5e5b1aab32fef27ce6",
     "9dddc34ae33c0911687c69b7212f5eb67610c51d",
@@ -99,6 +101,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
     "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
     "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
@@ -412,6 +415,8 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+    "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
     "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
     "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
@@ -512,6 +517,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-linux-a-year-of-upgrades",
     "https://discord.com/blog/discord-patch-notes-november-9-2026",
     "https://discord.com/blog/unlock-level-up-flex-discord-profile-badges-got-an-upgrade",
     "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
@@ -700,6 +706,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/bliki/GeneratedGlossary.html",
     "tag:martinfowler.com,2026-11-11:Tests-as-data--ensuring-AI-generated-code-does-what-we-want",
     "https://martinfowler.com/fragments/2026-11-10.html",
     "tag:martinfowler.com,2026-11-10:Long-horizon-agents-and-durable-execution",
@@ -840,6 +847,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/cyber-chaos-monkey",
     "https://shopify.engineering/generative-discovery",
     "https://shopify.engineering/shopify-app-rebuild",
     "https://shopify.engineering/reflex",
@@ -1038,8 +1046,7 @@
     "https://shopify.engineering/upgrading-mysql-shopify",
     "https://shopify.engineering/remote-rendering-ui-extensibility",
     "https://shopify.engineering/building-app-clip-react-native",
-    "https://shopify.engineering/five-tips-for-engineer-career-growth",
-    "https://shopify.engineering/propensity-score-matching-shopify-capital"
+    "https://shopify.engineering/five-tips-for-engineer-career-growth"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

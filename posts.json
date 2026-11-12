@@ -1,5 +1,65 @@
 [
   {
+    "id": "ce76eb437354488a193ae08f901d905b396214f5",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
+    "link": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/",
+    "summary": "This post lays out a five-layer reference architecture for governed, observable enterprise AI agents on AWS: an API gateway, a five-phase agent runtime, a knowledge and state tier, platform services, and a cross-cutting trust and control framework. Each layer maps to managed AWS services, with the design patterns worth copying and the mistakes to avoid.",
+    "published_iso": "2026-11-12T19:31:28+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+    "blog_name": "ByteByteGo",
+    "title": "Top Types of Hidden Coupling and How to Deal With Them",
+    "link": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+    "summary": "When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components.",
+    "published_iso": "2026-11-12T16:30:41+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://shopify.engineering/cyber-chaos-monkey",
+    "blog_name": "Shopify Engineering",
+    "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents",
+    "link": "https://shopify.engineering/cyber-chaos-monkey",
+    "summary": "How we pair AI agents with our knowledge of Shopify’s systems to safely attack our production infrastructure, find bugs, and reduce risks.",
+    "published_iso": "2026-11-12T14:57:16+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+    "blog_name": "Martin Fowler",
+    "title": "Bliki: Generated Glossary",
+    "link": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+    "summary": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such words and specialized meanings will be foreign to an LLM because they aren't in its training set, making it harder for the LLM to be effective when doing tasks in that domain. One technique to aid this is to use an LLM to generate a glossary of the terminology in that domain, and make this glossary available for any LLMs doing work in those circums",
+    "published_iso": "2026-11-12T14:15:00+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "https://discord.com/blog/discord-linux-a-year-of-upgrades",
+    "blog_name": "Discord Engineering",
+    "title": "Discord <3 Linux: A Year of Upgrades",
+    "link": "https://discord.com/blog/discord-linux-a-year-of-upgrades",
+    "summary": "Discord on Linux got a glow-up: a new Rust updater, hardware encoding, Wayland screen share, Steam Deck support, and global keybinds. And we’re not done yet!",
+    "published_iso": "2026-11-12T00:00:00+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "8b9fad4748a4d59131110e00f9e8ed7881e76f6d",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Zillow runs 100 million daily notifications on AWS Step Functions",
+    "link": "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/",
+    "summary": "Zillow sends more than 100 million personalized notifications a day, each as a short-lived AWS Step Functions Express workflow. See how the Comms Experience team replaced more than 10 campaign generators with one configuration-driven orchestration platform and a library of reusable content modules.",
+    "published_iso": "2026-11-11T23:25:00+00:00",
+    "published_display": "2026-11-11",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
     "blog_name": "ByteByteGo",
     "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
@@ -880,16 +940,6 @@
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
-    "id": "3083d22d003e22c7c2b210ab8e5f770650dfef5b",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
-    "summary": "Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. This medical coding workflow escalates cheapest-first: a safety block-list, then exact matching, then an AI agent only for terms that need judgment, keeping every routing decision auditable.",
-    "published_iso": "2026-10-21T21:26:23+00:00",
-    "published_display": "2026-10-21",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://martinfowler.com/fragments/2026-10-21.html",
     "blog_name": "Martin Fowler",
     "title": "Fragments: October 21",
@@ -990,16 +1040,6 @@
     "feed_url": "https://shopify.engineering/blog.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
-    "blog_name": "ByteByteGo",
-    "title": "How Uber Built a Genie to Answer Questions Correctly",
-    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
-    "summary": "In this article, we will understand how Genie prepares knowledge, retrieves it, and generates answers.",
-    "published_iso": "2026-10-19T15:31:03+00:00",
-    "published_display": "2026-10-19",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
     "blog_name": "Stripe Engineering",
     "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
@@ -1028,16 +1068,6 @@
     "published_iso": "2026-10-16T00:00:00+00:00",
     "published_display": "2026-10-16",
     "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
-    "id": "21a23b98402575816e22bf3073209ef99bface3d",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
-    "link": "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/",
-    "summary": "Dynata reimagined its development lifecycle with AI, moving from AI-assisted coding to the AI-Driven Development Lifecycle (AI-DLC) methodology with Kiro IDE. Learn how the company reduced the development phase of full-stack features from three to four sprints to roughly one, with every team aligned from the start.",
-    "published_iso": "2026-10-15T15:50:31+00:00",
-    "published_display": "2026-10-15",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
@@ -1498,16 +1528,6 @@
     "published_iso": "2026-08-25T17:01:02+00:00",
     "published_display": "2026-08-25",
     "feed_url": "https://medium.com/feed/airbnb-engineering"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-08-24.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: August 24",
-    "link": "https://martinfowler.com/fragments/2026-08-24.html",
-    "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human [Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmer",
-    "published_iso": "2026-08-24T15:29:00+00:00",
-    "published_display": "2026-08-24",
-    "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
     "id": "https://medium.com/p/c606b9bdb0ab",
@@ -2848,16 +2868,6 @@
     "published_iso": "2025-05-08T04:00:00+00:00",
     "published_display": "2025-05-08",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://discord.com/blog/star-wars-makes-its-way-to-discord",
-    "blog_name": "Discord Engineering",
-    "title": "STAR WARS™ Makes Its Way to Discord",
-    "link": "https://discord.com/blog/star-wars-makes-its-way-to-discord",
-    "summary": "For this year’s Power of the Force celebrations, we’re hyped to release a brand-new collection of Star Wars themed Avatar Decorations and Profile Effects!",
-    "published_iso": "2025-05-04T00:00:00+00:00",
-    "published_display": "2025-05-04",
-    "feed_url": "https://discord.com/blog/rss.xml"
   },
   {
     "id": "https://shopify.engineering/mobilebridge-native-webviews",
@@ -4987,16 +4997,6 @@
     "summary": "There are dependencies between gems and the platforms that use them. In scenarios where the platforms have the data and the gem has the knowledge, there is a direct circular dependency between the two and both need to talk to each other. I’ll show you how we used the Repository pattern in Ruby to remove that circular dependency and help us make gems thin and stateless. Plus, I’ll show you how using Sorbet in the implementation made our code typed and cleaner.",
     "published_iso": "2021-03-19T15:00:00+00:00",
     "published_display": "2021-03-19",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/capturing-every-change-shopify-sharded-monolith",
-    "blog_name": "Shopify Engineering",
-    "title": "Capturing Every Change From Shopify’s Sharded Monolith",
-    "link": "https://shopify.engineering/capturing-every-change-shopify-sharded-monolith",
-    "summary": "Shopify is moving from existing query-based CDC (Change-Data Capture) tooling (Longboat) to an immutable, append-only, log-based mechanism. This has required a complete re-platforming, involving a shift to new, open source technology such as Kafka Connect and Debezium.",
-    "published_iso": "2021-03-12T18:51:39+00:00",
-    "published_display": "2021-03-12",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

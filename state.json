@@ -1,5 +1,7 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "c8ea3b513000af6f8b9818ae801f614abdf32a8a",
+    "91ce29ebd48a097f36e161515cb31060c32704b3",
     "ce76eb437354488a193ae08f901d905b396214f5",
     "8b9fad4748a4d59131110e00f9e8ed7881e76f6d",
     "f6a9f56d5db460e2fbdd27c136c5cb5b1ae0fe52",
@@ -101,6 +103,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
     "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
     "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
@@ -224,6 +227,9 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M7B8MAKWAA44XACM7ZT7P4NN",
+    "01M7B3YSRJB0B2GD4ZN00Q227F",
+    "01M7950HA1NFDM7V5HW3AMZ0SB",
     "01M742VWRK37TPYYPMXERSCWKN",
     "01M6SMASVYY5EVPJPHFF7WNPFG",
     "01M6PDR60R01B25PZF6REB72W3",
@@ -643,6 +649,7 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=25047",
     "https://engineering.fb.com/?p=25010",
     "https://engineering.fb.com/?p=24976",
     "https://engineering.fb.com/?p=24984",

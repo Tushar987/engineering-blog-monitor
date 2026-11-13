@@ -1,5 +1,75 @@
 [
   {
+    "id": "01M7B8MAKWAA44XACM7ZT7P4NN",
+    "blog_name": "Cloudflare Blog",
+    "title": "Kitesurf is now open source",
+    "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+    "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+    "published_iso": "2026-11-13T20:20:21+00:00",
+    "published_display": "2026-11-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M7B3YSRJB0B2GD4ZN00Q227F",
+    "blog_name": "Cloudflare Blog",
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
+    "published_iso": "2026-11-13T19:26:07+00:00",
+    "published_display": "2026-11-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
+    "blog_name": "ByteByteGo",
+    "title": "Free Live Masterclass: Building AI Agents That Work in the Real World",
+    "link": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
+    "summary": "An agent needs context to make decisions, tools to take action, guardrails to stay within bounds, and checks to verify the results.",
+    "published_iso": "2026-11-13T17:04:49+00:00",
+    "published_display": "2026-11-13",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=25047",
+    "blog_name": "Meta Engineering",
+    "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+    "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...] Read More... The post Cuttlefish on Mac: Running Android&#8217;s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at Meta .",
+    "published_iso": "2026-11-13T17:00:39+00:00",
+    "published_display": "2026-11-13",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "01M7950HA1NFDM7V5HW3AMZ0SB",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+    "link": "https://blog.cloudflare.com/spend-management/",
+    "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
+    "published_iso": "2026-11-13T14:00:00+00:00",
+    "published_display": "2026-11-13",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "c8ea3b513000af6f8b9818ae801f614abdf32a8a",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Modular regression testing framework built on AWS for large-scale systems",
+    "link": "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/",
+    "summary": "Regression testing must catch behavior changes before they reach production, yet synthetic tests miss real-world edge cases. This post walks through a modular framework, built on AWS, that replays a sample of production traffic against new code and automatically gates deployments on the fraction of results that match production.",
+    "published_iso": "2026-11-12T21:51:43+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "91ce29ebd48a097f36e161515cb31060c32704b3",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Scale distributed AI workloads with Ray and Anyscale on Amazon EC2",
+    "link": "https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2/",
+    "summary": "Building multimodal AI/ML pipelines on Amazon EC2 means scaling distributed compute, controlling costs across stages, and keeping up with new models and hardware. This post shows how the Ray-powered Anyscale application on AWS helps you deploy Ray across three compute options and scale from prototype to production without code changes.",
+    "published_iso": "2026-11-12T20:51:20+00:00",
+    "published_display": "2026-11-12",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "ce76eb437354488a193ae08f901d905b396214f5",
     "blog_name": "AWS Architecture Blog",
     "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
@@ -710,16 +780,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://engineering.fb.com/?p=24841",
-    "blog_name": "Meta Engineering",
-    "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
-    "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
-    "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty. For the third consecutive year, we asked Python developers how they [...] Read More... The post Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape appeared first on Engineering at Me",
-    "published_iso": "2026-10-27T15:59:24+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
     "blog_name": "ByteByteGo",
     "title": "How Apple Fits an LLM on Your iPhone",
@@ -788,26 +848,6 @@
     "published_iso": "2026-10-26T20:24:39+00:00",
     "published_display": "2026-10-26",
     "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
-    "id": "7f6a312a6b22d087b062dc75877241a3e91011c4",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Data governance with annotations in Amazon S3",
-    "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/",
-    "summary": "Attach governance context such as classification, retention, residency, and PII flags directly to your Amazon S3 objects with S3 annotations. This post walks through the end-to-end pattern and the handful of S3 behaviors that decide whether your governance design is correct.",
-    "published_iso": "2026-10-26T18:00:26+00:00",
-    "published_display": "2026-10-26",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "fc1365bab1417ad5250481028146d57ec2027f39",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
-    "link": "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/",
-    "summary": "The next generation of AWS Resilience Hub introduces recommended resilience testing: four pre-configured, AWS FIS-powered tests that validate how your service detects and recovers from failures across Availability Zones, dependencies, and Regions, turning your resilience policy into evidence-backed pass or fail results.",
-    "published_iso": "2026-10-26T17:35:01+00:00",
-    "published_display": "2026-10-26",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
     "id": "https://medium.com/p/6b0811a1c015",
@@ -970,26 +1010,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "01M5FBPW0VHJGHYHGS7CWWKGSP",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare deploys protections against php2shell vulnerability",
-    "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-    "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.",
-    "published_iso": "2026-10-21T13:56:45+00:00",
-    "published_display": "2026-10-21",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M5AYSGXBWG00KS9KC299XDR8",
-    "blog_name": "Cloudflare Blog",
-    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-    "link": "https://blog.cloudflare.com/webmcp-commerce/",
-    "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
-    "published_iso": "2026-10-21T13:00:00+00:00",
-    "published_display": "2026-10-21",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://shopify.engineering/open-model-task-experts",
     "blog_name": "Shopify Engineering",
     "title": "How Shopify turns open models into task experts",
@@ -998,26 +1018,6 @@
     "published_iso": "2026-10-21T02:12:40+00:00",
     "published_display": "2026-10-21",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "01M5DK5J81T0VC8YTBR2FKD8A3",
-    "blog_name": "Cloudflare Blog",
-    "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-    "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-    "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
-    "published_iso": "2026-10-20T22:20:16+00:00",
-    "published_display": "2026-10-20",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
-    "blog_name": "ByteByteGo",
-    "title": "Why Shopify Migrated From React Native",
-    "link": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
-    "summary": "In this article, we&#8217;ll look at how Shopify decided to move out of React Native and how they migrated to native mobile development.",
-    "published_iso": "2026-10-20T15:31:07+00:00",
-    "published_display": "2026-10-20",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://shopify.engineering/catalog-clustering-part-ii",

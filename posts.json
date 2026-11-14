@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+    "blog_name": "ByteByteGo",
+    "title": "EP233: Kubernetes Explained for Busy Engineers",
+    "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+    "summary": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
+    "published_iso": "2026-11-14T16:30:57+00:00",
+    "published_display": "2026-11-14",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "5e029ed77164f9513582842352dda8bb456d5710",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/",
+    "summary": "Learn how Thermo Fisher Scientific built an AI-powered patient-matching platform on AWS, modernizing its clinical trial recruitment data foundation and using AWS Countdown Premium to de-risk the production launch.",
+    "published_iso": "2026-11-13T20:26:58+00:00",
+    "published_display": "2026-11-13",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "01M7B8MAKWAA44XACM7ZT7P4NN",
     "blog_name": "Cloudflare Blog",
     "title": "Kitesurf is now open source",
@@ -760,16 +780,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "f413b7c2a217297655ef9310f383a082afd64b46",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
-    "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
-    "summary": "Anchorage Digital and Turnkey built verifiable infrastructure on AWS Nitro Enclaves so crypto wallets can cryptographically verify which code parsed a transaction. This post covers the architecture, the attestation-gated access pattern, and how it extends to any high-trust workflow beyond blockchain.",
-    "published_iso": "2026-10-27T17:10:35+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24851",
     "blog_name": "Meta Engineering",
     "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
@@ -988,16 +998,6 @@
     "published_iso": "2026-10-21T16:51:00+00:00",
     "published_display": "2026-10-21",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
-    "blog_name": "ByteByteGo",
-    "title": "LLM Prompt Caching Versus Semantic Caching",
-    "link": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
-    "summary": "In this article, we&#8217;ll look at how LLM caching works in detail.",
-    "published_iso": "2026-10-21T15:31:08+00:00",
-    "published_display": "2026-10-21",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "01M5E1HXVZGTKAKEYZ0KMZQ65Q",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "7a4fad8c77784b8a81145f9a913e83ef911b08f5",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Announcing updates to the AWS Well-Architected Framework",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-3/",
+    "summary": "Updates to the AWS Well-Architected Framework reorganize it into Well-Architected Cloud Foundations and Well-Architected Cloud Workloads, add new best practices, and bring the general availability of the AWS Well-Architected Agent for analyzing workloads and guiding remediation.",
+    "published_iso": "2026-11-16T20:03:26+00:00",
+    "published_display": "2026-11-16",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+    "blog_name": "ByteByteGo",
+    "title": "How Instacart Uses LLMs to Make People Buy More",
+    "link": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+    "summary": "In this article, we&#8217;ll look at how Instacart used LLMs to build a product search that could accurately understand a user&#8217;s shopping intention.",
+    "published_iso": "2026-11-16T16:30:56+00:00",
+    "published_display": "2026-11-16",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "https://discord.com/blog/vice-city-theme-available-in-discord",
+    "blog_name": "Discord Engineering",
+    "title": "Give Discord a Vice City Makeover",
+    "link": "https://discord.com/blog/vice-city-theme-available-in-discord",
+    "summary": "We’ve got a limited-time custom theme, app icon, and Display Name Style to celebrate the launch of Grand Theft Auto VI.",
+    "published_iso": "2026-11-16T00:00:00+00:00",
+    "published_display": "2026-11-16",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
+    "blog_name": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
+    "summary": "decision time",
+    "published_iso": "2026-11-15T22:15:41+00:00",
+    "published_display": "2026-11-15",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
     "blog_name": "ByteByteGo",
     "title": "EP233: Kubernetes Explained for Busy Engineers",
@@ -770,16 +810,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "80bd9c10bc47f0c51d261c7793bed51ada46e7aa",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
-    "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
-    "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training machine learning models on each vessel's own operational history. Learn how Manta delivers vessel-specific voyage optimization on AWS to help shipowners reduce fuel consumption and improve voyage efficiency.",
-    "published_iso": "2026-10-27T17:14:32+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24851",
     "blog_name": "Meta Engineering",
     "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
@@ -890,16 +920,6 @@
     "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
-    "blog_name": "ByteByteGo",
-    "title": "EP230: RAG vs Agentic RAG",
-    "link": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
-    "summary": "Here's how RAG and agentic RAG typically work.",
-    "published_iso": "2026-10-24T15:30:37+00:00",
-    "published_display": "2026-10-24",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/9474f2fd4f90",
     "blog_name": "Netflix Tech Blog",
     "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
@@ -938,16 +958,6 @@
     "published_iso": "2026-10-22T22:19:12+00:00",
     "published_display": "2026-10-22",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
-    "blog_name": "ByteByteGo",
-    "title": "Why Distributed Systems Prefer Independence over Coordination",
-    "link": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
-    "summary": "In this article, we&#8217;ll look at why coordination is a challenge for distributed systems.",
-    "published_iso": "2026-10-22T15:30:47+00:00",
-    "published_display": "2026-10-22",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "01M5FTVN0D8MSEXMF36ZM9WWD4",
@@ -2845,16 +2855,6 @@
     "title": "Thank You for Ten Years",
     "link": "https://discord.com/blog/thank-you-for-ten-years",
     "summary": "As we celebrate our tenth trip around the sun, let’s see what you and your friends have been up to on Discord over the past decade.",
-    "published_iso": "2025-05-13T00:00:00+00:00",
-    "published_display": "2025-05-13",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/staff-picks-may-2025-the-games-that-brought-us-to-discord",
-    "blog_name": "Discord Engineering",
-    "title": "Staff Picks, May 2025: The Games That Brought Us to Discord",
-    "link": "https://discord.com/blog/staff-picks-may-2025-the-games-that-brought-us-to-discord",
-    "summary": "It’s Discord’s Birthday today! In this month’s Staff Picks, we’ll hear from Christina, Emi, Jeremy, and Armando about which games introduced them to Discord and the game recs they currently have.",
     "published_iso": "2025-05-13T00:00:00+00:00",
     "published_display": "2025-05-13",
     "feed_url": "https://discord.com/blog/rss.xml"

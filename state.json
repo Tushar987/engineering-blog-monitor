@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "7a4fad8c77784b8a81145f9a913e83ef911b08f5",
     "5e029ed77164f9513582842352dda8bb456d5710",
     "c8ea3b513000af6f8b9818ae801f614abdf32a8a",
     "91ce29ebd48a097f36e161515cb31060c32704b3",
@@ -104,6 +105,8 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+    "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
     "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
     "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
     "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
@@ -423,8 +426,12 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+    "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+    "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
+    "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
+    "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
     "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
     "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
     "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
@@ -525,6 +532,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/vice-city-theme-available-in-discord",
     "https://discord.com/blog/discord-linux-a-year-of-upgrades",
     "https://discord.com/blog/discord-patch-notes-november-9-2026",
     "https://discord.com/blog/unlock-level-up-flex-discord-profile-badges-got-an-upgrade",

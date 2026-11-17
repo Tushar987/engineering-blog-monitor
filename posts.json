@@ -1,5 +1,65 @@
 [
   {
+    "id": "01M7NJA4ESQ31MDVBT2RBP1ZHX",
+    "blog_name": "Cloudflare Blog",
+    "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+    "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+    "published_iso": "2026-11-17T20:24:27+00:00",
+    "published_display": "2026-11-17",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://medium.com/p/32f3ff8ff7d0",
+    "blog_name": "Airbnb Engineering",
+    "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+    "link": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+    "summary": "Here’s how Airbnb detects and replaces personal data in messages, reviews, and support chats before it reaches a model. By: Emelin Flores , Alex Klimov , Lee Formyduval , Bahador Nooraei Introduction Airbnb is built on trust. Every night that a guest books a stay, or a host welcomes someone into their home, that trust is backed by information they’ve shared with us, which includes personally identifiable information (PII) such as names, home location, current location, and payment details. We no",
+    "published_iso": "2026-11-17T18:01:03+00:00",
+    "published_display": "2026-11-17",
+    "feed_url": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "id": "https://medium.com/p/e244944cdc38",
+    "blog_name": "Netflix Tech Blog",
+    "title": "Engineering AI Discover",
+    "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+    "summary": "The challenges and decisions behind AI Discover’s intelligence layer By Varun Khaitan , Peng Ren , Gary Tang , Itay Teller , Atif Faheem , Nipun Kumar , Donnie DeBoer , Eduardo Lundgren , Matteo Rinaldi , Raghav Bakshi We recently introduced AI Discover , a new tab in our TV app where a small group of members can try new ways to find something to watch. For years, our recommendations have worked in the background, inferring what a member might enjoy from their viewing history. AI Discover moves ",
+    "published_iso": "2026-11-17T17:01:02+00:00",
+    "published_display": "2026-11-17",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+    "blog_name": "ByteByteGo",
+    "title": "Why Thinking More Can Make an LLM Dumb",
+    "link": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+    "summary": "In this article, we&#8217;ll try to understand why thinking longer can make an LLM dumber.",
+    "published_iso": "2026-11-17T16:31:11+00:00",
+    "published_display": "2026-11-17",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "e77041d35c2d4e0a098579fbff45e4d333272095",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Rakbank built centralized observability at scale with Amazon OpenSearch Service",
+    "link": "https://aws.amazon.com/blogs/architecture/how-rakbank-built-centralized-observability-at-scale-with-amazon-opensearch-service/",
+    "summary": "Rakbank re-platformed logging for its retail digital banking workloads on a cross-account, Multi-AZ Amazon OpenSearch Service design that ingests ~150 GB/day through Fluent Bit, using hot/UltraWarm/cold tiering and Amazon S3 archival for 7-year compliance retention and ~55% cost savings over an all-hot cluster.",
+    "published_iso": "2026-11-17T16:03:22+00:00",
+    "published_display": "2026-11-17",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-11-17:Deterministic-Simulation-Testing",
+    "blog_name": "Martin Fowler",
+    "title": "Deterministic Simulation Testing",
+    "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+    "summary": "Distributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. Unmesh Joshi describes how deterministic simulation testing addresses this by replacing real clocks, networks, and storage with simulated components driven by a single-threaded execution loop. This allows simulating both hard failures and routine slowdowns&#x2014;such as network and disk latency spikes&#x2014;and more importantly mak",
+    "published_iso": "2026-11-17T14:33:00+00:00",
+    "published_display": "2026-11-17",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "7a4fad8c77784b8a81145f9a913e83ef911b08f5",
     "blog_name": "AWS Architecture Blog",
     "title": "Announcing updates to the AWS Well-Architected Framework",
@@ -800,16 +860,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "644bfb8c6ef932df30dfaa7f8a8e2abd2134ed01",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Publishing LMS courses with a Kiro SCORM pipeline",
-    "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
-    "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into compliant SCORM packages that are ready to upload to a learning management system (LMS).",
-    "published_iso": "2026-10-27T17:23:23+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24851",
     "blog_name": "Meta Engineering",
     "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
@@ -910,16 +960,6 @@
     "feed_url": "https://netflixtechblog.com/feed"
   },
   {
-    "id": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
-    "blog_name": "ByteByteGo",
-    "title": "A Deep Dive into Salesforce’s Agent Tech Stack",
-    "link": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
-    "summary": "Salesforce moved to a new design, a multi-layer system that combines deterministic code with reasoning models for maximum reliability.",
-    "published_iso": "2026-10-26T15:30:38+00:00",
-    "published_display": "2026-10-26",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/9474f2fd4f90",
     "blog_name": "Netflix Tech Blog",
     "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
@@ -1008,16 +1048,6 @@
     "published_iso": "2026-10-21T16:51:00+00:00",
     "published_display": "2026-10-21",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "01M5E1HXVZGTKAKEYZ0KMZQ65Q",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing full transaction detection for Cloudflare WAF",
-    "link": "https://blog.cloudflare.com/full-transaction-waf/",
-    "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss.",
-    "published_iso": "2026-10-21T14:10:42+00:00",
-    "published_display": "2026-10-21",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://shopify.engineering/open-model-task-experts",
@@ -1126,16 +1156,6 @@
     "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
     "summary": "By Kevin Zielnicki, Guy Aridor, Aurélien Bibaut, Allen Tran, Winston Chou, and Nathan Kallus Introduction Personalization is everywhere on the internet. It shapes the products we discover, the stories we read, the music we hear, and the movies and TV shows we watch. At Netflix, personalization has been central to the member experience for decades — from the Netflix Prize to our modern recommender system that helps members navigate a large and constantly changing catalog. But personalization is n",
     "published_iso": "2026-10-14T19:57:43+00:00",
-    "published_display": "2026-10-14",
-    "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "https://medium.com/p/e59d597c9d60",
-    "blog_name": "Netflix Tech Blog",
-    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
-    "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
-    "summary": "By Oleksii Tkachuk , Rajiv Shringi , Chris Lohfink , Abe Ratnofsky , Kartik Sathyanarayanan Introduction In an earlier post , we introduced the TimeSeries Abstraction, our high-throughput, low-latency platform designed to store and query temporal event data at scale. It has since become the operational backbone for Netflix’s largest datasets, which now span multiple petabytes. However, managing such large datasets in hot storage, tuned for low-millisecond latency access , is not cheap. At Netfli",
-    "published_iso": "2026-10-14T19:56:08+00:00",
     "published_display": "2026-10-14",
     "feed_url": "https://netflixtechblog.com/feed"
   },
@@ -1520,16 +1540,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "tag:martinfowler.com,2026-08-27:Making-Your-Data-Ready-for-Agentic-AI",
-    "blog_name": "Martin Fowler",
-    "title": "Making Your Data Ready for Agentic AI",
-    "link": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-    "summary": "Lots of organizations are excited about what AI can do to streamline their processes, save money, and juice margins. But AI's capabilities are founded on the data that AI accesses, and for many organizations that foundation is little more than sand. Pramod Sadalage and Prem Chandrasekaran write about how to build a reliable foundation of data that can be accurate and trusted. more…",
-    "published_iso": "2026-08-27T13:11:00+00:00",
-    "published_display": "2026-08-27",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
     "id": "https://medium.com/p/74f8b26653fb",
     "blog_name": "Airbnb Engineering",
     "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
@@ -1668,16 +1678,6 @@
     "published_iso": "2026-07-29T00:00:00+00:00",
     "published_display": "2026-07-29",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://medium.com/p/e817e5ae5788",
-    "blog_name": "Airbnb Engineering",
-    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
-    "link": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
-    "summary": "How Airbnb teams build trustworthy Generative AI products by treating evaluation as a first-class engineering discipline; not an afterthought. Nestled into the lush hillside, this stunning modern retreat features striking natural wood architecture, terraced balconies, and a serene landscape. By: Rohit Girme , Dan Miller , Mia Zhao , Lifan Yang , Clint Kelly Introduction Generative AI breaks a lot of the assumptions that used to hold true for software testing. Unlike traditional software, LLM out",
-    "published_iso": "2026-07-28T17:01:03+00:00",
-    "published_display": "2026-07-28",
-    "feed_url": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "id": "https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components",

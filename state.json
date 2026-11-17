@@ -1,5 +1,6 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "e77041d35c2d4e0a098579fbff45e4d333272095",
     "7a4fad8c77784b8a81145f9a913e83ef911b08f5",
     "5e029ed77164f9513582842352dda8bb456d5710",
     "c8ea3b513000af6f8b9818ae801f614abdf32a8a",
@@ -105,6 +106,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
     "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
     "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
@@ -232,6 +234,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M7NJA4ESQ31MDVBT2RBP1ZHX",
     "01M7B8MAKWAA44XACM7ZT7P4NN",
     "01M7B3YSRJB0B2GD4ZN00Q227F",
     "01M7950HA1NFDM7V5HW3AMZ0SB",
@@ -426,12 +429,15 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
-    "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
-    "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
+    "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+    "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+    "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
     "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
-    "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
+    "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+    "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
     "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+    "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
     "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
     "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
@@ -723,6 +729,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-11-17:Deterministic-Simulation-Testing",
     "https://martinfowler.com/bliki/GeneratedGlossary.html",
     "tag:martinfowler.com,2026-11-11:Tests-as-data--ensuring-AI-generated-code-does-what-we-want",
     "https://martinfowler.com/fragments/2026-11-10.html",
@@ -802,6 +809,7 @@
     "https://martinfowler.com/fragments/2026-04-02.html"
   ],
   "https://medium.com/feed/airbnb-engineering": [
+    "https://medium.com/p/32f3ff8ff7d0",
     "https://medium.com/p/78dd354f472b",
     "https://medium.com/p/3818ef8b4828",
     "https://medium.com/p/cea7ee9b1ab2",
@@ -826,6 +834,7 @@
     "https://medium.com/p/c714d6910b45"
   ],
   "https://netflixtechblog.com/feed": [
+    "https://medium.com/p/e244944cdc38",
     "https://medium.com/p/d7d85859d808",
     "https://medium.com/p/6b0811a1c015",
     "https://medium.com/p/2e6b42810f49",

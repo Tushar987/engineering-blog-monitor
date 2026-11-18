@@ -1,5 +1,9 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "21032a754af772d94513aab509023ccb8f6169e9",
+    "e44e2b1054ed24e5940e4bc107c6686e17597378",
+    "a18e7a1662af94e704259bfebef144002bbd20ad",
+    "efb4eacda3e1a2fd8ec45eb38c453e9e81c07be9",
     "e77041d35c2d4e0a098579fbff45e4d333272095",
     "7a4fad8c77784b8a81145f9a913e83ef911b08f5",
     "5e029ed77164f9513582842352dda8bb456d5710",
@@ -106,6 +110,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/evals-for-ai-engineers",
     "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
     "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
     "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
@@ -234,6 +239,7 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M7QERD06VJ8ESJENBCYJESX5",
     "01M7NJA4ESQ31MDVBT2RBP1ZHX",
     "01M7B8MAKWAA44XACM7ZT7P4NN",
     "01M7B3YSRJB0B2GD4ZN00Q227F",
@@ -665,6 +671,8 @@
     "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
   ],
   "https://engineering.fb.com/feed/": [
+    "https://engineering.fb.com/?p=25068",
+    "https://engineering.fb.com/?p=25067",
     "https://engineering.fb.com/?p=25047",
     "https://engineering.fb.com/?p=25010",
     "https://engineering.fb.com/?p=24976",
@@ -729,6 +737,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "tag:martinfowler.com,2026-11-18:Data-Contracts",
     "tag:martinfowler.com,2026-11-17:Deterministic-Simulation-Testing",
     "https://martinfowler.com/bliki/GeneratedGlossary.html",
     "tag:martinfowler.com,2026-11-11:Tests-as-data--ensuring-AI-generated-code-does-what-we-want",
@@ -873,6 +882,7 @@
     "https://medium.com/p/60d7e4244ea8"
   ],
   "https://shopify.engineering/blog.atom": [
+    "https://shopify.engineering/secure-agentic-apps",
     "https://shopify.engineering/cyber-chaos-monkey",
     "https://shopify.engineering/generative-discovery",
     "https://shopify.engineering/shopify-app-rebuild",
@@ -1071,8 +1081,7 @@
     "https://shopify.engineering/bfcm-live-map-2021-apache-flink-redesign",
     "https://shopify.engineering/upgrading-mysql-shopify",
     "https://shopify.engineering/remote-rendering-ui-extensibility",
-    "https://shopify.engineering/building-app-clip-react-native",
-    "https://shopify.engineering/five-tips-for-engineer-career-growth"
+    "https://shopify.engineering/building-app-clip-react-native"
   ],
   "https://slack.engineering/feed/": [
     "https://slack.engineering/?p=17832",

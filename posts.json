@@ -1,5 +1,105 @@
 [
   {
+    "id": "21032a754af772d94513aab509023ccb8f6169e9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
+    "summary": "Learn how Aderant modernized the data pipeline behind its Stridyn legal analytics platform with Apache Iceberg, AWS Lambda, and AWS Glue, moving from 15-minute batch cycles to an event-driven medallion architecture that processes change data capture events in single-digit seconds for 700 tenants, with 10-26x faster queries and 77 percent lower cost.",
+    "published_iso": "2026-11-18T20:46:08+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "e44e2b1054ed24e5940e4bc107c6686e17597378",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How United Airlines streams database changes to Apache Iceberg with Amazon Data Firehose",
+    "link": "https://aws.amazon.com/blogs/architecture/how-united-airlines-streams-database-changes-to-apache-iceberg-with-amazon-data-firehose/",
+    "summary": "United Airlines built a near-real-time change data capture pipeline that replicates reference data from Amazon Aurora MySQL to open Apache Iceberg tables using AWS DMS, Amazon Kinesis Data Streams, and Amazon Data Firehose. This post shows how to reproduce the serverless, multi-engine analytics pattern with AWS CloudFormation.",
+    "published_iso": "2026-11-18T20:37:39+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://shopify.engineering/secure-agentic-apps",
+    "blog_name": "Shopify Engineering",
+    "title": "Building secure mobile apps in the agentic era",
+    "link": "https://shopify.engineering/secure-agentic-apps",
+    "summary": "How we scale our security with attack surface maps, focused AI reviews, and checks that improve with every vulnerability fixed.",
+    "published_iso": "2026-11-18T20:34:30+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "id": "a18e7a1662af94e704259bfebef144002bbd20ad",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Resilience testing your agents on Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/",
+    "summary": "When an AI agent's tools fail or return corrupted data, does it fail safe or confidently fabricate an answer? Learn how to inject tool-level faults (cancelled calls, corrupted responses, stripped fields) into a Strands agent on Amazon Bedrock AgentCore using AWS Fault Injection Service, and build the observability to tell a safe failure from a silent one.",
+    "published_iso": "2026-11-18T20:06:14+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "efb4eacda3e1a2fd8ec45eb38c453e9e81c07be9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall",
+    "link": "https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/",
+    "summary": "Infoblox Threat Defense is now available in preview in Amazon Route 53 Resolver DNS Firewall, providing partner-managed DNS threat intelligence. Learn how to add an Infoblox managed rule to a rule group, test it in alert mode, monitor matches, and move to blocking.",
+    "published_iso": "2026-11-18T18:35:14+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=25068",
+    "blog_name": "Meta Engineering",
+    "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+    "link": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+    "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models. Now, we’re sharing how we propagate ranking model improvements like architectural advancements and training optimizations efficiently across a large and diverse fleet of ads [...] Read More... The post How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models appear",
+    "published_iso": "2026-11-18T17:00:00+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://engineering.fb.com/?p=25067",
+    "blog_name": "Meta Engineering",
+    "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+    "link": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+    "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta, we built a template-driven approach that standardizes model design [...] Read More... The post Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem appeared first on Engineering at Meta .",
+    "published_iso": "2026-11-18T16:59:38+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "id": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+    "blog_name": "ByteByteGo",
+    "title": "Evals for AI Engineers",
+    "link": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+    "summary": "In today&#8217;s issue, we&#8217;re featuring an excerpt that introduces the Three Gulfs of LLM Application Development.",
+    "published_iso": "2026-11-18T16:31:02+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M7QERD06VJ8ESJENBCYJESX5",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+    "link": "https://blog.cloudflare.com/java4shell-waf-protection/",
+    "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now.",
+    "published_iso": "2026-11-18T14:52:10+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "tag:martinfowler.com,2026-11-18:Data-Contracts",
+    "blog_name": "Martin Fowler",
+    "title": "Data Contracts",
+    "link": "https://martinfowler.com/articles/data-contracts.html",
+    "summary": "Data contracts are a way to describe the contents and guarantees of datasets. Simon Harrer and Arif Wider describe in detail what they are and how to use them. They apply practices from API design to data by treating them as data-providing services - such as data products - whose interfaces we want to define as clearly as possible. This approach significantly increases the robustness of large-scale data landscapes, and gives both people and AI agents the explicit, trustworthy metadata they need ",
+    "published_iso": "2026-11-18T14:02:00+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
     "id": "01M7NJA4ESQ31MDVBT2RBP1ZHX",
     "blog_name": "Cloudflare Blog",
     "title": "Quad9’s withdrawal from France: A canary in the coal mine",
@@ -740,26 +840,6 @@
     "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
-    "id": "1bba751f546476a4c71e3c9ad8177dbf258e30d5",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
-    "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
-    "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Graviton-based CI/CD runners, the team moved workloads without disruption, cutting NGINX ingress CPU by about 57 percent and delivering about 40 percent better price-performance.",
-    "published_iso": "2026-10-29T20:11:14+00:00",
-    "published_display": "2026-10-29",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "33198c11d42658bd0f7e628bbd694ad37985d7c7",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
-    "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective.",
-    "published_iso": "2026-10-29T18:16:38+00:00",
-    "published_display": "2026-10-29",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://engineering.fb.com/?p=24907",
     "blog_name": "Meta Engineering",
     "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
@@ -810,36 +890,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "3e540ff4bad94dfbe732024e98ef71dcf2d981c8",
-    "blog_name": "AWS Architecture Blog",
-    "title": "How Revinate accelerated API adoption with Amazon API Gateway",
-    "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
-    "summary": "Accelerating API adoption while reducing operational overhead is a challenge that every growing organization faces. For Revinate, a hospitality provider serving over 12,500 hotels worldwide and powering more than 1.25 billion guest profiles, Amazon API Gateway became the foundation of their solution. Revinate empowers hoteliers to connect directly with guests at every touchpoint, driving $24 […]",
-    "published_iso": "2026-10-28T18:32:34+00:00",
-    "published_display": "2026-10-28",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "5f13b977bdac3d51616a12867a9a5c1c5bbd0968",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
-    "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
-    "summary": "Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload. Because the lens is not yet selectable in the console, the team encoded it as a Claude skill that assessed all 150 best practices against the workload's GitHub repository and produced an evidence-backed review workbook in hours instead of days.",
-    "published_iso": "2026-10-28T18:25:50+00:00",
-    "published_display": "2026-10-28",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24890",
-    "blog_name": "Meta Engineering",
-    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-    "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-    "summary": "This post describes the next generation of Meta Andromeda, Meta&#8217;s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval scale and surfaces the top candidates at over one [...] Read More... The post Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design appear",
-    "published_iso": "2026-10-28T16:00:01+00:00",
-    "published_display": "2026-10-28",
-    "feed_url": "https://engineering.fb.com/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
     "blog_name": "ByteByteGo",
     "title": "How Uber Built A Gateway For AI Agents To Access Tools",
@@ -858,16 +908,6 @@
     "published_iso": "2026-10-28T12:55:00+00:00",
     "published_display": "2026-10-28",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://engineering.fb.com/?p=24851",
-    "blog_name": "Meta Engineering",
-    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
-    "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
-    "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta&#8217;s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement logic separately in each system. PrivacyLib replaces this with a common library that runs inside [...] Read More... The post PrivacyLib: Privacy Controls at the Data Access Boundary appeared first on Engineering at M",
-    "published_iso": "2026-10-27T16:00:12+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://engineering.fb.com/feed/"
   },
   {
     "id": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
@@ -930,16 +970,6 @@
     "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
-    "blog_name": "ByteByteGo",
-    "title": "Last chance to get every live course in one membership",
-    "link": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
-    "summary": "We&#8217;ll stop selling ByteByteGo Live annual memberships on October 28 at 2 PM PT. After that, courses will be sold individually.",
-    "published_iso": "2026-10-26T20:24:39+00:00",
-    "published_display": "2026-10-26",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://medium.com/p/6b0811a1c015",
     "blog_name": "Netflix Tech Blog",
     "title": "Making Failure Diagnosis Reliable with Pensive AI",
@@ -998,16 +1028,6 @@
     "published_iso": "2026-10-22T22:19:12+00:00",
     "published_display": "2026-10-22",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "01M5FTVN0D8MSEXMF36ZM9WWD4",
-    "blog_name": "Cloudflare Blog",
-    "title": "Localizing compliance at scale: Achieving South Korea’s ISMS certification",
-    "link": "https://blog.cloudflare.com/k-isms/",
-    "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
-    "published_iso": "2026-10-22T13:00:00+00:00",
-    "published_display": "2026-10-22",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://shopify.engineering/remote-dev",
@@ -1527,16 +1547,6 @@
     "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did. Brian has since written a thoughtful",
     "published_iso": "2026-09-02T13:32:00+00:00",
     "published_display": "2026-09-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://martinfowler.com/fragments/2026-09-01.html",
-    "blog_name": "Martin Fowler",
-    "title": "Fragments: September  1",
-    "link": "https://martinfowler.com/fragments/2026-09-01.html",
-    "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing . That page points out that: Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from huma",
-    "published_iso": "2026-09-01T19:50:00+00:00",
-    "published_display": "2026-09-01",
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
@@ -4987,16 +4997,6 @@
     "summary": "How would we build a web application only using the standard Ruby libraries? In this article, I’ll break down the key foundational concepts of how a web application works while building one from the ground up. If we can build a web application only using Ruby libraries, why would we need web server interfaces like Rack and web applications like Ruby on Rails? By the end of this article, you’ll gain a new appreciation for Rails and its magic.",
     "published_iso": "2021-03-26T16:18:36+00:00",
     "published_display": "2021-03-26",
-    "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://shopify.engineering/repository-pattern-ruby",
-    "blog_name": "Shopify Engineering",
-    "title": "Remove Circular Dependencies by Using Dependency Injection and the Repository Pattern in Ruby",
-    "link": "https://shopify.engineering/repository-pattern-ruby",
-    "summary": "There are dependencies between gems and the platforms that use them. In scenarios where the platforms have the data and the gem has the knowledge, there is a direct circular dependency between the two and both need to talk to each other. I’ll show you how we used the Repository pattern in Ruby to remove that circular dependency and help us make gems thin and stateless. Plus, I’ll show you how using Sorbet in the implementation made our code typed and cleaner.",
-    "published_iso": "2021-03-19T15:00:00+00:00",
-    "published_display": "2021-03-19",
     "feed_url": "https://shopify.engineering/blog.atom"
   }
 ]

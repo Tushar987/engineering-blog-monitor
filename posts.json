@@ -1,13 +1,53 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+    "blog_name": "ByteByteGo",
+    "title": "The Invisible Systems: What Happens Between Services",
+    "link": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+    "summary": "When you draw a system architecture diagram, services are often shown as boxes, and arrows between them show the communication pathways.",
+    "published_iso": "2026-11-19T16:30:47+00:00",
+    "published_display": "2026-11-19",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M7R5N9JG35DGY66ZG3E9RXSW",
+    "blog_name": "Cloudflare Blog",
+    "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+    "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+    "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+    "published_iso": "2026-11-19T14:00:00+00:00",
+    "published_display": "2026-11-19",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "21032a754af772d94513aab509023ccb8f6169e9",
     "blog_name": "AWS Architecture Blog",
     "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
     "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
     "summary": "Learn how Aderant modernized the data pipeline behind its Stridyn legal analytics platform with Apache Iceberg, AWS Lambda, and AWS Glue, moving from 15-minute batch cycles to an event-driven medallion architecture that processes change data capture events in single-digit seconds for 700 tenants, with 10-26x faster queries and 77 percent lower cost.",
-    "published_iso": "2026-11-18T20:46:08+00:00",
-    "published_display": "2026-11-18",
+    "published_iso": "2026-11-19T00:36:23+00:00",
+    "published_display": "2026-11-19",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://discord.com/blog/discord-update-november-19-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Discord Update: November 19, 2026",
+    "link": "https://discord.com/blog/discord-update-november-19-2026",
+    "summary": "Here's the Discord Changelog from November 19, 2026, so you can stay informed on what’s new in recent app updates!",
+    "published_iso": "2026-11-19T00:00:00+00:00",
+    "published_display": "2026-11-19",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
+    "id": "01M7R89D5X67THE8N5T2YSWARZ",
+    "blog_name": "Cloudflare Blog",
+    "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+    "link": "https://blog.cloudflare.com/open-clairic/",
+    "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.",
+    "published_iso": "2026-11-18T22:00:00+00:00",
+    "published_display": "2026-11-18",
+    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "e44e2b1054ed24e5940e4bc107c6686e17597378",
@@ -910,16 +950,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
-    "blog_name": "ByteByteGo",
-    "title": "How Apple Fits an LLM on Your iPhone",
-    "link": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
-    "summary": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
-    "published_iso": "2026-10-27T15:31:04+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "01M5YGNW60G1XYREPZQ9W8PSTD",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
@@ -998,26 +1028,6 @@
     "published_iso": "2026-10-23T18:32:51+00:00",
     "published_display": "2026-10-23",
     "feed_url": "https://netflixtechblog.com/feed"
-  },
-  {
-    "id": "01M5MZPETYH27RS72QV5V85YZ8",
-    "blog_name": "Cloudflare Blog",
-    "title": "Origin Range Requests: Serving large files without range-request tuning",
-    "link": "https://blog.cloudflare.com/origin-range-requests/",
-    "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
-    "published_iso": "2026-10-23T18:22:59+00:00",
-    "published_display": "2026-10-23",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M5MYFG0SHDEYME96N0A4Z6PH",
-    "blog_name": "Cloudflare Blog",
-    "title": "Bringing post-quantum cryptography to geographically fenced key management",
-    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
-    "published_iso": "2026-10-23T18:06:56+00:00",
-    "published_display": "2026-10-23",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/6d8b1909d163",
@@ -2857,16 +2867,6 @@
     "summary": "Exclusive to partners and friends, this newsletter brings you the latest updates on business opportunities within the world of Discord. Read the first issue and sign up for future entries on the Blog!",
     "published_iso": "2025-05-14T00:00:00+00:00",
     "published_display": "2025-05-14",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/thank-you-for-ten-years",
-    "blog_name": "Discord Engineering",
-    "title": "Thank You for Ten Years",
-    "link": "https://discord.com/blog/thank-you-for-ten-years",
-    "summary": "As we celebrate our tenth trip around the sun, let’s see what you and your friends have been up to on Discord over the past decade.",
-    "published_iso": "2025-05-13T00:00:00+00:00",
-    "published_display": "2025-05-13",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

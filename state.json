@@ -110,6 +110,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
     "https://blog.bytebytego.com/p/evals-for-ai-engineers",
     "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
     "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
@@ -239,6 +240,8 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M7R5N9JG35DGY66ZG3E9RXSW",
+    "01M7R89D5X67THE8N5T2YSWARZ",
     "01M7QERD06VJ8ESJENBCYJESX5",
     "01M7NJA4ESQ31MDVBT2RBP1ZHX",
     "01M7B8MAKWAA44XACM7ZT7P4NN",
@@ -435,13 +438,15 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+    "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
     "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+    "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
     "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+    "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
     "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
     "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
     "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
-    "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
     "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
     "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
     "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
@@ -544,6 +549,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/discord-update-november-19-2026",
     "https://discord.com/blog/vice-city-theme-available-in-discord",
     "https://discord.com/blog/discord-linux-a-year-of-upgrades",
     "https://discord.com/blog/discord-patch-notes-november-9-2026",

@@ -1,5 +1,75 @@
 [
   {
+    "id": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+    "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+    "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+    "published_iso": "2026-11-20T20:24:38+00:00",
+    "published_display": "2026-11-20",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "01M7X76K1JK00SF9K4YN83WANQ",
+    "blog_name": "Cloudflare Blog",
+    "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+    "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+    "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+    "published_iso": "2026-11-20T20:00:45+00:00",
+    "published_display": "2026-11-20",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "5b03aa6a8c737324eeee9c9c1c0fa27b1753a9d9",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Bee implemented Zero Operator Access for personal AI on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-bee-implemented-zero-operator-access-for-personal-ai-on-aws/",
+    "summary": "Bee, an Amazon company, built a personal AI wearable with no mechanism for operators (Bee engineers, other Amazon employees, or AWS infrastructure operators) to access customer data. Learn how Bee uses Amazon EC2 instance attestation and the AWS Nitro System to achieve Zero Operator Access (ZOA).",
+    "published_iso": "2026-11-20T18:49:05+00:00",
+    "published_display": "2026-11-20",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://martinfowler.com/fragments/2026-11-20.html",
+    "blog_name": "Martin Fowler",
+    "title": "Fragments: November 20",
+    "link": "https://martinfowler.com/fragments/2026-11-20.html",
+    "summary": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review . Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%. The measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs: they",
+    "published_iso": "2026-11-20T18:38:00+00:00",
+    "published_display": "2026-11-20",
+    "feed_url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "id": "01M7V6MST3Z48AB8DBH1WGS8EX",
+    "blog_name": "Cloudflare Blog",
+    "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+    "link": "https://blog.cloudflare.com/nginx2root/",
+    "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+    "published_iso": "2026-11-20T01:58:29+00:00",
+    "published_display": "2026-11-20",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "608b9718cd78d7bad53e16258b6eececc17f4117",
+    "blog_name": "AWS Architecture Blog",
+    "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
+    "link": "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/",
+    "summary": "Cognition gave its AI software engineer, Devin, a cloud Mac. Each Devin session gets a fresh macOS VM on Amazon EC2 Mac bare metal hosts, so Devin can build, run, and test iOS and macOS apps. Learn how Cognition built it with disk snapshots, a user-space network gateway, prepared guest images, and accessibility-based control.",
+    "published_iso": "2026-11-20T01:10:14+00:00",
+    "published_display": "2026-11-20",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "34e3f58957d140cb0a7cc78f747bf021cb8e3acc",
+    "blog_name": "AWS Architecture Blog",
+    "title": "How Country Road Group built a pattern-driven integration solution on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-country-road-group-built-a-pattern-driven-integration-solution-on-aws/",
+    "summary": "Country Road Group replaced Microsoft BizTalk with a pattern-driven, serverless integration platform on AWS. Learn how its Strategic Integration Platform works across four processing lanes, and get the open-source Enterprise Integration Patterns CDK library to apply the same approach to your own middleware.",
+    "published_iso": "2026-11-19T23:07:30+00:00",
+    "published_display": "2026-11-19",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
     "blog_name": "ByteByteGo",
     "title": "The Invisible Systems: What Happens Between Services",
@@ -28,6 +98,16 @@
     "published_iso": "2026-11-19T00:36:23+00:00",
     "published_display": "2026-11-19",
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "id": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+    "blog_name": "Stripe Engineering",
+    "title": "Give your agents controlled access to analyze your data and move funds",
+    "link": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+    "summary": "Stripe Treasury now lets agents transfer funds, convert currencies, and pay vendors within limits you set. Give agents the access they need to help run your business, with customizable controls and human approvals.",
+    "published_iso": "2026-11-19T00:00:00+00:00",
+    "published_display": "2026-11-19",
+    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://discord.com/blog/discord-update-november-19-2026",
@@ -780,36 +860,6 @@
     "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
   },
   {
-    "id": "83a09926a03424a2dc1fff6fbe2589a84bd1b3f8",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Validating your DR commitment: From controlled test to real-world readiness",
-    "link": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/",
-    "summary": "After you define your DR targets, testing tells you whether they hold. This post walks through a four-level progressive validation model (tabletop, planned failover, surprise drill, and game day) and shows how each level surfaces a different class of recovery gap that feeds back into your commitment. Part 2 of a three-part series.",
-    "published_iso": "2026-11-02T17:26:33+00:00",
-    "published_display": "2026-11-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "e13fe514d28666fe270c34695b0f527b45ed2ca4",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Three business decisions that define your DR success",
-    "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/",
-    "summary": "A disaster recovery strategy is only as strong as the business decisions behind it. Before you choose an architecture pattern, three decisions shape whether recovery succeeds: what you're actually recovering, what the business needs from that recovery, and what your dependencies allow you to commit to. Part 1 of a three-part series.",
-    "published_iso": "2026-11-02T17:26:26+00:00",
-    "published_display": "2026-11-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
-    "id": "16d062176d7800eeade829d2deacabd73788e224",
-    "blog_name": "AWS Architecture Blog",
-    "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
-    "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/",
-    "summary": "Keeping a large Amazon EC2 fleet continuously recoverable with AWS Elastic Disaster Recovery is a lifecycle challenge. This post shows how to automate the full DRS agent lifecycle (install, heal, and offboard) using AWS Systems Manager Automation and Amazon EventBridge, driven by a single EC2 tag and no Lambda functions.",
-    "published_iso": "2026-11-02T17:21:29+00:00",
-    "published_display": "2026-11-02",
-    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/"
-  },
-  {
     "id": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
     "blog_name": "ByteByteGo",
     "title": "How Nvidia's New Nemotron Model Works",
@@ -950,26 +1000,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "01M5YGNW60G1XYREPZQ9W8PSTD",
-    "blog_name": "Cloudflare Blog",
-    "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-    "link": "https://blog.cloudflare.com/php-ctf/",
-    "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
-    "published_iso": "2026-10-27T13:00:00+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M5G72REK3978980FNZCPDBRR",
-    "blog_name": "Cloudflare Blog",
-    "title": "What took the Internet offline in Q3 2026",
-    "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-    "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
-    "published_iso": "2026-10-27T13:00:00+00:00",
-    "published_display": "2026-10-27",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
     "id": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
     "blog_name": "Stripe Engineering",
     "title": "How the fastest-growing enterprises on Stripe scale globally",
@@ -988,16 +1018,6 @@
     "published_iso": "2026-10-27T00:00:00+00:00",
     "published_display": "2026-10-27",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "01M5X2P6CQYMNAESRJ922DG5J3",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "summary": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
-    "published_iso": "2026-10-26T22:01:23+00:00",
-    "published_display": "2026-10-26",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://medium.com/p/6b0811a1c015",
@@ -1310,16 +1330,6 @@
     "feed_url": "https://martinfowler.com/feed.atom"
   },
   {
-    "id": "https://stripe.com/blog/ousd-now-live-on-stripe",
-    "blog_name": "Stripe Engineering",
-    "title": "OUSD is now the default stablecoin on Stripe",
-    "link": "https://stripe.com/blog/ousd-now-live-on-stripe",
-    "summary": "Open USD (OUSD), a stablecoin built for global money movement, is now available across Stripe. Businesses can use OUSD to manage funds, make payments, and offer new financial services.",
-    "published_iso": "2026-09-30T00:00:00+00:00",
-    "published_display": "2026-09-30",
-    "feed_url": "https://stripe.com/blog/feed.rss"
-  },
-  {
     "id": "https://medium.com/p/8e7891a1d486",
     "blog_name": "Airbnb Engineering",
     "title": "Personalization without user identity",
@@ -1546,16 +1556,6 @@
     "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
     "summary": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination system inside the git repository. more…",
     "published_iso": "2026-09-02T14:45:00+00:00",
-    "published_display": "2026-09-02",
-    "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "https://martinfowler.com/rachels-ramblings/code-review.html",
-    "blog_name": "Martin Fowler",
-    "title": "Maybe We Shouldn't Be Reviewing All This Code",
-    "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
-    "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did. Brian has since written a thoughtful",
-    "published_iso": "2026-09-02T13:32:00+00:00",
     "published_display": "2026-09-02",
     "feed_url": "https://martinfowler.com/feed.atom"
   },

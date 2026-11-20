@@ -1,5 +1,8 @@
 {
   "https://aws.amazon.com/blogs/architecture/feed/": [
+    "5b03aa6a8c737324eeee9c9c1c0fa27b1753a9d9",
+    "608b9718cd78d7bad53e16258b6eececc17f4117",
+    "34e3f58957d140cb0a7cc78f747bf021cb8e3acc",
     "21032a754af772d94513aab509023ccb8f6169e9",
     "e44e2b1054ed24e5940e4bc107c6686e17597378",
     "a18e7a1662af94e704259bfebef144002bbd20ad",
@@ -240,6 +243,9 @@
     "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system"
   ],
   "https://blog.cloudflare.com/rss/": [
+    "01M7X91JJQ5CWGQ65DZBAHW4Q9",
+    "01M7X76K1JK00SF9K4YN83WANQ",
+    "01M7V6MST3Z48AB8DBH1WGS8EX",
     "01M7R5N9JG35DGY66ZG3E9RXSW",
     "01M7R89D5X67THE8N5T2YSWARZ",
     "01M7QERD06VJ8ESJENBCYJESX5",
@@ -438,11 +444,14 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
-    "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+    "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+    "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
     "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
-    "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
-    "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+    "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
     "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+    "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+    "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
     "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
     "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
     "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
@@ -743,6 +752,7 @@
     "65bceaca3953980001659b4b"
   ],
   "https://martinfowler.com/feed.atom": [
+    "https://martinfowler.com/fragments/2026-11-20.html",
     "tag:martinfowler.com,2026-11-18:Data-Contracts",
     "tag:martinfowler.com,2026-11-17:Deterministic-Simulation-Testing",
     "https://martinfowler.com/bliki/GeneratedGlossary.html",
@@ -1101,6 +1111,7 @@
     "https://slack.engineering/?p=17474"
   ],
   "https://stripe.com/blog/feed.rss": [
+    "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
     "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
     "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
     "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",

@@ -113,6 +113,7 @@
     "d4d29b07b87e5cdd51a7c5bca643edfbbf406283"
   ],
   "https://blog.bytebytego.com/feed": [
+    "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
     "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
     "https://blog.bytebytego.com/p/evals-for-ai-engineers",
     "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
@@ -445,10 +446,11 @@
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
     "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
-    "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
     "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
-    "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+    "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+    "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
     "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
     "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
     "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
     "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",

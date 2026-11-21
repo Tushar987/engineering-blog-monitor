@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+    "blog_name": "ByteByteGo",
+    "title": "EP234: Docker vs Kubernetes",
+    "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+    "summary": "Which one should we use?",
+    "published_iso": "2026-11-21T16:31:20+00:00",
+    "published_display": "2026-11-21",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
     "blog_name": "Cloudflare Blog",
     "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
@@ -978,16 +988,6 @@
     "published_iso": "2026-10-29T12:55:00+00:00",
     "published_display": "2026-10-29",
     "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
-    "blog_name": "ByteByteGo",
-    "title": "How Uber Built A Gateway For AI Agents To Access Tools",
-    "link": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
-    "summary": "In this article, we&#8217;ll look at how Uber built this gateway in detail.",
-    "published_iso": "2026-10-28T15:31:05+00:00",
-    "published_display": "2026-10-28",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-10-28.html",

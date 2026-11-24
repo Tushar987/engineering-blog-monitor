@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+    "blog_name": "ByteByteGo",
+    "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
+    "link": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+    "summary": "In this article, we&#8217;ll look at how DoorDash Dispatch built a lightning-fast delivery system.",
+    "published_iso": "2026-11-23T16:31:03+00:00",
+    "published_display": "2026-11-23",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "id": "01M7XNSFEMYQNMHGRYWVF2TQ82",
+    "blog_name": "Cloudflare Blog",
+    "title": "Probing DNS at Cloudflare",
+    "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+    "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+    "published_iso": "2026-11-23T14:00:00+00:00",
+    "published_display": "2026-11-23",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "id": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+    "blog_name": "Stripe Engineering",
+    "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+    "link": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+    "summary": "SaaS platforms have long built for specific verticals. Now AI makes it practical to build for one merchant. At Stripe’s SaaS Platform Summit, founders and operators shared how custom software and embedded finance can open new revenue streams.",
+    "published_iso": "2026-11-23T00:00:00+00:00",
+    "published_display": "2026-11-23",
+    "feed_url": "https://stripe.com/blog/feed.rss"
+  },
+  {
+    "id": "https://discord.com/blog/introducing-auto-clips",
+    "blog_name": "Discord Engineering",
+    "title": "Introducing Auto Clips: Just Play the Game, We’ll Save the Clip",
+    "link": "https://discord.com/blog/introducing-auto-clips",
+    "summary": "Today, we're thrilled to announce Auto Clips. Just hop on voice, launch a game, and play. When your call erupts, Discord captures the exact moment everyone loses it. Rolling out in early access for Nitro members over the coming weeks.",
+    "published_iso": "2026-11-23T00:00:00+00:00",
+    "published_display": "2026-11-23",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
     "blog_name": "ByteByteGo",
     "title": "EP234: Docker vs Kubernetes",
@@ -950,16 +990,6 @@
     "feed_url": "https://engineering.fb.com/feed/"
   },
   {
-    "id": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
-    "blog_name": "ByteByteGo",
-    "title": "Data Movement Strategies In System Design",
-    "link": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
-    "summary": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it.",
-    "published_iso": "2026-10-29T15:31:02+00:00",
-    "published_display": "2026-10-29",
-    "feed_url": "https://blog.bytebytego.com/feed"
-  },
-  {
     "id": "https://martinfowler.com/bliki/LLM-Voice.html",
     "blog_name": "Martin Fowler",
     "title": "Bliki: LLM Voice",
@@ -978,16 +1008,6 @@
     "published_iso": "2026-10-29T13:50:00+00:00",
     "published_display": "2026-10-29",
     "feed_url": "https://martinfowler.com/feed.atom"
-  },
-  {
-    "id": "01M6254V6WN4EZTWVH0BF1748Y",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
-    "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
-    "published_iso": "2026-10-29T12:55:00+00:00",
-    "published_display": "2026-10-29",
-    "feed_url": "https://blog.cloudflare.com/rss/"
   },
   {
     "id": "https://martinfowler.com/fragments/2026-10-28.html",
@@ -1298,16 +1318,6 @@
     "published_iso": "2026-10-01T16:23:24+00:00",
     "published_display": "2026-10-01",
     "feed_url": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "id": "https://stripe.com/blog/where-pricing-is-headed",
-    "blog_name": "Stripe Engineering",
-    "title": "Why I tried to kill token billing (and why we kept it)",
-    "link": "https://stripe.com/blog/where-pricing-is-headed",
-    "summary": "Token billing is useful infrastructure, but usually a bad customer-facing pricing model. Your invoice should define the value your product delivers, not break down what it cost you to create it.",
-    "published_iso": "2026-10-01T00:00:00+00:00",
-    "published_display": "2026-10-01",
-    "feed_url": "https://stripe.com/blog/feed.rss"
   },
   {
     "id": "https://discord.com/blog/halloween-2026",
@@ -2857,16 +2867,6 @@
     "summary": "Become the hero you want to be with the My Hero Academia Collection, featuring nine Avatar Decorations and three Profile Effects based upon fan-favorite heroes and villains.",
     "published_iso": "2025-05-21T00:00:00+00:00",
     "published_display": "2025-05-21",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/discord-for-business-newsletter-vol-1",
-    "blog_name": "Discord Engineering",
-    "title": "Introducing the Discord for Business Newsletter, Vol. 1",
-    "link": "https://discord.com/blog/discord-for-business-newsletter-vol-1",
-    "summary": "Exclusive to partners and friends, this newsletter brings you the latest updates on business opportunities within the world of Discord. Read the first issue and sign up for future entries on the Blog!",
-    "published_iso": "2025-05-14T00:00:00+00:00",
-    "published_display": "2025-05-14",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

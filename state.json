@@ -447,11 +447,12 @@
     "5kM0Nfgzw6beOD5mSzIqw4"
   ],
   "https://developers.googleblog.com/feeds/posts/default?alt=rss": [
+    "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
     "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
-    "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+    "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
     "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
     "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
-    "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+    "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
     "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
     "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
     "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
@@ -563,6 +564,7 @@
     "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
   ],
   "https://discord.com/blog/rss.xml": [
+    "https://discord.com/blog/black-friday-2026",
     "https://discord.com/blog/introducing-auto-clips",
     "https://discord.com/blog/discord-update-november-19-2026",
     "https://discord.com/blog/vice-city-theme-available-in-discord",

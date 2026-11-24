@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://discord.com/blog/black-friday-2026",
+    "blog_name": "Discord Engineering",
+    "title": "Black Friday Has Taken Over Discord",
+    "link": "https://discord.com/blog/black-friday-2026",
+    "summary": "Black Friday deals are spreading across Discord: 10,000 Orbs with Nitro, exclusive decos when you gift, Shop discounts, and Orbs back in Rust and Bloons TD 6 Game Shops.",
+    "published_iso": "2026-11-24T00:00:00+00:00",
+    "published_display": "2026-11-24",
+    "feed_url": "https://discord.com/blog/rss.xml"
+  },
+  {
     "id": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
     "blog_name": "ByteByteGo",
     "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
@@ -2857,16 +2867,6 @@
     "summary": "We're expanding our Quests advertising product with a new reward for users: Discord Orbs. We’re also introducing a new partnership with Kantar, which will further enhance the return on investment measurement and analytics capabilities of Quests for advertisers.",
     "published_iso": "2025-05-28T00:00:00+00:00",
     "published_display": "2025-05-28",
-    "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://discord.com/blog/go-beyond-plus-ultra-with-the-my-hero-academia-collection",
-    "blog_name": "Discord Engineering",
-    "title": "Go Beyond, Plus Ultra! with the My Hero Academia Collection",
-    "link": "https://discord.com/blog/go-beyond-plus-ultra-with-the-my-hero-academia-collection",
-    "summary": "Become the hero you want to be with the My Hero Academia Collection, featuring nine Avatar Decorations and three Profile Effects based upon fan-favorite heroes and villains.",
-    "published_iso": "2025-05-21T00:00:00+00:00",
-    "published_display": "2025-05-21",
     "feed_url": "https://discord.com/blog/rss.xml"
   },
   {

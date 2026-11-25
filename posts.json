@@ -1,5 +1,15 @@
 [
   {
+    "id": "01M87EHEACB4SNPV680X1CZPQ1",
+    "blog_name": "Cloudflare Blog",
+    "title": "Introducing Search for Agents",
+    "link": "https://blog.cloudflare.com/search-for-agents/",
+    "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+    "published_iso": "2026-11-25T14:00:00+00:00",
+    "published_display": "2026-11-25",
+    "feed_url": "https://blog.cloudflare.com/rss/"
+  },
+  {
     "id": "https://discord.com/blog/black-friday-2026",
     "blog_name": "Discord Engineering",
     "title": "Black Friday Has Taken Over Discord",
@@ -966,16 +976,6 @@
     "link": "https://blog.cloudflare.com/emudhra-patching/",
     "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed.",
     "published_iso": "2026-10-30T17:38:50+00:00",
-    "published_display": "2026-10-30",
-    "feed_url": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "id": "01M64V2TDYZYSS8RE60T3MWKSM",
-    "blog_name": "Cloudflare Blog",
-    "title": "Cloudflare services for private origins is now generally available",
-    "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
-    "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
-    "published_iso": "2026-10-30T14:23:43+00:00",
     "published_display": "2026-10-30",
     "feed_url": "https://blog.cloudflare.com/rss/"
   },

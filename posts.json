@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+    "blog_name": "ByteByteGo",
+    "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
+    "link": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+    "summary": "In this article, we&#8217;ll look at the life of a row in the database with respect to these operations.",
+    "published_iso": "2026-11-26T16:30:34+00:00",
+    "published_display": "2026-11-26",
+    "feed_url": "https://blog.bytebytego.com/feed"
+  },
+  {
     "id": "01M87EHEACB4SNPV680X1CZPQ1",
     "blog_name": "Cloudflare Blog",
     "title": "Introducing Search for Agents",
@@ -958,16 +968,6 @@
     "published_iso": "2026-11-02T00:00:00+00:00",
     "published_display": "2026-11-02",
     "feed_url": "https://discord.com/blog/rss.xml"
-  },
-  {
-    "id": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-    "blog_name": "ByteByteGo",
-    "title": "EP231: AI Terms You Need to Know",
-    "link": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-    "summary": "What else should be on the list?",
-    "published_iso": "2026-10-31T15:31:08+00:00",
-    "published_display": "2026-10-31",
-    "feed_url": "https://blog.bytebytego.com/feed"
   },
   {
     "id": "01M66XYRNK559YY01V2P37EBD7",
